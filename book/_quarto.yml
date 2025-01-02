@@ -1,0 +1,17 @@
+title: "Ambulant Software Catalog"
+description: "An overview of software solutions for the german ambulatory care market."
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: "cosmo"
+  pdf:
+    documentclass: "article"
+    latex-engine: "xelatex"
+    number-sections: true
+execute:
+  echo: false
+  warning: false
+  message: false
+  error: false
+  results: "hold"

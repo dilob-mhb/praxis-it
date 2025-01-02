@@ -1,0 +1,10 @@
+---
+title: "Ambulant Software Catalog"
+date: "`r Sys.Date()`"
+description: "An overview of software solutions for the german ambulatory care market."
+---
+
+## Contents
+
+- Chapter 1: Overview of the Software
+- Chapter 2: Installation and Setup
