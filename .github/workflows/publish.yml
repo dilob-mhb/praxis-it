@@ -21,7 +21,7 @@ jobs:
       - name: Render book
         run: |
           quarto install tinytex
-          quarto render
+          quarto render --no-cache
 
       - name: List `docs` directory contents
         run: ls -la ./docs
