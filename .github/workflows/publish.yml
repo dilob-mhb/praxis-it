@@ -1,3 +1,4 @@
+# filepath: /workspaces/ambulant-software-catalog/.github/workflows/publish.yml
 on:
   workflow_dispatch:
   push:
@@ -18,8 +19,12 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@v2
+        run: |
+          cd book
+          quarto render
+          cd ..
+          mv book/docs docs
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
