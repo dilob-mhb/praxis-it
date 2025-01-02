@@ -20,7 +20,7 @@ jobs:
 
       - name: Render book
         run: |
-          quarto render -o ./docs
+          quarto render
 
       - name: List `docs` directory contents
         run: ls -la ./docs
