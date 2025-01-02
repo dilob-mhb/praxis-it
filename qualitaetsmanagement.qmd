@@ -1,7 +1,4 @@
----
-title: "Qualitätsmanagement"
-format: html
----
+# Qualitätsmanagement"
 
 | Software       | Anbieter                   |
 |----------------|----------------------------|
