@@ -1,0 +1,16 @@
+---
+title: "Qualitätsmanagement"
+format: html
+---
+
+| Software       | Anbieter                   |
+|----------------|----------------------------|
+| Paul           | Paul Solutions GmbH        |
+| vismed QM      | vismed GmbH                |
+| eQMS           | Page-Tec GmbH              |
+| i:solution CAQ | i:select GmbH              |
+| CWA SmartProcess | CAQ AG Factory Systems   |
+| neoQM          | neoQM GmbH                 |
+| InnovaPrax     | InnovaPrax GmbH            |
+| x.qm (medatixx) | medatixx GmbH             |
+| QM-Assist      | social-software.de         |
