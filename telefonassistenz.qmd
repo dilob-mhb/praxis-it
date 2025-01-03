@@ -1,0 +1,24 @@
+# Telefonassistenz
+
+|    |  Anbieter                  |  Internetadresse                |
+|---:|:---------------------------|:--------------------------------|
+|  0 | MediVoice                  | medi-voice.de                   |
+|  1 | Aaron                      | aaron.ai                        |
+|  2 | PraxisConcierge            | praxisconcierge.de              |
+|  3 | Dr.wait                    | drwait.de                       |
+|  4 | Docmedico                  | docmedico.de                    |
+|  5 | VITAS                      | vitas.de                        |
+|  6 | BOTfriends Phonebot        | botfriends.de                   |
+|  7 | DUSOFFICE                  | dusoffice.de                    |
+|  8 | KI-Telefonservice.de       | ki-telefonservice.de            |
+|  9 | CallOne                    | callone.de                      |
+| 10 | Parloa                     | parloa.com                      |
+| 11 | Vonage Business            | vonage.com                      |
+| 12 | SignalWire                 | signalwire.com                  |
+| 13 | Inteliwise                 | inteliwise.com                  |
+| 14 | fonio.ai                   | fonio.ai                        |
+| 15 | medxsmart                  | medxsmart.de                    |
+| 16 | reventix Softphone         | reventix.de                     |
+| 17 | Aircall                    | aircall.io                      |
+| 18 | Pollie AI                  | pollie.ai                       |
+| 19 | BlandAI                    | blandai.com                     |
