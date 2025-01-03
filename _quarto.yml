@@ -7,7 +7,9 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - praxisverwaltung.qmd
     - qualitaetsmanagement.qmd
+    - telefonassistenz.qmd
     - summary.qmd
     - references.qmd
 
