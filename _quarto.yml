@@ -4,7 +4,8 @@ project:
 
 book:
   title: "Praxis-IT"
-  downloads: ["pdf", "epub", "docx"]
+  downloads: ["pdf"]
+  repo-url: "https://github.com/bsenst/praxis-it"
   repo-actions: ["edit", "source", "issue"]
   chapters:
     - index.qmd
