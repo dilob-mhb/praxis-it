@@ -6,7 +6,8 @@ book:
   title: "Praxis-IT"
   downloads: ["pdf"]
   repo-url: "https://github.com/bsenst/praxis-it"
-  repo-actions: ["edit", "source", "issue"]
+  issue-url: "https://github.com/bsenst/praxis-it/issues"
+  repo-actions: ["edit", "issue"]
   chapters:
     - index.qmd
     - einleitung.qmd
