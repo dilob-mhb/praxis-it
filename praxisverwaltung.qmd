@@ -95,5 +95,3 @@
 | 91  | RAD+ RIS System  | uttenthaler mediaConsulting            | [umc.de](https://www.umc.de) |
 | 92 | Eterno Cloud            | Eterno Cloud            | [Eterno Cloud](https://www.eterno.cloud)  |
 | 93 | Nelly     | Nelly Solutions GmbH | [Nelly Solutions](https://www.nelly-solutions.de) |
-
-@kbv2025
