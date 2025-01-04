@@ -1,95 +1,97 @@
 # Praxisverwaltungssoftware
 
-|    | Produkt                        | Anbieter                                                        | URL   |
-|---:|:-------------------------------|:----------------------------------------------------------------|:------|
-|  0 | CGM ALBIS                      | CGM Deutschland AG                                              |       |
-|  1 | Apris                          | APRIS Gesellschaft für Praxiscomputer mbH                       |       |
-|  2 | CGM M1 PRO                     | CGM Deutschland AG                                              |       |
-|  3 | CGM MEDISTAR                   | CGM Deutschland AG                                              |       |
-|  4 | DATA VITAL                     | CGM Deutschland AG                                              |       |
-|  5 | DURIA                          | Duria eG                                                        |       |
-|  6 | Data-AL                        | Data-AL GmbH                                                    |       |
-|  7 | EL - Elaphe Longissima         | Softland GmbH                                                   |       |
-|  8 | EVA                            | abasoft EDV Programme GmbH                                      |       |
-| 10 | Elefant                        | HASOMED GmbH                                                    |       |
-| 11 | EPIKUR                         | Epikur Software GmbH & Co. KG                                   |       |
-| 12 | FIDUS                          | FIDUS Software Entwicklungs-GmbH                                |       |
-| 13 | IFA-AUGENARZT                  | ifa Systems AG                                                  |       |
-| 14 | IndiCation                     | ET Software Developments GmbH                                   |       |
-| 15 | InterArzt                      | InterData Praxiscomputer GmbH                                   |       |
-| 16 | KiWi                           | KIND GmbH & Co. KG                                              |       |
-| 17 | MEDVISION                      | MedVision AG                                                    |       |
-| 18 | MEDYS                          | MEDYS GmbH                                                      |       |
-| 19 | MEDICAL OFFICE                 | INDAMED EDV-Entwicklung und -Vertrieb GmbH                      |       |
-| 20 | PROFIMED                       | Pro Medisoft AG                                                 |       |
-| 21 | PegaMed                        | PEGA Elektronik-Vertriebs GmbH                                  |       |
-| 22 | PRAXIS-PROGRAMM                | MediSoftware                                                    |       |
-| 23 | Pro_Medico                     | Neutz GmbH Systemhaus                                           |       |
-| 24 | psychodat Ψ                    | ergosoft GmbH                                                   |       |
-| 25 | Q-MED                          | Schwerdtner Medizin-Software GmbH                               |       |
-| 26 | Quincy                         | FREY ADV GmbH                                                   |       |
-| 27 | RED medical                    | RED Medical Systems GmbH                                        |       |
-| 28 | S3-Win                         | S3 Praxiscomputer GmbH                                          |       |
-| 29 | Smarty                         | New Media Company GmbH & Co. KG                                 |       |
-| 30 | T2med                          | T2med GmbH & Co. KG                                             |       |
-| 31 | CGM TURBOMED                   | CGM Deutschland AG                                              |       |
-| 32 | medatixx                       | medatixx GmbH & Co. KG                                          |       |
-| 33 | medavis RIS                    | medavis GmbH                                                    |       |
-| 34 | psyprax                        | psyprax GmbH                                                    |       |
-| 35 | tomedo®                        | zollsoft GmbH                                                   |       |
-| 36 | x.comfort                      | medatixx GmbH & Co. KG                                          |       |
-| 37 | x.concept                      | medatixx GmbH & Co. KG                                          |       |
-| 38 | x.isynet                       | medatixx GmbH & Co. KG                                          |       |
-| 39 | Medi10                         | PHARMATECHNIK GmbH & Co. KG                                     |       |
-| 40 | inSuite                        | Doc Cirrus GmbH                                                 |       |
-| 41 | principa                       | SIEGELE Software GmbH                                           |       |
-| 42 | RadCentre                      | Mesalvo Mannheim GmbH                                           |       |
-| 43 | amasys                         | Cerner Health Services Deutschland GmbH                         |       |
-| 44 | MEDICUSplus                    | MEDNET Service für Ärzte AG                                     |       |
-| 45 | apraxos                        | Dr. Claudia Neumann EDV-Beratung                                |       |
-| 46 | Arztpraxis Wiegand             | APW-Wiegand Medizinische Software Entwicklung und Vertrieb GmbH |       |
-| 47 | Praxis4More                    | CoKom One GmbH                                                  |       |
-| 48 | MediSuite                      | Paul Albrechts Verlag GmbH                                      |       |
-| 49 | easyTI                         | eHealth Experts GmbH                                            |       |
-| 50 | ACETOmed                       | ACETO Softwareentwicklung GmbH                                  |       |
-| 51 | eRIS                           | Digithurst Bildverarbeitungssysteme GmbH & Co. KG               |       |
-| 52 | diosZX                         | dios eine Marke der Spitta GmbH                                 |       |
-| 53 | RST-MED Win                    | Dr. Rainer Steinbrecher Softwareentwicklung                     |       |
-| 54 | InterMediNet                   | DBI Informatik UG                                               |       |
-| 55 | WinRadiolog                    | medigration GmbH                                                |       |
-| 56 | Med4Win PLUS                   | Müritz COMP Greifswald Computersystemhaus GmbH                  |       |
-| 57 | ARZT2000                       | Schmidt Computersysteme                                         |       |
-| 58 | LIS++                          | 4labs software GmbH                                             |       |
-| 59 | AOris                          | AObit Software Ltd.                                             |       |
-| 60 | latropro                       | APM IT                                                          |       |
-| 61 | arkandus                       | arkandus GmbH                                                   |       |
-| 62 | Med7                           | Bitron GmbH Technologiesysteme                                  |       |
-| 63 | dc-Pathos / dc-Ross            | dc-systeme Informatik GmbH                                      |       |
-| 64 | Doctorly                       | Doctorly GmbH                                                   |       |
-| 65 | i/med Billing                  | Dorner GmbH & Co KG                                             |       |
-| 66 | AiDKlinik                      | Dosing GmbH                                                     |       |
-| 67 | PatiO                          | Dr. Jürgen Krampert                                             |       |
-| 68 | MEDI_LINE                      | Dr. Strzata                                                     |       |
-| 69 | medibit                        | EXAMION GmbH                                                    |       |
-| 70 | theHub                         | Fresenius Medical Care Deutschland GmbH                         |       |
-| 71 | Centricity RIS-i               | GE Healthcare IT                                                |       |
-| 72 | GMC PaDok                      | Gesellschaft für medizinische Computersysteme mbH               |       |
-| 73 | esQlab.online                  | gradient.Systemintegration GmbH                                 |       |
-| 74 | ifap VoS                       | ifap Service-Institut für Ärzte und Apotheker GmbH              |       |
-| 75 | KVDT                           | ifms GmbH                                                       |       |
-| 76 | CLASSY                         | KHP - Informatik GmbH & Co KG                                   |       |
-| 77 | David                          | Medat Computer-Systeme GmbH                                     |       |
-| 78 | easymed                        | medatixx GmbH & Co. KG                                          |       |
-| 79 | x.vianova                      | medatixx GmbH & Co. KG                                          |       |
-| 80 | Ashvins xIS                    | MedicalCommunications GmbH                                      |       |
-| 81 | J-MED                          | Medical Data Investigation (MDI) GmbH                           |       |
-| 82 | MELOS MeCom Arzt&Labor         | melos GmbH                                                      |       |
-| 83 | MEDOS                          | NEXUS / CHILI GmbH                                              |       |
-| 84 | CARW                           | PENTA Services GmbH & Co. KG                                    |       |
-| 85 | GenLAB8                        | Projodis GmbH                                                   |       |
-| 86 | RescuePro                      | RescuePro Production GmbH & Co. KG                              |       |
-| 87 | SAP Ambulatory Care Management | SAP SE                                                          |       |
-| 88 | PalliDoc                       | StatConsult GmbH                                                |       |
-| 89 | UNISOLO-POESY                  | UNISOLO GmbH                                                    |       |
-| 90 | PDV-FR                         | Universitätsklinikum Freiburg                                   |       |
-| 91 | RAD+ RIS System                | uttenthaler mediaConsulting                                     |       |
+| Nr. | Produktname      | Unternehmen                            | URL                            |
+|-----|------------------|----------------------------------------|--------------------------------|
+| 0   | CGM ALBIS        | CGM Deutschland AG                      | [cgm.com](https://www.cgm.com/de) |
+| 1   | Apris            | APRIS Gesellschaft für Praxiscomputer mbH | [apris.de](https://www.apris.de)   |
+| 2   | CGM M1 PRO       | CGM Deutschland AG                      | [cgm.com](https://www.cgm.com/de) |
+| 3   | CGM MEDISTAR     | CGM Deutschland AG                      | [cgm.com](https://www.cgm.com/de) |
+| 4   | DATA VITAL       | CGM Deutschland AG                      | [cgm.com](https://www.cgm.com/de) |
+| 5   | DURIA            | Duria eG                                | [duria.de](https://www.duria.de)   |
+| 6   | Data-AL          | Data-AL GmbH                            | [data-al.de](https://www.data-al.de) |
+| 7   | EL - Elaphe Longissima | Softland GmbH                  | [softland.de](https://www.softland.de)|
+| 8   | EVA              | abasoft EDV Programme GmbH              | [abasoft.de](https://www.abasoft.de) |
+| 10  | Elefant          | HASOMED GmbH                            | [hasomed.de](https://www.hasomed.de) |
+| 11  | EPIKUR           | Epikur Software GmbH & Co. KG           | [epikur.de](https://www.epikur.de)  |
+| 12  | FIDUS            | FIDUS Software Entwicklungs-GmbH        | [fidus.de](https://www.fidus.de)   |
+| 13  | IFA-AUGENARZT    | ifa Systems AG                          | [ifa-systems.de](https://www.ifa-systems.de) |
+| 14  | IndiCation       | ET Software Developments GmbH           | [et-soft.de](https://www.et-soft.de) |
+| 15  | InterArzt        | InterData Praxiscomputer GmbH           | [interdata.de](https://www.interdata.de) |
+| 16  | KiWi             | KIND GmbH & Co. KG                     | [kind.de](https://www.kind.de)  |
+| 17  | MEDVISION        | MedVision AG                           | [medvision.de](https://www.medvision.de) |
+| 18  | MEDYS            | MEDYS GmbH                             | [medys.de](https://www.medys.de) |
+| 19  | MEDICAL OFFICE   | INDAMED EDV-Entwicklung und -Vertrieb GmbH | [indamed.de](https://www.indamed.de) |
+| 20  | PROFIMED         | Pro Medisoft AG                        | [pro-medisoft.de](https://www.pro-medisoft.de) |
+| 21  | PegaMed          | PEGA Elektronik-Vertriebs GmbH         | [pega-med.de](https://www.pega-med.de) |
+| 22  | PRAXIS-PROGRAMM  | MediSoftware                           | [medisoftware.de](https://www.medisoftware.de) |
+| 23  | Pro_Medico       | Neutz GmbH Systemhaus                  | [neutz.de](https://www.neutz.de) |
+| 24  | psychodat Ψ      | ergosoft GmbH                          | [ergosoft.de](https://www.ergosoft.de) |
+| 25  | Q-MED            | Schwerdtner Medizin-Software GmbH      | [q-med.de](https://www.q-med.de) |
+| 26  | Quincy           | FREY ADV GmbH                          | [frey-adv.de](https://www.frey-adv.de) |
+| 27  | RED medical      | RED Medical Systems GmbH               | [red-medical.de](https://www.red-medical.de) |
+| 28  | S3-Win           | S3 Praxiscomputer GmbH                 | [s3-praxiscomputer.de](https://www.s3-praxiscomputer.de) |
+| 29  | Smarty           | New Media Company GmbH & Co. KG        | [smarty.de](https://www.smarty.de) |
+| 30  | T2med            | T2med GmbH & Co. KG                    | [t2med.de](https://www.t2med.de) |
+| 31  | CGM TURBOMED     | CGM Deutschland AG                     | [cgm.com](https://www.cgm.com/de) |
+| 32  | medatixx         | medatixx GmbH & Co. KG                 | [medatixx.de](https://www.medatixx.de) |
+| 33  | medavis RIS      | medavis GmbH                           | [medavis.de](https://www.medavis.de) |
+| 34  | psyprax          | psyprax GmbH                           | [psyprax.de](https://www.psyprax.de) |
+| 35  | tomedo®          | zollsoft GmbH                          | [zollsoft.de](https://www.zollsoft.de) |
+| 36  | x.comfort        | medatixx GmbH & Co. KG                 | [medatixx.de](https://www.medatixx.de) |
+| 37  | x.concept        | medatixx GmbH & Co. KG                 | [medatixx.de](https://www.medatixx.de) |
+| 38  | x.isynet         | medatixx GmbH & Co. KG                 | [medatixx.de](https://www.medatixx.de) |
+| 39  | Medi10           | PHARMATECHNIK GmbH & Co. KG            | [pharmatechnik.de](https://www.pharmatechnik.de) |
+| 40  | inSuite          | Doc Cirrus GmbH                        | [doc-cirrus.de](https://www.doc-cirrus.de) |
+| 41  | principa         | SIEGELE Software GmbH                  | [siegele-software.de](https://www.siegele-software.de) |
+| 42  | RadCentre        | Mesalvo Mannheim GmbH                  | [mesalvo.de](https://www.mesalvo.de) |
+| 43  | amasys           | Cerner Health Services Deutschland GmbH| [cerner.de](https://www.cerner.de) |
+| 44  | MEDICUSplus      | MEDNET Service für Ärzte AG            | [mednet.de](https://www.mednet.de) |
+| 45  | apraxos          | Dr. Claudia Neumann EDV-Beratung       | [apraxos.de](https://www.apraxos.de) |
+| 46  | Arztpraxis Wiegand | APW-Wiegand Medizinische Software Entwicklung und Vertrieb GmbH | [apw-wiegand.de](https://www.apw-wiegand.de) |
+| 47  | Praxis4More      | CoKom One GmbH                         | [cokom.de](https://www.cokom.de) |
+| 48  | MediSuite        | Paul Albrechts Verlag GmbH             | [paul-albrechts.de](https://www.paul-albrechts.de) |
+| 49  | easyTI           | eHealth Experts GmbH                   | [ehealth-experts.de](https://www.ehealth-experts.de) |
+| 50  | ACETOmed         | ACETO Softwareentwicklung GmbH         | [aceto.de](https://www.aceto.de) |
+| 51  | eRIS             | Digithurst Bildverarbeitungssysteme GmbH & Co. KG | [digithurst.de](https://www.digithurst.de) |
+| 52  | diosZX           | dios eine Marke der Spitta GmbH        | [spitta.de](https://www.spitta.de) |
+| 53  | RST-MED Win      | Dr. Rainer Steinbrecher Softwareentwicklung | [rst-med.de](https://www.rst-med.de) |
+| 54  | InterMediNet     | DBI Informatik UG                      | [dbi-informatik.de](https://www.dbi-informatik.de) |
+| 55  | WinRadiolog      | medigration GmbH                       | [medigration.de](https://www.medigration.de) |
+| 56  | Med4Win PLUS     | Müritz COMP Greifswald Computersystemhaus GmbH | [mcomp.de](https://www.mcomp.de) |
+| 57  | ARZT2000         | Schmidt Computersysteme                | [schmidt-computersysteme.de](https://www.schmidt-computersysteme.de) |
+| 58  | LIS++            | 4labs software GmbH                    | [4labs.de](https://www.4labs.de) |
+| 59  | AOris            | AObit Software Ltd.                    | [aobit.de](https://www.aobit.de) |
+| 60  | latropro         | APM IT                                 | [apm-it.de](https://www.apm-it.de) |
+| 61  | arkandus         | arkandus GmbH                          | [arkandus.de](https://www.arkandus.de) |
+| 62  | Med7             | Bitron GmbH Technologiesysteme         | [bitron.de](https://www.bitron.de) |
+| 63  | dc-Pathos / dc-Ross | dc-systeme Informatik GmbH       | [dc-systeme.de](https://www.dc-systeme.de) |
+| 64  | Doctorly         | Doctorly GmbH                          | [doctorly.de](https://www.doctorly.de) |
+| 65  | i/med Billing    | Dorner GmbH & Co KG                    | [dorner.de](https://www.dorner.de) |
+| 66  | AiDKlinik        | Dosing GmbH                            | [dosing.de](https://www.dosing.de) |
+| 67  | PatiO            | Dr. Jürgen Krampert                    | [krampert.de](https://www.krampert.de) |
+| 68  | MEDI_LINE        | Dr. Strzata                            | [strzata.de](https://www.strzata.de) |
+| 69  | medibit          | EXAMION GmbH                           | [examion.de](https://www.examion.de) |
+| 70  | theHub           | Fresenius Medical Care Deutschland GmbH| [fresenius.de](https://www.fresenius.de) |
+| 71  | Centricity RIS-i | GE Healthcare IT                       | [gehealthcare.com](https://www.gehealthcare.com) |
+| 72  | GMC PaDok        | Gesellschaft für medizinische Computersysteme mbH | [gmc-berlin.de](https://www.gmc-berlin.de) |
+| 73  | esQlab.online    | gradient.Systemintegration GmbH        | [gradient-si.de](https://www.gradient-si.de) |
+| 74  | ifap VoS         | ifap Service-Institut für Ärzte und Apotheker GmbH | [ifap.de](https://www.ifap.de) |
+| 75  | KVDT             | ifms GmbH                              | [ifms.de](https://www.ifms.de) |
+| 76  | CLASSY           | KHP - Informatik GmbH & Co KG          | [khp-informatik.de](https://www.khp-informatik.de) |
+| 77  | David            | Medat Computer-Systeme GmbH            | [medat.de](https://www.medat.de) |
+| 78  | easymed          | medatixx GmbH & Co. KG                 | [medatixx.de](https://www.medatixx.de) |
+| 79  | x.vianova        | medatixx GmbH & Co. KG                 | [medatixx.de](https://www.medatixx.de) |
+| 80  | Ashvins xIS      | MedicalCommunications GmbH             | [medicalcommunications.de](https://www.medicalcommunications.de) |
+| 81  | J-MED            | Medical Data Investigation (MDI) GmbH  | [mdigmbh.de](https://www.mdigmbh.de) |
+| 82  | MELOS MeCom Arzt&Labor | melos GmbH                 | [melos-gmbh.de](https://www.melos-gmbh.de) |
+| 83  | MEDOS            | NEXUS / CHILI GmbH                     | [chili.de](https://www.chili.de) |
+| 84  | CARW             | PENTA Services GmbH & Co. KG           | [penta-services.de](https://www.penta-services.de) |
+| 85  | GenLAB8          | Projodis GmbH                          | [projodis.de](https://www.projodis.de) |
+| 86  | RescuePro        | RescuePro Production GmbH & Co. KG     | [rescuepro.de](https://www.rescuepro.de) |
+| 87  | SAP Ambulatory Care Management | SAP SE               | [sap.com](https://www.sap.com) |
+| 88  | PalliDoc         | StatConsult GmbH                       | [statconsult.de](https://www.statconsult.de) |
+| 89  | UNISOLO-POESY    | UNISOLO GmbH                           | [unisolode](https://www.unisolo.de) |
+| 90  | PDV-FR           | Universitätsklinikum Freiburg          | [uniklinik-freiburg.de](https://www.uniklinik-freiburg.de) |
+| 91  | RAD+ RIS System  | uttenthaler mediaConsulting            | [umc.de](https://www.umc.de) |
+
+@kbv2025
