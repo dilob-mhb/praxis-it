@@ -20,6 +20,8 @@ book:
     - referenzen.qmd
 
 bibliography: referenzen.bib
+nocite: |
+  @*
 
 format:
   html:
