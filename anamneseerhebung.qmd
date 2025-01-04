@@ -1,0 +1,9 @@
+# Anamneseerhebung
+
+|    | Anbieter                          | URL                |
+|---:|:----------------------------------|:-------------------|
+|  0 | Tomes GmbH (Idana)                | [Idana](https://www.idana.com)            |
+|  1 | Docyet GmbH                       | [Docyet](https://www.docyet.com)          |
+|  2 | CompuGroup Medical (AmbulApps)    | [AmbulApps](https://www.cgm.com/deu_de/produkte/praxissoftware/ambulapps.html) |
+|  3 | MAIA.tools                        | [MAIA](https://www.maia.tools)            |
+|  4 | Simpleprax                        | [Simpleprax](https://www.simpleprax.de)   |
