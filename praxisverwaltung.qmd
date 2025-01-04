@@ -29,7 +29,7 @@
 | 25  | Q-MED            | Schwerdtner Medizin-Software GmbH      | [q-med.de](https://www.q-med.de) |
 | 26  | Quincy           | FREY ADV GmbH                          | [frey-adv.de](https://www.frey-adv.de) |
 | 27  | RED medical      | RED Medical Systems GmbH               | [red-medical.de](https://www.red-medical.de) |
-| 28  | S3-Win           | S3 Praxiscomputer GmbH                 | [s3-praxiscomputer.de](https://www.s3-praxiscomputer.de) |
+| 28  | S3-Win           | S3 Praxiscomputer GmbH                 | [praxiscomputer.de](https://www.praxiscomputer.de/) |
 | 29  | Smarty           | New Media Company GmbH & Co. KG        | [smarty.de](https://www.smarty.de) |
 | 30  | T2med            | T2med GmbH & Co. KG                    | [t2med.de](https://www.t2med.de) |
 | 31  | CGM TURBOMED     | CGM Deutschland AG                     | [cgm.com](https://www.cgm.com/de) |
@@ -89,7 +89,7 @@
 | 85  | GenLAB8          | Projodis GmbH                          | [projodis.de](https://www.projodis.de) |
 | 86  | RescuePro        | RescuePro Production GmbH & Co. KG     | [rescuepro.de](https://www.rescuepro.de) |
 | 87  | SAP Ambulatory Care Management | SAP SE               | [sap.com](https://www.sap.com) |
-| 88  | PalliDoc         | StatConsult GmbH                       | [statconsult.de](https://www.statconsult.de) |
+| 88  | PalliDoc         | StatConsult GmbH                       | [pallidoc.de](https://www.pallidoc.de/) |
 | 89  | UNISOLO-POESY    | UNISOLO GmbH                           | [unisolode](https://www.unisolo.de) |
 | 90  | PDV-FR           | Universitätsklinikum Freiburg          | [uniklinik-freiburg.de](https://www.uniklinik-freiburg.de) |
 | 91  | RAD+ RIS System  | uttenthaler mediaConsulting            | [umc.de](https://www.umc.de) |
