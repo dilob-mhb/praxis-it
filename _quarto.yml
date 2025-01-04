@@ -3,17 +3,17 @@ project:
   output-dir: docs
 
 book:
-  title: "Ambulant Software Catalog"
+  title: "Praxis-IT"
   chapters:
     - index.qmd
-    - intro.qmd
+    - einleitung.qmd
     - praxisverwaltung.qmd
     - qualitaetsmanagement.qmd
     - telefonassistenz.qmd
-    - summary.qmd
-    - references.qmd
+    - zusammenfassung.qmd
+    - referenzen.qmd
 
-bibliography: references.bib
+bibliography: referenzen.bib
 
 format:
   html:
