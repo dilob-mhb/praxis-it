@@ -1,9 +1,3 @@
----
-bibliography: referenzen.bib
-nocite: |
-  @*
----
-
 # Referenzen {.unnumbered}
 
 ::: {#refs}
