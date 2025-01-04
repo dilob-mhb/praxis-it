@@ -1,9 +1,11 @@
 project:
   type: book
-  output-dir: .
+  output-dir: docs
 
 book:
   title: "Praxis-IT"
+  downloads: ["pdf", "epub", "docx"]
+  repo-actions: ["edit", "source", "issue"]
   chapters:
     - index.qmd
     - einleitung.qmd
@@ -18,8 +20,6 @@ bibliography: referenzen.bib
 format:
   html:
     theme: cosmo
-    downloads: ["pdf", "epub", "docx"]
-    repo-actions: ["edit", "source", "issue"]
   pdf:
     documentclass: scrreprt
 
