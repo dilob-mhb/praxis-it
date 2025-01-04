@@ -7,3 +7,9 @@
 |  2 | CompuGroup Medical (AmbulApps)    | [AmbulApps](https://www.cgm.com/deu_de/produkte/praxissoftware/ambulapps.html) |
 |  3 | MAIA.tools                        | [MAIA](https://www.maia.tools)            |
 |  4 | Simpleprax                        | [Simpleprax](https://www.simpleprax.de)   |
+| 6   | Dr. QEN          | [drqen.com](https://drqen.com/) |
+| 7   | Infoskop         | [synmedico.de](http://www.synmedico.de) |
+| 8   | mediDOK eForms   | [medidok.de/eforms](https://medidok.de/eforms) |
+| 9   | myMedax          | [myMedax.de](http://www.myMedax.de) |
+| 10  | Bingli           | [bingli.eu/de/](https://www.bingli.eu/de/) |
+| 11  | AnaBoard         | [anaboard.de](http://www.anaboard.de) |
