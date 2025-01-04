@@ -18,6 +18,8 @@ bibliography: referenzen.bib
 format:
   html:
     theme: cosmo
+    downloads: ["pdf", "epub", "docx"]
+    repo-actions: ["edit", "source", "issue"]
   pdf:
     documentclass: scrreprt
 
