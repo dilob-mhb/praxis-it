@@ -1,0 +1,16 @@
+# Dienstplanung
+
+| Produkt                | Anbieter              | URL                                                                 |
+|------------------------|-----------------------|---------------------------------------------------------------------|
+| Shiftbase              | Shiftbase             | [Shiftbase](https://www.shiftbase.com/de/)                          |
+| Mein Schichtplan       | Mein Schichtplan      | [Mein Schichtplan](https://www.mein-schichtplan.de/de/)             |
+| Schichtplaner-Online   | Schichtplaner-Online  | [Schichtplaner-Online](https://schichtplaner-online.de/)            |
+| Planday                | Planday               | [Planday](https://www.planday.com/de/)                               |
+| Aplano                 | Aplano                | [Aplano](https://aplano.de/)                                        |
+| Vote2Work              | Vote2Work             | [Vote2Work](https://www.vote2work.de/)                              |
+| Planerio               | Planerio              | [Planerio](https://planerio.com/)                                    |
+| Staffomatic            | Staffomatic           | [Staffomatic](https://www.staffomatic.com/)                          |
+| biduum                 | biduum                | [biduum](https://www.sieda.com/biduum/online-dienstplan/)            |
+| Dyflexis               | Dyflexis              | [Dyflexis](https://www.dyflexis.de/)                                 |
+| Ordio                  | Ordio                 | [Ordio](https://www.ordio.com/)                                      |
+| Crewmeister            | Crewmeister           | [Crewmeister](https://crewmeister.com/de)                           |
