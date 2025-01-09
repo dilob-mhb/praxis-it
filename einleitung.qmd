@@ -1,5 +1,3 @@
 # Einleitung
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
+In einer digitalisierten Welt sind effektive IT-Systeme entscheidend für die Effizienz und Qualität in der Gesundheitsversorgung. Die fortschreitende Entwicklung von Praxisverwaltungssoftware, digitalen Anamnese-Tools und Dienstplanungslösungen hat den Arbeitsalltag in Praxen grundlegend verändert. Die Herausforderung besteht jedoch darin, diese technischen Möglichkeiten effizient und praxisnah einzusetzen. Hier setzt „Praxis-IT“ an, indem es einen Überblick über relevante Lösungen bietet und deren praktische Anwendung verständlich macht.

@@ -1,5 +1,21 @@
 # Vorwort {.unnumbered}
 
-This is a Quarto book.
+„Praxis-IT“ bietet eine umfassende Sammlung praxisorientierter Informationen und Tools mit dem Ziel, Theorie und Praxis zu verbinden. Sie ermöglicht es, technologische Lösungen besser zu verstehen und anzuwenden.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+### Digitalisierung im ambulaten Bereich: Zwischen Potenzial und Realität
+
+Die Einführung von elektronischen Patientenakten (ePA) hat die Arbeitsweise von Arztpraxen verändert. Studien zeigen, dass ePA nicht nur die Dokumentation verbessern, sondern auch die Koordination und Kommunikation innerhalb des Gesundheitswesens erleichtern können [@Neunaber_2023]. Dennoch bleibt die effektive Nutzung dieser Systeme eine Herausforderung, da die Einführung oft von unzureichenden Schulungen und technologischen Hürden begleitet wird [@Miller_2004].
+
+### Telemedizin in ländlichen Gebieten: Integration und Akzeptanz im Fokus
+
+Neben ePAs haben auch weitere digitale Technologien, wie Telemedizin, die Patientenversorgung nachhaltig verändert. Die Implementierung von Telemedizinlösungen hat insbesondere in ländlichen Gebieten gezeigt, wie der Zugang zur Gesundheitsversorgung verbessert werden kann, ohne dabei die Qualität der Behandlung zu beeinträchtigen [@Wilcox_2008]. Diese Technologien erfordern jedoch eine sorgfältige Integration in bestehende Arbeitsprozesse, um von allen Beteiligten akzeptiert zu werden [@Versluis_2020].
+
+### Messung der digitalen Reife in Arztpraxen: Ein Schlüssel zur nachhaltigen Transformation
+
+Ein zentraler Aspekt der Digitalisierung in Arztpraxen ist die Messung der digitalen Reife. Laut Teixeira et al. (2022) ist die digitale Reife sowohl auf individueller als auch systemischer Ebene erforderlich, um eine nachhaltige digitale Transformation im Gesundheitswesen sicherzustellen [@Teixeira_2022]. Digitale Reife-Modelle, wie sie von Rimmer et al. (2014) beschrieben wurden, bieten praktische Werkzeuge, um den Fortschritt in der Nutzung von Technologien zu bewerten und gezielte Verbesserungen zu identifizieren [@Rimmer_2014;@Neunaber_2023].
+
+### Akzeptanz digitaler Technologien in Arztpraxen: Die Rolle der internen Kommunikation
+
+Die Akzeptanz digitaler Technologien hängt stark von der Kommunikation und dem Engagement der Praxismitglieder ab. Untersuchungen zeigen, dass interne Kommunikationsmuster entscheidend dafür sind, wie Technologien in den Arbeitsalltag integriert werden [@Lanham_2012]. Dies unterstreicht die Bedeutung einer ganzheitlichen Strategie, die nicht nur technische, sondern auch soziale und organisatorische Faktoren berücksichtigt.
+
+This is a Quarto book. To learn more about Quarto books visit <https://quarto.org/docs/books>.
