@@ -1,4 +1,4 @@
-# ambulant-software-catalog
+# Praxis-IT
 
 This repository contains the source code for the "Praxis-IT" Quarto book. The book is rendered and deployed to GitHub Pages.
 
