@@ -1,0 +1,13 @@
+# Telefonanlage
+
+|    | Anbieter                          | URL                |
+|---:|:----------------------------------|:-------------------|
+|  0 | 3CX                               | [3CX](https://www.3cx.de)                        |
+|  1 | NFON                              | [NFON](https://www.nfon.com/de/)                 |
+|  2 | Placetel                          | [Placetel](https://www.placetel.de/)             |
+|  3 | Sipgate                           | [Sipgate](https://www.sipgate.de/)               |
+|  4 | easybell                          | [easybell](https://www.easybell.de/)             |
+|  5 | Wildix                            | [Wildix](https://www.wildix.com/de/)             |
+|  6 | Vonage                            | [Vonage](https://www.vonage.com/de-de/)          |
+|  7 | Zoom Phone                        | [Zoom Phone](https://zoom.us/de-de/meetings/phone) |
+|  8 | STARFACE                          | [STARFACE](https://starface.com/en/)             |
