@@ -1,5 +1,35 @@
 # Diskurs
 
+## Diskursthemen über die Zeit
+
+**2017-2019: ePA (elektronische Patientenakte)**
+
+- Die Diskussionen drehen sich hauptsächlich um die Einführung, technische Herausforderungen und die allgemeine Idee der ePA.
+
+**2020-2021: Telemedizin**
+
+- Aufgrund der Pandemie wird Telemedizin zu einem zentralen Thema, mit Fokus auf Fernbehandlung und deren Implementierung.
+
+**2022: e-Rezept**
+
+- Diese Phase ist durch intensive Diskussionen über die Einführung, Nutzung und Vorteile des elektronischen Rezepts gekennzeichnet.
+
+**2023: Digitale Gesundheitsanwendungen (DiGA)**
+
+- Es gibt eine starke Konzentration auf digitale Gesundheits-Apps, deren Regulierung, Anwendungen und Nutzen im Gesundheitswesen.
+
+## Übersicht Podcasts
+
+- **ÄrzteTag**: Der häufigste Podcast-Anbieter, der sich auf die Perspektive von Ärzten und medizinischen Fachkräften in Bezug auf verschiedene Themen der digitalen Gesundheit konzentriert.
+- **Der Datenschutz Talk**: Fokussiert auf Datenschutz und Datensicherheit im Kontext der digitalen Gesundheit, was die Bedeutung von Datensicherheit und -compliance unterstreicht.
+- **EinBlick – Der Podcast**: Deckt eine breite Palette von Themen im Gesundheitssystem ab, darunter die Telematikinfrastruktur, digitale Gesundheitspolitik und die Einführung der elektronischen Patientenakte (ePA).
+- **Startup Insider**: Bietet Einblicke in digitale Gesundheits-Startups, Investitionen und unternehmerische Aspekte der digitalen Gesundheit.
+- **eHealth-Podcast**: Konzentriert sich auf die technischen Aspekte der digitalen Gesundheit, einschließlich der Telematikinfrastruktur.
+- **Folge #170 - Forschungsdatenportal für Gesundheit**: Eine Serie, die sich mit verschiedenen Themen der digitalen Gesundheit, Forschung und Daten beschäftigt.
+- **docsdigital**: Bietet Podcasts, die praktische digitale Tools für Ärzte und Gesundheitsexperten vorstellen und Anleitungen zum Einsatz und zur Implementierung verschiedener Technologien in der Praxis geben.
+- **up-podcast**: Fokussiert auf Themen, die für Therapie und Praxis relevant sind, oft in Bezug auf die Telematikinfrastruktur.
+- **Visionäre der Gesundheit**: Bietet Einblicke in verschiedene Perspektiven und Innovationen im Bereich der digitalen Gesundheit.
+
 ## Elektronische Patientenakte
 
 ### Podcasts
