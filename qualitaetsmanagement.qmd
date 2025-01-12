@@ -1,5 +1,23 @@
 # Qualitätsmanagement
 
+## KBV-PraxisCheck
+
+Der [KBV-PraxisCheck](https://www.kbv.de/html/mein_praxischeck.php) ist ein kostenloses Online-Tool der Kassenärztlichen Bundesvereinigung (KBV), das speziell für Ärzte, Psychotherapeuten und Praxisteams entwickelt wurde. Mit diesem Selbsttest können Praxen ihre Qualität und Sicherheit in verschiedenen Bereichen wie Hygiene, Impfen, Prävention von Wundinfektionen, Datenschutz, Informationssicherheit, Patientensicherheit und Qualitätsmanagement überprüfen. Anhand von Fragen, die in wenigen Minuten beantwortet werden können, erhält die Praxis sofort Rückmeldungen zu ihren Leistungen und praktische Tipps zur Verbesserung der Praxisabläufe.
+
+## KTQ-Zertifizierung (Kooperation für Transparenz und Qualität im Gesundheitswesen)
+
+[KTQ](https://ktq.de/) bietet ein Zertifizierungssystem speziell für Arzt- und Zahnarztpraxen sowie psychotherapeutische Praxen und Medizinische Versorgungszentren (MVZ). Es umfasst Selbst- und Fremdbewertung und zielt darauf ab, Qualitätsmanagement-Systeme zu entwickeln und zu verbessern.
+
+## DIN EN ISO 9001:2015
+
+Diese internationale Norm für Qualitätsmanagement kann von Praxen angewendet werden, um ihre Qualitätssysteme zu zertifizieren. Sie legt den Fokus auf Kundenzufriedenheit durch eine effektive Qualitätsverwaltung.
+
+## QM-Richtlinie des Gemeinsamen Bundesausschusses (G-BA)
+
+Diese Richtlinie schreibt ein internes Qualitätsmanagement für Vertragsärzte und -psychotherapeuten vor. Zertifizierungen basierend auf dieser Richtlinie sind nicht zwingend erforderlich, aber Praxen können sich nachweisen lassen, dass sie den Anforderungen entsprechen.
+
+## Übersicht QM Software
+
 |    | Software         | Anbieter                          | URL                |
 |---:|:-----------------|:----------------------------------|:-------------------|
 |  0 | Paul             | Paul Solutions GmbH               | [paul-solutions.de](https://paul-solutions.de)  |
