@@ -12,12 +12,12 @@ book:
     - index.qmd
     - einleitung.qmd
     - praxisverwaltung.qmd
-    - qualitaetsmanagement.qmd
-    - telefonassistenz.qmd
     - anamneseerhebung.qmd
-    - kimdienst.qmd
-    - dienstplanung.qmd
     - telefonanlage.qmd
+    - telefonassistenz.qmd
+    - kimdienst.qmd
+    - qualitaetsmanagement.qmd
+    - dienstplanung.qmd
     - diskurs.qmd
     - zusammenfassung.qmd
     - referenzen.qmd
