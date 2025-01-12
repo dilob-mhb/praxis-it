@@ -1,0 +1,36 @@
+# Zahnärztliche Praxis
+
+|    | Software                     | URL                                                                                                                                        |
+|---:|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | teemer                       | [ARZ.dent GmbH](http://www.teemer.de)                                                                                                      |
+|  1 | VISIdent                     | [BDV GmbH](http://www.bdv.com)                                                                                                             |
+|  2 | VISInext                     | [BDV GmbH](http://www.bdv.com)                                                                                                             |
+|  3 | CAPAZ                        | [CAPAZ GmbH](http://www.capaz.de)                                                                                                          |
+|  4 | CGM HIGHDENT PLUS            | [CompuGroup Medical Dentalsysteme GmbH](https://www.cgm.com/deu_de/produkte/zahnarztpraxis/cgm-highdent-plus.html)                         |
+|  5 | CGM XDENT                    | [CompuGroup Medical Software GmbH](https://www.cgm.com/deu_de/lp/cgm-dentalsysteme/software-mit-cloud-cgm-xdent-fuer-zahnaerzt-innen.html) |
+|  6 | ChreMaSoft                   | [CompuGroup Medical Dentalsysteme GmbH](http://www.cgm-dentalsysteme.de)                                                                   |
+|  7 | Z1                           | [CompuGroup Medical Dentalsysteme GmbH](http://www.cgm-dentalsysteme.de)                                                                   |
+|  8 | ZahnarztRechner              | [CompuGroup Medical Dentalsysteme GmbH](http://www.cgm-dentalsysteme.de)                                                                   |
+|  9 | Dental Express/Ortho Express | [Computer Forum GmbH](http://www.dental-vision.de)                                                                                         |
+| 10 | ivoris                       | [Computer konkret AG](http://www.computer-konkret.com)                                                                                     |
+| 11 | INFINITY Q HEALTH            | [CROSSSOFT GmbH](http://www.crosssoft.de)                                                                                                  |
+| 12 | D1                           | [D1 GmbH](http://www.D1.software)                                                                                                          |
+| 13 | DS4                          | [DAMPSOFT GmbH](http://www.dampsoft.de)                                                                                                    |
+| 14 | DS-WIN-PLUS                  | [DAMPSOFT GmbH](http://www.dampsoft.de)                                                                                                    |
+| 15 | iSiDent                      | [DATEXT iT-Beratung](http://www.datext.de)                                                                                                 |
+| 16 | DENSoffice                   | [DENS GmbH](http://www.dens-berlin.com)                                                                                                    |
+| 17 | dentport                     | [Dentport GmbH](http://dentport.de)                                                                                                        |
+| 18 | DentRechner                  | [DentRechner](http://www.dentrechner.de)                                                                                                   |
+| 19 | ErgoDent                     | [ErgoDent Software GmbH](http://www.ergodent.de)                                                                                           |
+| 20 | EVIDENT                      | [EVIDENT GmbH](http://www.evident.de)                                                                                                      |
+| 21 | KFO-Office                   | [FDK Fachdienst der Kieferorthopäden GmbH & Co. KG](http://www.fdk-bremen.de)                                                              |
+| 22 | PRAXIDENT A4                 | [h&k GbR](http://praxident.de)                                                                                                             |
+| 23 | DENT-MAGIC                   | [h&k GbR](http://praxident.de)                                                                                                             |
+| 24 | Orgadontic Office            | [Orgadontic](http://www.orgadontic.de)                                                                                                     |
+| 25 | LinuDent                     | [PHARMATECHNIK GmbH & Co. KG](http://www.linudent.de)                                                                                      |
+| 26 | apollonia / iDent            | [Procedia GmbH](http://www.procedia.de)                                                                                                    |
+| 27 | charly by solutio            | [solutio GmbH & Co. KG](http://www.solutio.de)                                                                                             |
+| 28 | DIOS ZX                      | [Spitta GmbH](http://www.dios.de)                                                                                                          |
+| 29 | Pdent                        | [Winkler Software](http://www.winklersoft.com)                                                                                             |
+| 30 | claire                       | [Patient 21 SE](http://www.zm-r.de/)                                                                                                       |
+| 31 | tomedo DENTAL                | [zollsoft GmbH](https://zollsoft.de/)                                                                                                      |
