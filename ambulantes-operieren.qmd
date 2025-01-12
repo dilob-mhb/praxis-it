@@ -1,0 +1,18 @@
+# Ambulantes Operieren
+
+| **Software**             | **Hersteller**          | **URL**                                                    |
+|---------------------------|-------------------------|------------------------------------------------------------|
+| INSIGHT                  | Getinge                | [getinge.com/de/produkte/insight](https://www.getinge.com/de/produkte/insight/)       |
+| Torin                    | Getinge                | [getinge.com/int/products/torin](https://www.getinge.com/int/products/torin/)        |
+| T-DOC 2000               | Getinge                | [getinge.com/de/produkte/t-doc-2000](https://www.getinge.com/de/produkte/t-doc-2000/)    |
+| Getinge Online           | Getinge                | [getinge.com/de/produkte/getinge-online](https://www.getinge.com/de/produkte/getinge-online/)|
+| T-DOC Select             | Getinge                | [getinge.com/de/produkte/t-doc-select](https://www.getinge.com/de/produkte/t-doc-select/)  |
+| T-DOC Endo               | Getinge                | [getinge.com/de/produkte/t-doc-endo](https://www.getinge.com/de/produkte/t-doc-endo/)    |
+| Tegris                   | Getinge                | [getinge.com/de/produkte/tegris](https://www.getinge.com/de/produkte/tegris/)        |
+| Torin SmartView          | Getinge                | [getinge.com/int/products/torin-smartview](https://www.getinge.com/int/products/torin-smartview/)|
+| DIANA                    | HP Lehnen Software     | [hp-lehnen-software.com/diana](https://www.hp-lehnen-software.com/diana)           |
+| OP-Management            | Meierhofer             | [meierhofer.com/loesungen/op-management](https://www.meierhofer.com/loesungen/op-management/)|
+| OPteamizer               | Logex                  | [logex.com](https://logex.com/de/losungen/financial-analytics/opteamizer/)|
+| Caresyntax               | Caresyntax             | [caresyntax.com](https://caresyntax.com/)                           |
+| instacount®PLUS          | Invitec                | [invitec.de](https://invitec.de/)                                  |
+| B. Braun Organize | B. Braun SE | [bbraun.de](https://www.bbraun.de/de/produkte-und-loesungen/loesungen/ambulantes-operieren/it-fuer-warenwirtschaft.html) |
