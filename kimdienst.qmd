@@ -6,6 +6,6 @@
 |  1 | Arvato Systems GmbH                | [Arvato](https://www.arvato-systems.de)    |
 |  2 | CompuGroup Medical (CGM)           | [CGM](https://www.cgm.com)                 |
 |  3 | Deutsches Gesundheitsnetz (DGN)   | [DGN](https://www.dgn.de)                  |
-|  4 | kv.dox                             | [kv.dox](https://www.kv-dox.de)            |
-|  5 | Telekom Healthcare Solutions       | [Telekom](https://www.telekom-healthcare-solutions.de) |
+|  4 | kv.dox                             | [kvdox.akquinet.de](https://kvdox.akquinet.de/)            |
+|  5 | Telekom Healthcare Solutions       | [ti.telekom-healthcare.com](https://ti.telekom-healthcare.com/) |
 |  6 | slis services                      | [slis](https://www.slis.services)          |
