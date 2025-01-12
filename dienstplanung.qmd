@@ -7,7 +7,7 @@
 | Schichtplaner-Online   | Schichtplaner-Online  | [Schichtplaner-Online](https://schichtplaner-online.de/)            |
 | Planday                | Planday               | [Planday](https://www.planday.com/de/)                               |
 | Aplano                 | Aplano                | [Aplano](https://aplano.de/)                                        |
-| Vote2Work              | Vote2Work             | [Vote2Work](https://www.vote2work.de/)                              |
+| Vote2Work              | Vote2Work             |                               |
 | Planerio               | Planerio              | [Planerio](https://planerio.com/)                                    |
 | Staffomatic            | Staffomatic           | [Staffomatic](https://www.staffomatic.com/)                          |
 | biduum                 | biduum                | [biduum](https://www.sieda.com/biduum/online-dienstplan/)            |
