@@ -14,3 +14,4 @@
 | Dyflexis               | Dyflexis              | [Dyflexis](https://www.dyflexis.de/)                                 |
 | Ordio                  | Ordio                 | [Ordio](https://www.ordio.com/)                                      |
 | Crewmeister            | Crewmeister           | [Crewmeister](https://crewmeister.com/de)                           |
+| TimeMonkey | MonkeyDent GmbH | [monkeydent.de](http://monkeydent.de) |

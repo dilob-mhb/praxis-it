@@ -104,7 +104,6 @@ Der TI-Score berücksichtigt Kriterien wie die Nutzbarkeit, die Effizienz und di
 | 89 | PDV-FR                         | Universitätsklinikum Freiburg                                   | [uniklinik-freiburg.de](https://www.uniklinik-freiburg.de)           |                                     nan   |                                 nan   |                 nan   | ?     | nan        | nan   | nan          |
 | 90 | RAD+ RIS System                | uttenthaler mediaConsulting                                     | [rad.plus](https://rad.plus/)                                         |                                     nan   |                                 nan   |                 nan   | nan   | nan        | ?     | ?            |
 | 91 | Eterno Cloud                   | Eterno Cloud                                                    | [Eterno Cloud](https://www.eterno.cloud)                             |                                     nan   |                                 nan   |                 nan   | nan   | nan        | nan   | nan          |
-| 92 | Nelly                          | Nelly Solutions GmbH                                            | [Nelly Solutions](https://www.nelly-solutions.de)                    |                                     nan   |                                 nan   |                 nan   | nan   | nan        | nan   | nan          |
 
 : Übersicht Praxisverwaltungssoftware {.striped .hover}
 

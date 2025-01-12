@@ -1,0 +1,20 @@
+# Terminbuchung
+
+| Index | Product | Company | URL |
+|---|---|---|---| 
+| 0 | TimeControl | Computerservice & Software Mentz | https://timecontrol.co |
+| 1 | terminiko | terminiko | http://www.terminiko.de |
+| 2 | Dr.wait - Digitale Arztpraxis | Dr.wait UG (haftungsbeschränkt) | https://www.drwait.de/ |
+| 3 | eTermin Online Terminplaner | eTermin GmbH | https://www.etermin.net |
+| 4 | dubidoc | Takuta GmbH | http://www.dubidoc.de |
+| 5 | Doctena PRO | Doctena Germany GmbH | https://de.doctena.de/ |
+| 6 | TerMed | Facharzt-Sofort-GmbH | http://www.termed.de |
+| 7 | Acuity Scheduling | Acuity Scheduling GmbH | https://de.acuityscheduling.com/ |
+| 8 | Terminland Gesundheitswesen | Terminland GmbH | https://www.terminland.de/branchen/gesundheitswesen/ |
+| 9 | dubidoc | Takuta GmbH | https://www.dubidoc.de/ |
+| 10 | TerMed | Facharzt-Sofort-GmbH | https://www.termed.de/start |
+| 11 | Jameda Terminservice | Jameda GmbH | https://pro.jameda.de/ |
+| 12 | Dr. Flex | Dr. Flex GmbH | https://dr-flex.de/aerzte |
+| 13 | Doctolib | Doctolib GmbH | https://info.doctolib.de/ |
+| 14 | Visita | Visita GmbH | https://visita.arzttermine.de/ |
+| 15 | Doctena | Doctena Germany GmbH | https://www.doctena.com/de/ |
