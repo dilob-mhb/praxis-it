@@ -2,7 +2,7 @@
 
 |    |  Anbieter                  |  Internetadresse                |
 |---:|:---------------------------|:--------------------------------|
-|  0 | MediVoice                  | [medi-voice.de](https://medi-voice.de) |
+|  0 | MediVoice                  | [mediform.io/medivoice](https://mediform.io/medivoice/) |
 |  1 | Aaron                      | [aaron.ai](https://aaron.ai)                        |
 |  2 | PraxisConcierge            | [praxisconcierge.de](https://praxisconcierge.de)              |
 |  3 | Dr.wait                    | [drwait.de](https://drwait.de)                       |
@@ -17,8 +17,6 @@
 | 12 | SignalWire                 | [signalwire.com](https://signalwire.com)                  |
 | 13 | Inteliwise                 | [inteliwise.com](https://inteliwise.com)                  |
 | 14 | fonio.ai                   | [fonio.ai](https://fonio.ai)                        |
-| 15 | medxsmart                  | [medxsmart.de](https://medxsmart.de)                    |
-| 16 | reventix Softphone         | [reventix.de](https://reventix.de)                     |
-| 17 | Aircall                    | [aircall.io](https://aircall.io)                      |
-| 18 | Pollie AI                  | [pollie.ai](https://pollie.ai)                       |
-| 19 | BlandAI                    | [blandai.com](https://blandai.com)                     |
+| 15 | reventix Softphone         | [reventix.de](https://reventix.de)                     |
+| 16 | Aircall                    | [aircall.io](https://aircall.io)                      |
+| 17 | Pollie AI                  | [pollie.ai](https://pollie.ai)                       |
