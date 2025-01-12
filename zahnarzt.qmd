@@ -34,3 +34,5 @@
 | 29 | Pdent                        | [Winkler Software](http://www.winklersoft.com)                                                                                             |
 | 30 | claire                       | [Patient 21 SE](http://www.zm-r.de/)                                                                                                       |
 | 31 | tomedo DENTAL                | [zollsoft GmbH](https://zollsoft.de/)                                                                                                      |
+
+Quelle: [@KZBV_EDV_Statistik]
