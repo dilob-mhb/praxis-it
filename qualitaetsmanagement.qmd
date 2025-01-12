@@ -5,7 +5,7 @@
 |  0 | Paul             | Paul Solutions GmbH               | [paul-solutions.de](https://paul-solutions.de)  |
 |  1 | vismed QM        | vismed GmbH                       | [vismed.de](https://vismed.de)          |
 |  2 | eQMS             | Page-Tec GmbH                     | [page-tec.de](https://page-tec.de)        |
-|  3 | i:solution CAQ   | i:select GmbH                     | [i-select.de](https://i-select.de)        |
+|  3 | i:solution CAQ   | i:select GmbH                     | [concept-pro.de](https://www.concept-pro.de/qm-software/)        |
 |  4 | CWA SmartProcess | CAQ AG Factory Systems            | [caq.de](https://caq.de)             |
 |  5 | neoQM            | neoQM GmbH                        | [neoqm.de](https://neoqm.de)           |
 |  6 | InnovaPrax       | InnovaPrax GmbH                   | [innovaprax.de](https://innovaprax.de)      |
@@ -18,7 +18,7 @@
 | 13 | QM-Pilot         | QM-Pilot GmbH                     | [qm-pilot.de](https://qm-pilot.de)        |
 | 14 | Q.wiki           | Q.wiki GmbH                       | [q-wiki.de](https://q-wiki.de)          |
 | 15 | BabtecQ          | Babtec Informationssysteme GmbH   | [babtec.de](https://babtec.de)          |
-| 16 | WissIntra NG     | Wissensmanagement GmbH            | [wissintra.de](https://wissintra.de)       |
+| 16 | WissIntra NG     | Wissensmanagement GmbH            | [wissintra.dbeyond.group/de](https://wissintra.dbeyond.group/de/)       |
 | 17 | Testify          | Testify GmbH                      | [testify.io](https://testify.io)         |
 | 18 | iqs CAQ          | iqs Software GmbH                 | [iqs.de](https://iqs.de)             |
 | 19 | SmartProcess     | CWA GmbH                          | [cwa-software.com](https://cwa-software.com)   |
