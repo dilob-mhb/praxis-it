@@ -8,5 +8,5 @@
 |  3 | Sipgate                           | [sipgate.de](https://www.sipgate.de/)               |
 |  4 | easybell                          | [easybell.de](https://www.easybell.de/)             |
 |  5 | Wildix                            | [wildix.com/de](https://www.wildix.com/de/)             |
-|  6 | Vonage                            | [vonagebusiness.de](https://www.vonagebusiness.de/)          |
+|  6 | Vonage                            | [vonage.com](https://www.vonage.com/)          |
 |  7 | STARFACE                          | [starface.com](https://starface.com/)             |
