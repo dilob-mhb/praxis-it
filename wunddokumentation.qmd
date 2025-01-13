@@ -14,8 +14,6 @@ Wichtige Features, die bei der Bewertung von Wund-Apps berücksichtigt werden so
 8. **Visualisierung des Heilungsverlaufs**: Fotogalerien, Overlayfunktionen und Diagramme zur Verlaufskontrolle.  
 9. **Interoperabilität**: Schnittstellen zu anderen Systemen und Geräten, wie Praxissoftware oder digitalen Einwilligungslösungen.  
 
-Die Auswahl sollte an die spezifischen Bedürfnisse der Nutzer, wie Fachkräfte oder Patienten, angepasst werden.
-
 |    | Software         | Anbieter                          | URL                |
 |---:|:-----------------|:----------------------------------|:-------------------|
 |  0 | WundDoku App     | DRACO                             | [draco.de/wunddoku-app](https://www.draco.de/wunddoku-app/) |
