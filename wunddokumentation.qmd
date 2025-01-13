@@ -1,0 +1,30 @@
+# Wunddokumentation
+
+Wund-Apps unterstützen bei der digitalen Dokumentation, Vermessung und Überwachung von Wunden sowie bei der Auswahl geeigneter Behandlungsmaterialien.
+
+Wichtige Features, die bei der Bewertung von Wund-Apps berücksichtigt werden sollten, sind:  
+
+1. **Automatische Wundvermessung**: Präzise Erfassung von Wundgrößen, z. B. mithilfe von Fotos und Kalibrierungsmarkern.  
+2. **Dokumentationsfunktionen**: Leitliniengerechte und flexible Erfassung von Wunddaten, einschließlich Text, Bildern und optionaler Pflichtfelder.  
+3. **Produktempfehlungen**: Unterstützung bei der Auswahl geeigneter Materialien basierend auf Wundstatus und Kriterien.  
+4. **Datenmanagement**: Speicherung, Export und Integration der Dokumentationen in Praxissoftware oder als PDF.  
+5. **Teamkommunikation**: Echtzeitzugriff und kollaborative Funktionen zur Unterstützung im Behandlungsteam.  
+6. **Benutzerfreundlichkeit**: Intuitive Bedienung, Offline-Verfügbarkeit und einfache Schulungsmöglichkeiten.  
+7. **Datenschutz**: DSGVO-Konformität, inklusive sicherer Speicherung und Zugriffskontrolle.  
+8. **Visualisierung des Heilungsverlaufs**: Fotogalerien, Overlayfunktionen und Diagramme zur Verlaufskontrolle.  
+9. **Interoperabilität**: Schnittstellen zu anderen Systemen und Geräten, wie Praxissoftware oder digitalen Einwilligungslösungen.  
+
+Die Auswahl sollte an die spezifischen Bedürfnisse der Nutzer, wie Fachkräfte oder Patienten, angepasst werden.
+
+|    | Software         | Anbieter                          | URL                |
+|---:|:-----------------|:----------------------------------|:-------------------|
+|  0 | WundDoku App     | DRACO                             | [draco.de/wunddoku-app](https://www.draco.de/wunddoku-app/) |
+|  1 | Healico          | Healico                           | [healico.de](https://www.healico.de/) |
+|  2 | WundApp          | WundApp                           | [wundapp.at](https://wundapp.at/) |
+|  3 | imitoWound       | imito AG                          | [imito.io/de/imitowound](https://imito.io/de/imitowound) |
+|  4 | Cutimed Wound Navigator | Essity | [essity.de/cutimed](https://medical.essity.de/therapieloesungen/cutimed/cutimed-wound-navigator-app.html) |
+|  5 | Wundera          | Wundera                           | [wundera.health](https://www.wundera.health/) |
+|  6 | Die WundApp      | Lohmann & Rauscher                | [lohmann-rauscher.com/de-de/wundapp](https://www.lohmann-rauscher.com/de-de/service/lr-apps/die-wundapp/) |
+|  7 | Simply Wound App | Hartmann                          | [hartmann.info/simply-wound-app](https://www.hartmann.info/de-de/kundenloesungen/digitale-loesungen/simply-wound-app) |
+|  8 | WoundDesk        | WoundDesk                         | [wounddesk.com](https://wounddesk.com/) |
+|  9 | Recom WundApp    | Ascom                             | [ascom.com/recom-wundapp](https://www.ascom.com/de/uber-uns/vorteile-von-ascom/ecosystem-myco--friends/myco--friends-app-partner/recom-wundapp/) |
