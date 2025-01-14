@@ -1,5 +1,41 @@
 # Zahnärztliche Praxis
 
+Zahnärztliche Software bietet eine Vielzahl von Funktionen. Dazu gehören Praxismanagement, das die Verwaltung von Terminen, Patientenakten und Abrechnungen umfasst, sowie Elektronische Gesundheitsakten. Moderne Programme bieten auch Telemedizinlösungen, E-Rezept-Funktionen und mobile Zugriffs-Optionen, um die Flexibilität und Effizienz in der Praxis zu erhöhen.
+
+Zahnärztliche Software muss spezielle Anforderungen erfüllen, die sich von denen allgemeiner medizinischer Praxen unterscheiden. Dazu gehören detaillierte Zahndokumentationen wie Odontogramme für die Behandlung und Planung sowie die Integration von speziellen Bildgebungsverfahren wie intraorale und panoramische Röntgenaufnahmen. Diese Software muss auch Funktionen für die Planung von Prothesen und Kieferorthopädie und besondere Abrechnungscodes unterstützen, die nur in der Zahnmedizin verwendet werden. Darüber hinaus bieten sie oft Visualisierungen für Behandlungspläne und spezialisierte Systeme zur Patientenerinnerung, um die spezifischen Bedürfnisse und Abläufe in zahnärztlichen Praxen abzudecken.
+
+- **Allgemeine Verwaltungsfunktionen:**
+  - Terminplanung
+  - Patientenregistrierung und -verwaltung
+  - Kontaktmanagement
+
+- **Abrechnung und Finanzmanagement:**
+  - Handhabung von zahnärztlichen Abrechnungscodes
+  - Zahlungsprozessierung
+  - Finanzübersicht
+
+- **Berichterstattung und Analyse:**
+  - Praxiseinkommensberichte
+  - Patientendemografie-Berichte
+
+- **Patienteninformationen und klinische Verwaltung:**
+  - Elektronische Gesundheitsakten mit Integration in andere Systeme (Interoperabilität)
+  - Detallierte Zahndokumentation (Odontogramme)
+  - Behandlungsplanung mit Visualisierungen
+
+- **Bildgebungs-Integration:**
+  - Verknüpfung mit Bildgebungssystemen
+
+- **Kommunikation und Konnektivität:**
+  - Interoperabilität mit Laboren, Apotheken und Krankenhäusern (Telematikinfrastruktur)
+  - Telemedizin-Funktionen für Video-Sprechstunden
+  - Mobile Zugriffsmöglichkeiten auf Patienten- und Praxisdaten
+
+- **Spezialisierte zahnärztliche Funktionen:**
+  - Integration mit Dental-Labors für Prothesen- und Kieferorthopädiearbeiten
+  - Spezifische Abrechnungscodes für die Zahnmedizin
+  - Patientenerinnerungssysteme für regelmäßige Kontrollen
+
 |    | Software                     | URL                                                                                                                                        |
 |---:|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 |  0 | teemer                       | [ARZ.dent GmbH](http://www.teemer.de)                                                                                                      |
