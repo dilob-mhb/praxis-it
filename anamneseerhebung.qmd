@@ -1,5 +1,21 @@
 # Anamneseerhebung
 
+Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Patientendaten, Anamnesen, Schulung und Dokumentation.
+
+- **Patientenaufnahme und Anamnese**: Patienten können mit Tools wie Idana und Simpleprax ihre Anamnesebögen vorab digital ausfüllen, wobei Simpleprax auch die digitale Unterschrift und Verwaltung administrativer Dokumente ermöglicht.
+  
+- **Patientenschulung**: Digitale Plattformen wie Simpleprax, medudoc und MAIA bieten aktuelle, rechtlich abgesicherte Bildungsressourcen an, wobei medudoc durch Videos und eine personalisierte Herangehensweise punktuell ist.
+
+- **Dokumentation**: Die digitale Erfassung von Patientendaten, Behandlungsverläufen, Abrechnungen durch elektronische Signaturen sichert die rechtliche Konformität.
+
+- **Daten-Synchronisation**: Daten aus digitalen Anamnesen können über Schnittstellen wie GDT, VDDS, oder FHIR in Echtzeit mit Patientenakten synchronisiert werden, für eine Integration in verschiedene IT-Systeme.
+
+- **Formularmanagement**: Simpleprax bietet die Möglichkeit, Dokumentvorlagen anzupassen und spezifische Formulare zu erstellen.
+
+- **Prozessautomatisierung**: Software für digitale Anamnese automatisiert die Übertragung von Formularen, um die Abläufe in der Praxis zu optimieren.
+
+- **Nachsorge und Qualitätssicherung**: MAIA unterstützt spezifische Nachsorgemodule, und strukturierte Patientenbefragungen wie ePRO dienen der Qualitätssicherung.
+
 |    | Anbieter                          | URL                |
 |---:|:----------------------------------|:-------------------|
 |  0 | Tomes GmbH (Idana)                | [Idana](https://www.idana.com)            |
