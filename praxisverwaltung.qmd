@@ -107,4 +107,4 @@ Der TI-Score berücksichtigt Kriterien wie die Nutzbarkeit, die Effizienz und di
 
 : Übersicht Praxisverwaltungssoftware {.striped .hover}
 
-Quellen: System Usability Scale (SUS Mittelwert) und Net Promoter Score (NPS Mittelwert) und Wechselbereitschaft [@mullerpraxisverwaltungssysteme], TI-Score [@TI-Score2025]
+Quellen: System Usability Scale (SUS Mittelwert) und Net Promoter Score (NPS Mittelwert) und Wechselbereitschaft [@mullerpraxisverwaltungssysteme], TI-Score [@TI-Score2025], [@kbv2025]
