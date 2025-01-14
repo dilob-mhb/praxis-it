@@ -1,0 +1,14 @@
+# Buchhaltung
+
+|    | Software         | Anbieter                          | URL                |
+|---:|:-----------------|:----------------------------------|:-------------------|
+|  0 | Tiphce           | Tiphce GmbH                       | [tiphce.com](https://www.tiphce.com/)         |
+|  1 | Aequitixx        | Aequitixx GmbH                    | [aequitixx.de](https://www.aequitixx.de/)     |
+|  2 | Flowers Software | Flowers Software GmbH             | [flowers-software.de](https://www.flowers-software.de/de/) |
+|  3 | Amagno           | Amagno GmbH                       | [amagno.de](https://amagno.de/)               |
+|  4 | CompuKöln        | CompuKöln GmbH                    | [compukoeln.de](https://www.compukoeln.de/)   |
+|  5 | DocuWare         | DocuWare GmbH                     | [docuware.com](https://start.docuware.com/de/) |
+|  6 | Candis           | Candis GmbH                       | [candis.io](https://www.candis.io/)           |
+|  7 | Lexware          | Haufe-Lexware GmbH & Co. KG       | [lexware.de](https://www.lexware.de/)         |
+|  8 | ecoDMS           | ecoDMS GmbH                       | [ecodms.de](https://www.ecodms.de/de/)        |
+|  9 | bitfarm-Archiv   | bitfarm Informationssysteme GmbH  | [bitfarm-archiv.de](https://www.bitfarm-archiv.de/) |
