@@ -1,0 +1,15 @@
+# Kurznachrichtendienst
+
+Das Matrix-Protokoll ist ein offenes Standardprotokoll für dezentrale, sichere Kommunikation im Internet, das sowohl für Chat- als auch für Voip-Kommunikation genutzt werden kann. In Deutschland hat die Telematikinfrastruktur (TI), die für die Digitalisierung des Gesundheitswesens verantwortlich ist, das Matrix-Protokoll zur Grundlage für den TI-Messenger gemacht. Der TI-Messenger ermöglicht eine sichere und interoperable Kommunikation zwischen verschiedenen Akteuren im Gesundheitswesen, wie Ärzten, Apotheken und Krankenkassen. Er basiert auf Matrix, um eine Ende-zu-Ende-Verschlüsselung zu gewährleisten und die Integration in bestehende Systeme zu erleichtern.
+
+|    | Software            | Anbieter                | URL                |
+|---:|:--------------------|:------------------------|:-------------------|
+|  0 | Siilo               | Doctolib | [siilo.com](https://www.siilo.com/)          |
+|  1 | AKQUINET TIM | Akquinet AG             | [akquinet.com](https://akquinet.com/gesundheitswesen/tim.html)   |
+|  2 | AMP.chat | Awesome Technologies GmbH| [awesome-technologies.de](https://awesome-technologies.de/ti-messenger-awesome-technologies) |
+|  3 | Famedly             | Famedly GmbH            | [famedly.com](https://www.famedly.com/)      |
+|  4 | Gedisa              | Gedisa GmbH             | [gedisa.de](https://www.gedisa.de/)          |
+|  5 | samedi              | samedi GmbH             | [samedi.de](https://www.samedi.de/)          |
+|  6 | x-tention           | x-tention GmbH          | [x-tention.de](https://www.x-tention.de/)    |
+
+Quelle: [@gematik-ti-messenger]
