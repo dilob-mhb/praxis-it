@@ -12,25 +12,14 @@
 - **Hybride Telefonanlagen**: Kombinieren traditionelle ISDN- und IP-Telefonie, ermöglichen eine schrittweise Übergang zu VoIP.
 - **SIP Trunks**: Nutzen die Internetverbindung für Anrufe, kompatibel mit IP-Telefonanlagen.
 
-# Schlüsselmerkmale und Funktionen
+## Schlüsselmerkmale und Funktionen
 
-## Anrufmanagement:
+* Anrufmanagement: Anrufweiterleitung, Anrufumleitung, Anrufwarteschleifen, IVR-Systeme, Anrufabholung, Busy Lamp Field, Anrufaufzeichnung.
+* Kommunikationsfunktionen: Messaging, Videokonferenzen, Fax-to-Mail.
+* Benutzerverwaltung: Verwaltung von Durchwahlen, Anzeige des Präsenzstatus.
+* Integration: Integration mit Microsoft Teams, CRM-Systemen.
 
-- Anrufweiterleitung, Anrufumleitung, Anrufwarteschleifen, IVR-Systeme, Anrufabholung, Busy Lamp Field, Anrufaufzeichnung.
-
-## Kommunikationsfunktionen:
-
-- Messaging, Videokonferenzen, Fax-to-Mail.
-
-## Benutzerverwaltung:
-
-- Verwaltung von Durchwahlen, Anzeige des Präsenzstatus.
-
-## Integration:
-
-- Integration mit Microsoft Teams, CRM-Systemen.
-
-# Wichtige Überlegungen
+## Entscheidungsmerkmale
 
 - **Nummerportierung**: Übertragung bestehender Telefonnummern.
 - **Anrufqualität**: HD-Sprachqualität in modernen Systemen.

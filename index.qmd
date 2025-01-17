@@ -17,5 +17,3 @@ Ein zentraler Aspekt der Digitalisierung in Arztpraxen ist die Messung der digit
 ### Akzeptanz digitaler Technologien in Arztpraxen: Die Rolle der internen Kommunikation
 
 Die Akzeptanz digitaler Technologien hängt stark von der Kommunikation und dem Engagement der Praxismitglieder ab. Untersuchungen zeigen, dass interne Kommunikationsmuster entscheidend dafür sind, wie Technologien in den Arbeitsalltag integriert werden [@Lanham_2012]. Dies unterstreicht die Bedeutung einer ganzheitlichen Strategie, die nicht nur technische, sondern auch soziale und organisatorische Faktoren berücksichtigt.
-
-This is a Quarto book. To learn more about Quarto books visit <https://quarto.org/docs/books>.
