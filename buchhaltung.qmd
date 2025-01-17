@@ -1,5 +1,28 @@
 # Buchhaltung
 
+Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich aus den allgemeinen Anforderungen an moderne Buchhaltungs- und Dokumentenmanagementsysteme (DMS) ableiten lassen:
+
+## Dokumentenmanagement und Archivierung
+- Viele dieser Softwarelösungen bieten Funktionen für die Verwaltung und Archivierung von Dokumenten, sei es durch eigene DMS-Funktionen oder durch Integration mit externen DMS-Lösungen. Beispielsweise bietet **bitfarm-Archiv** ein umfassendes Dokumentenmanagementsystem mit Open-Source-Optionen und **ecoDMS** ist bekannt für seine kostengünstigen Dokumentenmanagementlösungen.
+
+## Automatisierung und Workflow-Optimierung
+- Automatisierung von Buchhaltungs- und Dokumentenprozessen ist ein zentraler Bestandteil dieser Software. **Amagno** betont beispielsweise den "Digital Workplace" durch hohe Automatisierung, und **DocuWare** bietet ebenfalls umfangreiche Automatisierungsfunktionen, um Workflows zu optimieren.
+
+## Sicherheit und Kompatibilität
+- Daten- und Datensicherheit sind bei allen Systemen ein Hauptanliegen, mit SSL-verschlüsselten Verbindungen und regelmäßigen Backups. Compliance mit gesetzlichen Anforderungen wie GoBD und GDPR ist ebenfalls ein gemeinsames Merkmal.
+
+## Benutzerfreundlichkeit und Integration
+- Eine intuitive Benutzeroberfläche und die Möglichkeit, mit anderen Geschäftssystemen zu integrieren, sind wichtige Merkmale. **Lexware** und **Candis** bieten beispielsweise Integrationen zu verschiedenen Finanz- und Buchhaltungsanwendungen.
+
+## Cloud-basierte und On-Premise-Optionen
+- Viele dieser Anbieter bieten sowohl Cloud- als auch On-Premise-Lösungen an, um unterschiedlichen Kundenbedürfnissen gerecht zu werden. **ecoDMS** und **bitfarm-Archiv** sind Beispiele für Anbieter, die beide Modelle unterstützen.
+
+## Skalierbarkeit
+- Die Softwareprodukte sind oft darauf ausgelegt, mit dem Wachstum des Unternehmens zu skalieren, sodass sie sowohl für kleine Unternehmen als auch für große Konzerne geeignet sind.
+
+## Kostenmodell
+- Die Preismodelle variieren, aber es gibt eine Tendenz zu flexiblen Lizenzierungsmodellen, die sowohl monatliche Abonnements (SaaS) als auch einmalige Kaufpreise umfassen können.
+
 |    | Software         | Anbieter                          | URL                |
 |---:|:-----------------|:----------------------------------|:-------------------|
 |  0 | Tiphce           | Tiphce GmbH                       | [tiphce.com](https://www.tiphce.com/)         |
