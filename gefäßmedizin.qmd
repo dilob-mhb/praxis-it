@@ -6,6 +6,8 @@
 
 **biolitec App (biolitec AG)** ist darauf ausgelegt, medizinische Fachkräfte bei der Anwendung von Lasertherapien in verschiedenen medizinischen Bereichen wie Urologie, Phlebologie, HNO und Ästhetik zu unterstützen und Erfahrungen auszutauschen.
 
+**Dopplex Vascular Reporter von Huntleigh Healthcare** unterstützt die Gefäßdiagnostik durch die Visualisierung und Dokumentation von Doppler-Untersuchungen. Mit dieser Software können Ärzte Wellenformen in Echtzeit analysieren, speichern und drucken
+
 |    | Software         | Anbieter                          | URL                |
 |---:|:-----------------|:----------------------------------|:-------------------|
 |  0 | trackPAD         | Rocket Apes GmbH                  | [rocket-apes.com/apps/trackpad](https://rocket-apes.com/apps/trackpad) |
