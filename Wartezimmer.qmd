@@ -1,0 +1,10 @@
+# Wartezimmer
+
+Warteraummanagement kann durch Technologien wie Selbstanmeldesysteme, Patientenaufrufsysteme und digitale Unterhaltungslösungen optimiert werden, um Wartezeiten zu verkürzen und den Patientenfluss effizienter zu gestalten. Diese Systeme verbessern die Patientenerfahrung, reduzieren den administrativen Aufwand und helfen dabei, den Datenschutz zu wahren.
+
+| Index | Produkt | Unternehmen | URL |
+|---|---|---|---| 
+| 1 | mediDOK eTerminal | mediDOK Software Entwicklungsgesellschaft mbH | [eterminal.de](https://eterminal.de/) |
+| 2 | Quickticket | Quickticket GmbH | [quickticket.io](https://quickticket.io) |
+| 3 | Oxygen.Q - Patientenaufrufsystem | DOOH media GmbH | [OxygenQ.net](http://www.OxygenQ.net) |
+| 4 | Wartezimmer-TV | Meyer-Wagenfeld | [meyer-wagenfeld.de](http://www.meyer-wagenfeld.de) |
