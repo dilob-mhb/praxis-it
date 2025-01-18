@@ -46,3 +46,4 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 | 18  | privadis          | MCC Medical CareCapital GmbH      | [privadis.de](https://www.privadis.de/)                     |
 | 19  | Simba n³          | Simba n³ GmbH                     | [nhochdrei.de](https://www.nhochdrei.de/branchen-und-bereiche/gesundheitswesen/uebersicht/) |
 | 20  | Honorarfuchs      | Honorarfuchs GmbH                 | [honorarfuchs.de](https://honorarfuchs.de/)                 |
+| 21  | BFS health finance | BFS health finance GmbH | [meinebfs.de](https://meinebfs.de/) |
