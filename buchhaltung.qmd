@@ -35,3 +35,8 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 |  7 | Lexware          | Haufe-Lexware GmbH & Co. KG       | [lexware.de](https://www.lexware.de/)         |
 |  8 | ecoDMS           | ecoDMS GmbH                       | [ecodms.de](https://www.ecodms.de/de/)        |
 |  9 | bitfarm-Archiv   | bitfarm Informationssysteme GmbH  | [bitfarm-archiv.de](https://www.bitfarm-archiv.de/) |
+| 10  | Solvi                  | Solvi GmbH                                  | [solvi.de](https://www.solvi.de/)                |
+| 11  | CURE Finance           | CURE Finance GmbH                           | [cure.finance](https://cure.finance/)           |
+| 12  | Nelly                  | Nelly GmbH                                  | [getnelly.de](https://www.getnelly.de/)         |
+| 13  | IWW-PraxisModul        | IWW Institut                               | [iww.de](https://www.iww.de/)                   |
+| 14  | Meda3                 | Meda3 GmbH                                 | [meda3.de](https://www.meda3.de/)               |
