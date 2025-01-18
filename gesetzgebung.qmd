@@ -30,3 +30,14 @@ In Deutschland gibt es zahlreiche gesetzliche Regelungen, die die Gesundheitsver
   Definiert Rahmenvereinbarungen, die Anforderungen an Praxisverwaltungssysteme (PVS) setzen, um eine sichere und effiziente Verwaltung von Patienteninformationen zu gewährleisten.
 
 Diese gesetzlichen Bestimmungen bilden die Grundlage für die Digitalisierung und den sicheren Datenfluss in der Gesundheitsversorgung
+
+# Übersicht über zentrale Gesetzesvorhaben im Gesundheitswesen
+
+* [Bundesministerium für Gesundheit - E-Health-Gesetz](https://www.bundesgesundheitsministerium.de/themen/digitalisierung/e-health-gesetz.html)
+* [Bundesregierung - DigiG](https://www.bundesgesundheitsministerium.de/ministerium/gesetze-und-verordnungen/guv-20-lp/digig.html)
+* [Bundesministerium für Gesundheit - TSVG](https://www.bundesgesundheitsministerium.de/tsvg.html)
+* [Bundesministerium für Gesundheit - GDNG](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gesundheitsdatennutzungsgesetz.html)
+* [Bundesministerium für Gesundheit - GSAV](https://www.bundesgesundheitsministerium.de/gsav.html)
+* [Bundesministerium für Gesundheit - DVG](https://www.bundesgesundheitsministerium.de/digitale-versorgung-gesetz.html)
+* [Bundesministerium für Gesundheit - PDSG](https://www.bundesgesundheitsministerium.de/pdsg.html)
+* [Bundesministerium für Gesundheit - DVPMG](https://www.bundesgesundheitsministerium.de/dvpmg.html)
