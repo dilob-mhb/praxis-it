@@ -14,12 +14,13 @@ book:
     - praxisverwaltung.qmd
     - zahnarzt.qmd
     - ambulantes-operieren.qmd
-    - anamneseerhebung.qmd
-    - wunddokumentation.qmd
     - telefonanlage.qmd
     - telefonassistenz.qmd
     - kimdienst.qmd
     - kurznachrichtendienst.qmd
+    - wartezimmer.qmd
+    - anamneseerhebung.qmd
+    - wunddokumentation.qmd
     - buchhaltung.qmd
     - qualitaetsmanagement.qmd
     - dienstplanung.qmd
