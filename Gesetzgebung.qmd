@@ -1,0 +1,32 @@
+# Gesetzgebung
+
+In Deutschland gibt es zahlreiche gesetzliche Regelungen, die die Gesundheitsversorgung und Nutzung digitaler Gesundheitsdienste betreffen:
+
+- **§ 11 Abs. 1 S. 1 Apothekengesetz (ApoG)**: [Link zum Gesetz](https://www.gesetze-im-internet.de/apog/__11.html)  
+  Regelt, dass Erlaubnisinhaber und das Personal von Apotheken keine Rechtsgeschäfte oder Absprachen tätigen dürfen, die die bevorzugte Lieferung bestimmter Arzneimittel zum Ziel haben, es sei denn, es gibt gesetzliche Ausnahmen.
+
+- **§ 310 SGB V**: [Link zum Gesetz](https://www.gesetze-im-internet.de/sgb_5/__310.html)  
+  Bezieht sich auf die Aufgaben der Gesellschaft für Telematik, die für die Entwicklung und den Betrieb der Telematikinfrastruktur verantwortlich ist, um den sicheren Austausch von Gesundheitsdaten zu gewährleisten.
+
+- **§ 360 SGB V**: [Link zum Gesetz](https://www.gesetze-im-internet.de/sgb_5/__360.html)  
+  Legt fest, dass vertragsärztliche elektronische Verordnungen über die Telematikinfrastruktur übermittelt und verarbeitet werden müssen, sobald die notwendigen Dienste und Komponenten flächendeckend verfügbar sind.
+
+- **§ 291 SGB V**: [Link zum Gesetz](https://www.gesetze-im-internet.de/sgb_5/__291.html)  
+  Verpflichtet die Krankenkassen dazu, für jeden Versicherten eine elektronische Gesundheitskarte (eGK) auszustellen, die als Schlüssel für den Zugang zu digitalen Gesundheitsdiensten dient.
+
+- **§ 341 und § 342 SGB V**: [Link zu § 341 SGB V](https://www.gesetze-im-internet.de/sgb_5/__341.html) und [Link zu § 342 SGB V](https://www.gesetze-im-internet.de/sgb_5/__342.html)  
+  Stellen sicher, dass die elektronische Patientenakte (ePA) den Versicherten zur Verfügung steht und deren Nutzung freiwillig ist, mit dem Ziel, Gesundheitsinformationen einrichtungs- und sektorenübergreifend zu nutzen.
+
+- **§ 365 Absatz 1 SGB V**: [Link zum Gesetz](https://www.gesetze-im-internet.de/sgb_5/__365.html)  
+  Beschreibt die Vereinbarung über technische Verfahren zur Videosprechstunde, die von der Kassenärztlichen Bundesvereinigung und dem Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft für Telematik getroffen wird. Diese Regelungen sind auch in der Anlage 31b zum Bundesmantelvertrag-Ärzte (BMV-Ä) festgelegt.
+
+- **§ 390 SGB V**: [Link zum Gesetz](https://www.gesetze-im-internet.de/sgb_5/__390.html)  
+  Behandelt die IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung, um die Integrität und Vertraulichkeit der Daten zu schützen.
+
+- **§ 75B SGB V**: [Link zum Gesetz](https://www.gesetze-im-internet.de/sgb_5/__75b.html)  
+  Regelt die Übermittlung von Patientendaten, insbesondere in Bezug auf die elektronische Verarbeitung und Übermittlung von Gesundheitsdaten.
+
+- **§ 332b SGB V**: [Link zum Gesetz](https://www.gesetze-im-internet.de/sgb_5/__332b.html)  
+  Definiert Rahmenvereinbarungen, die Anforderungen an Praxisverwaltungssysteme (PVS) setzen, um eine sichere und effiziente Verwaltung von Patienteninformationen zu gewährleisten.
+
+Diese gesetzlichen Bestimmungen bilden die Grundlage für die Digitalisierung und den sicheren Datenfluss in der Gesundheitsversorgung
