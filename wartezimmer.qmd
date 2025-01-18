@@ -9,3 +9,4 @@ Warteraummanagement kann durch Technologien wie Selbstanmeldesysteme, Patientena
 | 3 | Oxygen.Q - Patientenaufrufsystem | DOOH media GmbH | [OxygenQ.net](http://www.OxygenQ.net) |
 | 4 | Wartezimmer-TV | Meyer-Wagenfeld | [meyer-wagenfeld.de](http://www.meyer-wagenfeld.de) |
 | 5  | Patiententerminal | [patiententerminal.de](https://patiententerminal.de/) |
+| 6 || ArztPager | Alpha11 GmbH | [arzt-pager.de](https://arzt-pager.de/) |
