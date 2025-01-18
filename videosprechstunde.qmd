@@ -1,0 +1,36 @@
+# Videosprechstunde
+
+**Gemeinsame Merkmale von Videosprechstundenprodukten:**
+
+- **Video- und Audio-Kommunikation**: Alle Anbieter bieten eine Plattform zur visuellen und akustischen Interaktion zwischen Arzt und Patient.
+- **Datensicherheit**: Verschlüsselung und Datenschutz, um die Vertraulichkeit medizinischer Informationen zu gewährleisten.
+- **Benutzerfreundlichkeit**: Die meisten Systeme sind so gestaltet, dass sowohl Patienten als auch Ärzte sie ohne große Einarbeitung nutzen können.
+- **Terminplanung**: Integration oder zumindest die Möglichkeit der Terminverwaltung, um den Ablauf zu organisieren.
+- **Dokumentenfreigabe**: Die Funktion, während oder nach der Sitzung Dokumente zu teilen.
+
+**Unterscheidende Merkmale:**
+
+- **Integration mit anderen Systemen**: Die Tiefe der Integration mit Praxisverwaltungssystemen kann stark variieren. Einige bieten umfassende APIs, andere vielleicht nur rudimentäre Schnittstellen.
+- **Zusätzliche Funktionen**: Dies kann von Screensharing, über spezielle Module für verschiedene medizinische Fachbereiche bis hin zu erweiterten Chat-Funktionen oder der Möglichkeit, Rezepte direkt zu verschicken, reichen.
+- **Anpassungsmöglichkeiten**: Während einige Plattformen stark anpassbar sind, um den individuellen Bedürfnissen zu entsprechen (z.B. durch White-Label-Lösungen), sind andere eher standardisiert und weniger flexibel.
+- **Mehrsprachigkeit**: Die Verfügbarkeit in mehreren Sprachen kann ein Unterscheidungsmerkmal sein, besonders für internationale oder kulturell vielfältige Patientengruppen.
+- **Qualität der Verbindung**: Die technische Ausstattung und Serverinfrastruktur der Anbieter kann zu unterschiedlichen Qualitäten in der Video- und Audioübertragung führen.
+- **Support und Schulung**: Der Umfang und die Art der angebotenen Unterstützung, sei es durch Schulungsmaterialien, Live-Support oder umfassende FAQs, variiert.
+- **Compliance und Zertifizierung**: Spezifischen Zertifizierungen wie bspw. ISO 27001.
+
+Diese Merkmale zeigen, dass, obwohl die Grundfunktion einer Videosprechstunde bei allen Anbietern ähnlich ist, die Details in der Umsetzung und die zusätzlichen Dienstleistungen erhebliche Unterschiede darstellen.
+
+| Index | Product | Company | URL |
+|---|---|---|---|
+| 1 | m.Doc Smart Practice | m.Doc GmbH | [smart-practice.mdoc.one](http://smart-practice.mdoc.one/) |
+| 2 | VIOMEDI | Facharzt-Sofort-GmbH | [viomedi.de](http://www.viomedi.de) |
+| 3 | Doctolib | Doctolib GmbH | [info.doctolib.de](https://info.doctolib.de) |
+| 4 | samedi | samedi GmbH | [samedi.com](https://www.samedi.com/?utm_campaign=medxsmart&utm_source=vergleichsportale&utm_content=homepage) |
+| 5 | RED connect plus | RED Medical Systems GmbH | [redmedical.de](https://www.redmedical.de/) |
+| 6 | Medikonsil-direkt | Dr. Lipp & Partner GbR | [medikonsil-direkt.de](http://www.medikonsil-direkt.de) |
+| 7 | Doccura – Ihre Online Videosprechstunde | Bayerische TelemedAllianz GmbH | [doccura.de](https://www.doccura.de/) |
+| 8 | arzt-direkt | zollsoft GmbH | [arzt-direkt.de](https://arzt-direkt.de) |
+| 9 | ak-WhiteLabel | arztkonsultation ak GmbH | [arztkonsultation.de](https://arztkonsultation.de/) |
+| 10 | ZAVA sprechstunde.online | ZAVA sprechstunde.online | [sprechstunde.online](https://sprechstunde.online/) |
+| 11 | TeleClinic | TeleClinic GmbH | [teleclinic.com](https://www.teleclinic.com/) |
+| 12 | Clickdoc | CompuGroup Medical SE & Co. KGaA | [clickdoc.fr](https://clickdoc.fr/) |

@@ -1,0 +1,16 @@
+# Gefäßmedizin
+
+**trackPAD (Rocket Apes GmbH)** zielt auf die Unterstützung von Patienten mit peripherer arterieller Verschlusskrankheit (pAVK) ab. In den Bereichen Gesundheitsmanagement und wissenschaftliche Forschung bietet die App durch Gamification und Schrittzähler eine Möglichkeit, Patienten zu motivieren, ihre Gehtrainings durchzuführen, was direkt zur Verbesserung ihrer Lebensqualität beiträgt. Für Forscher ist trackPAD ein wertvolles Werkzeug, indem es Daten für wissenschaftliche Analysen durch mobilen Datensammlungsansatz bereitstellt.
+
+**LipoCheck App (LipoCheck GmbH)** konzentriert sich auf das Management von Lipödem, einer Erkrankung, die hauptsächlich Frauen betrifft. Die App deckt die Bereiche Diagnose, Therapie und Selbstmanagement ab, sowie die Dokumentation von Symptomen und Therapien. Sie bietet Lipödem-Patientinnen umfassende Unterstützung durch Gesundheitsinformationen, Ernährungsrezepten, Übungsplänen und Zugang zu einem Netzwerk von Spezialisten. Für Ärzte erleichtert die App die Kommunikation und Dokumentation durch die Bereitstellung von Arztbriefen und Therapieempfehlungen.
+
+**biolitec App (biolitec AG)** ist darauf ausgelegt, medizinische Fachkräfte bei der Anwendung von Lasertherapien in verschiedenen medizinischen Bereichen wie Urologie, Phlebologie, HNO und Ästhetik zu unterstützen und Erfahrungen auszutauschen.
+
+**Dopplex Vascular Reporter von Huntleigh Healthcare** unterstützt die Gefäßdiagnostik durch die Visualisierung und Dokumentation von Doppler-Untersuchungen. Mit dieser Software können Ärzte Wellenformen in Echtzeit analysieren, speichern und drucken
+
+|    | Software         | Anbieter                          | URL                |
+|---:|:-----------------|:----------------------------------|:-------------------|
+|  0 | trackPAD         | Rocket Apes GmbH                  | [rocket-apes.com/apps/trackpad](https://rocket-apes.com/apps/trackpad) |
+|  1 | LipoCheck App    | LipoCheck GmbH                    | [lipocheck.de/lipodem-app](https://www.lipocheck.de/lipodem-app) |
+|  2 | biolitec App     | biolitec AG                       | [biolitec.de/biolitec-app](https://www.biolitec.de/unternehmen/biolitec-app.html) |
+|  3 | Dopplex Vascular Reporter | Huntleigh Healthcare | [huntleigh.de](www.huntleigh.de/product-category/dopplex-gefasdiagnostik/dokumentation-und-berichterstattung/) |
