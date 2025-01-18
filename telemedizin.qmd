@@ -1,0 +1,11 @@
+# Telemedizin
+
+|    | Software         | Anbieter                          | URL                |
+|---:|:-----------------|:----------------------------------|:-------------------|
+| 1 | Qurasoft | Qurasoft GmbH | [qurasoft.de](https://qurasoft.de/) |
+| 2 | MedKitDoc | MedKitDoc GmbH | [medkitdoc.de](https://medkitdoc.de/) |  
+| 3 | TytoCare | TytoCare Inc. | [tytocare.com](https://www.tytocare.com/providers-telehealth-hub/) | 
+| 4 | Getemed | Getemed Medizin- und Informationstechnik GmbH | [getemed.de](https://www.getemed.de/en/) |
+| 5 | Biotronik | Biotronik SE & Co. KG | [biotronik.com](https://www.biotronik.com/de-de/patienten/herzmonitoring/home-monitoring) |
+| 6 | Medtronic | Medtronic GmbH | [medtronic.com](https://www.medtronic.com/de-de/patienten/produkte-therapien/pacemaker/carelink.html) |  
+| 7 | Abbott | Abbott Laboratories | [abbott.com](https://www.cardiovascular.abbott/de/de/hcp/products/cardiac-rhythm-management/connectivity-remote-care.html) |  

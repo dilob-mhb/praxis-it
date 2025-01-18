@@ -34,3 +34,8 @@ Diese Merkmale zeigen, dass, obwohl die Grundfunktion einer Videosprechstunde be
 | 10 | ZAVA sprechstunde.online | ZAVA sprechstunde.online | [sprechstunde.online](https://sprechstunde.online/) |
 | 11 | TeleClinic | TeleClinic GmbH | [teleclinic.com](https://www.teleclinic.com/) |
 | 12 | Clickdoc | CompuGroup Medical SE & Co. KGaA | [clickdoc.fr](https://clickdoc.fr/) |
+| 13 | Fernarzt | HealthHero Germany GmbH | Fernarzt[Fernarzt.com](https://www.fernarzt.com/) |
+| 14 | Jameda | Jameda GmbH | [jameda.de](https://pro.jameda.de/produkte/funktionen/videosprechstunde) |
+| 15 | MediQuit | MediQuit GmbH | [mediquit.de](https://mediquit.de/) |
+| 16 | Patientus | Patientus GmbH | [patientus.de](https://www.patientus.de/) |
+| 17 | DrAnsay | DrAnsay GmbH | [dransay.com](https://dransay.com/) |

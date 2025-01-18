@@ -20,12 +20,16 @@ book:
     - kurznachrichtendienst.qmd
     - terminbuchung.qmd
     - videosprechstunde.qmd
+    - telemedizin.qmd
     - wartezimmer.qmd
     - anamneseerhebung.qmd
     - wunddokumentation.qmd
+    - gefaessmedizin.qmd
     - buchhaltung.qmd
     - qualitaetsmanagement.qmd
     - dienstplanung.qmd
+    - datenschutz.qmd
+    - gesetzgebung.qmd
     - diskurs.qmd
     - zusammenfassung.qmd
     - referenzen.qmd
