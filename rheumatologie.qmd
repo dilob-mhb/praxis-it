@@ -1,0 +1,44 @@
+# Rheumatologie
+
+Software in der Rheumatologie zeichnet sich durch spezifische Funktionen wie Anamneseerhebung, Dokumentation von Krankheitsverläufen und Scoring-Systeme für die Bewertung von Krankheitsaktivität aus. 
+
+| Product                  | Company                         | URL                                   |
+|--------------------------|---------------------------------|---------------------------------------|
+| RheDAT                   | EMIL Software GmbH              | [rhedat.de/](http://www.rhedat.de/) |
+| RheMIT                   | EMIL Software GmbH              | [bdrh-service.de/rhemit/](https://www.bdrh-service.de/rhemit/) |
+| RheCORD                  | EMIL Software GmbH              | [rhecord.de/](https://www.rhecord.de/) |
+| RhePort                  | Rheuma-Online GmbH              | [rheport.de/](https://www.rheport.de/) |
+| Rheuma-VOR               | BDRh Service GmbH               | [rheuma-vor.de/](https://www.rheuma-vor.de/) |
+| Joint-Pain-Assessment-Tool (JPAST) | -                          | -                                     |
+| Bechterew-check.de       | Deutsche Vereinigung Morbus Bechterew e.V. | [bechterew-check.de](https://bechterew-check.de) |
+| Digital Rheuma Lab       | -                               | [digitalrheumalab.de/](https://www.digitalrheumalab.de/) |
+| Mida Rheuma® App         | MIDA GmbH                       | [midaia.de/](https://midaia.de/) |
+| RheumaDok                | EMIL Software GmbH              | [rheumadok.de/](https://www.rheumadok.de/) |
+| EMIL                     | EMIL Software GmbH              | [itc-ms.de/](https://www.itc-ms.de/) |
+| DocuMed.rh               | -                               | -                                     |
+| RheumaNet | Deutsche Gesellschaft für Rheumatologie e.V. | [rheumanet.org/](https://www.rheumanet.org/) |
+
+Die [Kommission "Digitale Rheumatologie"](https://dgrh.de/Start/DGRh/Die-Gesellschaft/Kommissionen-Amtszeit-2023-2025/Kommission-Digitale-Rheumatologie.html)
+ der Deutschen Gesellschaft für Rheumatologie (DGRh) konzentriert sich auf die Digitalisierung in der Rheumatologie. Ihre Aufgaben umfassen die Erarbeitung von Empfehlungen zur Nutzung digitaler Anwendungen und Technologien in der rheumatologischen Praxis, die Verbesserung der Patientenversorgung durch digitale Lösungen und die Förderung der Forschung in diesem Bereich. Diese Kommission spielt eine zentrale Rolle bei der Integration neuer digitaler Tools und Methoden zur Optimierung der Diagnose, Behandlung und Nachsorge von Patienten mit rheumatischen Erkrankungen.
+
+Die Tabelle aus dem "Positionspapier der Kommission zur Nutzung digitaler Anwendungen in der Rheumatologie" der Deutschen Gesellschaft für Rheumatologie e.V. (DGRh) zeigt eine Auswahl von Apps, die für rheumatologische Zwecke nützlich sind und die Bewertungen im Rahmen einer Umfrage auf dem Rheumatologischen Kongress 2018.
+
+| App Name             | Zweck                      | Anteil an App-Empfehlungen für Kollegen n=52, n (%) | Anteil an App-Empfehlungen für Patienten n=8, n (%) | Preis         | iOS | Android |
+|----------------------|----------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------|-----|---------|
+| Labcal              | Berechnungstool           | 1 (2)                                              | X                                                   | Kostenlos     | Ja  | Nein    |
+| Medcalx             | Berechnungstool           | 4 (8)                                              | X                                                   | Kostenlos     | Ja  | Nein    |
+| PAH – Woche für Woche | Berechnungstool           | 1 (2)                                              | X                                                   | Kostenlos     | Ja  | Ja      |
+| Calculate by QxMD   | Berechnungstool           | 4 (8)                                              | X                                                   | Kostenlos     | Ja  | Ja      |
+| Rheuma helper       | Berechnungstool           | 7 (13)                                             | 1 (13)                                              | Kostenlos     | Ja  | Ja      |
+| Ada                 | Diagnoseunterstützung      | 1 (2)                                              | 1 (13)                                              | Kostenlos     | Ja  | Ja      |
+| Isabel              | Diagnoseunterstützung      | 1 (2)                                              | X                                                   | Kostenpflichtig | Nein | Nein    |
+| AmiKo Desitin       | Medikamenteninformation   | 1 (2)                                              | X                                                   | Kostenlos     | Ja  | Ja      |
+| Arznei aktuell      | Medikamenteninformation   | 11 (21)                                            | 1 (13)                                              | Kostenlos     | Ja  | Ja      |
+| Arzneimittel Pocket | Medikamenteninformation   | 2 (4)                                              | X                                                   | Kostenlos     | Ja  | Ja      |
+| Corticonverter      | Medikamenteninformation   | 1 (2)                                              | X                                                   | Kostenlos     | Nein | Nein    |
+| EKO2go              | Medikamenteninformation   | 1 (2)                                              | X                                                   | Kostenlos     | Ja  | Ja      |
+| Embryotox           | Medikamenteninformation   | 2 (4)                                              | 3 (38)                                              | Kostenlos     | Ja  | Ja      |
+| Pneumotox           | Medikamenteninformation   | 1 (2)                                              | X                                                   | Kostenlos     | Nein | Nein    |
+| RheumaLive          | Symptom-Tracking          | 2 (4)                                              | 2 (25)                                              | Kostenlos     | Ja  | Ja      |
+
+Quelle: [@knitza2020ziele]
