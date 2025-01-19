@@ -12,8 +12,6 @@ book:
     - index.qmd
     - einleitung.qmd
     - praxisverwaltung.qmd
-    - zahnarzt.qmd
-    - ambulantes-operieren.qmd
     - telefonanlage.qmd
     - telefonassistenz.qmd
     - kimdienst.qmd
@@ -25,6 +23,9 @@ book:
     - anamneseerhebung.qmd
     - wunddokumentation.qmd
     - gefaessmedizin.qmd
+    - rheumatologie.qmd
+    - ambulantes-operieren.qmd
+    - zahnarzt.qmd
     - buchhaltung.qmd
     - qualitaetsmanagement.qmd
     - dienstplanung.qmd
