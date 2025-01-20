@@ -14,7 +14,6 @@ book:
     - index.qmd
     - einleitung.qmd
     - praxisverwaltung.qmd
-    - wartezimmer.qmd
     - anamneseerhebung.qmd
     - medizinisches-wissen.qmd
     - part: "Kommunikation"
@@ -26,6 +25,7 @@ book:
       - terminbuchung.qmd
       - videosprechstunde.qmd
       - telemedizin.qmd
+      - wartezimmer.qmd
     - part: "Fachdisziplinen"
       chapters:
       - gefaessmedizin.qmd
