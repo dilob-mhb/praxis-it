@@ -8,30 +8,38 @@ book:
   repo-url: "https://github.com/bsenst/praxis-it"
   issue-url: "https://github.com/bsenst/praxis-it/issues"
   repo-actions: ["edit", "issue"]
+  sidebar:
+    collapse-level: 1
   chapters:
     - index.qmd
     - einleitung.qmd
     - praxisverwaltung.qmd
-    - telefonanlage.qmd
-    - telefonassistenz.qmd
-    - kimdienst.qmd
-    - kurznachrichtendienst.qmd
-    - terminbuchung.qmd
-    - videosprechstunde.qmd
-    - telemedizin.qmd
     - wartezimmer.qmd
     - anamneseerhebung.qmd
     - medizinisches-wissen.qmd
-    - wunddokumentation.qmd
-    - gefaessmedizin.qmd
-    - rheumatologie.qmd
-    - ambulantes-operieren.qmd
-    - zahnarzt.qmd
-    - buchhaltung.qmd
-    - qualitaetsmanagement.qmd
-    - dienstplanung.qmd
-    - datenschutz.qmd
-    - gesetzgebung.qmd
+    - part: "Kommunikation"
+      chapters:
+      - telefonanlage.qmd
+      - telefonassistenz.qmd
+      - kimdienst.qmd
+      - kurznachrichtendienst.qmd
+      - terminbuchung.qmd
+      - videosprechstunde.qmd
+      - telemedizin.qmd
+    - part: "Fachdisziplinen"
+      chapters:
+      - gefaessmedizin.qmd
+      - wunddokumentation.qmd
+      - rheumatologie.qmd
+      - ambulantes-operieren.qmd
+      - zahnarzt.qmd
+    - part: "Verwaltung"
+      chapters:
+      - buchhaltung.qmd
+      - qualitaetsmanagement.qmd
+      - dienstplanung.qmd
+      - datenschutz.qmd
+      - gesetzgebung.qmd
     - diskurs.qmd
     - zusammenfassung.qmd
     - referenzen.qmd
