@@ -1,0 +1,26 @@
+# Digitale Plattformen medizinisches Wissen
+
+## Für Gesundheitspersonal
+
+| Product                  | Company                  | URL                                                                 |
+|--------------------------|--------------------------|---------------------------------------------------------------------|
+| Amboss                   | Amboss GmbH              | [amboss.com](https://www.amboss.com/de/aerztinnen-aerzte)           |
+| Deximed                  | Deximed GmbH             | [deximed.de](https://deximed.de/)                                   |
+| DocCheck Flexikon        | DocCheck AG              | [doccheck.com](https://www.doccheck.com/de)                         |
+| KBV2GO                   | Kassenärztliche Bundesvereinigung    | [kbv.de](https://www.kbv.de/html/kbv2go.php)                        |
+| Medscape                 | WebMD LLC                | [medscape.com](https://www.medscape.com/)                           |
+| Coliquio                 | Coliquio GmbH            | [coliquio.de](https://www.coliquio.de/)                             |
+| UpToDate                 | Wolters Kluwer Health    | [uptodate.com](https://www.uptodate.com/contents/search)            |
+| CME MedCram              | MedCram                  | [cme.medcram.de](https://cme.medcram.de/)                           |
+| CME-MedLearning          | MedLearning GmbH         | [cme.medlearning.de](https://cme.medlearning.de/)                   |
+| derCampus                | derCampus GmbH           | [dercampus.eu](https://www.dercampus.eu/)                           |
+| Medical Tribune          | Medical Tribune Verlag   | [medical-tribune.de](https://www.medical-tribune.de/fortbildung)    |
+| NowToGo                  | MedizinToGo GmbH         | [now.medizintogo.de](https://now.medizintogo.de/)                   |
+| Nerdfallmedizin          | -                        | [nerdfallmedizin.blog](https://nerdfallmedizin.blog/)               |
+
+## Für PatientInnen
+
+| Product                  | Company                  | URL                                                                 |
+|--------------------------|--------------------------|---------------------------------------------------------------------|
+| Was hab ich              | -                        | [washabich.de](https://washabich.de/)                               |
+| Gesund.bund.de           | Bundesministerium für Gesundheit | [gesund.bund.de](https://gesund.bund.de/)                           |
