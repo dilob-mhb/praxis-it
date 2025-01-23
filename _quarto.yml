@@ -56,7 +56,7 @@ nocite: |
 format:
   html:
     theme: cosmo
-    # include-in-header: gtm_code_head.html
+    include-in-header: gtm_code_head.html
     include-before-body: gtm_code_body.html
   pdf:
     documentclass: scrreprt
