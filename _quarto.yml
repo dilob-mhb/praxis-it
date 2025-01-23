@@ -10,6 +10,10 @@ book:
   repo-actions: ["edit", "issue"]
   sidebar:
     collapse-level: 1
+  cookie-consent:
+    language: de
+  google-analytics: 
+    tracking-id: "G-THQ4G1SE9W"
   chapters:
     - index.qmd
     - einleitung.qmd
@@ -51,8 +55,7 @@ nocite: |
 format:
   html:
     theme: cosmo
+    # include-in-header: gtm_code_head.html
+    include-before-body: gtm_code_body.html
   pdf:
     documentclass: scrreprt
-
-
-
