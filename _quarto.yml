@@ -32,6 +32,7 @@ book:
       - wartezimmer.qmd
     - part: "Fachdisziplinen"
       chapters:
+      - dermatologie.qmd
       - gefaessmedizin.qmd
       - wunddokumentation.qmd
       - rheumatologie.qmd
