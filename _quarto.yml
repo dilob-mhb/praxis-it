@@ -39,6 +39,7 @@ book:
       - rheumatologie.qmd
       - ambulantes-operieren.qmd
       - zahnarzt.qmd
+      - impfsoftware.qmd
     - part: "Verwaltung"
       chapters:
       - buchhaltung.qmd
