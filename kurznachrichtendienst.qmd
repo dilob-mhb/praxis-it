@@ -1,6 +1,6 @@
 # Kurznachrichtendienst
 
-## Kommunikation zwischen PatientInnen - Behandelnde
+## Kommunikation zwischen PatientInnen & Behandelnden
 
 Die Kurznachrichtendienste zur Kommunikation zwischen PatientInnen und ÄrztInnen bieten sich verschiedene Möglichkeiten, können drei Gruppen zugeordnet werden. Diese Gruppe bieten ähnliche Funktionen unterscheiden sich aber in ihrer Historie, technischen Spezifikation und Sicherheitseigenschaft.
 
@@ -28,6 +28,6 @@ Das Matrix-Protokoll ist ein offenes Standardprotokoll für dezentrale, sichere 
 |  5 | samedi              | samedi GmbH             | [samedi.de](https://www.samedi.de/)          |
 |  6 | x-tention           | x-tention GmbH          | [x-tention.de](https://www.x-tention.de/)    |
 
-: Kurznachrichtendienste Anbieter
+: Kurznachrichtendienste Anbieter {#tbl-kurznachrichtendienste-anbieter}
 
 Quelle: [@gematik-ti-messenger]
