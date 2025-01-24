@@ -44,3 +44,4 @@ Diese Richtlinie schreibt ein internes Qualitätsmanagement für Vertragsärzte 
 | 21 | ConSense         | ConSense GmbH                     | [consense-gmbh.de](https://consense-gmbh.de)   |
 | 22 | MS LDS           | MS Management Systeme GmbH        | [msqf-gmbh.de](https://msqf-gmbh.de)       |
 | 23 | Latz Protect     | Latz Protect GmbH                 | [latz-protect.com](https://www.latz-protect.com)       |
+| 24 | Schedura | ablida GmbH | [schedura.de](https://www.schedura.de/de) |
