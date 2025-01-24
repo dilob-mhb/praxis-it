@@ -24,6 +24,7 @@ book:
       chapters:
       - telefonanlage.qmd
       - telefonassistenz.qmd
+      - webseite.qmd
       - kimdienst.qmd
       - kurznachrichtendienst.qmd
       - terminbuchung.qmd
