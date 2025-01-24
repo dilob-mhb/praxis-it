@@ -1,0 +1,15 @@
+# Impfsoftware
+
+| Software                | URL                          |
+|--------------------------|------------------------------|
+| ImpfDocNE                | [impfdocne.de](https://www.impfdocne.de/)      |
+| Impfoo                   | [impfoo.de](https://www.impfoo.de/)            |
+| RKI STIKO-App            | [rki.de](https://www.rki.de/DE/Content/Kommissionen/STIKO/App/STIKO-App_node.html) |
+| Impfsystem               | [impfsystem.de](https://impfsystem.de/)        |
+| Medisoft Quickimpf       | [medisoft.de](https://www.medisoft.de/quickserie/quickimpf/) |
+| Impf.app                 | [impf.app](https://www.impf.app/)              |
+| DIFA Diga1               | [difa-vf.de](https://difa-vf.de/diga1/)        |
+| DIFA Difa1               | [difa-vf.de](https://difa-vf.de/difa1/)        |
+| Impfpass                 | [impfpass.de](https://impfpass.de/)            |
+
+: Übersicht Anbieter Impfsoftware
