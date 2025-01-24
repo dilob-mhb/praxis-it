@@ -27,6 +27,7 @@ Das Matrix-Protokoll ist ein offenes Standardprotokoll für dezentrale, sichere 
 |  4 | Gedisa              | Gedisa GmbH             | [gedisa.de](https://www.gedisa.de/)          |
 |  5 | samedi              | samedi GmbH             | [samedi.de](https://www.samedi.de/)          |
 |  6 | x-tention           | x-tention GmbH          | [x-tention.de](https://www.x-tention.de/)    |
+|  7 | Threema             | Threema GmbH            | [threema.ch](https://threema.ch/de)          |
 
 : Kurznachrichtendienste Anbieter {#tbl-kurznachrichtendienste-anbieter}
 
