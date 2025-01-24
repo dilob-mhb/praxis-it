@@ -1,43 +1,7 @@
----
-format:
-  html:
-    mermaid:
-      theme: default
----
-
 # Einleitung
 
 In einer digitalisierten Welt sind effektive IT-Systeme entscheidend für die Effizienz und Qualität in der Gesundheitsversorgung. Die fortschreitende Entwicklung von Praxisverwaltungssoftware, digitalen Anamnese-Tools und Dienstplanungslösungen hat den Arbeitsalltag in Praxen grundlegend verändert. Die Herausforderung besteht jedoch darin, diese technischen Möglichkeiten effizient und praxisnah einzusetzen. Hier setzt „Praxis-IT“ an, indem es einen Überblick über relevante Lösungen bietet und deren praktische Anwendung verständlich macht.
 
 ## Schritt für Schritt zur neuen Software
 
-```{mermaid}
-flowchart TD
-    subgraph Idea[Idee]
-        A1[Bedarfsanalyse durchführen]
-        A2[Marktforschung: Passende Software identifizieren]
-        A3[Erstellung eines Projektplans]
-    end
-
-    subgraph Preparation[Vorbereitung]
-        B1[Anbieter kontaktieren & Demo anfordern]
-        B2[Budgetplanung & Freigabe]
-        B3[Datenschutzanforderungen prüfen]
-    end
-
-    subgraph Integration[Integration]
-        C1[Installation & Einrichtung der Software]
-        C2[Schulung der Mitarbeitenden]
-        C3[Testphase & Feedback sammeln]
-    end
-
-    subgraph Transfer[Transfer]
-        D1[Software auswählen & Vertrag abschließen]
-        D2[Altdaten migrieren]
-        D3[Start der produktiven Nutzung]
-    end
-
-    Idea --> Preparation
-    Preparation --> Integration
-    Integration --> Transfer
-```
+![](assets/mermaid-flow.svg)
