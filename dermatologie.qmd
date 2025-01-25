@@ -11,3 +11,5 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 | derma2go                 | derma2go AG              | [derma2go.com](https://www.derma2go.com)                             |
 | intellimago              | zollsoft GmbH            | [intellimago.de](https://intellimago.de)                            |
 | DermaValue                | DermaValue GmbH          | [dermavalue.com](https://www.dermavalue.com/de/)                    |
+
+: Übersicht Softwarelösungen Dermatologie

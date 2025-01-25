@@ -14,3 +14,5 @@
 |  1 | LipoCheck App    | LipoCheck GmbH                    | [lipocheck.de/lipodem-app](https://www.lipocheck.de/lipodem-app) |
 |  2 | biolitec App     | biolitec AG                       | [biolitec.de/biolitec-app](https://www.biolitec.de/unternehmen/biolitec-app.html) |
 |  3 | Dopplex Vascular Reporter | Huntleigh Healthcare | [huntleigh.de](www.huntleigh.de/product-category/dopplex-gefasdiagnostik/dokumentation-und-berichterstattung/) |
+
+: Übersicht Softwarelösungen Gefäßmedizin

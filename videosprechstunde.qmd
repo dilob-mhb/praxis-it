@@ -39,3 +39,5 @@ Diese Merkmale zeigen, dass, obwohl die Grundfunktion einer Videosprechstunde be
 | 15 | MediQuit | MediQuit GmbH | [mediquit.de](https://mediquit.de/) |
 | 16 | Patientus | Patientus GmbH | [patientus.de](https://www.patientus.de/) |
 | 17 | DrAnsay | DrAnsay GmbH | [dransay.com](https://dransay.com/) |
+
+: Übersicht Softwarelösungen Videosprechstunde

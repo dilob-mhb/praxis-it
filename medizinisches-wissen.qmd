@@ -18,9 +18,13 @@
 | NowToGo                  | MedizinToGo GmbH         | [now.medizintogo.de](https://now.medizintogo.de/)                   |
 | Nerdfallmedizin          | -                        | [nerdfallmedizin.blog](https://nerdfallmedizin.blog/)               |
 
+: Übersicht digitale Fortbildungsplattformen 
+
 ## Für PatientInnen
 
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|
 | Was hab ich              | -                        | [washabich.de](https://washabich.de/)                               |
 | Gesund.bund.de           | Bundesministerium für Gesundheit | [gesund.bund.de](https://gesund.bund.de/)                           |
+
+: Übersicht digitale Gesundheitsaufklärung 

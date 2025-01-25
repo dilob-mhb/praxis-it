@@ -105,6 +105,6 @@ Der TI-Score berücksichtigt Kriterien wie die Nutzbarkeit, die Effizienz und di
 | 90 | RAD+ RIS System                | uttenthaler mediaConsulting                                     | [rad.plus](https://rad.plus/)                                         |                                     nan   |                                 nan   |                 nan   | nan   | nan        | ?     | ?            |
 | 91 | Eterno Cloud                   | Eterno Cloud                                                    | [Eterno Cloud](https://www.eterno.cloud)                             |                                     nan   |                                 nan   |                 nan   | nan   | nan        | nan   | nan          |
 
-: Übersicht Praxisverwaltungssoftware {.striped .hover}
+: Übersicht Praxisverwaltungssoftware
 
 Quellen: System Usability Scale (SUS Mittelwert) und Net Promoter Score (NPS Mittelwert) und Wechselbereitschaft [@mullerpraxisverwaltungssysteme], TI-Score [@TI-Score2025], [@kbv2025]

@@ -89,6 +89,8 @@
 | 51 | [Studio 9: Handgemacht - Wie sich Simone Pareigis eine Elektronische Patientenakte bastelte](https://fyyd.de/episode/2738245) | 30.05.2018 |
 | 52 | [Wissen aktuell – Impuls: Patient als Datenpaket: Elektronische Gesundheitsakte](https://fyyd.de/episode/1588090) | 21.03.2017 |
 
+: Übersicht Podcasts ePA
+
 ## Telemedizin
 
 ### Podcasts
@@ -155,6 +157,8 @@
 | 58 | [eHealth-Podcast: Episode #4 – FHIR](https://fyyd.de/episode/2224981) | 24.11.2017 |
 | 59 | [eHealth-Podcast: Episode #15 – eHealth bei unseren europäischen Nachbarn #1](https://fyyd.de/episode/1470206) | 07.02.2017 |
 
+: Übersicht Podcasts Telemedizin
+
 ## Praxisverwaltungssoftware
 
 ### Podcasts
@@ -173,6 +177,8 @@
 | 10 | [Aufgebohrt: Der Podcast für nachhaltigen Praxiserfolg - Für Zahnärzte und KFO: 036: Zahnarztpraxis 4.0 - Praxissoftware von A wie Anamnese bis Z wie Zeiterfassung](https://fyyd.de/episode/6630031) | 01.04.2021 |
 | 11 | [Aufgebohrt: Der Podcast für nachhaltigen Praxiserfolg - Für Zahnärzte und KFO: 034: Zahnarztpraxis 4.0 - Die richtige Praxisverwaltungssoftware finden](https://fyyd.de/episode/6547902) | 19.03.2021 |
 
+: Übersicht Podcasts Praxisverwaltungssoftware
+
 ## Telematikinfrastruktur
 
 ### Podcasts
@@ -189,7 +195,7 @@
 | 8 | [Folge #170 - Forschungsdatenportal für Gesundheit: Folge #166 – PKV und TI](https://fyyd.de/episode/12528101) | 08.07.2024 |
 | 9 | [Dentalwelt Podcast: #169 35 Jahre Laborsoftware - Jetzt auch in der Telematikinfrastruktur](https://fyyd.de/episode/12296332) | 12.05.2024 |
 | 10 | [Dentalwelt Podcast: #165 Telematikinfrastruktur für Praxen und Labore - Ein Gamechanger](https://fyyd.de/episode/12179725) | 14.04.2024 |
-| 11 | [EinBlick – Der Podcast: ????#EinBlick u.a. ????#KI Lauterbach @ #DMEA ????#TI-Messenger ????#EPADebatte ????#PatientenbriefeInnovation](https://fyyd.de/episode/12174996) | 12.04.2024 |
+| 11 | [EinBlick – Der Podcast: ????#EinBlick u.a. ????#KI Lauterbach  #DMEA ????#TI-Messenger ????#EPADebatte ????#PatientenbriefeInnovation](https://fyyd.de/episode/12174996) | 12.04.2024 |
 | 12 | [ÄrzteTag: TI-Messenger: Wie komme ich mit meinem Smartphone eigentlich in die TI, Herr Frank?](https://fyyd.de/episode/12155625) | 08.04.2024 |
 | 13 | [ÄrzteTag: Raus aus der Tretmühle Praxis-EDV – wie kann das funktionieren, Herr Gaber?](https://fyyd.de/episode/12141707) | 05.04.2024 |
 | 14 | [EINFACH KOMPLEX – Der Software- und IT-Podcast: E-Rezept und Telematikinfrastrukur: Eine technische Erklärung #54 ](https://fyyd.de/episode/12092108) | 26.03.2024 |
@@ -205,14 +211,14 @@
 | 24 | [ÄrzteTag: Susanne Koch vom bvitg: „Haken dran beim E-Rezept, bei der ePA wird es eng“](https://fyyd.de/episode/10439193) | 13.06.2023 |
 | 25 | [ÄrzteTag: Was werden Ärzte mit dem TI-Messenger anfangen können, Herr Dr. Hartge?](https://fyyd.de/episode/10292203) | 11.05.2023 |
 | 26 | [ÄrzteTag: E-Rezept-Test bis Anfang 2024 – reicht die Zeit, Herr Scholz?](https://fyyd.de/episode/10231594) | 26.04.2023 |
-| 27 | [EinBlick – Der Podcast: #EinBlick u.a. Gerätegestützte #Telemedizin, ????Digitalstrategie @BMG_Bund, #Ambulantisierung ????, #DiPA droht Flop](https://fyyd.de/episode/10183210) | 14.04.2023 |
+| 27 | [EinBlick – Der Podcast: #EinBlick u.a. Gerätegestützte #Telemedizin, ????Digitalstrategie BMG_Bund, #Ambulantisierung ????, #DiPA droht Flop](https://fyyd.de/episode/10183210) | 14.04.2023 |
 | 28 | [EinBlick – Der Podcast: #EinBlick u.a. #Krankenhausreform NRW-Vorbild, Frauen in Klinikleitung, Community Health Nurses, Digitale Empathie](https://fyyd.de/episode/10127738) | 31.03.2023 |
 | 29 | [EinBlick – Der Podcast: ????#EinBlick – nachgefragt mit Sebastian Zilch: Neustart – Digitalisierungsstrategie soll Transformationsstau auflösen](https://fyyd.de/episode/10116803) | 29.03.2023 |
 | 30 | [ÄrzteTag: Wie die Praxissoftware Arztpraxen unter die Arme greifen kann](https://fyyd.de/episode/10111845) | 28.03.2023 |
 | 31 | [EinBlick – Der Podcast: #EinBlick u.a. Reform Notfallversorgung ????, Hype um ChatGPT, Digitale???? Identitäten #eID, #MFA Protest](https://fyyd.de/episode/9962549) | 17.02.2023 |
 | 32 | [Folge #170 - Forschungsdatenportal für Gesundheit: Folge #145 – Update zur Telematikinfrastruktur](https://fyyd.de/episode/9892179) | 06.02.2023 |
 | 33 | [eHealth-Podcast: Folge #145 – Update zur Telematikinfrastruktur](https://fyyd.de/episode/9891976) | 06.02.2023 |
-| 34 | [EinBlick – Der Podcast: #EinBlick u.a. @kbv4u und Digitalisierung, Erste COPD-DiGA  ????, @BMC_eV zu #Gesundheitslots:innen](https://fyyd.de/episode/9826345) | 20.01.2023 |
+| 34 | [EinBlick – Der Podcast: #EinBlick u.a. kbv4u und Digitalisierung, Erste COPD-DiGA  ????, BMC_eV zu #Gesundheitslots:innen](https://fyyd.de/episode/9826345) | 20.01.2023 |
 | 35 | [EinBlick – Der Podcast: #EinBlick u.a. #Krankenhausreform im Konsens, Software-Update für TI-Konnektoren, DiGA-Bericht #GKV](https://fyyd.de/episode/9797741) | 13.01.2023 |
 | 36 | [EinBlick – Der Podcast: ????#EinBlick – nachgefragt mit Dr. Roland Stahl: Digitalisierung 2023 – wie steht es u.a. beim #E-Rezept?](https://fyyd.de/episode/9769245) | 06.01.2023 |
 | 37 | [EinBlick – Der Podcast: #EinBlick u.a. Lauterbachs "Revolution", Apotheker:innen dürfen Fiebersäfte herstellen, #Innovationsfonds](https://fyyd.de/episode/9699170) | 16.12.2022 |
@@ -221,11 +227,11 @@
 | 40 | [Folge #170 - Forschungsdatenportal für Gesundheit: Folge #142 – Das eRezept](https://fyyd.de/episode/9637464) | 02.12.2022 |
 | 41 | [ÄrzteTag: TI-Pauschale für Ärzte statt Kostenerstattung – eine gute Lösung, Herr Schick?](https://fyyd.de/episode/9620058) | 29.11.2022 |
 | 42 | [EinBlick – Der Podcast: #EinBlick u.a. Long Covid Kongress, E-Health Monitor, ????Telefonische Krankschreibung, Datenschutzkonferenz DSK](https://fyyd.de/episode/9606457) | 25.11.2022 |
-| 43 | [EinBlick – Der Podcast: #EinBlick u.a. ????Innovationsfonds, @BMC_eV fordert #IPVZ, @ADAC ???? mit @MedgateD ⚕️Gesundheitsmarkt](https://fyyd.de/episode/9525291) | 04.11.2022 |
+| 43 | [EinBlick – Der Podcast: #EinBlick u.a. ????Innovationsfonds, BMC_eV fordert #IPVZ, ADAC ???? mit MedgateD ⚕️Gesundheitsmarkt](https://fyyd.de/episode/9525291) | 04.11.2022 |
 | 44 | [ÄrzteTag: Die dunkle und die helle Seite der Digitalisierung](https://fyyd.de/episode/9124916) | 08.08.2022 |
 | 45 | [ÄrzteTag: Kriedel: „gematik muss Klarheit zu Konnektoren schaffen“](https://fyyd.de/episode/9096693) | 01.08.2022 |
 | 46 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. #eAU Pflicht, Reform der Notfallversorgung, Strategie für Corona-Herbst](https://fyyd.de/episode/8945486) | 24.06.2022 |
-| 47 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. @Karl_Lauterbach lobt PKV, Novelle #GOÄ gefordert, Streit um Infektionsschutzgesetz](https://fyyd.de/episode/8891054) | 10.06.2022 |
+| 47 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Karl_Lauterbach lobt PKV, Novelle #GOÄ gefordert, Streit um Infektionsschutzgesetz](https://fyyd.de/episode/8891054) | 10.06.2022 |
 | 48 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Fahrplan e-Rezept, Chirurgische Fernüberwachung ????, neue Antibiotika ???? gegen Resistenzen](https://fyyd.de/episode/8854900) | 03.06.2022 |
 | 49 | [ÄrzteTag: Womit könnte die gematik Hausärzte überzeugen, Dr. Spöhrer?](https://fyyd.de/episode/8791537) | 18.05.2022 |
 | 50 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Neuer Fahrplan #eRezept, ab Juli ???? Pflicht für #eAU, Tausch Konnektoren #TI](https://fyyd.de/episode/8770941) | 13.05.2022 |
@@ -235,15 +241,15 @@
 | 54 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Schwerpunkte des BMG 2022, Kritik an Deckelung bei Videosprechstunden,  E-Health-Praxis geplant](https://fyyd.de/episode/8607704) | 08.04.2022 |
 | 55 | [ÄrzteTag: Haben Sie dem Konnektortausch gerne zugestimmt, Herr Dr. Kriedel?](https://fyyd.de/episode/8607581) | 08.04.2022 |
 | 56 | [ÄrzteTag: Mehr als 100.000 neue Konnektoren – ist das kein Skandal, Herr Dr. Hartge?](https://fyyd.de/episode/8545539) | 28.03.2022 |
-| 57 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Krankenhausgipfel ???? @DKGev, Verspätung bei #TI-Messenger, #Digitalisierung ???????? liegt zurück](https://fyyd.de/episode/8498991) | 25.03.2022 |
+| 57 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Krankenhausgipfel ???? DKGev, Verspätung bei #TI-Messenger, #Digitalisierung ???????? liegt zurück](https://fyyd.de/episode/8498991) | 25.03.2022 |
 | 58 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. GKV-Finanzen ???? im Fokus, Debatten über das Infektionsschutzgesetz ????  &amp; die Impfpflicht ????](https://fyyd.de/episode/8452190) | 18.03.2022 |
 | 59 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Wie weiter bei eRezept + eAU, Strategiebewertung #BMG, R2 D2 im Krankenhaus?](https://fyyd.de/episode/8415097) | 11.03.2022 |
 | 60 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Datenschutzlücken bei #TI-Konnektoren, Nutzen + Preise von #DiGA ???? in Kritik](https://fyyd.de/episode/8375062) | 04.03.2022 |
 | 61 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. #Healthcare-Barometer 2022, "Sprechende" Medizin soll gestärkt werden](https://fyyd.de/episode/8339048) | 25.02.2022 |
-| 62 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. ????Douglas steigt in Apothekenmarkt ein,  @DieTechniker liegt bei #ePA vorn](https://fyyd.de/episode/8303296) | 18.02.2022 |
+| 62 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. ????Douglas steigt in Apothekenmarkt ein,  DieTechniker liegt bei #ePA vorn](https://fyyd.de/episode/8303296) | 18.02.2022 |
 | 63 | [eHealth-Podcast: eHealth-Podcast-Folge-130 ](https://fyyd.de/episode/8279579) | 14.02.2022 |
 | 64 | [Folge #170 - Forschungsdatenportal für Gesundheit: eHealth-Podcast-Folge-130 ](https://fyyd.de/episode/8279578) | 14.02.2022 |
-| 65 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. #Telemedizin wirkt -&gt; Telnet@NRW, Genesene geschützt, Kritik an Corona-Kurs](https://fyyd.de/episode/8266975) | 11.02.2022 |
+| 65 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. #Telemedizin wirkt -&gt; TelnetNRW, Genesene geschützt, Kritik an Corona-Kurs](https://fyyd.de/episode/8266975) | 11.02.2022 |
 | 66 | [ÄrzteTag: DAK-Chef: „Das Prinzip Brechstange hat bei der Digitalisierung nicht funktioniert“](https://fyyd.de/episode/8144148) | 21.01.2022 |
 | 67 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Digitalisierungsreport 2021, Impflicht für med. Personal, Wie geht es weiter mit der e-AU?](https://fyyd.de/episode/8143573) | 21.01.2022 |
 | 68 | [Folge #170 - Forschungsdatenportal für Gesundheit: Folge #41 – Elektronische Patientenakten](https://fyyd.de/episode/8106270) | 14.01.2022 |
@@ -264,11 +270,11 @@
 | 83 | [EinBlick – Der Podcast: EinBlick – nachgefragt mit Charly Bunar: Praxis ready for ePA, e-AU und E-Rezept?](https://fyyd.de/episode/7601642) | 13.10.2021 |
 | 84 | [ÄrzteTag: Muss ein Urlaubsvertreter in Zukunft einen E-Arztausweis haben, Herr Mohr?](https://fyyd.de/episode/7522850) | 27.09.2021 |
 | 85 | [ÄrzteTag: Tipps zur eAU: „Vermeiden Sie es, zum Bananentester zu werden!“](https://fyyd.de/episode/7511668) | 24.09.2021 |
-| 86 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Termine Einführung #eAU &amp; #eRezept umstritten, @VKhNRW weitet Indikationen aus](https://fyyd.de/episode/7510544) | 24.09.2021 |
+| 86 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. Termine Einführung #eAU &amp; #eRezept umstritten, VKhNRW weitet Indikationen aus](https://fyyd.de/episode/7510544) | 24.09.2021 |
 | 87 | [ÄrzteTag: TK-Chef Baas zur Digitalisierung: „Einmal Turbo zünden, reicht nicht“](https://fyyd.de/episode/7495044) | 21.09.2021 |
 | 88 | [eHealth-Podcast: Folge #126 – Telematikinfrastruktur (Übersicht)](https://fyyd.de/episode/7372704) | 27.08.2021 |
 | 89 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. digitaler #Impfnachweis via #CovPass, Streit um #KIM-Dienste](https://fyyd.de/episode/6999917) | 11.06.2021 |
-| 90 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. mit News zu Defizit bei #Kassen @GKV_SV, #Telemedizin zur Diabetes-Therapie und zum #KHZG](https://fyyd.de/episode/6881425) | 21.05.2021 |
+| 90 | [EinBlick – Der Podcast: EinBlick Podcast – u.a. mit News zu Defizit bei #Kassen GKV_SV, #Telemedizin zur Diabetes-Therapie und zum #KHZG](https://fyyd.de/episode/6881425) | 21.05.2021 |
 | 91 | [eHealth-Podcast: Folge #122 – Digitale–Versorgung–und–Pflege–Modernisierungs–Gesetz](https://fyyd.de/episode/6832498) | 11.05.2021 |
 | 92 | [EinBlick – Der Podcast: EinBlick – Der Podcast vom 5. März 2021](https://fyyd.de/episode/6467391) | 05.03.2021 |
 | 93 | [ÄrzteTag: Warum kommt die Digitalisierung in Arztpraxen nicht voran?](https://fyyd.de/episode/6394384) | 19.02.2021 |
@@ -287,6 +293,8 @@
 | 106 | [eHealth-Podcast: Folge #43 – Kommunikationsserver](https://fyyd.de/episode/2258138) | 08.12.2017 |
 | 107 | [eHealth-Podcast: Folge #41 – Elektronische Patientenakten](https://fyyd.de/episode/2185325) | 10.11.2017 |
 | 108 | [eHealth-Podcast: Episode #30 – Order Entry oder Auftragskommunikation](https://fyyd.de/episode/1750574) | 19.05.2017 |
+
+: Übersicht Podcasts Telematikinfrastruktur
 
 ## Digitale Gesundheitsanwendungen
 
@@ -342,3 +350,5 @@
 | 46 | [Presseportal.de - Audio: Digitale Medizin: Die Zukunft ruft / Wissenswertes über E-Rezept und Gesundheits-Apps](https://fyyd.de/episode/7016480) | 15.06.2021 |
 | 47 | [Visionäre der Gesundheit: Prof. Dr. Andreas Michalsen - warum die Digitalisierung eine Chance für die Naturheilkunde ist](https://fyyd.de/episode/5783396) | 17.11.2020 |
 | 48 | [Presseportal.de - Audio: Gesundheits-Apps auf Rezept Wie die digitalen Helfer den Alltag erleichtern](https://fyyd.de/episode/4859758) | 02.04.2020 |
+
+: Übersicht Podcasts Digitale Gesundheitsanwendungen
