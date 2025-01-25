@@ -407,7 +407,7 @@
 | Nationales Digital Health Symposium | [gmds2025.de](https://gmds2025.de/) |
 | MEDICA    | [medica.de](https://www.medica.de/) |
 
-: Tabelle Veranstaltungen Digitale Medizin
+: Tabelle Veranstaltungen Digitale Medizin 
 
 | Kalender              | URL                                         |
 |---------------------------|---------------------------------------------|
@@ -416,4 +416,4 @@
 | Digitalversorgt Events    | [digitalversorgt.info/events](https://digitalversorgt.info/events/) |
 | INA Gematik Veranstaltungskalender | [ina.gematik.de/veranstaltungskalender](https://www.ina.gematik.de/veranstaltungskalender) |
 
-: Tabelle Veranstaltungsverzeichznisse
+: Tabelle Veranstaltungsverzeichnisse {#tbl-eventdirectories}
