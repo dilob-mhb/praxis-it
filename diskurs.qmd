@@ -1,6 +1,6 @@
 # Diskurs
 
-## Diskursthemen über die Zeit
+## Diskurshistorie
 
 **2017-2019: ePA (elektronische Patientenakte)**
 
@@ -30,9 +30,11 @@
 - **up-podcast**: Fokussiert auf Themen, die für Therapie und Praxis relevant sind, oft in Bezug auf die Telematikinfrastruktur.
 - **Visionäre der Gesundheit**: Bietet Einblicke in verschiedene Perspektiven und Innovationen im Bereich der digitalen Gesundheit.
 
-## Elektronische Patientenakte
+## Diskursthemen
 
-### Podcasts
+### Elektronische Patientenakte
+
+#### Podcasts
 
 | index | title | date |
 |---|---|---|
@@ -91,9 +93,9 @@
 
 : Übersicht Podcasts ePA
 
-## Telemedizin
+### Telemedizin
 
-### Podcasts
+#### Podcasts
 
 | index | title | date |
 |---|---|---|
@@ -159,9 +161,9 @@
 
 : Übersicht Podcasts Telemedizin
 
-## Praxisverwaltungssoftware
+### Praxisverwaltungssoftware
 
-### Podcasts
+#### Podcasts
 
 | index | title | date |
 |---|---|---|
@@ -179,9 +181,9 @@
 
 : Übersicht Podcasts Praxisverwaltungssoftware
 
-## Telematikinfrastruktur
+### Telematikinfrastruktur
 
-### Podcasts
+#### Podcasts
 
 | index | title | date |
 |---|---|---|
@@ -296,9 +298,9 @@
 
 : Übersicht Podcasts Telematikinfrastruktur
 
-## Digitale Gesundheitsanwendungen
+### Digitale Gesundheitsanwendungen
 
-### Podcasts
+#### Podcasts
 
 | index | title | date |
 |---|---|---|
@@ -352,3 +354,36 @@
 | 48 | [Presseportal.de - Audio: Gesundheits-Apps auf Rezept Wie die digitalen Helfer den Alltag erleichtern](https://fyyd.de/episode/4859758) | 02.04.2020 |
 
 : Übersicht Podcasts Digitale Gesundheitsanwendungen
+
+## Organisation
+
+| Organisation                          | URL                                          |
+|----------------------------------------|----------------------------------------------|
+| Digitale Medizin                      | [digitale-medizin.org](https://digitale-medizin.org/)                |
+| Atlas Digitale Gesundheitswirtschaft  | [atlas-digitale-gesundheitswirtschaft.de](https://www.atlas-digitale-gesundheitswirtschaft.de/) |
+| Medizininformatik Initiative           | [medizininformatik-initiative.de](https://www.medizininformatik-initiative.de/de/start) |
+| Gesundheitsforen                      | [gesundheitsforen.net](https://www.gesundheitsforen.net/)            |
+| Mednic                                | [mednic.de](https://mednic.de/)                           |
+| BVITG                                 | [bvitg.de](https://www.bvitg.de/)                        |
+| Interop Council (gematik)              | [gematik.de/interop-council](https://www.ina.gematik.de/mitwirken/interop-council) |
+| ZTG NRW                               | [ztg-nrw.de](https://ztg-nrw.de/)                          |
+| Virtuelles Krankenhaus NRW             | [virtuelles-krankenhaus.nrw](https://virtuelles-krankenhaus.nrw/)          |
+| Das Digitale Krankenhaus NRW           | [das-digitale-krankenhaus.nrw](https://www.das-digitale-krankenhaus.nrw/)    |
+| DGIM Kommission Digitale Transformation| [dgim.de/digitale-transformation](https://www.dgim.de/ueber-uns/kommissionen/digitale-transformation/) |
+| DocsDigital                            | [docsdigital.de](https://www.docsdigital.de/)                  |
+
+: Tabelle Organisationen Digitale Medizin
+
+## Veranstaltungen
+
+| Veranstaltung                          | URL                                          |
+|----------------------------------------|----------------------------------------------|
+| Inno3                                 | [inno3.de](https://www.inno3.de/)                        |
+| DigiHealth Day (TH Deggendorf)         | [th-deg.de/digihealthday](https://www.th-deg.de/digihealthday)          |
+| DiFG      | [digitalforum-gesundheit.de](https://www.digitalforum-gesundheit.de/kongress.html) | 
+| DMEA      | [dmea.de](https://www.dmea.de/de/programm/kongress/) |
+| TI-Summit | [tisummit.de](https://www.tisummit.de/)     |
+| Nationales Digital Health Symposium | [gmds2025.de](https://gmds2025.de/) |
+| MEDICA    | [medica.de](https://www.medica.de/) |
+
+: Tabelle Veranstaltungen Digitale Medizin
