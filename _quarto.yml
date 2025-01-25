@@ -47,6 +47,7 @@ book:
       - dienstplanung.qmd
       - datenschutz.qmd
       - gesetzgebung.qmd
+      - it-sicherheit.qmd
     - diskurs.qmd
     - zusammenfassung.qmd
     - referenzen.qmd
