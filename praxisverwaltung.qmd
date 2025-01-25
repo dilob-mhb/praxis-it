@@ -10,6 +10,8 @@ Der System Usability Scale (SUS) und der Net Promoter Score (NPS) sind beide bew
 
 Der TI-Score berücksichtigt Kriterien wie die Nutzbarkeit, die Effizienz und die Zufriedenheit der Anwender und klassifiziert die Software entsprechend. Mit diesem Score soll Transparenz geschaffen und die Qualität der TI-Anwendungen, wie z.B. das E-Rezept oder die elektronische Patientenakte (ePA), für alle Beteiligten im Gesundheitswesen sichtbar gemacht werden. [@TI-Score2025]
 
+## Übersichtstabelle
+
 |    | Produktname                    | Unternehmen                                                     | URL                                                                  |   SUS |   NPS |   Wechselbereitschaft | ePA   | E-Rezept   | eAU   | eArztbrief   |
 |---:|:-------------------------------|:----------------------------------------------------------------|:---------------------------------------------------------------------|------------------------------------------:|--------------------------------------:|----------------------:|:------|:-----------|:------|:-------------|
 |  0 | CGM ALBIS                      | CGM Deutschland AG                                              | [cgm.com](https://www.cgm.com/de)                                    |                                      48.5 |                                 -67.9 |                  65.2 | ?     | ?          | ?     | ?            |
