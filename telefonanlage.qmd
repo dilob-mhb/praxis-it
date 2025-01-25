@@ -41,3 +41,5 @@
 |  5 | Wildix                            | [wildix.com/de](https://www.wildix.com/de/)             |
 |  6 | Vonage                            | [vonage.com](https://www.vonage.com/)          |
 |  7 | STARFACE                          | [starface.com](https://starface.com/)             |
+
+: Übersicht Telefonanlagen

@@ -71,4 +71,6 @@ Zahnärztliche Software muss spezielle Anforderungen erfüllen, die sich von den
 | 30 | claire                       | [Patient 21 SE](http://www.zm-r.de/)                                                                                                       |
 | 31 | tomedo DENTAL                | [zollsoft GmbH](https://zollsoft.de/)                                                                                                      |
 
+: Übersicht Zahnarztsoftware
+
 Quelle: [@KZBV_EDV_Statistik]

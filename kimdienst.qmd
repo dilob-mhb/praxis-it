@@ -11,3 +11,5 @@ KIM, abgekürzt für "Kommunikation im Medizinwesen", ist ein zentrales Element 
 |  4 | kv.dox                             | [kvdox.akquinet.de](https://kvdox.akquinet.de/)            |
 |  5 | Telekom Healthcare Solutions       | [ti.telekom-healthcare.com](https://ti.telekom-healthcare.com/) |
 |  6 | slis services                      | [slis](https://www.slis.services)          |
+
+: Übersicht Anbieter KIM Dienst

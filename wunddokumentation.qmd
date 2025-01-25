@@ -26,3 +26,5 @@ Wichtige Features, die bei der Bewertung von Wund-Apps berücksichtigt werden so
 |  7 | Simply Wound App | Hartmann                          | [hartmann.info/simply-wound-app](https://www.hartmann.info/de-de/kundenloesungen/digitale-loesungen/simply-wound-app) |
 |  8 | WoundDesk        | WoundDesk                         | [wounddesk.com](https://wounddesk.com/) |
 |  9 | Recom WundApp    | Ascom                             | [ascom.com/recom-wundapp](https://www.ascom.com/de/uber-uns/vorteile-von-ascom/ecosystem-myco--friends/myco--friends-app-partner/recom-wundapp/) |
+
+: Übersicht Wunddokumentationsanwendungen

@@ -37,3 +37,5 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 | 16  | voice4medicine (Dragon Medical)     | [voice4medicine](https://www.4voice.de/)                           |
 | 17  | tts performance suite               | [tts performance suite](https://www.tt-s.com/de/digital-adoption-solutions/loesungen/vitamin-c-fuer-das-gesundheitswesen) |
 | 18  | CGM one Doku-Assistent              | [one.cgm.com/doku-assistent](https://one.cgm.com/doku-assistent)        |
+
+: Übersicht Softwarelösungen Anamnese & Dokumentation

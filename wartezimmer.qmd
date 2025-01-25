@@ -11,3 +11,5 @@ Warteraummanagement kann durch Technologien wie Selbstanmeldesysteme, Patientena
 | 5  | Patiententerminal | [patiententerminal.de](https://patiententerminal.de/) |
 | 6 | ArztPager | Alpha11 GmbH | [arzt-pager.de](https://arzt-pager.de/) |
 | 7 | D-Pad | DeGIV GmbH | [degiv.net/d-pad](https://degiv.net/d-pad/) |
+
+: Übersicht Softwareanwendungen im Wartezimmer

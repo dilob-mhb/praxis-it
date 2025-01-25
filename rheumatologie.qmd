@@ -18,6 +18,8 @@ Software in der Rheumatologie zeichnet sich durch spezifische Funktionen wie Ana
 | DocuMed.rh               | -                               | -                                     |
 | RheumaNet | Deutsche Gesellschaft für Rheumatologie e.V. | [rheumanet.org/](https://www.rheumanet.org/) |
 
+: Übersicht Softwarelösungen Rheumatologie
+
 Die [Kommission "Digitale Rheumatologie"](https://dgrh.de/Start/DGRh/Die-Gesellschaft/Kommissionen-Amtszeit-2023-2025/Kommission-Digitale-Rheumatologie.html)
  der Deutschen Gesellschaft für Rheumatologie (DGRh) konzentriert sich auf die Digitalisierung in der Rheumatologie. Ihre Aufgaben umfassen die Erarbeitung von Empfehlungen zur Nutzung digitaler Anwendungen und Technologien in der rheumatologischen Praxis, die Verbesserung der Patientenversorgung durch digitale Lösungen und die Förderung der Forschung in diesem Bereich. Diese Kommission spielt eine zentrale Rolle bei der Integration neuer digitaler Tools und Methoden zur Optimierung der Diagnose, Behandlung und Nachsorge von Patienten mit rheumatischen Erkrankungen.
 
@@ -40,5 +42,7 @@ Die Tabelle aus dem "Positionspapier der Kommission zur Nutzung digitaler Anwend
 | Embryotox           | Medikamenteninformation   | 2 (4)                                              | 3 (38)                                              | Kostenlos     | Ja  | Ja      |
 | Pneumotox           | Medikamenteninformation   | 1 (2)                                              | X                                                   | Kostenlos     | Nein | Nein    |
 | RheumaLive          | Symptom-Tracking          | 2 (4)                                              | 2 (25)                                              | Kostenlos     | Ja  | Ja      |
+
+: Befragungsergebnisse der DGRh
 
 Quelle: [@knitza2020ziele]

@@ -9,3 +9,5 @@
 | 5 | Biotronik | Biotronik SE & Co. KG | [biotronik.com](https://www.biotronik.com/de-de/patienten/herzmonitoring/home-monitoring) |
 | 6 | Medtronic | Medtronic GmbH | [medtronic.com](https://www.medtronic.com/de-de/patienten/produkte-therapien/pacemaker/carelink.html) |  
 | 7 | Abbott | Abbott Laboratories | [abbott.com](https://www.cardiovascular.abbott/de/de/hcp/products/cardiac-rhythm-management/connectivity-remote-care.html) |  
+
+: Übersicht Telemedizinische Anbieter

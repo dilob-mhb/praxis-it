@@ -17,3 +17,5 @@
 | Datenschutz Praxis            | Informationsportal mit Leitfäden und Schulungen zum Datenschutz.                                            | [datenschutz-praxis.de](https://www.datenschutz-praxis.de/)                                     |
 | Keyed                         | Bietet umfassende Lösungen und Schulungen rund um Datenschutz.                                               | [keyed.de](https://www.keyed.de/)                                                               |
 | Datenschutzexperte            | Lösungen speziell für die Gesundheitsbranche, um Datenschutz und DSGVO-Konformität zu gewährleisten.         | [datenschutzexperte.de](https://www.datenschutzexperte.de/branchen/gesundheit)                  |
+
+: Übersicht Softwarelösungen Datenschutz
