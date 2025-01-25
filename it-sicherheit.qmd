@@ -1,0 +1,73 @@
+# IT-Sicherheit
+
+Die **KBV IT-Sicherheitsrichtlinie** wurde von der **Kassenärztlichen Bundesvereinigung (KBV)** entwickelt, um die Anforderungen von **§ 75b SGB V** zu erfüllen, einem Gesetz zur Stärkung der IT-Sicherheit im Gesundheitswesen. Die Richtlinie standardisiert technische und organisatorische Maßnahmen (TOMs) zur Datensicherheit gemäß Artikel 32 der DSGVO und unterscheidet sich nach Praxisgröße und IT-Infrastruktur. Sie fokussiert sich auf die Ziele Vertraulichkeit, Integrität und Verfügbarkeit von Daten und wird jährlich mit dem BSI aktualisiert. Diese Richtlinie ist für alle Praxen im gesetzlichen Krankenversicherungssystem verpflichtend und unterstützt eine schrittweise Umsetzung.
+
+## Praxisspezifische IT-Sicherheitsanforderungen
+
+### **Nach Praxisgröße:**
+
+- **Kleine Praxen (1-5 Personen im Datenerfassungsprozess):**
+  - **Grundanforderungen:**
+    - **Anlage 1** und **Anlage 5** der KBV IT-Sicherheitsrichtlinien müssen eingehalten werden.
+
+- **Mittelgroße Praxen (6-20 Personen im Datenerfassungsprozess):**
+  - **Grund- und Zusatzanforderungen:**
+    - **Anlage 1 und 5**, plus zusätzliche Maßnahmen in **Anlage 2** (wie App-Berechtigungen, Zugangskontrolle für Webanwendungen, sichere Authentifizierung, Protokolle für mobile Geräte und Datentransfer).
+
+- **Große Praxen (mehr als 21 Personen oder hohes Datenaufkommen):**
+  - **Umfassende Anforderungen:**
+    - **Anlagen 1, 2 und 5**, sowie zusätzliche Maßnahmen in **Anlage 3** (strengere Regelungen für IT-Komponenten, Verschlüsselung, sicherer Datentransfer).
+
+### **Nach Medizintechnik:**
+
+- **Praxen mit großer Medizintechnik (z.B. CT, MRT, PET-Scanner):**
+  - **Zusätzliche Gerätespezifische Anforderungen:**
+    - **Anlage 4** muss eingehalten werden, welche spezifische Sicherheitsmaßnahmen für solche Geräte umfasst.
+
+### **Telematikinfrastruktur (TI):**
+
+- **Für Alle Praxen:**
+  - **Anlage 5** für den sicheren Betrieb von TI-Komponenten wie Konnektoren, Kartenlesern und Praxis-ID-Karten.
+
+### **Zusammenfassung der Anlagen:**
+
+- **Anlage 1:** Grundlegende IT-Sicherheitsmaßnahmen für alle Praxen (sicherer App-Nutzung, Virenschutz, Firewalls, Datensicherung).
+- **Anlage 2:** Zusätzliche Sicherheit für mittelgroße Praxen (App-Berechtigungen, Webanwendung-Zugangskontrolle, Mobilitätssicherheit).
+- **Anlage 3:** Weitere Anforderungen für große Praxen (Verschlüsselung, sicherer Datentransfer).
+- **Anlage 4:** Sicherheit für große medizinische Geräte.
+- **Anlage 5:** Sicherheit für TI-Komponenten.
+
+## Gesetzgebung bezüglich IT-Sicherheit
+
+- **§ 75b SGB V**: 
+  - Verpflichtet Arztpraxen zur Implementierung von IT-Sicherheitsmaßnahmen, basierend auf dem Digitalen-Versorgungs-Gesetz (DVG) 2019.
+  - **KBV** gibt verbindliche Richtlinien heraus, abhängig von Praxisgröße und Medizintechnik.
+
+- **§ 203 StGB**: 
+  - Regelt das **ärztliche Schweigeprivileg**, was den Schutz von Patientendaten priorisiert.
+
+- **§ 32 DSGVO**: 
+  - Verlangt technische und organisatorische Maßnahmen (TOMs) zur Sicherung von Daten.
+
+- **§ 291a SGB V**: 
+  - Bezieht sich auf die Telematikinfrastruktur (TI) und die Rolle der **gematik** bei Datenschutz.
+
+- **§ 3 Abs. 9 & § 28 Abs. 6-9 BDSG**: 
+  - Allgemeine Datenschutzanforderungen.
+
+- **§ 22 BDSG**: 
+  - Regelung zur Nutzung von Patientendaten, die auf die Behandlung beschränkt ist; zusätzliche Verwendung benötigt Zustimmung des Patienten.
+
+- **§ 2 Absatz 9 BSI-Gesetz**: 
+  - Klärt, dass Arztpraxen **nicht** zu kritischen Infrastrukturen zählen.
+
+**Weitere gesetzliche Rahmenbedingungen:**
+
+- **BSI-Gesetz**: 
+  - Betrifft das Bundesamt für Sicherheit in der Informationstechnik (BSI), welches Richtlinien wie den IT-Grundschutz liefert.
+
+- **MBO-Ä § 10 Abs. 5 & MBO-Pt § 10 Abs. 2**: 
+  - Berufsordnungsregeln für Ärzte und Psychotherapeuten betreffend elektronische Patientenakten.
+
+- **IFSG & MPG**: 
+  - Infektionsschutzgesetz und Medizinproduktegesetz für Patienten- und Mitarbeiterschutz.
