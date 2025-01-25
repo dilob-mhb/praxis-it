@@ -23,6 +23,8 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 ## Kostenmodell
 - Die Preismodelle variieren, aber es gibt eine Tendenz zu flexiblen Lizenzierungsmodellen, die sowohl monatliche Abonnements (SaaS) als auch einmalige Kaufpreise umfassen können.
 
+## Übersichtstabelle
+
 |    | Software         | Anbieter                          | URL                |
 |---:|:-----------------|:----------------------------------|:-------------------|
 |  0 | Tiphce           | Tiphce GmbH                       | [tiphce.com](https://www.tiphce.com/)         |
