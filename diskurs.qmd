@@ -355,7 +355,7 @@
 
 : Übersicht Podcasts Digitale Gesundheitsanwendungen
 
-## Organisation
+## Organisationen
 
 | Organisation                          | URL                                          |
 |----------------------------------------|----------------------------------------------|
