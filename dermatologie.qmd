@@ -5,7 +5,6 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|
 | Nia Neurodermitis       | Nia Health GmbH          | [nia-health.de](https://www.nia-health.de/)                         |
-| IQONIC.AI                | SkinTech Corp. GmbH      | [iqonic.ai](https://www.iqonic.ai/de)                               |
 | Derm.AI                  | Fraunhofer AICOS         | [dermai.projects.fraunhofer.pt](http://dermai.projects.fraunhofer.pt/index.html) |
 | SkinScreener App         | medaia GmbH              | [skinscreener.com](https://skinscreener.com)                        |
 | derma2go                 | derma2go AG              | [derma2go.com](https://www.derma2go.com)                             |
