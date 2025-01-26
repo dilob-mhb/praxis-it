@@ -13,3 +13,19 @@ KIM, abgekürzt für "Kommunikation im Medizinwesen", ist ein zentrales Element 
 |  6 | slis services                      | [slis](https://www.slis.services)          |
 
 : Übersicht Anbieter KIM Dienst
+
+## KIM Mail
+
+KIM-Mail nutzt eine spezialisierte Implementierung, die auf dem [KOMLE-Standard (KOMmunikationsLEitungsstandard)](https://gemspec.gematik.de/docs/gemSpec/gemSpec_CM_KOMLE/latest/) basiert. Dieser Standard ermöglicht die sichere Kommunikation über die Telematikinfrastruktur (TI) und verwendet dafür spezielle Protokolle und Verfahren, um die notwendige Sicherheit und Integrität der medizinischen Daten zu gewährleisten. Der KOMLE-Standard (KOMmunikationsLEitungsstandard) unterscheidet sich von herkömmlichen E-Mail-Protokollen wie SMTP, POP3 und IMAP. Sicherheit wird durch den Einsatz von Public Key Infrastrukturen (PKI) und TLS (Transport Layer Security) gewährleistet. KOMLE-Clientmodule (KOM-LE) sind darauf ausgelegt, nahtlos in die TI-Systeme zu integrieren und bieten spezifische Schnittstellen für die Kommunikation mit anderen TI-Diensten.
+
+### Beispiel-KIM-Adressenendungen
+
+`@i-motion.kim.telematik`
+
+`@tomedo.kim.telematik`
+
+`@kv.dox.kim.telematik`
+
+`@cgm.kim.telematik`
+
+`@praxis.tm.kim.telematik`
