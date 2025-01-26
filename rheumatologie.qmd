@@ -19,6 +19,7 @@ Software in der Rheumatologie zeichnet sich durch spezifische Funktionen wie Ana
 | EMIL                     | EMIL Software GmbH              | [itc-ms.de/](https://www.itc-ms.de/) |
 | DocuMed.rh               | -                               | -                                     |
 | RheumaNet | Deutsche Gesellschaft für Rheumatologie e.V. | [rheumanet.org/](https://www.rheumanet.org/) |
+| VivoCare Rheuma Assist| StatConsult GmbH         | [vivocare-software.de](https://www.vivocare-software.de)            |
 
 : Übersicht Softwarelösungen Rheumatologie
 
