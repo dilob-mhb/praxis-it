@@ -47,6 +47,12 @@ Digitale Innovationen können über direkte und indirekte Zugangswege in den ers
 5. **Modulare Funktionsangebote**:
    - Dienste wie Trust-Service-Provider (z. B. digitale Signaturen) oder Datenaggregatoren.
 
+## Entwicklungsprozess
+
+[![Entwicklungsprozess Grafik](https://mermaid.ink/img/pako:eNp1UstOwzAQ_BXLZxD3HpD6pq2QgHKqw8HEm8Rqso7sNQiq_g2fwY0fw3GaplA1h1U8OzPe9e6Op0YBH_Dcyrpgz5MEWfiGYqEAMNOoPObMo2Irg59QEyC963RbBvil5Y7EvUyLV2m3oMk58koDRsmDNWToowY8UMdieiYfs-vrWzYRCySwCOzRy1LTzxe5rUGypizhwJyKJ8h9KclY7dIC2BAzYxXY3mwmnsGRu1m3VRzQeajQbukzaJ3ryfN4812bBI3Zz3dhu3YbEEhj7shKglx3VSzEOi180wB7M8hWgXy8aClGYJtXICgjQ_4jrMSDcVR13gFtcedf2wGcvE-bidOIhY5iHLcwoDrTNq135W-6XnuXSdRPY5zFOL_s9f9Nepu7KF3EuLxs8KfPXr2MutWJjl_xCmwltQpbuGsSCacCKkj4IPwqyKQvKeEJ7gNVejLrD0z5gKyHK26Nzws-yGTpwsnXKsxqomWooTqitcSNMf0ZlA4rdN_ufVz__S9NtgDp?type=png)](https://mermaid.live/edit#pako:eNp1UstOwzAQ_BXLZxD3HpD6pq2QgHKqw8HEm8Rqso7sNQiq_g2fwY0fw3GaplA1h1U8OzPe9e6Op0YBH_Dcyrpgz5MEWfiGYqEAMNOoPObMo2Irg59QEyC963RbBvil5Y7EvUyLV2m3oMk58koDRsmDNWToowY8UMdieiYfs-vrWzYRCySwCOzRy1LTzxe5rUGypizhwJyKJ8h9KclY7dIC2BAzYxXY3mwmnsGRu1m3VRzQeajQbukzaJ3ryfN4812bBI3Zz3dhu3YbEEhj7shKglx3VSzEOi180wB7M8hWgXy8aClGYJtXICgjQ_4jrMSDcVR13gFtcedf2wGcvE-bidOIhY5iHLcwoDrTNq135W-6XnuXSdRPY5zFOL_s9f9Nepu7KF3EuLxs8KfPXr2MutWJjl_xCmwltQpbuGsSCacCKkj4IPwqyKQvKeEJ7gNVejLrD0z5gKyHK26Nzws-yGTpwsnXKsxqomWooTqitcSNMf0ZlA4rdN_ufVz__S9NtgDp)
+
+## Beispiele
+
 | Forschungsprojekt | URL |
 |------------|-----|
 | Neue Versorgungsformen | [innovationsfonds.g-ba.de](https://innovationsfonds.g-ba.de/projekte/neue-versorgungsformen/) |
