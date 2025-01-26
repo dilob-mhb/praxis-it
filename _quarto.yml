@@ -48,7 +48,9 @@ book:
       - datenschutz.qmd
       - gesetzgebung.qmd
       - it-sicherheit.qmd
+      - krankenkassen.qmd
     - diskurs.qmd
+    - digitale-innovationen.qmd
     - zusammenfassung.qmd
     - referenzen.qmd
 
