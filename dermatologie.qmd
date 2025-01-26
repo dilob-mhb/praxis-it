@@ -10,5 +10,11 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 | derma2go                 | derma2go AG              | [derma2go.com](https://www.derma2go.com)                             |
 | intellimago              | zollsoft GmbH            | [intellimago.de](https://intellimago.de)                            |
 | DermaValue                | DermaValue GmbH          | [dermavalue.com](https://www.dermavalue.com/de/)                    |
+| SkinTheory               | SkinTheory               | [apps.apple.com/us/app/skintheory-skin-acne-routine](https://apps.apple.com/us/app/skintheory-skin-acne-routine/id1490049787) |
+| Miiskin                  | Miiskin                  | [miiskin.com](https://miiskin.com/)                                  |
+| SkinTheory (Android)     | SkinTheory               | [com.skintheory.skintheory](https://play.google.com/store/apps/details?id=com.skintheory.skintheory&pli=1) |
+| MDacne                   | MDacne                   | [mdacne.com](https://www.mdacne.com/)                                |
+| La Roche-Posay Effaclar SpotScan | La Roche-Posay      | [effaclar-spotscan](https://www.larocheposay.de/event/effaclar-spotscan) |
+| AcneDet on Roboflow      | AcneDet                  | [roboflow.com/acnedet/acnedet-v1](https://universe.roboflow.com/acnedet/acnedet-v1) |
 
 : Übersicht Softwarelösungen Dermatologie
