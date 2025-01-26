@@ -89,3 +89,34 @@ Der "CyberPraxMed"-Bericht des BSI [@CyberPraxMed2023] untersucht die IT-Sicherh
 ## Beispiel IT-Architektur Praxis
 
 [![Beispiel IT-Architektur](https://mermaid.ink/img/pako:eNp9Vetu2jAUfpXIUqdNIlUTwlLyYxJru27qZWigTZrpD5MciEViI19GL-rb7E32YjNxAIcUIiW2v_PZ59jnO84LSnkGKEFzQZa5N76cMM88JyfeV6KXakEUzLmgwLwMhPdt7A9EmlMFC6WFpUo9tXOHRBmeAmbx9bOFyELB-8bog2UByyZsfyFBHqn8A2JFCqXZfLfezy0m5ZNUUOJ9bo0_7OaMQZSULQvCQODd4E3uYCogzR0bbiEPh-O-g4w-U0ZlmoM3qtiwW_vq5hqb178G8e-vcpx-LrTKhE4XeNsrQcr5Pu-WTLnA1dfawDEa3yM-UysiADfjqNEjcd-Del6BWOxW-8G1MqdlG8fLFyrAHHSBNx3HNlpRlebYNg7-63Zwj9cff5CmZl_-kFOm5JF4rlhWb9BR0gUeiClQJaUyMuLMKHJ4IR0_l-uDM0HXrffOG6WEsUb8YzItQElct0diuOFlqRldVL5cMRUw44ywgswBN0aOmyv_jtAC28Yf7atsWwdLLhQp8HdWUAb-HtwOzhSlKYApZZmR46bMGkXl-f6ndpFYYguuyG51HOO16uAY2RHjJnaj_Lapof63zZXcDy1q9VlZN4KsBlaDVXctPEt2wOFFC6pV08JrpWw8NjJeEWwM9SarhLfgvcQ27IcZjcQeyrVzKKiDSpNMQjNzm7-sJ0yQytdXEEpMN4MZ0YWaoAl7NVSiFR89sRQlSmjoIMH1PEfJjBTSjPQyMxf_JSWmGMotuiTsN-eNMUpe0CNK_G4YnvbO4qAf9nu9IOoHHfSEkijsn4Zx3I3Oe2dRGAXd7msHPVdLBKdxHPQ-Bv3zszCKo37c7SBzbSku7uz_qPotvf4HLoAwsA?type=png)](https://mermaid.live/edit#pako:eNp9Vetu2jAUfpXIUqdNIlUTwlLyYxJru27qZWigTZrpD5MciEViI19GL-rb7E32YjNxAIcUIiW2v_PZ59jnO84LSnkGKEFzQZa5N76cMM88JyfeV6KXakEUzLmgwLwMhPdt7A9EmlMFC6WFpUo9tXOHRBmeAmbx9bOFyELB-8bog2UByyZsfyFBHqn8A2JFCqXZfLfezy0m5ZNUUOJ9bo0_7OaMQZSULQvCQODd4E3uYCogzR0bbiEPh-O-g4w-U0ZlmoM3qtiwW_vq5hqb178G8e-vcpx-LrTKhE4XeNsrQcr5Pu-WTLnA1dfawDEa3yM-UysiADfjqNEjcd-Del6BWOxW-8G1MqdlG8fLFyrAHHSBNx3HNlpRlebYNg7-63Zwj9cff5CmZl_-kFOm5JF4rlhWb9BR0gUeiClQJaUyMuLMKHJ4IR0_l-uDM0HXrffOG6WEsUb8YzItQElct0diuOFlqRldVL5cMRUw44ywgswBN0aOmyv_jtAC28Yf7atsWwdLLhQp8HdWUAb-HtwOzhSlKYApZZmR46bMGkXl-f6ndpFYYguuyG51HOO16uAY2RHjJnaj_Lapof63zZXcDy1q9VlZN4KsBlaDVXctPEt2wOFFC6pV08JrpWw8NjJeEWwM9SarhLfgvcQ27IcZjcQeyrVzKKiDSpNMQjNzm7-sJ0yQytdXEEpMN4MZ0YWaoAl7NVSiFR89sRQlSmjoIMH1PEfJjBTSjPQyMxf_JSWmGMotuiTsN-eNMUpe0CNK_G4YnvbO4qAf9nu9IOoHHfSEkijsn4Zx3I3Oe2dRGAXd7msHPVdLBKdxHPQ-Bv3zszCKo37c7SBzbSku7uz_qPotvf4HLoAwsA)
+
+## Mobile Device Management (MDM)
+
+Mobile Device Management (MDM) in Arztpraxen ermöglicht die zentrale Verwaltung und Sicherung von mobilen Geräten wie Smartphones und Tablets. Damit können Ärzte und Praxismitarbeiter sicher auf Patientendaten zugreifen, während gleichzeitig die Datenschutzrichtlinien eingehalten werden. MDM-Lösungen unterstützen zudem die Fernwartung und -aktualisierung der Geräte
+
+| Produkt         | URL                                                                                     |
+|-----------------|-----------------------------------------------------------------------------------------|
+| Ivanti (MobileIron) | [ivanti.com](https://www.ivanti.com/de/company/history/mobileiron)                     |
+| SOTI            | [soti.de](https://soti.de/branchen/gesundheitswesen/)                                   |
+| Jamf Pro        | [jamf.com](https://www.jamf.com/de/produkte/jamf-pro/)                                  |
+| ManageEngine    | [manageengine.com](https://www.manageengine.com/mobile-device-management/mdm-solution-for-healthcare.html) |
+| Hexnode         | [hexnode.com](https://www.hexnode.com/de/)                                              |
+| IBM MaaS360     | [ibm.com](https://www.ibm.com/de-de/products/maas360)                                   |
+
+## Security Information and Event Management (SIEM) 
+
+Security Information and Event Management (SIEM) sammeln und korrelieren Log-Daten aus verschiedenen IT-Systemen, um verdächtige Aktivitäten oder Sicherheitsverletzungen frühzeitig zu erkennen.
+
+| Produkt/Anbieter        | URL                                                                                    |
+|-------------------------|----------------------------------------------------------------------------------------|
+| ByteSnipers             | [bytesnipers.com](https://www.bytesnipers.com/branchen/gesundheitswesen)              |
+| SVA                     | [sva.de](https://www.sva.de/de/solutions/cyber-security)                               |
+| Logpoint                | [logpoint.com](https://www.logpoint.com/de/)                                           |
+| Myracle Security         | [myrasecurity.com](https://www.myrasecurity.com/de/)                                   |
+| Splunk                  | [splunk.com](https://www.splunk.com/de_de)                                             |
+| IBM QRadar              | [ibm.com](https://www.ibm.com/qradar)                                                  |
+| Exabeam                 | [exabeam.com](https://www.exabeam.com/)                                                 |
+| Graylog                 | [graylog.org](https://graylog.org/)                                                    |
+| ManageEngine Log360     | [manageengine.com](https://www.manageengine.com/log-management/)                      |
+| Rapid7 InsightIDR       | [rapid7.com](https://www.rapid7.com/de/products/insightidr/)                           |
+| SolarWinds Security Event Manager | [solarwinds.com](https://www.solarwinds.com/de/security-event-manager)                |
