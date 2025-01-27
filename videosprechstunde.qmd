@@ -20,6 +20,8 @@
 
 Diese Merkmale zeigen, dass, obwohl die Grundfunktion einer Videosprechstunde bei allen Anbietern ähnlich ist, die Details in der Umsetzung und die zusätzlichen Dienstleistungen erhebliche Unterschiede darstellen.
 
+Videosprechstunden bieten Hausärzten Flexibilität und erleichtern die Gestaltung effizienter Behandlungsabläufe, insbesondere bei Triage- und Nachsorgefällen. Sie verbessern die Erreichbarkeit für Patienten, führen jedoch zu Herausforderungen wie einem Anstieg trivialer Anfragen und einer möglichen Beeinträchtigung der Diagnosefähigkeit. Die einfache Verfügbarkeit kann die Fähigkeit der Patienten zur Selbstfürsorge verringern, was Ärzte zusätzlich belastet. Eine Balance zwischen digitalen und physischen Konsultationen wird als essenziell angesehen, um die Versorgungsqualität und die Kontinuität in der Arzt-Patient-Beziehung zu wahren. Die Studie hebt hervor, dass Videosprechstunden das Gesundheitssystem transformieren, jedoch eine bewusste Integration erfordern. [@Norberg2024]
+
 | Index | Product | Company | URL |
 |---|---|---|---|
 | 1 | m.Doc Smart Practice | m.Doc GmbH | [smart-practice.mdoc.one](http://smart-practice.mdoc.one/) |
