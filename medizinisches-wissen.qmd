@@ -18,9 +18,14 @@ Digitale Wissens- und Fortbildungsplattformen bieten medizinischen Fachkräften 
 | derCampus                | derCampus GmbH           | [dercampus.eu](https://www.dercampus.eu/)                           |
 | Medical Tribune          | Medical Tribune Verlag   | [medical-tribune.de](https://www.medical-tribune.de/fortbildung)    |
 | NowToGo                  | MedizinToGo GmbH         | [now.medizintogo.de](https://now.medizintogo.de/)                   |
-| Nerdfallmedizin          | -                        | [nerdfallmedizin.blog](https://nerdfallmedizin.blog/)               |
+| Nerdfallmedizin          | Nerdfallmedizin GbR        | [nerdfallmedizin.blog](https://nerdfallmedizin.blog/)             |
+| Orpha.net                | INSERM US14        | [orpha.net](https://www.orpha.net/) |
+| Embryotox                | Institut für Klinische Pharmakologie und Toxikologie Charité | [embryotox.de](https://www.embryotox.de/) |
+| Dosing                   | Abt. Klinische Pharmakologie & Pharmakoepidemiologie UK Heidelberg | [dosing.de](https://dosing.de/) |
+| Medbee                   | Medbee GmbH    | [medbee.org/s/](https://medbee.org/s/) |
+| MedCalc                  | MDCalc Ltd. Inc.        | [medcalc.org](https://www.medcalc.com/)                              |
 
-: Übersicht digitale Fortbildungsplattformen 
+: Übersicht digitale Wissensplattformen 
 
 ## Für PatientInnen
 
