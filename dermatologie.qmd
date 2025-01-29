@@ -6,6 +6,7 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 |--------------------------|--------------------------|---------------------------------------------------------------------|
 | Skinive                  | Skinive Holding BV       | [skinive.com](https://skinive.com/de/for-specialists/)              |
 | intellimago              | zollsoft GmbH            | [intellimago.de](https://intellimago.de)                            |
+| meinlieblingsprodukt|meinlieblingunternehmen|[unternehmen.de](https://example.com/)|
 
 : Übersicht Softwarelösungen Business-to-Business
 
