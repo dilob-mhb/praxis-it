@@ -22,6 +22,7 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 | MDacne                   | MDacne                   | [mdacne.com](https://www.mdacne.com/)                                |
 | La Roche-Posay Effaclar SpotScan | La Roche-Posay      | [effaclar-spotscan](https://www.larocheposay.de/event/effaclar-spotscan) |
 | AI-Derm                  | IAC Search and Media Europe, Ltd. | [ai-derm.com](https://ai-derm.com/)                                 |
+| CRUSE Control            | UCARE (Urticaria Centers of Reference and Excellence) | [cruse-control.com](https://cruse-control.com/) |
 
 : Übersicht Softwarelösungen Direct-to-Consumer
 
