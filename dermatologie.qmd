@@ -9,19 +9,6 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 
 : Übersicht Softwarelösungen Business-to-Business
 
-
-
-## neueüberschrift
-
-dies ist ein Testtext.[dasistderlinktext](https://dasistderlinktext.de)
-
-* listenpunk1
-* litenpunkt2
-
-**fettertext**
-
-*kursivertext*
-~durchgestrichenertext~
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|
 | Nia Neurodermitis       | Nia Health GmbH          | [nia-health.de](https://www.nia-health.de/)                         |
