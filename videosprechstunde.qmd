@@ -43,5 +43,6 @@ Die Studie in fünf nordeuropäischen Ländern [@AssingHvidt2023] zeigt, dass tr
 | 15 | MediQuit | MediQuit GmbH | [mediquit.de](https://mediquit.de/) |
 | 16 | Patientus | Patientus GmbH | [patientus.de](https://www.patientus.de/) |
 | 17 | DrAnsay | DrAnsay GmbH | [dransay.com](https://dransay.com/) |
+| 18 | Doxy.me | Doxy.me, Inc. | [doxy.me/de](https://doxy.me/de/) |
 
 : Übersicht Softwarelösungen Videosprechstunde
