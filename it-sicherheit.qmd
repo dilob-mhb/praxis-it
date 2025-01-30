@@ -1,0 +1,122 @@
+# IT-Sicherheit
+
+Die **KBV IT-Sicherheitsrichtlinie** wurde von der **Kassenärztlichen Bundesvereinigung (KBV)** entwickelt, um die Anforderungen von **§ 75b SGB V** zu erfüllen, einem Gesetz zur Stärkung der IT-Sicherheit im Gesundheitswesen. Die Richtlinie standardisiert technische und organisatorische Maßnahmen (TOMs) zur Datensicherheit gemäß Artikel 32 der DSGVO und unterscheidet sich nach Praxisgröße und IT-Infrastruktur. Sie fokussiert sich auf die Ziele Vertraulichkeit, Integrität und Verfügbarkeit von Daten und wird jährlich mit dem BSI aktualisiert. Diese Richtlinie ist für alle Praxen im gesetzlichen Krankenversicherungssystem verpflichtend und unterstützt eine schrittweise Umsetzung. [@KBV_IT_Sicherheitsrichtlinie_2020]
+
+## Beispiele für IT-Schwachstellen
+
+Der "CyberPraxMed"-Bericht des BSI [@CyberPraxMed2023] untersucht die IT-Sicherheitslage in deutschen Arztpraxen. Die Wahrscheinlichkeit eines erfolgreichen Cyberangriffs wird als hoch eingestuft, während die bestehenden Richtlinien oft nicht umgesetzt werden. Der Bericht listet spezifische Risiken auf: 
+
+- **Unbeaufsichtigte PCs**: Viele Praxen haben Computer, die mit aktiven Benutzersitzungen unbeaufsichtigt gelassen werden, sodass Patienten oder andere externe Personen Zugang zu diesen Systemen haben könnten.
+- **Unsicherer Fernzugriff**: Praxen nutzen häufig VPN oder RDP-Verbindungen zur Netzwerkzugriffs, manchmal mit privaten Geräten zur Datenverarbeitung und -speicherung, was sensible Informationen gefährden kann.
+- **Fehlende Backup-Tests**: Regelmäßige Tests der Backup-Funktionen werden oft nicht durchgeführt, was bedeutet, dass nach einem Angriff möglicherweise keine Datenwiederherstellung möglich ist.
+- **Unsichere Netzwerkbuchsen**: Es gibt oft offene oder ungeschützte Netzwerkbuchsen in den Praxen, die als Angriffspunkte genutzt werden könnten.
+- **Private Geräte**: Viele Praxen integrieren private Geräte in das gleiche Netzwerk wie ihre professionelle Ausrüstung, was die Sicherheit des gesamten Netzwerks gefährden kann.
+- **Fehlende Netzwerksegmentierung**: Es fehlt an der Trennung von LAN, WLAN, medizinischen Geräten und IT-Ausrüstung, was das Risiko der Malwareverbreitung erhöht.
+- **Unverschlüsselte E-Mails**: Einige Praxen tauschen Patientendaten über unverschlüsselte E-Mails aus, wodurch diese Daten leicht abgefangen werden können.
+- **Fehlende Sicherheitssysteme**: Viele Praxen verwenden keine Systeme zur Eindringungserkennung oder -verhinderung (IDS/IPS), was Angriffe weniger wahrscheinlich macht zu entdecken oder zu verhindern.
+- **Fehlende IT-Dokumentation**: Es gibt häufig keine ausreichende Dokumentation der IT-Struktur und -Sicherheitsmaßnahmen, was bedeutet, dass Schwachstellen oft unbemerkt und unbehandelt bleiben.
+
+## Praxisspezifische IT-Sicherheitsanforderungen
+
+### **Nach Praxisgröße:**
+
+- **Kleine Praxen (1-5 Personen im Datenerfassungsprozess):**
+  - **Grundanforderungen:**
+    - **Anlage 1** und **Anlage 5** der KBV IT-Sicherheitsrichtlinien müssen eingehalten werden.
+
+- **Mittelgroße Praxen (6-20 Personen im Datenerfassungsprozess):**
+  - **Grund- und Zusatzanforderungen:**
+    - **Anlage 1 und 5**, plus zusätzliche Maßnahmen in **Anlage 2** (wie App-Berechtigungen, Zugangskontrolle für Webanwendungen, sichere Authentifizierung, Protokolle für mobile Geräte und Datentransfer).
+
+- **Große Praxen (mehr als 21 Personen oder hohes Datenaufkommen):**
+  - **Umfassende Anforderungen:**
+    - **Anlagen 1, 2 und 5**, sowie zusätzliche Maßnahmen in **Anlage 3** (strengere Regelungen für IT-Komponenten, Verschlüsselung, sicherer Datentransfer).
+
+### **Nach Medizintechnik:**
+
+- **Praxen mit großer Medizintechnik (z.B. CT, MRT, PET-Scanner):**
+  - **Zusätzliche Gerätespezifische Anforderungen:**
+    - **Anlage 4** muss eingehalten werden, welche spezifische Sicherheitsmaßnahmen für solche Geräte umfasst.
+
+### **Telematikinfrastruktur (TI):**
+
+- **Für Alle Praxen:**
+  - **Anlage 5** für den sicheren Betrieb von TI-Komponenten wie Konnektoren, Kartenlesern und Praxis-ID-Karten.
+
+### **Zusammenfassung der Anlagen:**
+
+- **Anlage 1:** Grundlegende IT-Sicherheitsmaßnahmen für alle Praxen (sicherer App-Nutzung, Virenschutz, Firewalls, Datensicherung).
+- **Anlage 2:** Zusätzliche Sicherheit für mittelgroße Praxen (App-Berechtigungen, Webanwendung-Zugangskontrolle, Mobilitätssicherheit).
+- **Anlage 3:** Weitere Anforderungen für große Praxen (Verschlüsselung, sicherer Datentransfer).
+- **Anlage 4:** Sicherheit für große medizinische Geräte.
+- **Anlage 5:** Sicherheit für TI-Komponenten.
+
+## Gesetzgebung bezüglich IT-Sicherheit
+
+- **§ 75b SGB V**: 
+  - Verpflichtet Arztpraxen zur Implementierung von IT-Sicherheitsmaßnahmen, basierend auf dem Digitalen-Versorgungs-Gesetz (DVG) 2019.
+  - **KBV** gibt verbindliche Richtlinien heraus, abhängig von Praxisgröße und Medizintechnik.
+
+- **§ 203 StGB**: 
+  - Regelt das **ärztliche Schweigeprivileg**, was den Schutz von Patientendaten priorisiert.
+
+- **§ 32 DSGVO**: 
+  - Verlangt technische und organisatorische Maßnahmen (TOMs) zur Sicherung von Daten.
+
+- **§ 291a SGB V**: 
+  - Bezieht sich auf die Telematikinfrastruktur (TI) und die Rolle der **gematik** bei Datenschutz.
+
+- **§ 3 Abs. 9 & § 28 Abs. 6-9 BDSG**: 
+  - Allgemeine Datenschutzanforderungen.
+
+- **§ 22 BDSG**: 
+  - Regelung zur Nutzung von Patientendaten, die auf die Behandlung beschränkt ist; zusätzliche Verwendung benötigt Zustimmung des Patienten.
+
+- **§ 2 Absatz 9 BSI-Gesetz**: 
+  - Klärt, dass Arztpraxen **nicht** zu kritischen Infrastrukturen zählen.
+
+**Weitere gesetzliche Rahmenbedingungen:**
+
+- **BSI-Gesetz**: 
+  - Betrifft das Bundesamt für Sicherheit in der Informationstechnik (BSI), welches Richtlinien wie den IT-Grundschutz liefert.
+
+- **MBO-Ä § 10 Abs. 5 & MBO-Pt § 10 Abs. 2**: 
+  - Berufsordnungsregeln für Ärzte und Psychotherapeuten betreffend elektronische Patientenakten.
+
+- **IFSG & MPG**: 
+  - Infektionsschutzgesetz und Medizinproduktegesetz für Patienten- und Mitarbeiterschutz.
+
+## Beispiel IT-Architektur Praxis
+
+[![Beispiel IT-Architektur](https://mermaid.ink/img/pako:eNp9Vetu2jAUfpXIUqdNIlUTwlLyYxJru27qZWigTZrpD5MciEViI19GL-rb7E32YjNxAIcUIiW2v_PZ59jnO84LSnkGKEFzQZa5N76cMM88JyfeV6KXakEUzLmgwLwMhPdt7A9EmlMFC6WFpUo9tXOHRBmeAmbx9bOFyELB-8bog2UByyZsfyFBHqn8A2JFCqXZfLfezy0m5ZNUUOJ9bo0_7OaMQZSULQvCQODd4E3uYCogzR0bbiEPh-O-g4w-U0ZlmoM3qtiwW_vq5hqb178G8e-vcpx-LrTKhE4XeNsrQcr5Pu-WTLnA1dfawDEa3yM-UysiADfjqNEjcd-Del6BWOxW-8G1MqdlG8fLFyrAHHSBNx3HNlpRlebYNg7-63Zwj9cff5CmZl_-kFOm5JF4rlhWb9BR0gUeiClQJaUyMuLMKHJ4IR0_l-uDM0HXrffOG6WEsUb8YzItQElct0diuOFlqRldVL5cMRUw44ywgswBN0aOmyv_jtAC28Yf7atsWwdLLhQp8HdWUAb-HtwOzhSlKYApZZmR46bMGkXl-f6ndpFYYguuyG51HOO16uAY2RHjJnaj_Lapof63zZXcDy1q9VlZN4KsBlaDVXctPEt2wOFFC6pV08JrpWw8NjJeEWwM9SarhLfgvcQ27IcZjcQeyrVzKKiDSpNMQjNzm7-sJ0yQytdXEEpMN4MZ0YWaoAl7NVSiFR89sRQlSmjoIMH1PEfJjBTSjPQyMxf_JSWmGMotuiTsN-eNMUpe0CNK_G4YnvbO4qAf9nu9IOoHHfSEkijsn4Zx3I3Oe2dRGAXd7msHPVdLBKdxHPQ-Bv3zszCKo37c7SBzbSku7uz_qPotvf4HLoAwsA?type=png)](https://mermaid.live/edit#pako:eNp9Vetu2jAUfpXIUqdNIlUTwlLyYxJru27qZWigTZrpD5MciEViI19GL-rb7E32YjNxAIcUIiW2v_PZ59jnO84LSnkGKEFzQZa5N76cMM88JyfeV6KXakEUzLmgwLwMhPdt7A9EmlMFC6WFpUo9tXOHRBmeAmbx9bOFyELB-8bog2UByyZsfyFBHqn8A2JFCqXZfLfezy0m5ZNUUOJ9bo0_7OaMQZSULQvCQODd4E3uYCogzR0bbiEPh-O-g4w-U0ZlmoM3qtiwW_vq5hqb178G8e-vcpx-LrTKhE4XeNsrQcr5Pu-WTLnA1dfawDEa3yM-UysiADfjqNEjcd-Del6BWOxW-8G1MqdlG8fLFyrAHHSBNx3HNlpRlebYNg7-63Zwj9cff5CmZl_-kFOm5JF4rlhWb9BR0gUeiClQJaUyMuLMKHJ4IR0_l-uDM0HXrffOG6WEsUb8YzItQElct0diuOFlqRldVL5cMRUw44ywgswBN0aOmyv_jtAC28Yf7atsWwdLLhQp8HdWUAb-HtwOzhSlKYApZZmR46bMGkXl-f6ndpFYYguuyG51HOO16uAY2RHjJnaj_Lapof63zZXcDy1q9VlZN4KsBlaDVXctPEt2wOFFC6pV08JrpWw8NjJeEWwM9SarhLfgvcQ27IcZjcQeyrVzKKiDSpNMQjNzm7-sJ0yQytdXEEpMN4MZ0YWaoAl7NVSiFR89sRQlSmjoIMH1PEfJjBTSjPQyMxf_JSWmGMotuiTsN-eNMUpe0CNK_G4YnvbO4qAf9nu9IOoHHfSEkijsn4Zx3I3Oe2dRGAXd7msHPVdLBKdxHPQ-Bv3zszCKo37c7SBzbSku7uz_qPotvf4HLoAwsA)
+
+## Mobile Device Management (MDM)
+
+Mobile Device Management (MDM) in Arztpraxen ermöglicht die zentrale Verwaltung und Sicherung von mobilen Geräten wie Smartphones und Tablets. Damit können Ärzte und Praxismitarbeiter sicher auf Patientendaten zugreifen, während gleichzeitig die Datenschutzrichtlinien eingehalten werden. MDM-Lösungen unterstützen zudem die Fernwartung und -aktualisierung der Geräte
+
+| Produkt         | URL                                                                                     |
+|-----------------|-----------------------------------------------------------------------------------------|
+| Ivanti (MobileIron) | [ivanti.com](https://www.ivanti.com/de/company/history/mobileiron)                     |
+| SOTI            | [soti.de](https://soti.de/branchen/gesundheitswesen/)                                   |
+| Jamf Pro        | [jamf.com](https://www.jamf.com/de/produkte/jamf-pro/)                                  |
+| ManageEngine    | [manageengine.com](https://www.manageengine.com/mobile-device-management/mdm-solution-for-healthcare.html) |
+| Hexnode         | [hexnode.com](https://www.hexnode.com/de/)                                              |
+| IBM MaaS360     | [ibm.com](https://www.ibm.com/de-de/products/maas360)                                   |
+
+## Security Information and Event Management (SIEM) 
+
+Security Information and Event Management (SIEM) sammeln und korrelieren Log-Daten aus verschiedenen IT-Systemen, um verdächtige Aktivitäten oder Sicherheitsverletzungen frühzeitig zu erkennen.
+
+| Produkt/Anbieter        | URL                                                                                    |
+|-------------------------|----------------------------------------------------------------------------------------|
+| ByteSnipers             | [bytesnipers.com](https://www.bytesnipers.com/branchen/gesundheitswesen)              |
+| SVA                     | [sva.de](https://www.sva.de/de/solutions/cyber-security)                               |
+| Logpoint                | [logpoint.com](https://www.logpoint.com/de/)                                           |
+| Myracle Security         | [myrasecurity.com](https://www.myrasecurity.com/de/)                                   |
+| Splunk                  | [splunk.com](https://www.splunk.com/de_de)                                             |
+| IBM QRadar              | [ibm.com](https://www.ibm.com/qradar)                                                  |
+| Exabeam                 | [exabeam.com](https://www.exabeam.com/)                                                 |
+| Graylog                 | [graylog.org](https://graylog.org/)                                                    |
+| ManageEngine Log360     | [manageengine.com](https://www.manageengine.com/log-management/)                      |
+| Rapid7 InsightIDR       | [rapid7.com](https://www.rapid7.com/de/products/insightidr/)                           |
+| SolarWinds Security Event Manager | [solarwinds.com](https://www.solarwinds.com/de/security-event-manager)                |

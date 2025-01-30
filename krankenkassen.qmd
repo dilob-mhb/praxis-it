@@ -1,0 +1,35 @@
+# Digitalisierung der Krankenkassen
+
+## E-Rezept
+
+Die offizielle App [Das E-Rezept](https://www.das-e-rezept-fuer-deutschland.de/app) der gematik ermöglicht es Nutzern, elektronische Rezepte bequem auf ihrem Smartphone zu verwalten und einzulösen. Sie bietet Funktionen wie das Anzeigen von Rezeptinformationen, das Einlösen von Rezepten in Apotheken und das Bestellen von Medikamenten. Die App ist für alle gesetzlich Versicherten kostenfrei.
+
+Es gibt Softwarelösungen, die Ärzten zusätzliche Funktionen zur Verordnungsverwaltung bieten wie bspw. schnelle Rezepterstellung, intelligente Suchfunktionen, Medikationsplanerstellung und AMTS-Prüfungen (siehe [data4doc](https://data4doc.de/)). Einige Praxisverwaltungssysteme (PVS) haben ähnliche Zusatzfunktionen integriert, die eine nahtlose Zusammenarbeit und Datenübertragung ermöglichen. Die Software bietet außerdem aktuelle Medikamenteninformationen und ist über eine standardisierte Schnittstelle in bestehende PVS-Systeme integrierbar.
+
+## ePA-Apps
+
+Die [ePA-Apps der Krankenkassen](https://www.gematik.de/versicherte/epa-app) in Deutschland bieten Versicherten die Möglichkeit, ihre elektronische Patientenakte (ePA) digital zu verwalten. Basierend auf der Information von der gematik gibt es folgende Punkte zu beachten:
+
+- Verfügbarkeit: Jede gesetzliche Krankenkasse stellt ihre eigene ePA-App zur Verfügung, was insgesamt zu über 100 verschiedenen Apps führt, die alle auf den Vorgaben der gematik basieren. Diese Apps sind für iOS und Android verfügbar.
+- Funktionen:
+  - Dokumentenverwaltung: Versicherte können ihre Gesundheitsdaten, wie Arztbriefe, Befunde oder Medikationspläne, in der ePA speichern, einsehen und verwalten.
+  - Zugriffsrechte: Nutzer können entscheiden, wer auf ihre Daten zugreifen darf, z.B. Ärzte oder Apotheken, und diese Berechtigungen jederzeit verwalten oder widerrufen.
+  - Sicherheit: Alle Daten werden verschlüsselt gespeichert und übertragen, um den Datenschutz zu gewährleisten. Die Apps nutzen die hochsichere Telematikinfrastruktur (TI).
+- Nutzungsvoraussetzungen: Um die volle Funktionalität der ePA-Apps zu nutzen, benötigen Versicherte die neue elektronische Gesundheitskarte (eGK) mit NFC-Schnittstelle und eine persönliche PIN. Alternativ kann auch die GesundheitsID verwendet werden.
+- Opt-Out-Prinzip: Mit der Einführung der "ePA für alle" im Jahr 2025 werden automatisch ePAs für alle Versicherten erstellt, sofern sie nicht widersprechen. Diese Einführung bedeutet, dass die Nutzung der ePA weiterhin freiwillig ist, aber die Akte standardmäßig angelegt wird.
+
+Beispiele von Krankenkassen-Apps:
+- AOK: "AOK Mein Leben"
+- Barmer: "BARMER eCare"
+- BKK B. Braun Aesculap: "BKK B. Braun Aesculap ePA"
+- Knappschaft: "Meine GESUNDHEIT"
+
+Diese Apps können von den jeweiligen Krankenkassen heruntergeladen werden und bieten eine zentrale Anlaufstelle für die Verwaltung persönlicher Gesundheitsdaten. Die Versicherten haben dabei stets die Kontrolle darüber, welche Daten in welcher Form und für wen zugänglich gemacht werden.
+
+## Elektronische Ersatzbescheinigung
+
+Die [elektronische Ersatzbescheinigung (eEB)](https://www.kbv.de/html/1150_72101.php) dient als digitaler Versicherungsnachweis, wenn die elektronische Gesundheitskarte (eGK) beim Arztbesuch nicht genutzt werden kann. Sie wird über den Kommunikationsdienst KIM automatisiert an die Praxis übermittelt und kann direkt ins Praxisverwaltungssystem (PVS) importiert werden, wodurch manuelles Einpflegen entfällt. Ihre Nutzung ist seit Oktober 2024 möglich und wird ab Juli 2025 für Praxen und Krankenkassen verpflichtend.
+
+## Elektronische Arbeitsunfähigkeitsbescheinigung
+
+Die [elektronische Arbeitsunfähigkeitsbescheinigung (eAU)](https://www.kbv.de/html/e-au.php) ermöglicht Ärzten, Arbeitsunfähigkeitsnachweise digital an Krankenkassen zu übermitteln, seitdem sie im Januar 2022 obligatorisch wurde. Dies spart Zeit und bürokratischen Aufwand für Patienten, da sie die Bescheinigung nicht mehr selbst weiterleiten müssen. Die eAU wird über die sichere Telematikinfrastruktur (TI) geschickt, was den Datenschutz erhöht und eine schnellere Bearbeitung von Krankengeldanträgen ermöglicht. Arbeitgeber müssen seit Januar 2023 die Daten direkt bei den Krankenkassen abrufen, was ein weiterer Unterschied zur Papier-AU ist, bei der der Patient den Nachweis vorlegte. Insgesamt führt die eAU zu mehr Effizienz und Transparenz, erfordert aber eine gewisse Investition und Anpassung.

@@ -31,6 +31,8 @@
 - **Flexibilität & Skalierbarkeit**: Anpassungsfähigkeit bei Cloud-Systemen.
 - **Analyse**: Berichtswesen und Analyse für Anrufverkehrsdaten.
 
+## Übersichtstabelle
+
 |    | Anbieter                          | URL                |
 |---:|:----------------------------------|:-------------------|
 |  0 | 3CX                               | [3cx.de](https://www.3cx.de)                        |

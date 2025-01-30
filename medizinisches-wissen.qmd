@@ -2,6 +2,8 @@
 
 ## Für Gesundheitspersonal
 
+Digitale Wissens- und Fortbildungsplattformen bieten medizinischen Fachkräften den Vorteil, jederzeit und überall auf aktuelles medizinisches Wissen zugreifen zu können. Sie unterstützen die kontinuierliche berufliche Weiterbildung tragen so zur Aufrechterhaltung und Verbesserung der Fachkenntnisse bei.
+
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|
 | Amboss                   | Amboss GmbH              | [amboss.com](https://www.amboss.com/de/aerztinnen-aerzte)           |
@@ -16,15 +18,22 @@
 | derCampus                | derCampus GmbH           | [dercampus.eu](https://www.dercampus.eu/)                           |
 | Medical Tribune          | Medical Tribune Verlag   | [medical-tribune.de](https://www.medical-tribune.de/fortbildung)    |
 | NowToGo                  | MedizinToGo GmbH         | [now.medizintogo.de](https://now.medizintogo.de/)                   |
-| Nerdfallmedizin          | -                        | [nerdfallmedizin.blog](https://nerdfallmedizin.blog/)               |
+| Nerdfallmedizin          | Nerdfallmedizin GbR        | [nerdfallmedizin.blog](https://nerdfallmedizin.blog/)             |
+| Orpha.net                | INSERM US14        | [orpha.net](https://www.orpha.net/) |
+| Embryotox                | Institut für Klinische Pharmakologie und Toxikologie Charité | [embryotox.de](https://www.embryotox.de/) |
+| Dosing                   | Abt. Klinische Pharmakologie & Pharmakoepidemiologie UK Heidelberg | [dosing.de](https://dosing.de/) |
+| Medbee                   | Medbee GmbH    | [medbee.org/s/](https://medbee.org/s/) |
+| MedCalc                  | MDCalc Ltd. Inc.        | [medcalc.org](https://www.medcalc.com/)                              |
 
-: Übersicht digitale Fortbildungsplattformen 
+: Übersicht digitale Wissensplattformen 
 
 ## Für PatientInnen
 
+Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheitsinformationen für Patientinnen. Sie bieten Gesundheitsinformationen in einer leicht verständlichen Form, die es Patientinnen ermöglicht, komplexe medizinische Konzepte zu begreifen, ohne dass sie Fachwissen voraussetzen.
+
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|
-| Was hab ich              | -                        | [washabich.de](https://washabich.de/)                               |
+| Was hab ich              | Was hab’ ich? gemeinnützige GmbH | [washabich.de](https://washabich.de/)                               |
 | Gesund.bund.de           | Bundesministerium für Gesundheit | [gesund.bund.de](https://gesund.bund.de/)                           |
 
 : Übersicht digitale Gesundheitsaufklärung 

@@ -4,12 +4,30 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|
+| Skinive                  | Skinive Holding BV       | [skinive.com](https://skinive.com/de/for-specialists/)              |
+| intellimago              | zollsoft GmbH            | [intellimago.de](https://intellimago.de)                            |
+
+: Übersicht Softwarelösungen Business-to-Business
+
+| Product                  | Company                  | URL                                                                 |
+|--------------------------|--------------------------|---------------------------------------------------------------------|
 | Nia Neurodermitis       | Nia Health GmbH          | [nia-health.de](https://www.nia-health.de/)                         |
 | IQONIC.AI                | SkinTech Corp. GmbH      | [iqonic.ai](https://www.iqonic.ai/de)                               |
-| Derm.AI                  | Fraunhofer AICOS         | [dermai.projects.fraunhofer.pt](http://dermai.projects.fraunhofer.pt/index.html) |
 | SkinScreener App         | medaia GmbH              | [skinscreener.com](https://skinscreener.com)                        |
 | derma2go                 | derma2go AG              | [derma2go.com](https://www.derma2go.com)                             |
-| intellimago              | zollsoft GmbH            | [intellimago.de](https://intellimago.de)                            |
 | DermaValue                | DermaValue GmbH          | [dermavalue.com](https://www.dermavalue.com/de/)                    |
+| SkinTheory               | SkinTheory               | [apps.apple.com/us/app/skintheory-skin-acne-routine](https://apps.apple.com/us/app/skintheory-skin-acne-routine/id1490049787) |
+| Miiskin                  | Miiskin                  | [miiskin.com](https://miiskin.com/)                                  |
+| SkinTheory (Android)     | SkinTheory               | [com.skintheory.skintheory](https://play.google.com/store/apps/details?id=com.skintheory.skintheory&pli=1) |
+| MDacne                   | MDacne                   | [mdacne.com](https://www.mdacne.com/)                                |
+| La Roche-Posay Effaclar SpotScan | La Roche-Posay      | [effaclar-spotscan](https://www.larocheposay.de/event/effaclar-spotscan) |
+| AI-Derm                  | IAC Search and Media Europe, Ltd. | [ai-derm.com](https://ai-derm.com/)                                 |
 
-: Übersicht Softwarelösungen Dermatologie
+: Übersicht Softwarelösungen Direct-to-Consumer
+
+| Product                  | Company                  | URL                                                                 |
+|--------------------------|--------------------------|---------------------------------------------------------------------|
+| AcneDet on Roboflow      | AcneDet                  | [roboflow.com/acnedet/acnedet-v1](https://universe.roboflow.com/acnedet/acnedet-v1) |
+| Derm.AI                  | Fraunhofer AICOS         | [dermai.projects.fraunhofer.pt](http://dermai.projects.fraunhofer.pt/index.html) |
+
+: Übersicht Forschungsprojekte

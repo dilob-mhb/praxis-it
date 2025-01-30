@@ -23,22 +23,14 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 ## Kostenmodell
 - Die Preismodelle variieren, aber es gibt eine Tendenz zu flexiblen Lizenzierungsmodellen, die sowohl monatliche Abonnements (SaaS) als auch einmalige Kaufpreise umfassen können.
 
+## Übersichtstabellen
+
 |    | Software         | Anbieter                          | URL                |
 |---:|:-----------------|:----------------------------------|:-------------------|
-|  0 | Tiphce           | Tiphce GmbH                       | [tiphce.com](https://www.tiphce.com/)         |
 |  1 | Aequitixx        | Aequitixx GmbH                    | [aequitixx.de](https://www.aequitixx.de/)     |
-|  2 | Flowers Software | Flowers Software GmbH             | [flowers-software.de](https://www.flowers-software.de/de/) |
-|  3 | Amagno           | Amagno GmbH                       | [amagno.de](https://amagno.de/)               |
-|  4 | CompuKöln        | CompuKöln GmbH                    | [compukoeln.de](https://www.compukoeln.de/)   |
-|  5 | DocuWare         | DocuWare GmbH                     | [docuware.com](https://start.docuware.com/de/) |
-|  6 | Candis           | Candis GmbH                       | [candis.io](https://www.candis.io/)           |
-|  7 | Lexware          | Haufe-Lexware GmbH & Co. KG       | [lexware.de](https://www.lexware.de/)         |
-|  8 | ecoDMS           | ecoDMS GmbH                       | [ecodms.de](https://www.ecodms.de/de/)        |
-|  9 | bitfarm-Archiv   | bitfarm Informationssysteme GmbH  | [bitfarm-archiv.de](https://www.bitfarm-archiv.de/) |
 | 10  | Solvi                  | Solvi GmbH                                  | [solvi.de](https://www.solvi.de/)                |
 | 11  | CURE Finance           | CURE Finance GmbH                           | [cure.finance](https://cure.finance/)           |
 | 12  | Nelly                  | Nelly GmbH                                  | [getnelly.de](https://www.getnelly.de/)         |
-| 13  | IWW-PraxisModul        | IWW Institut                               | [iww.de](https://www.iww.de/)                   |
 | 14  | Meda3                 | Meda3 GmbH                                 | [meda3.de](https://www.meda3.de/)               |
 | 15 | HonorarPlus | Honorar+Plus H+P UG (haftungsbeschränkt) | [honorarplus.de](https://honorarplus.de/) |  
 | 16  | Dr. Clever        | Dr. Clever GmbH                   | [dr-clever.de](https://www.dr-clever.de/)                   |
@@ -46,6 +38,14 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 | 18  | privadis          | MCC Medical CareCapital GmbH      | [privadis.de](https://www.privadis.de/)                     |
 | 19  | Simba n³          | Simba n³ GmbH                     | [nhochdrei.de](https://www.nhochdrei.de/branchen-und-bereiche/gesundheitswesen/uebersicht/) |
 | 20  | Honorarfuchs      | Honorarfuchs GmbH                 | [honorarfuchs.de](https://honorarfuchs.de/)                 |
-| 21  | BFS health finance | BFS health finance GmbH | [meinebfs.de](https://meinebfs.de/) |
 
 : Übersicht Softwarelösungen Buchhaltung
+
+|    | Software         | Anbieter                          | URL                |
+|---:|:-----------------|:----------------------------------|:-------------------|
+|  3 | Amagno           | Amagno GmbH                       | [amagno.de](https://amagno.de/)               |
+|  5 | DocuWare         | DocuWare GmbH                     | [docuware.com](https://start.docuware.com/de/) |
+|  8 | ecoDMS           | ecoDMS GmbH                       | [ecodms.de](https://www.ecodms.de/de/)        |
+|  9 | bitfarm-Archiv   | bitfarm Informationssysteme GmbH  | [bitfarm-archiv.de](https://www.bitfarm-archiv.de/) |
+
+: Übersicht Softwarelösungen Dokumentenmanagement

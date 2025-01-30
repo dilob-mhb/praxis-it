@@ -1,5 +1,7 @@
 # Rheumatologie
 
+## Software
+
 Software in der Rheumatologie zeichnet sich durch spezifische Funktionen wie Anamneseerhebung, Dokumentation von Krankheitsverläufen und Scoring-Systeme für die Bewertung von Krankheitsaktivität aus. 
 
 | Product                  | Company                         | URL                                   |
@@ -17,8 +19,11 @@ Software in der Rheumatologie zeichnet sich durch spezifische Funktionen wie Ana
 | EMIL                     | EMIL Software GmbH              | [itc-ms.de/](https://www.itc-ms.de/) |
 | DocuMed.rh               | -                               | -                                     |
 | RheumaNet | Deutsche Gesellschaft für Rheumatologie e.V. | [rheumanet.org/](https://www.rheumanet.org/) |
+| VivoCare Rheuma Assist| StatConsult GmbH         | [vivocare-software.de](https://www.vivocare-software.de)            |
 
 : Übersicht Softwarelösungen Rheumatologie
+
+## Umfrage der Kommission Digitale Rheumatologie 2020
 
 Die [Kommission "Digitale Rheumatologie"](https://dgrh.de/Start/DGRh/Die-Gesellschaft/Kommissionen-Amtszeit-2023-2025/Kommission-Digitale-Rheumatologie.html)
  der Deutschen Gesellschaft für Rheumatologie (DGRh) konzentriert sich auf die Digitalisierung in der Rheumatologie. Ihre Aufgaben umfassen die Erarbeitung von Empfehlungen zur Nutzung digitaler Anwendungen und Technologien in der rheumatologischen Praxis, die Verbesserung der Patientenversorgung durch digitale Lösungen und die Förderung der Forschung in diesem Bereich. Diese Kommission spielt eine zentrale Rolle bei der Integration neuer digitaler Tools und Methoden zur Optimierung der Diagnose, Behandlung und Nachsorge von Patienten mit rheumatischen Erkrankungen.
@@ -46,3 +51,7 @@ Die Tabelle aus dem "Positionspapier der Kommission zur Nutzung digitaler Anwend
 : Befragungsergebnisse der DGRh
 
 Quelle: [@knitza2020ziele]
+
+## DiGAs in der Rheumatologie
+
+Eine Studie von [@Albrecht2025] zeigt, dass digitale Gesundheitsanwendungen (DiGAs) eine Ergänzung zur Behandlung rheumatischer Erkrankungen darstellen, insbesondere bei der Symptomkontrolle von Rückenschmerzen und Gewichtsmanagement. Von 191 Patient:innen nutzten 66 % die DiGAs wöchentlich, 51 % berichteten von einer Symptomverbesserung, wobei Anwendungen wie **Kaia Rückenschmerzen** und **Somnio** besonders effektiv waren. Trotz hoher Benutzerfreundlichkeit bleibt die Abschlussrate niedrig (15 %), was auf die Notwendigkeit zusätzlicher Patientenschulungen und Unterstützungsangebote hinweist. Für Rheumatolog:innen bieten DiGAs eine Möglichkeit, Patienten über digitale Mittel individuell zu unterstützen und die Versorgung zu ergänzen.

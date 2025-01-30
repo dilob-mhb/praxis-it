@@ -1,5 +1,80 @@
 # Datenschutz
 
+## Dienstleistungensarten
+
+- **Vorlagen und Checklisten**: Organisationen bieten Vorlagen für die Dokumentation von Verarbeitungstätigkeiten, interne Arbeitsabläufe und Einwilligungs- und Vertraulichkeitserklärungen sowie Checklisten für spezifische Aufgaben an.
+- **Schulung und Sensibilisierung**: Interaktive Trainingsmodule zur Sensibilisierung von Mitarbeitern für Datenschutz und sichere Handhabung von Patientendaten, einschließlich Schutz vor Ransomware-Angriffen.
+- **IT-Sicherheitsrichtlinien und Unterstützung**: Richtlinien für sichere IT-Betriebe, inklusive Passwortmanagement, Zugangskontrollen und sichere Datenübertragung, basierend auf Anlagen des BÄK und KBV.
+- **Datenschutzmanagementsysteme (DSMS)**: Tools zur Dokumentation von Risikobewertungen und Implementierung von Sicherheitsmaßnahmen.
+- **Datenschutzbeauftragte (DPO)**: Interne oder externe DPOs zur Sicherstellung der Einhaltung von Datenschutzvorschriften.
+- **Cyber-Versicherung**: Schutz vor Schäden durch Cyber-Angriffe.
+- **Information und Unterstützung von Verbänden**: Richtlinien und Musterlösungen von medizinischen Verbänden.
+- **Datenschutzberatung**: Fachliche Beratung zur Einhaltung von Datenschutz in der Gesundheitsbranche.
+- **Initiativen und Kooperationen**: Tools wie "Mit Sicherheit gut behandelt" für Datenschutzmaßnahmen.
+- **Automatisierte Compliance-Lösungen**: Plattformen zur Automatisierung von Compliance-Aufgaben.
+
+## Praktische Anwendungen des Datenschutzes in Arztpraxen
+
+### Datensammlung und -management:
+
+- **Erstkontakt mit Patienten**: Datenschutz bei der Erfassung von Informationen durch Anmeldeformulare.
+- **Anamnesebögen**: Vorsichtiger Umgang mit sensiblen Daten in Patientenakten.
+- **Elektronische Patientenakten (ePA)**: Sichere Speicherung und Zugangskontrolle in digitalen Systemen.
+- **Digitalisierung von Dokumenten**: Übertragung von Papierdokumenten in digitale Formate mit Sicherung der Integrität.
+
+### Datenaustausch und Kommunikation:
+
+- **Überweisungen und E-Arztbriefe**: Datenschutz bei der Datenweitergabe an Fachärzte.
+- **Laboraufträge**: Sicherer Umgang mit Daten bei Laboruntersuchungen.
+- **E-Mail-Kommunikation**: Verschlüsselung von E-Mails zur Sicherung der Patientendaten.
+- **Videokonsultationen**: Datensicherheit und Vertraulichkeit bei Videoanrufen.
+
+### Datensicherheitsmaßnahmen:
+
+- **Passwortmanagement**: Sichere Passwortrichtlinien.
+- **Cybersicherheit**: Schutz vor Cyberangriffen.
+- **Datenverschlüsselung**: Verschlüsselung gespeicherter und übermittelter Daten.
+- **Datensicherungen**: Backup-Strategien und Notfallpläne.
+- **Reaktion auf Datenlecks**: Prozeduren für Datenlecks und Meldungen.
+
+### Nutzung externer Dienste:
+
+- **Externe IT-Dienstleister**: Sicherstellung der Datenschutzkonformität bei Outsourcing.
+- **Cloud-Dienste**: Datenschutz bei Nutzung von Cloud-Diensten.
+- **Datenverarbeitungsverträge**: Verträge zur rechtmäßigen Datenverarbeitung.
+
+### Patientenrechte:
+
+- **Auskunftsrecht**: Erfüllung von Informationsanfragen der Patienten.
+- **Berichtigungsrecht**: Korrektur falscher Informationen.
+- **Löschungsrecht**: Behandlung von Löschungsanforderungen unter Berücksichtigung von Aufbewahrungsfristen.
+
+### Spezifische Szenarien:
+
+- **Homeoffice**: Datenschutz im häuslichen Arbeitsumfeld.
+- **Terminbuchungstools**: GDPR-Konformität bei Online-Terminvergabe.
+- **Digitale Gesundheitsanwendungen (DiGA)**: Datenschutz bei der Nutzung von DiGAs.
+- **Soziale Medien**: Datenschutz bei der Online-Präsenz.
+- **Physiotherapeuten**: Schutz von Patientendaten bei Nachfragen nach Impfstatus.
+- **Bewerbungsdaten**: Sorgfältiger Umgang mit Bewerbungsunterlagen.
+
+### Veränderungen in der Praxis:
+
+- **Praxisübergabe oder -schließung**: Schutz von Patientendaten bei Praxisübergaben oder -schließungen.
+- **Praxiszusammenschlüsse**: Datenschutz bei Fusionen von Praxen.
+
+### Dokumentation und Einhaltung:
+
+- **Verarbeitungsverzeichnis (ROPA)**: Dokumentation der Datenverarbeitung.
+- **Datenschutz-Folgenabschätzung (DPIA)**: Risikobewertung bei neuen Technologien oder hohem Risiko.
+- **Technische und organisatorische Maßnahmen**: Implementierung zur Datensicherheit.
+
+### Datenschutzbeauftragter (DPO):
+
+- **Ernennung eines DPO**: Überwachung der Datenschutzkonformität.
+
+## Übersichtstabelle
+
 | Name                          | Beschreibung                                                                                                  | URL                                                                                              |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Dieter macht den Datenschutz  | Ein Tool, das Datenschutz einfach und verständlich macht.                                                    | [dietermachtdatenschutz.de]([https://dietermachtdatenschutz.de/](https://www.dieter-datenschutz.de/))                                  |

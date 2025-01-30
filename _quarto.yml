@@ -37,6 +37,7 @@ book:
       - gefaessmedizin.qmd
       - wunddokumentation.qmd
       - rheumatologie.qmd
+      - psychotherapie.qmd
       - ambulantes-operieren.qmd
       - zahnarzt.qmd
       - impfsoftware.qmd
@@ -47,13 +48,14 @@ book:
       - dienstplanung.qmd
       - datenschutz.qmd
       - gesetzgebung.qmd
+      - it-sicherheit.qmd
+      - krankenkassen.qmd
     - diskurs.qmd
+    - digitale-innovation.qmd
     - zusammenfassung.qmd
     - referenzen.qmd
 
 bibliography: referenzen.bib
-nocite: |
-  @*
 
 format:
   html:

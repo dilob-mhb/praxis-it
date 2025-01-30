@@ -20,6 +20,10 @@
 
 Diese Merkmale zeigen, dass, obwohl die Grundfunktion einer Videosprechstunde bei allen Anbietern ähnlich ist, die Details in der Umsetzung und die zusätzlichen Dienstleistungen erhebliche Unterschiede darstellen.
 
+Videosprechstunden bieten Hausärzten Flexibilität und erleichtern die Gestaltung effizienter Behandlungsabläufe, insbesondere bei Triage- und Nachsorgefällen. Sie verbessern die Erreichbarkeit für Patienten, führen jedoch zu Herausforderungen wie einem Anstieg trivialer Anfragen und einer möglichen Beeinträchtigung der Diagnosefähigkeit. Die einfache Verfügbarkeit kann die Fähigkeit der Patienten zur Selbstfürsorge verringern, was Ärzte zusätzlich belastet. Eine Balance zwischen digitalen und physischen Konsultationen wird als essenziell angesehen, um die Versorgungsqualität und die Kontinuität in der Arzt-Patient-Beziehung zu wahren. Die Studie hebt hervor, dass Videosprechstunden das Gesundheitssystem transformieren, jedoch eine bewusste Integration erfordern. [@Norberg2024]
+
+Die Studie in fünf nordeuropäischen Ländern [@AssingHvidt2023] zeigt, dass trotz der Einführung während der COVID-19-Pandemie die Akzeptanz durch ÄrztInnen und Personal gering bleibt, was auf Barrieren wie mangelnde technische Integration, begrenzte finanzielle Anreize und Vorbehalte zurückzuführen ist. Die Videosprechstunde wurde von PatientInnen zwar als flexibel und effizient geschätzt, von ÄrztInnen jedoch als unzureichend wahrgenommen, um eine qualitativ hochwertige Versorgung zu gewährleisten. Für eine erfolgreiche Implementierung sind technische Integration, finanzielle Förderung und ein Wandel notwendig, der die berufliche Identität und Praxisnormen berücksichtigt.
+
 | Index | Product | Company | URL |
 |---|---|---|---|
 | 1 | m.Doc Smart Practice | m.Doc GmbH | [smart-practice.mdoc.one](http://smart-practice.mdoc.one/) |
@@ -34,10 +38,11 @@ Diese Merkmale zeigen, dass, obwohl die Grundfunktion einer Videosprechstunde be
 | 10 | ZAVA sprechstunde.online | ZAVA sprechstunde.online | [sprechstunde.online](https://sprechstunde.online/) |
 | 11 | TeleClinic | TeleClinic GmbH | [teleclinic.com](https://www.teleclinic.com/) |
 | 12 | Clickdoc | CompuGroup Medical SE & Co. KGaA | [clickdoc.fr](https://clickdoc.fr/) |
-| 13 | Fernarzt | HealthHero Germany GmbH | Fernarzt[Fernarzt.com](https://www.fernarzt.com/) |
+| 13 | Fernarzt | HealthHero Germany GmbH | [Fernarzt.com](https://www.fernarzt.com/) |
 | 14 | Jameda | Jameda GmbH | [jameda.de](https://pro.jameda.de/produkte/funktionen/videosprechstunde) |
 | 15 | MediQuit | MediQuit GmbH | [mediquit.de](https://mediquit.de/) |
 | 16 | Patientus | Patientus GmbH | [patientus.de](https://www.patientus.de/) |
 | 17 | DrAnsay | DrAnsay GmbH | [dransay.com](https://dransay.com/) |
+| 18 | Doxy.me | Doxy.me, Inc. | [doxy.me/de](https://doxy.me/de/) |
 
 : Übersicht Softwarelösungen Videosprechstunde

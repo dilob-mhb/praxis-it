@@ -18,6 +18,8 @@ Die Kurznachrichtendienste zur Kommunikation zwischen PatientInnen und ÄrztInne
 
 Das Matrix-Protokoll ist ein offenes Standardprotokoll für dezentrale, sichere Kommunikation im Internet, das sowohl für Chat- als auch für Voip-Kommunikation genutzt werden kann. In Deutschland hat die Telematikinfrastruktur (TI), die für die Digitalisierung des Gesundheitswesens verantwortlich ist, das Matrix-Protokoll zur Grundlage für den TI-Messenger gemacht. Der TI-Messenger ermöglicht eine sichere und interoperable Kommunikation zwischen verschiedenen Akteuren im Gesundheitswesen, wie Ärzten, Apotheken und Krankenkassen. Er basiert auf Matrix, um eine Ende-zu-Ende-Verschlüsselung zu gewährleisten und die Integration in bestehende Systeme zu erleichtern.
 
+## Übersichtstabelle
+
 |    | Software            | Anbieter                | URL                |
 |---:|:--------------------|:------------------------|:-------------------|
 |  0 | Siilo               | Doctolib | [siilo.com](https://www.siilo.com/)          |
