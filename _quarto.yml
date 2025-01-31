@@ -14,6 +14,21 @@ book:
     language: de
   google-analytics: 
     tracking-id: "G-THQ4G1SE9W"
+  body-header: | 
+    ---
+    draft: true
+    ---
+  margin-footer: |
+    Projektpartner
+
+    [![](https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/DiLoB-Logo-Transparent.png){width=100}](https://www.dilob-mhb.de/)
+
+    [![](https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/logo-mhb.png){width=100}](https://www.mhb-fontane.de/de/DiLoB)
+
+    [![](https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/logo-technische-hochschule.png){width=100}](https://informatik.th-brandenburg.de/forschung-und-kooperation/schwerpunkte-und-themen/medizininformatik-und-e-health/)
+  page-footer:
+    border: true
+    background: light
   chapters:
     - index.qmd
     - einleitung.qmd
