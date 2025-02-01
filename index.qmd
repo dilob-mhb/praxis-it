@@ -18,6 +18,8 @@ Ein zentraler Aspekt der Digitalisierung in Arztpraxen ist die Messung der digit
 
 Die Akzeptanz digitaler Technologien hängt stark von der Kommunikation und dem Engagement der Praxismitglieder ab. Untersuchungen zeigen, dass interne Kommunikationsmuster entscheidend dafür sind, wie Technologien in den Arbeitsalltag integriert werden [@Lanham_2012]. Dies unterstreicht die Bedeutung einer ganzheitlichen Strategie, die nicht nur technische, sondern auch soziale und organisatorische Faktoren berücksichtigt.
 
+Es gibt Schlüsselfaktoren, die den Erfolg solcher Implementierungen beeinflussen, darunter Führungsengagement, Anpassung der Arbeitsabläufe und Schulung des Personals. Erforderlich ist eine ganzheitliche Herangehensweise, die sowohl technische als auch menschliche Aspekte berücksichtigt, um die erfolgreiche Integration von Gesundheitstechnologien in Organisationen zu gewährleisten. [@Cresswell_2013]
+
 ### Digitalisierte Bereiche in der Arztpraxis
 
 ![Digitalisierung Ambulante Gesundheitsversorgung](assets/digitalisierung_plot.png)
