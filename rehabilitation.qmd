@@ -1,0 +1,27 @@
+# Rehabilitation
+
+Der [Bundesverband Deutscher Privatkliniken (BDPK)](https://www.bdpk.de/themen/rehabilitation-pflege/telematikinfrastruktur-fuer-reha-und-vorsorgeeinrichtungen) informiert auf seiner Webseite über die Anbindung von Reha- und Vorsorgeeinrichtungen an die Telematikinfrastruktur (TI), die durch das Patientendaten-Schutz-Gesetz (PDSG) seit dem 1. Januar 2021 ermöglicht wurde. Die TI bringt Vorteile wie Notfalldatenmanagement, elektronische Medikationspläne und Patientenakten sowie eine sichere Kommunikationsplattform (KIM). Die Kosten für die notwendigen Komponenten wie Konnektoren, Institutionskarten und eHealth-Kartenterminals werden seit dem 1. Januar 2022 durch einen Zuschlag gedeckt, der auf Antrag ausgezahlt wird.
+
+| Produkt                            | Company                         | URL                                    |
+|------------------------------------|---------------------------------|----------------------------------------|
+| VivoInform                         | bee-i GmbH                      | [vivoinform.de](https://vivoinform.de/) |
+
+## Hilfsmittel
+
+| Produkt                            | Company                         | URL                                    |
+|------------------------------------|---------------------------------|----------------------------------------|
+| Digitale Anwendungen               | medi GmbH & Co. KG              | [medi.de](https://www.medi.de/digitale-anwendungen/) |
+| Hilfsmittel-App                    | Hilfsmittel-App                 | [hilfsmittel-app.de](https://hilfsmittel-app.de/) |
+| Rehadat                            | Rehadat                         | [rehadat.de](https://www.rehadat.de/) |
+| Optica Omnia                       | Optica GmbH                     | [optica.de](https://www.optica.de/software/optica-omnia) |
+| PraxWin                            | PraxWin GmbH                    | [praxwin.de](https://praxwin.de/) |
+
+## Heilmittel
+
+| Produkt                            | Company                         | URL                                    |
+|------------------------------------|---------------------------------|----------------------------------------|
+| Thera-Pi                           | Thera-Pi                        | [thera-pi-software.de](https://www.thera-pi-software.de/) |
+| Buchner                            | Buchner GmbH                    | [buchner.de](https://www.buchner.de/) |
+| Thevea                             | Thevea                          | [thevea.de](https://thevea.de/) |
+| Henara                             | Henara GmbH                     | [henara.de](https://henara.de/) |
+| Synaptos                           | Synaptos                        | [synaptos.de](https://synaptos.de/) |
