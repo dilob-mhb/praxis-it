@@ -1,0 +1,21 @@
+# Augenheilkunde
+
+| Produkt                            | Company                         | URL                                    |
+|------------------------------------|---------------------------------|----------------------------------------|
+| RetinAI                            | RetinAI                         | [retinai.com](https://retinai.com)                |
+| lumineticscore formerly IDx-DR | Digital Diagnostics             | [digitaldiagnostics.com](https://www.digitaldiagnostics.com/products/eye-disease/lumineticscore/) |
+| teamplay digital health            | Siemens Healthineers AG         | [siemens-healthineers.com](https://siemens-healthineers.com)   |
+| SPECTRALIS                         | Heidelberg Engineering GmbH     | [heidelbergengineering.com](https://heidelbergengineering.com)  |
+| ZEISS VISULAS 532s                 | ZEISS                           | [zeiss.com/meditec](https://zeiss.com/meditec)          |
+| Plusoptix A12C                     | Plusoptix GmbH                  | [plusoptix.com](https://plusoptix.com)              |
+| EyeWisdom® MCS²                    | Visionix                        | [visionix.com](https://visionix.com)               |
+| Amparex                            | Amparex                         | [web.amparex.com](https://web.amparex.com) |
+
+: Übersicht Softwarelösungen
+
+| Produkt                            | Company                         | URL                                    |
+|------------------------------------|---------------------------------|----------------------------------------|
+| PASBADIA                           | PASBADIA                        | [copicoh.uni-luebeck.de](https://www.copicoh.uni-luebeck.de/forschung/projekte/aktuelle-projekte/pasbadia) |
+| Collaborative Community on Ophthalmic Innovation | CCOI Foundation | [cc-oi.org](https://cc-oi.org) |
+
+: Übersicht Initiativen

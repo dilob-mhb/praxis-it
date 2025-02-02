@@ -49,9 +49,11 @@ book:
     - part: "Fachdisziplinen"
       chapters:
       - dermatologie.qmd
+      - augenheilkunde.qmd
       - gefaessmedizin.qmd
       - wunddokumentation.qmd
       - rheumatologie.qmd
+      - rehabilitation.qmd
       - psychotherapie.qmd
       - ambulantes-operieren.qmd
       - zahnarzt.qmd
