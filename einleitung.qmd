@@ -1,6 +1,8 @@
 # Einleitung
 
-In einer digitalisierten Welt sind effektive IT-Systeme entscheidend für die Effizienz und Qualität in der Gesundheitsversorgung. Die fortschreitende Entwicklung von Praxisverwaltungssoftware, digitalen Anamnese-Tools und Dienstplanungslösungen hat den Arbeitsalltag in Praxen grundlegend verändert. Die Herausforderung besteht jedoch darin, diese technischen Möglichkeiten effizient und praxisnah einzusetzen. Hier setzt „Praxis-IT“ an, indem es einen Überblick über relevante Lösungen bietet und deren praktische Anwendung verständlich macht.
+In einer digitalisierten Welt sind effektive IT-Systeme entscheidend für die Effizienz und Qualität in der Gesundheitsversorgung. Die fortschreitende Entwicklung von Praxisverwaltungssoftware, digitalen Anamnese-Tools und Dienstplanungslösungen verändert den Arbeitsalltag in Praxen. Die Herausforderung besteht jedoch darin, diese technischen Möglichkeiten effizient und praxisnah einzusetzen. 
+
+Es gibt Verzeichnisse, die ÄrztInnen und PatientInnen bei der Navigation und Auswahl von Gesundheits-Apps und digitalen Tools unterstützen. Jede dieser Plattformen bietet eine Art von Datenbank oder Vergleichstool, um die Qualität, Funktionen und Eignung von Gesundheits-Apps und Software für medizinische Zwecke zu bewerten. [@mindapps;@medxsmart;@kvappradar]
 
 ## Schritt für Schritt zur neuen Software
 
