@@ -17,6 +17,8 @@
          uses: quarto-dev/quarto-actions/setup@v2
        - name: install tinytex
          run: quarto install tinytex
+       - name: Set QUARTO_PROFILE
+         run: export QUARTO_PROFILE=dilob
        - name: Render and Publish
          uses: quarto-dev/quarto-actions/publish@v2
          with:
