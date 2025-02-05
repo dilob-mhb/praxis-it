@@ -68,3 +68,11 @@ Digitale Innovationen können über direkte und indirekte Zugangswege in den ers
 | Veovita | [veovita.de](https://veovita.de/) |
 
 : Übersicht Initiativen
+
+## Plattformen
+
+[Medxsmart.de](https://medxsmart.de/) ist eine Vergleichsplattform, die speziell für digitale Tools in Arztpraxen entwickelt wurde. Sie bietet Ärztinnen und Ärzten die Möglichkeit, verschiedene Lösungen zu durchsuchen und zu vergleichen, um die Digitalisierung ihrer Praxis zu optimieren. 
+
+Die [Open Healthcare Alliance (OHA)](https://www.openhealthcarealliance.com/netzwerk) ist ein Netzwerk, das sich darauf konzentriert, die digitale Gesundheitsversorgung voranzutreiben. Es fördert die Zusammenarbeit und den Austausch zwischen verschiedenen Akteuren im Gesundheitssektor, um innovative, interoperable Lösungen zu entwickeln und zu implementieren.
+
+[Solutionfinder.health](https://www.solutionfinder.health/) ist eine Plattform, die Health IT Lösungen für Gesundheitsdienstleister zusammenführt. Sie bietet eine zentrale Anlaufstelle, um digitale Tools und Services zu entdecken, die für spezifische Bedürfnisse im Gesundheitswesen geeignet sind, und somit die Auswahl und Implementierung dieser Lösungen erleichtert.
