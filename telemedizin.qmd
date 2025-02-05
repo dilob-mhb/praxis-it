@@ -93,5 +93,6 @@
 | 22 | Veritas Videoconsult          | Veritas Videoconsult GmbH           | [Veritas Videoconsult](https://www.veritas-videoconsult.de/)       |
 | 23 | 4Sigma                        | 4Sigma GmbH                         | [4Sigma](https://www.4sigma.de/)                                    |
 | 24 | BetterDoc                     | BetterDoc GmbH                      | [BetterDoc](https://www.betterdoc.org/)                             |
+| 25 | iSansys | iSansys GmbH | [isansys.com](https://www.isansys.com/en/isansys-gmbh) |
 
 : Übersicht Telemedizinische Anbieter
