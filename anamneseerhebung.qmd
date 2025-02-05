@@ -42,5 +42,8 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 | 21  | Infermedica                         | [Infermedica](https://infermedica.com/)                              |
 | 22  | xund.ai                             | [xund.ai](https://xund.ai/)                                          |
 | 23  | Patientennavi                       | [Patientennavi](https://patientennavi.116117.de/askPlz.xhtml)        |
+| 24  | Nelly                             | [Nelly](https://www.getnelly.de/produkte/digitale-anamnese)           |
+| 25  | Thieme Compliance                 | [Thieme Compliance](https://www.thieme-compliance.de/de/produkte)     |
+| 26  | Athena                            | [Athena](https://www.dampsoft.de/athena)                               |
 
 : Übersicht Softwarelösungen Anamnese & Dokumentation
