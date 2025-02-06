@@ -23,5 +23,6 @@ Telefonassistenzsysteme zeichnen sich durch eine Reihe gemeinsamer Kriterien aus
 | 16 | Aircall                    | [aircall.io](https://aircall.io)                      |
 | 17 | Pollie AI                  | [pollie.ai](https://pollie.ai)                       |
 | 18 | CGM one Telefonassistent | [one.cgm.com/telefonassistent](https://one.cgm.com/telefonassistent) |
+| 19 | Medflex | [medflex.de](https://medflex.de/) |
 
 : Übersicht Telefonassistenzsysteme

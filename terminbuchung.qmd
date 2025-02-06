@@ -26,5 +26,11 @@ Waddell et al. [@WADDELL2024399] untersuchte den Zusammenhang zwischen der Einf�
 | 15 | Doctena | Doctena Germany GmbH | [doctena.com/de/](https://www.doctena.com/de/) |
 | 16 | TIMIFY | TerminApp GmbH | [timify.com](https://www.timify.com/) |
 | 17 | termed | termed GmbH | [termed.de/start](https://www.termed.de/start) |
+| 18 | Betty24                         | Betty24 GmbH                        | [betty24.de](https://info.betty24.de/)                               |
+| 19 | TimerBee                        | TimerBee GmbH                       | [timerbee.com](https://www.timerbee.com/)                            |
+| 20 | No-Q                            | No-Q GmbH                           | [no-q.info](https://www.no-q.info/)                                  |
+| 21 | 321med                          | 321med GmbH                         | [321med.com](https://321med.com/)                                    |
+| 22 | Therapiefix                     | Therapiefix GmbH                    | [therapiefix.de](https://www.therapiefix.de/)                       |
+| 23 | Dr.Flex                         | Dr.Flex GmbH                        | [dr-flex.de](https://dr-flex.de/aerzte)                             |
 
 : Übersicht Softwarelösungen Terminbuchung
