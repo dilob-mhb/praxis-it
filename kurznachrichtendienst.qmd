@@ -30,6 +30,9 @@ Das Matrix-Protokoll ist ein offenes Standardprotokoll für dezentrale, sichere 
 |  5 | samedi              | samedi GmbH             | [samedi.de](https://www.samedi.de/)          |
 |  6 | x-tention           | x-tention GmbH          | [x-tention.de](https://www.x-tention.de/)    |
 |  7 | Threema             | Threema GmbH            | [threema.ch](https://threema.ch/de)          |
+|  8 | CONSIL!UM                       | Consilium GmbH          | [CONSIL!UM](https://www.consilium-med.de/) |
+|  9 | Teamwire                        | Teamwire GmbH           | [Teamwire](https://teamwire.eu/en/) |
+| 10 | LifeTime                        | LifeTime GmbH           | [LifeTime](https://lifetime.eu/) |
 
 : Kurznachrichtendienste Anbieter {#tbl-kurznachrichtendienste-anbieter}
 

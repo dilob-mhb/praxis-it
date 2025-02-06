@@ -37,5 +37,13 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 | 16  | voice4medicine (Dragon Medical)     | [voice4medicine](https://www.4voice.de/)                           |
 | 17  | tts performance suite               | [tts performance suite](https://www.tt-s.com/de/digital-adoption-solutions/loesungen/vitamin-c-fuer-das-gesundheitswesen) |
 | 18  | CGM one Doku-Assistent              | [one.cgm.com/doku-assistent](https://one.cgm.com/doku-assistent)        |
+| 19  | HCQS                                | [HCQS](https://www.hcqs.de/)                                         |
+| 20  | HealthHero                          | [HealthHero](https://www.healthhero.com/)                            |
+| 21  | Infermedica                         | [Infermedica](https://infermedica.com/)                              |
+| 22  | xund.ai                             | [xund.ai](https://xund.ai/)                                          |
+| 23  | Patientennavi                       | [Patientennavi](https://patientennavi.116117.de/askPlz.xhtml)        |
+| 24  | Nelly                             | [Nelly](https://www.getnelly.de/produkte/digitale-anamnese)           |
+| 25  | Thieme Compliance                 | [Thieme Compliance](https://www.thieme-compliance.de/de/produkte)     |
+| 26  | Athena                            | [Athena](https://www.dampsoft.de/athena)                               |
 
 : Übersicht Softwarelösungen Anamnese & Dokumentation

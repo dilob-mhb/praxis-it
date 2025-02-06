@@ -75,6 +75,40 @@
 | 4 | Getemed | Getemed Medizin- und Informationstechnik GmbH | [getemed.de](https://www.getemed.de/en/) |
 | 5 | Biotronik | Biotronik SE & Co. KG | [biotronik.com](https://www.biotronik.com/de-de/patienten/herzmonitoring/home-monitoring) |
 | 6 | Medtronic | Medtronic GmbH | [medtronic.com](https://www.medtronic.com/de-de/patienten/produkte-therapien/pacemaker/carelink.html) |  
-| 7 | Abbott | Abbott Laboratories | [abbott.com](https://www.cardiovascular.abbott/de/de/hcp/products/cardiac-rhythm-management/connectivity-remote-care.html) |  
+| 7 | Abbott | Abbott Laboratories | [abbott.com](https://www.cardiovascular.abbott/de/de/hcp/products/cardiac-rhythm-management/connectivity-remote-care.html) |
+| 8  | Medgate                       | Medgate AG                          | [Medgate](https://medgate.de/)                                      |
+| 9  | Zava                          | Zava GmbH                           | [Zava](https://www.zavamed.com/de/home-spl.html)                    |
+| 10 | Sanvartis                     | Sanvartis GmbH                      | [Sanvartis](https://www.sanvartis.de/)                              |
+| 11 | MD Medicus                    | MD Medicus GmbH                     | [MD Medicus](https://www.md-medicus.net/de)                         |
+| 12 | Dermanostic                   | Dermanostic GmbH                    | [Dermanostic](https://dermanostic.com/)                             |
+| 13 | Cosinuss | Cosinuss GmbH | [cosinuss.com](https://www.cosinuss.com/de/) |
+| 14 | Onlinedoctor                  | Onlinedoctor GmbH                   | [Onlinedoctor](https://www.onlinedoctor.de/)                        |
+| 15 | Meliva                        | Meliva GmbH                         | [Meliva](https://meliva.de/digitale-praxis/)                        |
+| 16 | TK Doc                        | Techniker Krankenkasse              | [TK Doc](https://www.tk.de/techniker/magazin/digitale-gesundheit/gesundheits-apps/tk-doc-app-2073986) |
+| 17 | DAK Online-Videosprechstunde  | Deutsche Angestellten-Krankenkasse  | [DAK Online-Videosprechstunde](https://www.dak.de/dak/leistungen/digitale-gesundheit/dak-online-videosprechstunde_59932) |
+| 18 | Clarimedis Videosprechstunde  | AOK PLUS                            | [Clarimedis Videosprechstunde](https://www.aok.de/pk/leistungen/medizinische-behandlung/clarimedis-videosprechstunde/) |
+| 19 | Teledoktor                    | BARMER                              | [Teledoktor](https://www.barmer.de/unsere-leistungen/leistungen-a-z/apps-skills/teledoktor-app)     |
+| 20 | Myoncare | Myoncare GmbH | [myoncare.com](https://www.myoncare.com/de/startseite) |
+| 21 | Vita Group                    | Vita Group AG                       | [Vita Group](https://www.vitagroup.ag/)                             |
+| 22 | Veritas Videoconsult          | Veritas Videoconsult GmbH           | [Veritas Videoconsult](https://www.veritas-videoconsult.de/)       |
+| 23 | 4Sigma                        | 4Sigma GmbH                         | [4Sigma](https://www.4sigma.de/)                                    |
+| 24 | BetterDoc                     | BetterDoc GmbH                      | [BetterDoc](https://www.betterdoc.org/)                             |
+| 25 | iSansys | iSansys GmbH | [isansys.com](https://www.isansys.com/en/isansys-gmbh) |
+| 25 | IEM | IEM GmbH | [iem.de](https://www.iem.de/de) |
+| 25 | Hedy | Hedy GmbH | [hedy.de](https://hedy.de/) |
+| 26 | Pinzon Health                  | Pinzon Health GmbH                  | [pinzon.health](https://pinzon.health/)                              |
+| 27 | Platform24                      | Platform24 GmbH                     | [platform24.com](https://platform24.com/de/)                         |
+| 28 | Smart Care                      | Smart Care GmbH                     | [smartcarehealth.de](https://smartcarehealth.de/)                    |
+| 29 | Semdatex                        | Semdatex GmbH                       | [semdatex.com](https://www.semdatex.com/de/digitale-loesungen)       |
+| 30 | ZTM                             | ZTM GmbH                            | [ztm.de](https://www.ztm.de/)                                        |
+| 31 | Noah Labs                       | Noah Labs GmbH                      | [noah-labs.com](https://www.noah-labs.com/)                          |
+| 32 | ProCarement                     | ProCarement GmbH                    | [procarement.com](https://procarement.com/)                          |
+| 33 | i-atros                         | i-atros GmbH                        | [i-atros.com](https://www.i-atros.com/)                              |
+| 34 | Doccla                          | Doccla GmbH                         | [doccla.de](https://www.doccla.de/)                                  |
+| 35 | Luscii | Luscii Healthtech B.V. | [luscii.com](https://luscii.com/de/) |
+| 36 | SaniQ | Qurasoft GmbH | [SaniQ](https://qurasoft.de/die-digitale-arztpraxis/) |
+| 36 | esysta Diabetes                 | esysta GmbH                         | [esysta-diabetes.com](https://esysta-diabetes.com/)                 |
+| 37 | Vivora                          | Vivora Health GmbH                  | [vivora.health](https://vivora.health/)                              |
+| 38 | Actimi                          | Actimi GmbH                         | [actimi.com](https://actimi.com/)                                    |
 
 : Übersicht Telemedizinische Anbieter

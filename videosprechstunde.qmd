@@ -46,5 +46,10 @@ Eine Arbeit von Ivanova et al. untersuchte die Präferenzen und Erfahrungen von 
 | 16 | Patientus | Patientus GmbH | [patientus.de](https://www.patientus.de/) |
 | 17 | DrAnsay | DrAnsay GmbH | [dransay.com](https://dransay.com/) |
 | 18 | Doxy.me | Doxy.me, Inc. | [doxy.me/de](https://doxy.me/de/) |
+| 19 | Minddistrict                  | Minddistrict GmbH                  | [Minddistrict](https://www.minddistrict.com/)                        |
+| 20 | Sprechstunde Online           | Sprechstunde Online GmbH            | [Sprechstunde Online](https://sprechstunde.online/)                  |
+| 21 | Webprax                       | Webprax GmbH                        | [Webprax](https://webprax.de/)                                       |
+| 22 | Avodaq                        | Avodaq AG                           | [Avodaq Connected Healthcare](https://www.avodaq.com/de/leistungen/connected-healthcare/) |
+| 23 | Medityme                      | Medityme GmbH                       | [Medityme](https://www.medityme.com/de/home)                         |
 
 : Übersicht Softwarelösungen Videosprechstunde
