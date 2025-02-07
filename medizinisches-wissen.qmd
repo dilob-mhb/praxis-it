@@ -1,4 +1,4 @@
-# Digitale Wissensplattformen
+# Digitales Wissensmanagement
 
 ## Für Gesundheitspersonal
 
@@ -39,3 +39,16 @@ Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheits
 | Gesund.bund.de           | Bundesministerium für Gesundheit | [gesund.bund.de](https://gesund.bund.de/)                           |
 
 : Übersicht digitale Gesundheitsaufklärung 
+
+## Persönliche Wissenssammlung
+
+Die optimale Methode Wissen zu notieren, ob auf Papier oder elektronisch, bleibt ein vielschichtiges Thema mit unterschiedlichen Forschungsergebnissen. **Handschriftliche Notizen führen oft zu einer besseren kognitiven Verarbeitung**, da sie Zusammenfassungen und Umschreibungen erfordern, was ein tieferes Verständnis und eine verbesserte Erinnerungsfähigkeit fördert. [@SalameTubaNujhat2024] Im Gegensatz dazu bietet **die digitale Notizenerfassung Vorteile in Bezug auf Geschwindigkeit, Lesbarkeit, Organisation und Durchsuchbarkeit** und erlaubt die Integration von Multimedia-Elementen. Eine Metaanalyse zeigte jedoch, dass elektronische Methoden mit schlechteren Lernergebnissen korrelieren: Studierende, die digital schrieben, erzielten bis zu 25 % schlechtere Ergebnisse als diejenigen mit handschriftlichen Notizen. [@AllenLeFebvreLeFebvreBourhis2020]
+
+| Product  | URL                                                                 |
+|----------|---------------------------------------------------------------------|
+| Joplin   | [joplinapp.org](https://joplinapp.org/)                             |
+| Obsidian | [obsidian.md](https://obsidian.md/)                                 |
+| OneNote  | [onenote.com](https://www.onenote.com/?public=1&omkt=de-DE)         |
+| Evernote | [evernote.com](https://evernote.com/de-de)                          |
+
+: Beispiele digitale Notizprogramme
