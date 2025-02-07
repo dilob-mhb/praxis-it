@@ -21,8 +21,17 @@ In der Studie von Sibley wurden die Erfahrungen des American College of Cardiolo
 | Medical Tribune          | Medical Tribune Verlag   | [medical-tribune.de](https://www.medical-tribune.de/fortbildung)    |
 | NowToGo                  | MedizinToGo GmbH         | [now.medizintogo.de](https://now.medizintogo.de/)                   |
 | Doctorflix               | DOCFLIX GmbH             | [doctorflix.de](https://www.doctorflix.de/)                         |
+| Medixum                  | Medixum GmbH             | [medixum.de](https://medixum.de/)                                    |
+| Esanum                   | Esanum GmbH              | [esanum.de](https://www.esanum.de/)                                  |
+| CME MediPoint            | CME MediPoint GmbH       | [cmemedipoint.de](https://cmemedipoint.de/)                          |
 
 : Beispiele digitale Wissensplattformen
+
+Die gesetzlichen und berufsrechtlichen Regelungen zur ärztlichen Fortbildung in Deutschland verpflichten Ärztinnen und Ärzte zur kontinuierlichen beruflichen Weiterbildung, um ihre Fachkenntnisse zu erhalten und zu entwickeln. Diese Fortbildungspflicht gilt für alle berufstätigen Ärzte und muss durch ein Fortbildungszertifikat der Ärztekammer nachgewiesen werden. Die Regelungen basieren auf der (Muster-)Fortbildungsordnung (MFBO) und sehen vor, dass in einem Fünfjahreszeitraum mindestens 250 Fortbildungspunkte erworben werden müssen. ([Bundesärztekammer Gesetzliche und berufsrechtliche Regelung](https://www.bundesaerztekammer.de/themen/aerzte/aus-fort-und-weiterbildung/aerztliche-fortbildung/gesetzliche-und-berufsrechtliche-regelungen))
+
+Die [FobiApp](https://www.laekh.de/fuer-aerztinnen-und-aerzte/fortbildung/fobiapp-web) ermöglicht Ärztinnen und Ärzten den mobilen Zugriff auf ihr persönliches Fortbildungspunktekonto und die Registrierung bei Fortbildungsveranstaltungen mittels EFN-Barcode. Nach 15 Jahren wurde die App Ende 2024 durch zwei neue webbasierte Anwendungen ersetzt, die von der Bundesärztekammer betreut werden. Diese neuen Anwendungen bieten geräteunabhängigen Zugriff auf Punktekonten und Fortbildungspunktemeldungen für Veranstalter.
+
+Die EIV-Schnittstelle der Bundesärztekammer, erreichbar über [punkte.eiv-fobi.de](https://punkte.eiv-fobi.de/), ermöglicht die elektronische Erfassung und Meldung von Fortbildungspunkten für Ärztinnen und Ärzte. Sie ist ein Beispiel gelungener Digitalisierung und bietet Veranstaltern die Möglichkeit, Teilnahmepunkte über die EIV-Punktemeldungs-App oder eine REST-API direkt an die Plattform zu übermitteln, indem sie die Einheitliche Fortbildungsnummer (EFN) der Teilnehmer und die Veranstaltungsnummer (VNR) nutzen.
 
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|
