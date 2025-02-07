@@ -45,5 +45,6 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 | 24  | Nelly                             | [Nelly](https://www.getnelly.de/produkte/digitale-anamnese)           |
 | 25  | Thieme Compliance                 | [Thieme Compliance](https://www.thieme-compliance.de/de/produkte)     |
 | 26  | Athena                            | [Athena](https://www.dampsoft.de/athena)                               |
+| 27  | Sonia                             | [Sonia](https://sonia.so/)           |
 
 : Übersicht Softwarelösungen Anamnese & Dokumentation
