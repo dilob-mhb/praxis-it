@@ -21,7 +21,7 @@ Diese Richtlinie schreibt ein internes Qualitätsmanagement für Vertragsärzte 
 | Software         | Anbieter                          | URL                | Anmerkungen                                                                                   |
 |:-----------------|:----------------------------------|:-------------------|:-----------------------------------------------------------------------------------------------|
 | Paul             | Paul Solutions GmbH               | [paul-solutions.de](https://paul-solutions.de)  | 30 Tage kostenlos, dann min 69Euro / Monat                                              |
-| vismed QM        | vismed GmbH                       | [vismed.de](https://vismed.de)          | mehr als nur Wissensmanagement                                                            |
+| vismed QM        | vismed GmbH                       | [vismed.de](https://vismed.de)          | mehr als nur Wissensmanagement, externe & umfassende Überprüfung Ihres QMs                                                            |
 | neoQM            | neoQM GmbH                        | [neoqm.de](https://neoqm.de)           | für alle möglichen Branchen auch für Arztpraxen                                         |
 | RoxTra           | RoxTra GmbH                       | [roxtra.com](https://roxtra.com)         |                                                     |
 | OrgaVision       | OrgaVision GmbH                   | [orgavision.com](https://orgavision.com)     | für mehrere Branchen und auch für Arztpraxen. Kosten bei 25 MitarbeiterInnen pro Jahr 2900 Euro (mon 241,67 Euro) |
@@ -36,12 +36,12 @@ Diese Richtlinie schreibt ein internes Qualitätsmanagement für Vertragsärzte 
 |:-----------------|:----------------------------------|:-------------------|:-----------------------------------------------------------------------------------------------|
 | eQMS             | Page-Tec GmbH                     | [page-tec.de](https://page-tec.de)        | formal auch für Gesundheitswesen, aber eher für andere Unternehmen            |
 | i:solution CAQ   | i:select GmbH                     | [concept-pro.de](https://www.concept-pro.de/qm-software/)        | mehr als nur QM aber nicht spezifisch für das Gesundheitswesen        |
-| CWA SmartProcess | CAQ AG Factory Systems            | [caq.de](https://caq.de)             | zwar für Medizintechnik und Labor aber nicht für Medizin                               |
-| eQMS             | Page-Tec GmbH                     | [eqms.de](https://eqms.de)            | QM für viele Branchen ua. Medizintechnik und Labor, keine Praxen          |
+| CWA SmartProcess | CAQ AG Factory Systems            | [caq.de](https://caq.de)             | zwar für Medizintechnik und Labor aber nicht für Arztpraxen                               |
+| eQMS             | Page-Tec GmbH                     | [eqms.de](https://eqms.de)            | QM für viele Branchen ua. Medizintechnik und Labor, keine Arztpraxen          |
 | SimplifyU        | SimplifyU GmbH                    | [simplifyu.de](https://simplifyu.de)       | 100% auf Akut- und Rehaeinrichtungen                                                |
 | QM-Pilot         | QM-Pilot GmbH                     | [qm-pilot.de](https://qm-pilot.de)        | schweizer Firma, man kann Flusschemata entwerfen um Prozesse zu beschreiben..     |
-| Q.wiki           | Q.wiki GmbH                       | [q-wiki.de](https://q-wiki.de)          | QM für Unternehmen und nicht für das Gesundheitswesen                                  |
-| BabtecQ          | Babtec Informationssysteme GmbH   | [babtec.de](https://babtec.de)          | Für Elektronik Maschinenbau, Automotive... nur MedTechnik, keine Arztpraxen            |
+| Q.wiki           | Q.wiki GmbH                       | [q-wiki.de](https://q-wiki.de)          | QM für andere Unternehmen und nicht für das Gesundheitswesen                                  |
+| BabtecQ          | Babtec Informationssysteme GmbH   | [babtec.de](https://babtec.de)          | Für Elektronik Maschinenbau, Automotive... nur MedTechnik, nicht für Arztpraxen            |
 | WissIntra NG     | Wissensmanagement GmbH            | [wissintra.dbeyond.group/de](https://wissintra.dbeyond.group/de/)       | nicht für das Gesundheitswesen                    |
 | Testify          | Testify GmbH                      | [testify.io](https://testify.io)         | nicht für das Gesundheitswesen                                                       |
 | iqs CAQ          | iqs Software GmbH                 | [iqs.de](https://iqs.de)             | nicht für das Gesundheitswesen                                                       |
