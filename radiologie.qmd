@@ -1,0 +1,19 @@
+# Radiologie
+
+| Name                | Link                                       |
+|---------------------|--------------------------------------------|
+| Raya Diagnostics    | [Raya Diagnostics](https://www.raya-diagnostics.com/) |
+| Examion Röntgensoftware | [Examion Röntgensoftware](https://www.examion.com/de/produkte/humanmedizin/mvz-praxisverbund/roentgensoftware) |
+| OpenDICOM           | [OpenDICOM](https://github.com/opendicom)                                                |
+| MicroDicom          | [MicroDicom](https://www.microdicom.com/)                                                |
+| RadiAnt Viewer      | [RadiAnt Viewer](https://www.radiantviewer.com/)                                         |
+| IMAIOS DICOM Viewer | [IMAIOS DICOM Viewer](https://www.imaios.com/de/imaios-dicom-viewer)                     |
+| Weasis              | [Weasis](https://weasis.org/en/index.html)                                               |
+| Visus               | [Visus](https://www.visus.com/index.html)                                                |
+| ORPALIS DICOM Viewer| [ORPALIS DICOM Viewer](https://www.orpalis.com/labs/dicom-viewer/)                       |
+| OsiriX              | [OsiriX](https://www.osirix-viewer.com/)                                                 |
+| Awesome DICOM       | [Awesome DICOM](https://github.com/open-dicom/awesome-dicom)                              |
+| Sante DICOM Viewer  | [Sante DICOM Viewer Lite](https://santesoft.com/win/sante-dicom-viewer-lite/sante-dicom-viewer-lite.html) |
+| EndoNet DICOM Viewers| [EndoNet Free DICOM Viewers](https://endonet.com/knowledge-base/free-dicom-viewers/)     |
+
+: Beispiele Radiologiesoftware
