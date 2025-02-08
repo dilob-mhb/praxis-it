@@ -121,6 +121,10 @@ Security Information and Event Management (SIEM) sammeln und korrelieren Log-Dat
 | Rapid7 InsightIDR       | [rapid7.com](https://www.rapid7.com/de/products/insightidr/)                           |
 | SolarWinds Security Event Manager | [solarwinds.com](https://www.solarwinds.com/de/security-event-manager)                |
 
+## Richtiges Löschen
+
+Beim sicheren Löschen von Daten gilt es sicherzustellen, dass diese nicht wiederhergestellt werden können. Auf Mac-Systemen empfiehlt sich die Verwendung des "Secure Erase"-Features. Für Unix- und Linux-Benutzer überschreibt das Kommandozeilen-Tool "shred" Dateien durch mehrfaches Überschreiben mit zufälligen Daten. Für Windows-Nutzer gibt es das Tool "SDelete" von Sysinternals, das Dateien auf der Festplatte sicher löscht. Diese Methoden stellen sicher, dass gelöschte Daten nicht durch Software zur Datenwiederherstellung rekonstruiert werden können.
+
 ## Übersicht IT Grundschutz
 
 | Product                                | Company                                     | URL                                                                                                                                                                                                       |
