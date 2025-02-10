@@ -30,7 +30,8 @@ Waddell et al. [@WADDELL2024399] untersuchte den Zusammenhang zwischen der Einf�
 | 19 | TimerBee                        | TimerBee GmbH                       | [timerbee.com](https://www.timerbee.com/)                            |
 | 20 | No-Q                            | No-Q GmbH                           | [no-q.info](https://www.no-q.info/)                                  |
 | 21 | 321med                          | 321med GmbH                         | [321med.com](https://321med.com/)                                    |
-| 22 | Therapiefix                     | Therapiefix GmbH                    | [therapiefix.de](https://www.therapiefix.de/)                       |
-| 23 | Dr.Flex                         | Dr.Flex GmbH                        | [dr-flex.de](https://dr-flex.de/aerzte)                             |
+| 22 | Therapiefix                     | Therapiefix GmbH                    | [therapiefix.de](https://www.therapiefix.de/)                        |
+| 23 | Dr.Flex                         | Dr.Flex GmbH                        | [dr-flex.de](https://dr-flex.de/aerzte)                              |
+| 24 | Cituro                          | Cituro GmbH                         | [cituro.com](https://www.cituro.com/)                                |
 
 : Übersicht Softwarelösungen Terminbuchung

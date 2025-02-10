@@ -1,4 +1,4 @@
-# Digitale Wissensplattformen
+# Digitales Wissensmanagement
 
 ## Für Gesundheitspersonal
 
@@ -20,14 +20,28 @@ In der Studie von Sibley wurden die Erfahrungen des American College of Cardiolo
 | derCampus                | derCampus GmbH           | [dercampus.eu](https://www.dercampus.eu/)                           |
 | Medical Tribune          | Medical Tribune Verlag   | [medical-tribune.de](https://www.medical-tribune.de/fortbildung)    |
 | NowToGo                  | MedizinToGo GmbH         | [now.medizintogo.de](https://now.medizintogo.de/)                   |
-| Nerdfallmedizin          | Nerdfallmedizin GbR        | [nerdfallmedizin.blog](https://nerdfallmedizin.blog/)             |
+| Doctorflix               | DOCFLIX GmbH             | [doctorflix.de](https://www.doctorflix.de/)                         |
+| Medixum                  | Medixum GmbH             | [medixum.de](https://medixum.de/)                                    |
+| Esanum                   | Esanum GmbH              | [esanum.de](https://www.esanum.de/)                                  |
+| CME MediPoint            | CME MediPoint GmbH       | [cmemedipoint.de](https://cmemedipoint.de/)                          |
+
+: Beispiele digitale Wissensplattformen
+
+Die gesetzlichen und berufsrechtlichen Regelungen zur ärztlichen Fortbildung in Deutschland verpflichten Ärztinnen und Ärzte zur kontinuierlichen beruflichen Weiterbildung, um ihre Fachkenntnisse zu erhalten und zu entwickeln. Diese Fortbildungspflicht gilt für alle berufstätigen Ärzte und muss durch ein Fortbildungszertifikat der Ärztekammer nachgewiesen werden. Die Regelungen basieren auf der (Muster-)Fortbildungsordnung (MFBO) und sehen vor, dass in einem Fünfjahreszeitraum mindestens 250 Fortbildungspunkte erworben werden müssen. ([Bundesärztekammer Gesetzliche und berufsrechtliche Regelung](https://www.bundesaerztekammer.de/themen/aerzte/aus-fort-und-weiterbildung/aerztliche-fortbildung/gesetzliche-und-berufsrechtliche-regelungen))
+
+Die [FobiApp](https://www.laekh.de/fuer-aerztinnen-und-aerzte/fortbildung/fobiapp-web) ermöglicht Ärztinnen und Ärzten den mobilen Zugriff auf ihr persönliches Fortbildungspunktekonto und die Registrierung bei Fortbildungsveranstaltungen mittels EFN-Barcode. Nach 15 Jahren wurde die App Ende 2024 durch zwei neue webbasierte Anwendungen ersetzt, die von der Bundesärztekammer betreut werden. Diese neuen Anwendungen bieten geräteunabhängigen Zugriff auf Punktekonten und Fortbildungspunktemeldungen für Veranstalter.
+
+Die EIV-Schnittstelle der Bundesärztekammer, erreichbar über [punkte.eiv-fobi.de](https://punkte.eiv-fobi.de/), ermöglicht die elektronische Erfassung und Meldung von Fortbildungspunkten für Ärztinnen und Ärzte. Sie ist ein Beispiel gelungener Digitalisierung und bietet Veranstaltern die Möglichkeit, Teilnahmepunkte über die EIV-Punktemeldungs-App oder eine REST-API direkt an die Plattform zu übermitteln, indem sie die Einheitliche Fortbildungsnummer (EFN) der Teilnehmer und die Veranstaltungsnummer (VNR) nutzen.
+
+| Product                  | Company                  | URL                                                                 |
+|--------------------------|--------------------------|---------------------------------------------------------------------|
 | Orpha.net                | INSERM US14        | [orpha.net](https://www.orpha.net/) |
 | Embryotox                | Institut für Klinische Pharmakologie und Toxikologie Charité | [embryotox.de](https://www.embryotox.de/) |
 | Dosing                   | Abt. Klinische Pharmakologie & Pharmakoepidemiologie UK Heidelberg | [dosing.de](https://dosing.de/) |
 | Medbee                   | Medbee GmbH    | [medbee.org/s/](https://medbee.org/s/) |
 | MedCalc                  | MDCalc Ltd. Inc.        | [medcalc.org](https://www.medcalc.com/)                              |
 
-: Übersicht digitale Wissensplattformen 
+: Beispiele digitale Wissenstools
 
 ## Für PatientInnen
 
@@ -39,3 +53,16 @@ Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheits
 | Gesund.bund.de           | Bundesministerium für Gesundheit | [gesund.bund.de](https://gesund.bund.de/)                           |
 
 : Übersicht digitale Gesundheitsaufklärung 
+
+## Persönliche Wissenssammlung
+
+Die optimale Methode Wissen zu notieren, ob auf Papier oder elektronisch, bleibt ein vielschichtiges Thema mit unterschiedlichen Forschungsergebnissen. **Handschriftliche Notizen führen oft zu einer besseren kognitiven Verarbeitung**, da sie Zusammenfassungen und Umschreibungen erfordern, was ein tieferes Verständnis und eine verbesserte Erinnerungsfähigkeit fördert. [@SalameTubaNujhat2024] Im Gegensatz dazu bietet **die digitale Notizenerfassung Vorteile in Bezug auf Geschwindigkeit, Lesbarkeit, Organisation und Durchsuchbarkeit** und erlaubt die Integration von Multimedia-Elementen. Eine Metaanalyse zeigte jedoch, dass elektronische Methoden mit schlechteren Lernergebnissen korrelieren: Studierende, die digital schrieben, erzielten bis zu 25 % schlechtere Ergebnisse als diejenigen mit handschriftlichen Notizen. [@AllenLeFebvreLeFebvreBourhis2020]
+
+| Product  | URL                                                                 |
+|----------|---------------------------------------------------------------------|
+| Joplin   | [joplinapp.org](https://joplinapp.org/)                             |
+| Obsidian | [obsidian.md](https://obsidian.md/)                                 |
+| OneNote  | [onenote.com](https://www.onenote.com/?public=1&omkt=de-DE)         |
+| Evernote | [evernote.com](https://evernote.com/de-de)                          |
+
+: Beispiele digitale Notizprogramme
