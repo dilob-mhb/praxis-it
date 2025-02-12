@@ -9,8 +9,6 @@
 
 : Apps für Ärzt:innen (B2B)
 
----
-
 | Software        | Anbieter                          | URL                                          | Anmerkungen                                                                                     |
 |----------------|----------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------|
 | **mySugr**     | Roche Diabetes Care             | [mysugr.com](https://mysugr.com)            | Diabetes-Tagebuch mit Blutzucker-Tracking und Berichten                                         |
