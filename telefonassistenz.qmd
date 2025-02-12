@@ -9,7 +9,7 @@ Telefonassistenzsysteme zeichnen sich durch eine Reihe gemeinsamer Kriterien aus
 |  2 | PraxisConcierge            | [praxisconcierge.de](https://praxisconcierge.de)              |
 |  3 | Dr.wait                    | [drwait.de](https://drwait.de)                       |
 |  4 | Docmedico                  | [docmedico.de](https://docmedico.de)                    |
-|  5 | VITAS                      | [vitas.de](https://vitas.de)                        |
+|  5 | VITAS                      | [vitas.ai](https://vitas.ai)                        |
 |  6 | BOTfriends Phonebot        | [botfriends.de](https://botfriends.de)                   |
 |  7 | DUSOFFICE                  | [dusoffice.de](https://dusoffice.de)                    |
 |  8 | KI-Telefonservice.de       | [ki-telefonservice.de](https://ki-telefonservice.de)            |

@@ -47,5 +47,6 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 |  5 | DocuWare         | DocuWare GmbH                     | [docuware.com](https://start.docuware.com/de/) |
 |  8 | ecoDMS           | ecoDMS GmbH                       | [ecodms.de](https://www.ecodms.de/de/)        |
 |  9 | bitfarm-Archiv   | bitfarm Informationssysteme GmbH  | [bitfarm-archiv.de](https://www.bitfarm-archiv.de/) |
+| 10 | Starke-DMS | Starke + Reichert GmbH & Co. KG | [starke-dms.de](https://www.starke-dms.de/) |
 
 : Übersicht Softwarelösungen Dokumentenmanagement
