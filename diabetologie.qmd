@@ -1,5 +1,7 @@
 # Diabetologie
 
+Künstliche Intelligenz (KI) wird in der Diabetologie in mehreren Bereichen eingesetzt. Automatische Netzhautscreenings, wie das KI-System IDx-DR, ermöglichen die frühzeitige Erkennung diabetischer Retinopathie anhand von Fundusbildern. Zudem unterstützt KI die klinische Diagnostik, etwa durch Systeme wie "DreaMed Advisor Pro", das Insulindosierungen auf Basis kontinuierlicher Glukosemonitoring-Daten (CGM) optimiert. Für Patienten gibt es KI-gestützte Selbstmanagement-Tools wie das "Guardian Connect System" von Medtronic, das frühzeitig vor Hypoglykämien warnt und so zur besseren Blutzuckerkontrolle beiträgt. Darüber hinaus wird KI zur Risikostratifizierung und Vorhersage von Diabetes eingesetzt, indem Machine-Learning-Modelle individuelle Krankheitsrisiken berechnen. [@Nomura2021]
+
 | Software                  | Anbieter                                   | URL                                          | Anmerkungen                                                                                     |
 |---------------------------|-------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------|
 | **Swiss Diabetes Guide**  | Schweizerische Gesellschaft für Endokrinologie und Diabetologie (SGED) | [diabetesguide.ch](https://www.diabetesguide.ch/de/about) | Pharmakotherapie-Empfehlungen für Diabetes Typ 2                                              |
