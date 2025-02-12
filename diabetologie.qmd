@@ -1,4 +1,16 @@
-### **Apps für Patient:innen**
+# Diabetologie
+
+| Software                  | Anbieter                                   | URL                                          | Anmerkungen                                                                                     |
+|---------------------------|-------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Swiss Diabetes Guide**  | Schweizerische Gesellschaft für Endokrinologie und Diabetologie (SGED) | [diabetesguide.ch](https://www.diabetesguide.ch/de/about) | Pharmakotherapie-Empfehlungen für Diabetes Typ 2                                              |
+| **SiDiary für Professionals** | Sinovo Ltd.                           | [SiDiary](https://www.sidiary.de)          | Verwaltung von Patientendaten, Berichte, Therapieanpassung                                    |
+| **Glooko**               | Glooko Inc.                                | [glooko.com](https://www.glooko.com)       | Integration von Daten aus verschiedenen Blutzuckermessgeräten                                 |
+| **Nightscout**           | Open-Source-Community                      | [Nightscout](https://en.wikipedia.org/wiki/Nightscout) | Echtzeit-Überwachung von Blutzuckerwerten, ursprünglich für Kinder mit Diabetes entwickelt  |
+
+: Apps für Ärzt:innen (B2B)
+
+---
+
 | Software        | Anbieter                          | URL                                          | Anmerkungen                                                                                     |
 |----------------|----------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------|
 | **mySugr**     | Roche Diabetes Care             | [mysugr.com](https://mysugr.com)            | Diabetes-Tagebuch mit Blutzucker-Tracking und Berichten                                         |
@@ -12,11 +24,4 @@
 | **Dario Health** | LabStyle Innovations         | [Clemson Univ.](https://hgic.clemson.edu/factsheet/smartphone-apps-for-diabetes-self-management-support/) | Blutzuckermessungen mit direkter Smartphone-Übertragung                                       |
 | **CalorieKing** | CalorieKing Wellness Solutions | [DiabetesEd](https://diabetesed.net/apps-for-diabetes/) | Große Lebensmitteldatenbank für Kohlenhydratzählung                                           |
 
----
-
-### **Apps für Ärzt:innen**
-| Software                  | Anbieter                                   | URL                                          | Anmerkungen                                                                                     |
-|---------------------------|-------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------|
-| **Swiss Diabetes Guide**  | Schweizerische Gesellschaft für Endokrinologie und Diabetologie (SGED) | [diabetesguide.ch](https://www.diabetesguide.ch/de/about) | Pharmakotherapie-Empfehlungen für Diabetes Typ 2                                              |
-| **SiDiary für Professionals** | Sinovo Ltd.                           | [SiDiary](https://www.sidiary.de)          | Verwaltung von Patientendaten, Berichte, Therapieanpassung                                    |
-| **Glooko**               | Glooko Inc.                                | [glooko.com](https://www.glooko.com)       | Integration von Daten aus verschiedenen Blutzuckermessgeräten                                 |
+: Apps für Patient:innen (D2C)

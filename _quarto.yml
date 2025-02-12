@@ -50,6 +50,7 @@ book:
       chapters:
       - dermatologie.qmd
       - augenheilkunde.qmd
+      - diabetologie.qmd
       - gefaessmedizin.qmd
       - wunddokumentation.qmd
       - rheumatologie.qmd
