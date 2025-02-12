@@ -5,7 +5,6 @@
 | **Swiss Diabetes Guide**  | Schweizerische Gesellschaft für Endokrinologie und Diabetologie (SGED) | [diabetesguide.ch](https://www.diabetesguide.ch/de/about) | Pharmakotherapie-Empfehlungen für Diabetes Typ 2                                              |
 | **SiDiary für Professionals** | Sinovo Ltd.                           | [SiDiary](https://www.sidiary.de)          | Verwaltung von Patientendaten, Berichte, Therapieanpassung                                    |
 | **Glooko**               | Glooko Inc.                                | [glooko.com](https://www.glooko.com)       | Integration von Daten aus verschiedenen Blutzuckermessgeräten                                 |
-| **Nightscout**           | Open-Source-Community                      | [Nightscout](https://en.wikipedia.org/wiki/Nightscout) | Echtzeit-Überwachung von Blutzuckerwerten, ursprünglich für Kinder mit Diabetes entwickelt  |
 
 : Apps für Ärzt:innen (B2B)
 
@@ -23,3 +22,9 @@
 | **CalorieKing** | CalorieKing Wellness Solutions | [DiabetesEd](https://diabetesed.net/apps-for-diabetes/) | Große Lebensmitteldatenbank für Kohlenhydratzählung                                           |
 
 : Apps für Patient:innen (D2C)
+
+| Software        | Anbieter                          | URL                                          | Anmerkungen                                                                                     |
+|----------------|----------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Nightscout**           | Open-Source-Community                      | [Nightscout](https://en.wikipedia.org/wiki/Nightscout) | Echtzeit-Überwachung von Blutzuckerwerten, ursprünglich für Kinder mit Diabetes entwickelt  |
+
+: Open-Source Software
