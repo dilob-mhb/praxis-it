@@ -29,6 +29,6 @@ Künstliche Intelligenz (KI) wird in der Diabetologie in mehreren Bereichen eing
 
 | Software        | Anbieter                          | URL                                          | Anmerkungen                                                                                     |
 |----------------|----------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------|
-| **Nightscout**           | Open-Source-Community                      | [Nightscout](https://en.wikipedia.org/wiki/Nightscout) | Echtzeit-Überwachung von Blutzuckerwerten, ursprünglich für Kinder mit Diabetes entwickelt  |
+| **Nightscout**           | Open-Source-Community                      | [nightscout.info](http://www.nightscout.info/) | Echtzeit-Überwachung von Blutzuckerwerten, ursprünglich für Kinder mit Diabetes entwickelt  |
 
 : Open-Source Software
