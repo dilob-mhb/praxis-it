@@ -1,0 +1,12 @@
+# Materialwirtschaft
+
+| Produkt                    | URL                                                                            |
+|----------------------------|--------------------------------------------------------------------------------|
+| PUSH® Order Inhouse    | [hartmann.info/](https://www.hartmann.info/de-de/loesungen/l/de/kamp/push) |
+| PUSH® Order Premium    | [hartmann.info/](https://www.hartmann.info/de-de/loesungen/l/de/kamp/push) |
+| PUSH® Hygiene          | [hartmann.info/](https://www.hartmann.info/de-de/loesungen/l/de/kamp/push) |
+| PUSH® Control OP       | [hartmann.info/](https://www.hartmann.info/de-de/loesungen/l/de/kamp/push) |
+| On-Demand E-Procurement | [merzljak.de/on-demand-eprocurement-loesungen-gesundheitswesen](https://www.merzljak.de/on-demand-eprocurement-loesungen-gesundheitswesen) |
+| Orgamax | [orgamax.de](https://www.orgamax.de/) |
+
+: Beispiele digitale Materialwirtschaft
