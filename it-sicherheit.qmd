@@ -185,6 +185,7 @@ Beim sicheren Löschen von Daten gilt es sicherzustellen, dass diese nicht wiede
 |                                        |                                             |  [quidit.de](https://www.quidit.de/)                                                                                                                                                                                 |
 |                                        |                                             | [xmera.de](https://www.xmera.de)                                                                                                                                                                                 |
 | ENTERPRISE ISMS / ENTERPRISE DSMS | 4conform GmbH                         | [4conform.com](https://4conform.com/4conform-enterprise-isms/)                                                                                                                             |
+| RED protect  –  Praxis-Firewall | RED Medical Systems GmbH | [redmedical.de/red-protect-praxisfirewall/](https://www.redmedical.de/red-protect-praxisfirewall/) |
 
 : Übersicht IT Grundschutz
 
