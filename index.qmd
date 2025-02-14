@@ -32,7 +32,7 @@ Im Rahmen einer Mixed-Methods-Studie, die Interviews, ethnographische Beobachtun
 
 ### Messung der digitalen Reife in Arztpraxen: Ein Schlüssel zur nachhaltigen Transformation
 
-Ein zentraler Aspekt der Digitalisierung in Arztpraxen ist die Messung der digitalen Reife. Laut Teixeira et al. (2022) ist die digitale Reife sowohl auf individueller als auch systemischer Ebene erforderlich, um eine nachhaltige digitale Transformation im Gesundheitswesen sicherzustellen [@Teixeira_2022]. Digitale Reife-Modelle, wie sie von Rimmer et al. (2014) beschrieben wurden, bieten praktische Werkzeuge, um den Fortschritt in der Nutzung von Technologien zu bewerten und gezielte Verbesserungen zu identifizieren [@Rimmer_2014;@Neunaber_2023].
+Ein zentraler Aspekt der Digitalisierung in Arztpraxen ist die Messung der digitalen Reife. Laut Teixeira et al. (2022) ist die digitale Reife sowohl auf individueller als auch systemischer Ebene erforderlich, um eine nachhaltige digitale Transformation im Gesundheitswesen sicherzustellen [@Teixeira_2022.08.23.22278753]. Digitale Reife-Modelle, wie sie von Rimmer et al. (2014) beschrieben wurden, bieten praktische Werkzeuge, um den Fortschritt in der Nutzung von Technologien zu bewerten und gezielte Verbesserungen zu identifizieren [@Rimmer_2014;@Neunaber_2023].
 
 Reifegradmodelle (Maturity Models, MM) basieren auf der Annahme, dass Individuen, Organisationen und Prozesse sich durch Entwicklungsphasen zu höherer Reife entwickeln. Im Gesundheitssektor sind zwei Hauptfaktoren für Investitionen in Gesundheitsinformationssysteme (HIS) verantwortlich: die zunehmende Belastung durch chronische Krankheiten und die Notwendigkeit, die Qualität und Sicherheit der Gesundheitsversorgung erheblich zu verbessern. [@Gomes_2018]
 
