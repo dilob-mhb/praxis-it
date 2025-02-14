@@ -47,5 +47,6 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 | 26  | Athena                            | [Athena](https://www.dampsoft.de/athena)                               |
 | 27  | Sonia                             | [Sonia](https://sonia.so/)                                             |
 | 28  | Noa Jameda GmbH                   | [noa.ai/de](https://noa.ai/de)                                         |
+| 29 | voize GmbH | [voize.de](https://www.voize.de/) |
 
 : Übersicht Softwarelösungen Anamnese & Dokumentation
