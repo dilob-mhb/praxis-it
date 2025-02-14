@@ -10,6 +10,11 @@ Telefonassistenzsysteme zeichnen sich durch eine Reihe gemeinsamer Kriterien aus
 |  3 | Dr.wait                    | [drwait.de](https://drwait.de)                       |
 |  4 | Docmedico                  | [docmedico.de](https://docmedico.de)                    |
 |  5 | VITAS                      | [vitas.ai](https://vitas.ai)                        |
+| 18 | CGM one Telefonassistent | [one.cgm.com/telefonassistent](https://one.cgm.com/telefonassistent) |
+| 19 | Medflex | [medflex.de](https://medflex.de/) |
+
+: Übersicht Telefonassistenzsysteme für Arztpraxen
+
 |  6 | BOTfriends Phonebot        | [botfriends.de](https://botfriends.de)                   |
 |  7 | DUSOFFICE                  | [dusoffice.de](https://dusoffice.de)                    |
 |  8 | KI-Telefonservice.de       | [ki-telefonservice.de](https://ki-telefonservice.de)            |
@@ -22,7 +27,5 @@ Telefonassistenzsysteme zeichnen sich durch eine Reihe gemeinsamer Kriterien aus
 | 15 | reventix Softphone         | [reventix.de](https://reventix.de)                     |
 | 16 | Aircall                    | [aircall.io](https://aircall.io)                      |
 | 17 | Pollie AI                  | [pollie.ai](https://pollie.ai)                       |
-| 18 | CGM one Telefonassistent | [one.cgm.com/telefonassistent](https://one.cgm.com/telefonassistent) |
-| 19 | Medflex | [medflex.de](https://medflex.de/) |
 
-: Übersicht Telefonassistenzsysteme
+: Übersicht Telefonassistenzsysteme für Unternehmen
