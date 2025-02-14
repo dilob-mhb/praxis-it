@@ -15,9 +15,9 @@ Künstliche Intelligenz (KI) wird in der Diabetologie in mehreren Bereichen eing
 | Software        | Anbieter                          | URL                                          | Anmerkungen                                                                                     |
 |----------------|----------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------|
 | **mySugr**     | Roche Diabetes Care             | [mysugr.com](https://mysugr.com)            | Diabetes-Tagebuch mit Blutzucker-Tracking und Berichten                                         |
-| **Glucose Buddy** | Azumio                        | [Healthline](https://www.glucosebuddy.com/) | Synchronisation mit CGM-Systemen, Blutzuckerprotokoll                                          |
+| **Glucose Buddy** | Azumio                        | [glucosebuddy.com](https://www.glucosebuddy.com/) | Synchronisation mit CGM-Systemen, Blutzuckerprotokoll                                          |
 | **Diabetes:M** | Sirma Medical Systems           | [diabetes-m.com](https://diabetes-m.com/)   | Detaillierte Analyse, Bolusrechner, Berichte                                                                                                          |
-| **BlueLoop**   | Children with Diabetes         | [chop.edu](https://blueloop.mycareconnect.com/) | Diabetes-Management speziell für Kinder                                                        |
+| **BlueLoop**   | Children with Diabetes         | [blueloop.mycareconnect.com](https://blueloop.mycareconnect.com/) | Diabetes-Management speziell für Kinder                                                        |
 | **DiabTrend**  | DiabTrend Ltd.                  | [diabtrend.com](https://diabtrend.com/)     | KI-gestützte Blutzuckerprognose, Tagebuch, Rezept-Datenbank                                    |
 
 : Apps für Patient:innen (D2C)
