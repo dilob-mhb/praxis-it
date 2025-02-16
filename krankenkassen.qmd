@@ -122,6 +122,12 @@ Diese Apps können von den jeweiligen Krankenkassen heruntergeladen werden und b
 
 Quelle: [gematik.de/versicherte/epa-app](https://www.gematik.de/versicherte/epa-app)
 
+### Installationszahlen ePA Apps Google Play Store
+
+![ePA Apps Google Play Store Installationszahlen](assets/epa_app_installations.png)
+
+Die Verteilung der ePA-App-Installationszahlen zeigt eine deutliche Dominanz der TK-App mit 63,1 % der Installationen, was auf die hohe Anzahl der TK-Versicherten hinweisen könnte, die über 11 Millionen beträgt. Diese hohe Zahl könnte bedeuten, dass die TK effektiv ihre Mitglieder zur Nutzung der App motiviert oder dass die App durch ihre Benutzerfreundlichkeit und die Integration in den Service "TK-Safe" bevorzugt wird. Die Allianz Gesundheits-App folgt mit 9,9 %, was ebenfalls auf eine starke Präsenz und möglicherweise auf eine gut etablierte Marke zurückzuführen sein könnte. Andere Apps wie die AOK Mein Leben (8,1 %) und die BARMER eCare (4,9 %) haben ebenfalls signifikante Anteile, die jedoch weniger stark vertreten ist. Spekulativ könnte man sagen, dass die Verteilung von der Benutzerfreundlichkeit, der Bekanntheit der Krankenkasse und der spezifischen Bedürfnisse der Nutzer beeinflusst wird, wobei größere Krankenkassen wie die TK und Allianz möglicherweise besser in der Lage sind, ihre Apps zu bewerben und zu integrieren.
+
 ## Elektronische Ersatzbescheinigung
 
 Die [elektronische Ersatzbescheinigung (eEB)](https://www.kbv.de/html/1150_72101.php) dient als digitaler Versicherungsnachweis, wenn die elektronische Gesundheitskarte (eGK) beim Arztbesuch nicht genutzt werden kann. Sie wird über den Kommunikationsdienst KIM automatisiert an die Praxis übermittelt und kann direkt ins Praxisverwaltungssystem (PVS) importiert werden, wodurch manuelles Einpflegen entfällt. Ihre Nutzung ist seit Oktober 2024 möglich und wird ab Juli 2025 für Praxen und Krankenkassen verpflichtend.
