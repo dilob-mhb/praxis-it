@@ -1,5 +1,7 @@
 # Künstliche Intelligenz
 
+Das [Positionspapier des HAEV aus Juli 2024](https://www.haev.de/fileadmin/user_upload/News_Dateien/2024/2024_07_04_HAEV_Positionspapier_KI.pdf), betitelt „Künstliche Intelligenz (KI) in der Hausarztpraxis“, beleuchtet den Einsatz von KI in der hausärztlichen Versorgung. Es betont die Chancen von KI, wie die Unterstützung bei Diagnose und Therapieplanung, die Entlastung von administrativen Aufgaben und die Verbesserung der Patienteninteraktion durch Chatbots. Gleichzeitig werden Risiken wie Datenschutzbedenken, ethische Fragen und mögliche Verzerrungen angesprochen. Das Papier fordert Transparenz, Qualitätssicherung der Daten, Anpassung an Praxisprozesse und die Entwicklung eines klaren regulatorischen Rahmens für den verantwortungsvollen Einsatz von KI in der Medizin. Es wird betont, dass KI als Ergänzung und nicht als Ersatz für ärztliche Entscheidungen dient, wobei die Sicherheit und der Datenschutz der Patienten sowie die Entlastung des Praxisteams im Vordergrund stehen.
+
 ## Lernmaterialien
 
 Der [KI-Campus](https://ki-campus.org/themen/medizin) bietet kostenlose Online-Kurse und Ressourcen zum Thema Künstliche Intelligenz in der Medizin, darunter Kurse zu Grundlagen, klinischen Anwendungen und Ethik. Diese Kurse sind für Mediziner:innen konzipiert und werden in Zusammenarbeit mit renommierten Partnern wie der Charité und dem DFKI angeboten.
