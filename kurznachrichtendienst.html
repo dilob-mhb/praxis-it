@@ -384,6 +384,11 @@ cookieconsent.run({
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./kuenstliche-intelligenz.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Künstliche Intelligenz</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./zusammenfassung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zusammenfassung</span></a>
   </div>
 </li>
@@ -405,6 +410,13 @@ cookieconsent.run({
   <li><a href="#kommunikation-zwischen-patientinnen-behandelnden" id="toc-kommunikation-zwischen-patientinnen-behandelnden" class="nav-link active" data-scroll-target="#kommunikation-zwischen-patientinnen-behandelnden">Kommunikation zwischen PatientInnen &amp; Behandelnden</a></li>
   <li><a href="#matrix-protokoll" id="toc-matrix-protokoll" class="nav-link" data-scroll-target="#matrix-protokoll">Matrix Protokoll</a></li>
   <li><a href="#übersichtstabelle" id="toc-übersichtstabelle" class="nav-link" data-scroll-target="#übersichtstabelle">Übersichtstabelle</a></li>
+  <li><a href="#sicherheit-nachrichtenverkehr" id="toc-sicherheit-nachrichtenverkehr" class="nav-link" data-scroll-target="#sicherheit-nachrichtenverkehr">Sicherheit Nachrichtenverkehr</a>
+  <ul class="collapse">
+  <li><a href="#vergleich-von-instant-messaging-diensten" id="toc-vergleich-von-instant-messaging-diensten" class="nav-link" data-scroll-target="#vergleich-von-instant-messaging-diensten">Vergleich von Instant-Messaging-Diensten</a></li>
+  <li><a href="#vorwärts-sicherheit" id="toc-vorwärts-sicherheit" class="nav-link" data-scroll-target="#vorwärts-sicherheit">Vorwärts-Sicherheit</a></li>
+  <li><a href="#replay--reflection--und-reordering-angriffe" id="toc-replay--reflection--und-reordering-angriffe" class="nav-link" data-scroll-target="#replay--reflection--und-reordering-angriffe">Replay-, Reflection- und Reordering-Angriffe</a></li>
+  <li><a href="#end-to-end-verschlüsselung-e2ee" id="toc-end-to-end-verschlüsselung-e2ee" class="nav-link" data-scroll-target="#end-to-end-verschlüsselung-e2ee">End-to-End-Verschlüsselung (E2EE)</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/kurznachrichtendienst.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -556,14 +568,56 @@ Tabelle&nbsp;9.1: Kurznachrichtendienste Anbieter
 </div>
 </figure>
 </div>
-<p>Quelle: <span class="citation" data-cites="gematik-ti-messenger">(<a href="referenzen.html#ref-gematik-ti-messenger" role="doc-biblioref">gematik GmbH 2025</a>)</span></p>
+<p>Quelle: u.a. <span class="citation" data-cites="gematik-ti-messenger">(<a href="referenzen.html#ref-gematik-ti-messenger" role="doc-biblioref">gematik GmbH 2025</a>)</span></p>
+</section>
+<section id="sicherheit-nachrichtenverkehr" class="level2">
+<h2 class="anchored" data-anchor-id="sicherheit-nachrichtenverkehr">Sicherheit Nachrichtenverkehr</h2>
+<section id="vergleich-von-instant-messaging-diensten" class="level3">
+<h3 class="anchored" data-anchor-id="vergleich-von-instant-messaging-diensten">Vergleich von Instant-Messaging-Diensten</h3>
+<p>Instant-Messaging-Dienste wie Signal und Threema setzen verschiedene Sicherheitsmaßnahmen ein, um die Kommunikation der Nutzer zu schützen. Signal bietet eine End-to-End-Verschlüsselung (E2EE) für alle Kommunikationen, Vorwärts-Sicherheit, und verwendet starke kryptographische Methoden wie Curve25519 und AES-CBC. Threema hingegen behauptet ebenfalls E2EE, jedoch nur mit Vorwärts-Sicherheit auf Client-Server-Ebene und ohne E2EE-Forward-Secrecy, was die Nutzung langfristiger Schlüssel problematisch macht. Beide Dienste sind sicherer als WhatsApp, wobei Signal im Vergleich zu Telegram und Threema die stärksten Sicherheitsgarantien bietet, während Threema zwischen Telegram und Signal rangiert, mit Schwächen in der Sicherheit, insbesondere bei der Abwehr von Replay-, Reflection- und Reordering-Angriffen. <span class="citation" data-cites="rosler2018more son2022forensic truong2022breaking boschinisecure bruckner2023reverse paterson2023three">(<a href="referenzen.html#ref-rosler2018more" role="doc-biblioref">Rösler, Mainka, und Schwenk 2018</a>; <a href="referenzen.html#ref-son2022forensic" role="doc-biblioref">Son u.&nbsp;a. 2022</a>; <a href="referenzen.html#ref-truong2022breaking" role="doc-biblioref">Truong 2022</a>; <a href="referenzen.html#ref-boschinisecure" role="doc-biblioref">Boschini, o.&nbsp;J.</a>; <a href="referenzen.html#ref-bruckner2023reverse" role="doc-biblioref">Brückner 2023</a>; <a href="referenzen.html#ref-paterson2023three" role="doc-biblioref">Paterson, Scarlata, und Truong 2023</a>)</span></p>
+</section>
+<section id="vorwärts-sicherheit" class="level3">
+<h3 class="anchored" data-anchor-id="vorwärts-sicherheit">Vorwärts-Sicherheit</h3>
+<p>Vorwärts-Sicherheit (Perfect Forward Secrecy) ist ein Konzept in der Kryptographie, das besagt, dass die Kompromittierung eines Schlüssels in der Gegenwart nicht dazu führt, dass vergangene Kommunikation entschlüsselt werden kann. Das wird durch die Verwendung von Sitzungsschlüsseln erreicht, die für jede Kommunikationssitzung neu generiert werden und nach deren Beendigung verworfen werden. Diese temporären Schlüssel sind unabhängig von langfristigen Schlüsseln, wodurch sichergestellt wird, dass selbst wenn ein langfristiger Schlüssel kompromittiert wird, vergangene Sitzungen sicher bleiben.</p>
+<p>Signal implementiert diese Sicherheitseigenschaft, indem es für jede Kommunikation eine neue Schlüsselpaarung generiert und diese nach der Sitzung löscht. Threema hingegen bietet diese Eigenschaft nur auf der Client-Server-Ebene, was bedeutet, dass die Vorwärts-Sicherheit in Bezug auf die End-to-End-Verschlüsselung nicht vollständig gegeben ist.</p>
+</section>
+<section id="replay--reflection--und-reordering-angriffe" class="level3">
+<h3 class="anchored" data-anchor-id="replay--reflection--und-reordering-angriffe">Replay-, Reflection- und Reordering-Angriffe</h3>
+<p>Bei einem Replay-Angriff fängt ein Angreifer eine legitime Nachricht ab und sendet sie später erneut, um eine unerwünschte Handlung auszulösen oder eine Aktion zu wiederholen, die bereits einmal autorisiert wurde. Zum Beispiel könnte ein Angreifer eine abgefangene Authentifizierungsanfrage wieder abspielen, um sich als berechtigter Benutzer auszugeben. Maßnahmen gegen Replay-Angriffe umfassen oft die Verwendung von Nonce (Nummer, die nur einmal verwendet wird) oder Zeitstempel.</p>
+<p>In einem Reflection-Angriff nutzt der Angreifer die Struktur einer Nachricht, um sie zurück an den Absender zu spiegeln, oft in der Hoffnung, dass der Absender die eigene Nachricht als gültig akzeptiert. Dies könnte dazu führen, dass der Absender eine Aktion ausführt, die er nicht beabsichtigt hat, oder dass er eine Nachricht als gültig bestätigt, die er selbst gesendet hat. Eine Abwehrstrategie besteht darin, Nachrichten so zu gestalten, dass sie von der Quelle eindeutig unterscheidbar sind, zum Beispiel durch die Verwendung von unterschiedlichen Nonce oder Schlüsseln für Anfragen und Antworten.</p>
+<p>Bei einem Reordering-Angriff werden Nachrichten, die in einer bestimmten Reihenfolge gesendet wurden, von einem Angreifer umgeordert und dann weitergeleitet. Dies kann dazu führen, dass die Empfänger eine falsche Abfolge von Ereignissen wahrnehmen oder dass Abhängigkeiten in der Nachrichtenverarbeitung gestört werden. Um dies zu verhindern, können Sequenznummern oder andere Mechanismen zur Nachverfolgung der Reihenfolge implementiert werden, die sicherstellen, dass Nachrichten in der richtigen Reihenfolge verarbeitet werden.</p>
+<p>Diese Angriffe zielen darauf ab, die Sicherheitsprotokolle zu umgehen, die auf der Annahme basieren, dass Nachrichten in einer sicheren, unveränderten und chronologisch korrekten Reihenfolge empfangen werden.</p>
+</section>
+<section id="end-to-end-verschlüsselung-e2ee" class="level3">
+<h3 class="anchored" data-anchor-id="end-to-end-verschlüsselung-e2ee">End-to-End-Verschlüsselung (E2EE)</h3>
+<p>End-to-End-Verschlüsselung (E2EE) bezeichnet eine Methode der Datensicherheit, bei der Daten, die zwischen zwei Parteien ausgetauscht werden, nur von diesen beiden Parteien entschlüsselt und gelesen werden können.</p>
+<p>E2EE erfordert, dass die Schlüssel zwischen den Kommunikationspartnern sicher ausgetauscht oder generiert werden. Dies kann durch Protokolle wie Diffie-Hellman-Schlüsselaustausch oder durch die Verwendung von Public-Key-Kryptographie geschehen.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-boschinisecure" class="csl-entry" role="listitem">
+Boschini, Cecilia. o.&nbsp;J. <span>„The Secure Messaging App Conundrum: Signal vs. Telegram“</span>.
+</div>
+<div id="ref-bruckner2023reverse" class="csl-entry" role="listitem">
+Brückner, Maxi. 2023. <span>„Reverse Engineering des Instant Messenger-Dienstes „Threema ““</span>. Phdthesis, Hochschule Mittweida.
+</div>
 <div id="ref-gematik-ti-messenger" class="csl-entry" role="listitem">
 gematik GmbH. 2025. <span>„TI-Messenger“</span>. <a href="https://www.gematik.de/anwendungen/ti-messenger" class="uri">https://www.gematik.de/anwendungen/ti-messenger</a>.
 </div>
+<div id="ref-paterson2023three" class="csl-entry" role="listitem">
+Paterson, Kenneth G, Matteo Scarlata, und Kien Tuong Truong. 2023. <span>„Three lessons from threema: Analysis of a secure messenger“</span>. In <em>32nd USENIX Security Symposium (USENIX Security 23)</em>, 1289–1306.
 </div>
+<div id="ref-rosler2018more" class="csl-entry" role="listitem">
+Rösler, Paul, Christian Mainka, und Jörg Schwenk. 2018. <span>„More is less: On the end-to-end security of group chats in signal, whatsapp, and threema“</span>. In <em>2018 IEEE European Symposium on Security and Privacy (EuroS&amp;P)</em>, 415–29. IEEE.
+</div>
+<div id="ref-son2022forensic" class="csl-entry" role="listitem">
+Son, Jihun, Yeong Woong Kim, Dong Bin Oh, und Kyounggon Kim. 2022. <span>„Forensic analysis of instant messengers: Decrypt Signal, Wickr, and Threema“</span>. <em>Forensic Science International: Digital Investigation</em> 40: 301347.
+</div>
+<div id="ref-truong2022breaking" class="csl-entry" role="listitem">
+Truong, Kien Tuong. 2022. <span>„Breaking Cryptography in the Wild: Threema“</span>.
+</div>
+</div>
+</section>
 </section>
 
 </main> <!-- /main -->

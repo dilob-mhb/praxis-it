@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Augenheilkunde – Praxis-IT</title>
+<title>Künstliche Intelligenz – Praxis-IT</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./diabetologie.html" rel="next">
-<link href="./dermatologie.html" rel="prev">
+<link href="./zusammenfassung.html" rel="next">
+<link href="./digitale-innovation.html" rel="prev">
 <script src="site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -124,7 +144,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./augenheilkunde.html"><span class="chapter-title">Augenheilkunde</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./kuenstliche-intelligenz.html"><span class="chapter-title">Künstliche Intelligenz</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Suchen" onclick="window.quartoOpenSearch();">
@@ -237,13 +257,13 @@ cookieconsent.run({
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
  <span class="menu-text">Fachdisziplinen</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./dermatologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dermatologie</span></a>
@@ -251,7 +271,7 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./augenheilkunde.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Augenheilkunde</span></a>
+  <a href="./augenheilkunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Augenheilkunde</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -364,7 +384,7 @@ cookieconsent.run({
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./kuenstliche-intelligenz.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Künstliche Intelligenz</span></a>
+  <a href="./kuenstliche-intelligenz.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Künstliche Intelligenz</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -383,7 +403,13 @@ cookieconsent.run({
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhaltsverzeichnis</h2>
+   
+  <ul>
+  <li><a href="#lernmaterialien" id="toc-lernmaterialien" class="nav-link active" data-scroll-target="#lernmaterialien">Lernmaterialien</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/kuenstliche-intelligenz.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
 <p>Projektpartner</p>
 <p><a href="https://www.dilob-mhb.de/"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/DiLoB-Logo-Transparent.png" class="img-fluid" width="100"></a></p>
@@ -402,9 +428,9 @@ cookieconsent.run({
   gtag('config', 'G-W0VVGPQSBH');
 </script>
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./augenheilkunde.html"><span class="chapter-title">Augenheilkunde</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Augenheilkunde</span></h1>
+<h1 class="title"><span class="chapter-title">Künstliche Intelligenz</span></h1>
 </div>
 
 
@@ -421,82 +447,21 @@ cookieconsent.run({
 </header>
 
 
-<table class="caption-top table">
-<caption>Übersicht Softwarelösungen</caption>
-<thead>
-<tr class="header">
-<th>Produkt</th>
-<th>Company</th>
-<th>URL</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>RetinAI</td>
-<td>RetinAI</td>
-<td><a href="https://retinai.com">retinai.com</a></td>
-</tr>
-<tr class="even">
-<td>lumineticscore formerly IDx-DR</td>
-<td>Digital Diagnostics</td>
-<td><a href="https://www.digitaldiagnostics.com/products/eye-disease/lumineticscore/">digitaldiagnostics.com</a></td>
-</tr>
-<tr class="odd">
-<td>teamplay digital health</td>
-<td>Siemens Healthineers AG</td>
-<td><a href="https://siemens-healthineers.com">siemens-healthineers.com</a></td>
-</tr>
-<tr class="even">
-<td>SPECTRALIS</td>
-<td>Heidelberg Engineering GmbH</td>
-<td><a href="https://heidelbergengineering.com">heidelbergengineering.com</a></td>
-</tr>
-<tr class="odd">
-<td>ZEISS VISULAS 532s</td>
-<td>ZEISS</td>
-<td><a href="https://zeiss.com/meditec">zeiss.com/meditec</a></td>
-</tr>
-<tr class="even">
-<td>Plusoptix A12C</td>
-<td>Plusoptix GmbH</td>
-<td><a href="https://plusoptix.com">plusoptix.com</a></td>
-</tr>
-<tr class="odd">
-<td>EyeWisdom® MCS²</td>
-<td>Visionix</td>
-<td><a href="https://visionix.com">visionix.com</a></td>
-</tr>
-<tr class="even">
-<td>Amparex</td>
-<td>Amparex</td>
-<td><a href="https://web.amparex.com">web.amparex.com</a></td>
-</tr>
-</tbody>
-</table>
-<table class="caption-top table">
-<caption>Übersicht Initiativen</caption>
-<thead>
-<tr class="header">
-<th>Produkt</th>
-<th>Company</th>
-<th>URL</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>PASBADIA</td>
-<td>PASBADIA</td>
-<td><a href="https://www.copicoh.uni-luebeck.de/forschung/projekte/aktuelle-projekte/pasbadia">copicoh.uni-luebeck.de</a></td>
-</tr>
-<tr class="even">
-<td>Collaborative Community on Ophthalmic Innovation</td>
-<td>CCOI Foundation</td>
-<td><a href="https://cc-oi.org">cc-oi.org</a></td>
-</tr>
-</tbody>
-</table>
+<p>Das <a href="https://www.haev.de/fileadmin/user_upload/News_Dateien/2024/2024_07_04_HAEV_Positionspapier_KI.pdf">Positionspapier des HAEV aus Juli 2024</a>, betitelt „Künstliche Intelligenz (KI) in der Hausarztpraxis“, beleuchtet den Einsatz von KI in der hausärztlichen Versorgung. Es betont die Chancen von KI, wie die Unterstützung bei Diagnose und Therapieplanung, die Entlastung von administrativen Aufgaben und die Verbesserung der Patienteninteraktion durch Chatbots. Gleichzeitig werden Risiken wie Datenschutzbedenken, ethische Fragen und mögliche Verzerrungen angesprochen. Das Papier fordert Transparenz, Qualitätssicherung der Daten, Anpassung an Praxisprozesse und die Entwicklung eines klaren regulatorischen Rahmens für den verantwortungsvollen Einsatz von KI in der Medizin. Es wird betont, dass KI als Ergänzung und nicht als Ersatz für ärztliche Entscheidungen dient, wobei die Sicherheit und der Datenschutz der Patienten sowie die Entlastung des Praxisteams im Vordergrund stehen.</p>
+<p>Der Artikel “Ten Ways Artificial Intelligence Will Transform Primary Care” aus dem Jahr 2019 beschreibt, wie KI die hausärztliche Versorgung in den USA verändern könnte. Er hebt zehn Bereiche hervor, darunter Risikoprädiktion, Populationsgesundheitsmanagement, medizinischer Rat und Triage, und Diagnostik, in denen KI Verbesserungen bringen könnte. Die Herausforderung besteht darin, die Balance zu finden, wie KI am besten in den hausärztlichen Alltag integriert wird, um die vier Ziele (bessere Versorgung, bessere Gesundheit, geringere Kosten, Wohlbefinden der Arbeitskräfte) zu erreichen. <span class="citation" data-cites="Lin2019">(<a href="referenzen.html#ref-Lin2019" role="doc-biblioref">Lin, Mahoney, und Sinsky 2019</a>)</span></p>
+<section id="lernmaterialien" class="level2">
+<h2 class="anchored" data-anchor-id="lernmaterialien">Lernmaterialien</h2>
+<p>Der <a href="https://ki-campus.org/themen/medizin">KI-Campus</a> bietet kostenlose Online-Kurse und Ressourcen zum Thema Künstliche Intelligenz in der Medizin, darunter Kurse zu Grundlagen, klinischen Anwendungen und Ethik. Diese Kurse sind für Mediziner:innen konzipiert und werden in Zusammenarbeit mit renommierten Partnern wie der Charité und dem DFKI angeboten.</p>
+<p><a href="https://open.hpi.de/">openHPI</a> ist die Bildungsplattform des Hasso-Plattner-Instituts, die kostenlose Online-Kurse zu Themen der Informatik anbietet. Diese Kurse richten sich an verschiedene Zielgruppen, von Einsteigern bis zu Fachpublikum, und decken sowohl Grundlagen als auch aktuelle Forschungsthemen ab. Die Plattform wurde 2012 als erstes europäisches MOOC-Projekt gestartet und bietet innovative Lernformate.</p>
+<p><a href="https://www.kaggle.com/learn">Kaggle Learn</a> bietet eine Sammlung kostenloser, interaktiver Kurse zum Erlernen von Datenwissenschaft und maschinellem Lernen. Diese Kurse sind so gestaltet, dass Sie praktische Fähigkeiten erwerben können, die Sie sofort anwenden können. Kaggle Learn ist ideal für Anfänger und Fortgeschrittene, um ihre Fähigkeiten in Bereichen wie Python, Pandas, und maschinellem Lernen zu verbessern.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-Lin2019" class="csl-entry" role="listitem">
+Lin, S. Y., M. R. Mahoney, und C. A. Sinsky. 2019. <span>„Ten Ways Artificial Intelligence Will Transform Primary Care“</span>. <em>J GEN INTERN MED</em> 34: 1626–30. <a href="https://doi.org/10.1007/s11606-019-05035-1">https://doi.org/10.1007/s11606-019-05035-1</a>.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -918,13 +883,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./dermatologie.html" class="pagination-link" aria-label="Dermatologie">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Dermatologie</span></span>
+      <a href="./digitale-innovation.html" class="pagination-link" aria-label="Digitale Innovation">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Digitale Innovation</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./diabetologie.html" class="pagination-link" aria-label="Diabetologie">
-        <span class="nav-page-text"><span class="chapter-title">Diabetologie</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./zusammenfassung.html" class="pagination-link" aria-label="Zusammenfassung">
+        <span class="nav-page-text"><span class="chapter-title">Zusammenfassung</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -936,7 +901,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
 
-<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/augenheilkunde.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/kuenstliche-intelligenz.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
