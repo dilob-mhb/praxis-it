@@ -36,4 +36,32 @@ Das Matrix-Protokoll ist ein offenes Standardprotokoll für dezentrale, sichere 
 
 : Kurznachrichtendienste Anbieter {#tbl-kurznachrichtendienste-anbieter}
 
-Quelle: [@gematik-ti-messenger]
+Quelle: u.a. [@gematik-ti-messenger]
+
+## Sicherheit Nachrichtenverkehr
+
+### Vergleich von Instant-Messaging-Diensten
+
+Instant-Messaging-Dienste wie Signal und Threema setzen verschiedene Sicherheitsmaßnahmen ein, um die Kommunikation der Nutzer zu schützen. Signal bietet eine End-to-End-Verschlüsselung (E2EE) für alle Kommunikationen, Vorwärts-Sicherheit, und verwendet starke kryptographische Methoden wie Curve25519 und AES-CBC. Threema hingegen behauptet ebenfalls E2EE, jedoch nur mit Vorwärts-Sicherheit auf Client-Server-Ebene und ohne E2EE-Forward-Secrecy, was die Nutzung langfristiger Schlüssel problematisch macht. Beide Dienste sind sicherer als WhatsApp, wobei Signal im Vergleich zu Telegram und Threema die stärksten Sicherheitsgarantien bietet, während Threema zwischen Telegram und Signal rangiert, mit Schwächen in der Sicherheit, insbesondere bei der Abwehr von Replay-, Reflection- und Reordering-Angriffen. [@rosler2018more;@son2022forensic;@truong2022breaking;@boschinisecure;@bruckner2023reverse;@paterson2023three]
+
+### Vorwärts-Sicherheit
+
+Vorwärts-Sicherheit (Perfect Forward Secrecy) ist ein Konzept in der Kryptographie, das besagt, dass die Kompromittierung eines Schlüssels in der Gegenwart nicht dazu führt, dass vergangene Kommunikation entschlüsselt werden kann. Das wird durch die Verwendung von Sitzungsschlüsseln erreicht, die für jede Kommunikationssitzung neu generiert werden und nach deren Beendigung verworfen werden. Diese temporären Schlüssel sind unabhängig von langfristigen Schlüsseln, wodurch sichergestellt wird, dass selbst wenn ein langfristiger Schlüssel kompromittiert wird, vergangene Sitzungen sicher bleiben. 
+
+Signal implementiert diese Sicherheitseigenschaft, indem es für jede Kommunikation eine neue Schlüsselpaarung generiert und diese nach der Sitzung löscht. Threema hingegen bietet diese Eigenschaft nur auf der Client-Server-Ebene, was bedeutet, dass die Vorwärts-Sicherheit in Bezug auf die End-to-End-Verschlüsselung nicht vollständig gegeben ist.
+
+### Replay-, Reflection- und Reordering-Angriffe
+
+Bei einem Replay-Angriff fängt ein Angreifer eine legitime Nachricht ab und sendet sie später erneut, um eine unerwünschte Handlung auszulösen oder eine Aktion zu wiederholen, die bereits einmal autorisiert wurde. Zum Beispiel könnte ein Angreifer eine abgefangene Authentifizierungsanfrage wieder abspielen, um sich als berechtigter Benutzer auszugeben. Maßnahmen gegen Replay-Angriffe umfassen oft die Verwendung von Nonce (Nummer, die nur einmal verwendet wird) oder Zeitstempel.
+
+In einem Reflection-Angriff nutzt der Angreifer die Struktur einer Nachricht, um sie zurück an den Absender zu spiegeln, oft in der Hoffnung, dass der Absender die eigene Nachricht als gültig akzeptiert. Dies könnte dazu führen, dass der Absender eine Aktion ausführt, die er nicht beabsichtigt hat, oder dass er eine Nachricht als gültig bestätigt, die er selbst gesendet hat. Eine Abwehrstrategie besteht darin, Nachrichten so zu gestalten, dass sie von der Quelle eindeutig unterscheidbar sind, zum Beispiel durch die Verwendung von unterschiedlichen Nonce oder Schlüsseln für Anfragen und Antworten.
+
+Bei einem Reordering-Angriff werden Nachrichten, die in einer bestimmten Reihenfolge gesendet wurden, von einem Angreifer umgeordert und dann weitergeleitet. Dies kann dazu führen, dass die Empfänger eine falsche Abfolge von Ereignissen wahrnehmen oder dass Abhängigkeiten in der Nachrichtenverarbeitung gestört werden. Um dies zu verhindern, können Sequenznummern oder andere Mechanismen zur Nachverfolgung der Reihenfolge implementiert werden, die sicherstellen, dass Nachrichten in der richtigen Reihenfolge verarbeitet werden.
+
+Diese Angriffe zielen darauf ab, die Sicherheitsprotokolle zu umgehen, die auf der Annahme basieren, dass Nachrichten in einer sicheren, unveränderten und chronologisch korrekten Reihenfolge empfangen werden.
+
+### End-to-End-Verschlüsselung (E2EE)
+
+End-to-End-Verschlüsselung (E2EE) bezeichnet eine Methode der Datensicherheit, bei der Daten, die zwischen zwei Parteien ausgetauscht werden, nur von diesen beiden Parteien entschlüsselt und gelesen werden können.
+
+E2EE erfordert, dass die Schlüssel zwischen den Kommunikationspartnern sicher ausgetauscht oder generiert werden. Dies kann durch Protokolle wie Diffie-Hellman-Schlüsselaustausch oder durch die Verwendung von Public-Key-Kryptographie geschehen.
