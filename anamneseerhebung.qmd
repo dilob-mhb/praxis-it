@@ -16,37 +16,35 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 
 - **Nachsorge und Qualitätssicherung**: MAIA unterstützt spezifische Nachsorgemodule, und strukturierte Patientenbefragungen wie ePRO dienen der Qualitätssicherung.
 
-| Nr. | Anbieter                            | Webseite                                                           |
-|----:|:------------------------------------|:-------------------------------------------------------------------|
-|  0  | Tomes GmbH (Idana)                  | [Idana](https://www.idana.com)                                     |
-|  1  | Docyet GmbH                         | [Docyet](https://www.docyet.com)                                   |
-|  2  | CompuGroup Medical (AmbulApps)      | [AmbulApps](https://www.cgm.com/deu_de/produkte/praxissoftware/ambulapps.html) |
-|  3  | MAIA.tools                          | [MAIA](https://www.maia.tools)                                     |
-|  4  | Simpleprax                          | [Simpleprax](https://www.simpleprax.de)                            |
-|  5  | Dr. QEN                             | [Dr. QEN](https://drqen.com/)                                      |
-|  6  | Infoskop                            | [Infoskop](http://www.synmedico.de)                                |
-|  7  | mediDOK eForms                      | [mediDOK eForms](https://medidok.de/eforms)                        |
-|  8  | myMedax                             | [myMedax](http://www.myMedax.de)                                   |
-|  9  | Bingli                              | [Bingli](https://www.bingli.eu/de/)                                |
-| 10  | AnaBoard                            | [AnaBoard](http://www.anaboard.de)                                 |
-| 11  | medudoc                             | [medudoc](https://www.de.medudoc.com/)                             |
-| 12  | Adiu Health                         | [Adiu Health](https://www.adiu-health.de)                          |
-| 13  | Dragon Medical One                  | [Dragon Medical One](http://nuance.de/gesundheit)                  |
-| 14  | Eudaria                             | [Eudaria](https://eudaria.de)                                      |
-| 15  | Schicksma.online                    | [Schicksma.online](http://www.msc-it-schuermann.de)                |
-| 16  | voice4medicine (Dragon Medical)     | [voice4medicine](https://www.4voice.de/)                           |
-| 17  | tts performance suite               | [tts performance suite](https://www.tt-s.com/de/digital-adoption-solutions/loesungen/vitamin-c-fuer-das-gesundheitswesen) |
-| 18  | CGM one Doku-Assistent              | [one.cgm.com/doku-assistent](https://one.cgm.com/doku-assistent)     |
-| 19  | HCQS                                | [HCQS](https://www.hcqs.de/)                                         |
-| 20  | HealthHero                          | [HealthHero](https://www.healthhero.com/)                            |
-| 21  | Infermedica                         | [Infermedica](https://infermedica.com/)                              |
-| 22  | xund.ai                             | [xund.ai](https://xund.ai/)                                          |
-| 23  | Patientennavi                       | [Patientennavi](https://patientennavi.116117.de/askPlz.xhtml)        |
-| 24  | Nelly                             | [Nelly](https://www.getnelly.de/produkte/digitale-anamnese)            |
-| 25  | Thieme Compliance                 | [Thieme Compliance](https://www.thieme-compliance.de/de/produkte)      |
-| 26  | Athena                            | [Athena](https://www.dampsoft.de/athena)                               |
-| 27  | Sonia                             | [Sonia](https://sonia.so/)                                             |
-| 28  | Noa Jameda GmbH                   | [noa.ai/de](https://noa.ai/de)                                         |
-| 29 | voize GmbH | [voize.de](https://www.voize.de/) |
+| Nr. | Anbieter                          | Webseite                                                           | Beschreibung |
+|----:|:----------------------------------|:-------------------------------------------------------------------|:------------|
+|  0  | Starc                             | [Starc](https://starc-medical.de/produkte/digitale-anamnese/)     | PatientInnen können aus mehr als 12 Sprachen wählen und digitale Anamnesebögen per PC, Smartphone oder Tablet vorab ausfüllen. Teilen des Anamnesebogens per QR-Code oder Internetseite möglich. |
+|  1  | Idana                             | [Idana](https://idana.com/)                                        | Eine von Ärzten entwickelte Software zur digitalen Anamnese von zu Hause oder in der Praxis. Unterstützt Smartphones, Tablets und Computer. Integriert sich in Praxisverwaltungssysteme und bietet Funktionen wie Patientenaufklärung und Formularmanagement. |
+|  2  | CGM                               | [AmbulApps](https://www.cgm.com/deu_de/produkte/praxissoftware/ambulapps.html) | Digitale Lösungen für Anamnese und Dokumentation in der Praxis. Ermöglicht PatientInnen, relevante Informationen über ein integriertes Patientenportal vorab zu übermitteln. |
+|  3  | MAIA.tools                        | [MAIA.tools](https://www.maia.tools)                              | Plattform für digitale Anamnese, Patientenaufklärung und Nachsorge. Unterstützt ePRO (electronic Patient-Reported Outcomes). Patienten können Anamnesebögen online ausfüllen. |
+|  4  | Simpleprax                        | [Simpleprax](https://www.simpleprax.de)                           | Unterstützt digitale Anamnese, Verwaltung und Aufklärungsdokumente. Daten werden in Echtzeit mit der Patientenakte synchronisiert. Kooperation mit Thieme und Meducoc. |
+|  5  | Dr. QEN                           | [Dr. QEN](https://www.drqen.com)                                  | Kontaktlose und papierlose Kommunikation mit Patienten. Digitale Anamnese und Dokumentenverwaltung per Smartphone oder QR-Code. Online-Terminbuchung möglich. |
+|  6  | Infoskop                          | [Infoskop](https://www.infoskop.de)                               | Digitale Anamnese von zu Hause oder vor Ort, digitaler Check-in und Dokumentenverwaltung. DSGVO-konformes Mailsystem und Videosprechstunde integriert. |
+|  7  | mediDOK eForms                    | [mediDOK eForms](https://www.medidok.de)                         | Digitales Ausfüllen von Formularen, Anamnese- und Aufklärungsbögen online ausfüllbar. Daten können direkt ins Praxisarchiv übernommen werden. Integration in PVS abhängig vom System. |
+|  8  | myMedax                           | [myMedax](https://www.mymedax.com)                               | Digitale Fragebogen-Software für Tablet und Browser. Erfassung von Anamnese, Befragung und Aufklärung. Eigener Fragebogeneditor für individuelle Formulare. |
+|  9  | AnaBoard                          | [AnaBoard](https://www.anaboard.com)                             | Plattform für digitale Anamnese und Patientenaufklärung. Gewinner digiPraxis KVWL 2020 in der Kategorie Online-Terminbuchung und Videosprechstunde. |
+| 10  | Nelly                             | [Nelly](https://www.nelly.de)                                    | Plattform für digitale Patientenkommunikation. Funktionen wie Terminvereinbarung, Erinnerungen, Aufklärung und digitale Anamnese durch Online-Formulare. |
+| 11  | Docyet                            | [Docyet](https://www.docyet.com)                                 | KI-gestützte digitale Anamnese mit medizinischer Ersteinschätzung. Automatische Triage und Vorschläge für mögliche Differentialdiagnosen. |
+| 12  | Bingli                            | [Bingli](https://www.bingli.com)                                 | KI-gestützte Patientenanamnese mit intelligenten medizinischen Fragebögen. Anamnese zu Hause oder per Spracheingabe möglich. Unterstützung mehrerer Sprachen und Telemedizin. |
 
-: Übersicht Softwarelösungen Anamnese & Dokumentation
+: Übersicht Softwarelösungen digitale Anamnese & Dokumentation
+
+| Nr. | Anbieter                            | Webseite                                                           | Beschreibung |
+|----:|:------------------------------------|:-------------------------------------------------------------------|:------------|
+| 13  | medudoc                            | [medudoc](https://www.medudoc.com)                                 | Bietet eine digitale Plattform für Patientenaufklärung mit personalisierten Videos. Patienten können sich vorab über geplante Eingriffe informieren. |
+| 14  | Dragon Medical One                  | [Dragon Medical One](https://www.nuance.com/healthcare/dragon-medical-one.html) | Eine cloudbasierte Spracherkennungssoftware für medizinische Dokumentation per Spracheingabe. Nutzt KI und Deep Learning, um sich an das Vokabular der Praxis anzupassen. |
+| 15  | voice4medicine (Dragon Medical)     | [voice4medicine](https://www.nuance.com/healthcare/dragon-medical.html) | Eine Spracherkennungslösung für den medizinischen Bereich, die auf Dragon Medical basiert und die Dokumentation durch Spracheingabe erleichtert. |
+| 16  | Eudaria                             | [Eudaria](https://www.eudaria.de)                                  | KI-basierte Software, die während der Sprechstunde automatisch dokumentiert. Nutzt die neuesten Entwicklungen im Bereich der großen Sprachmodelle (LLMs). |
+| 17  | Schicksma.online                    | [Schicksma.online](https://www.schicksma.online)                   | Mit der Software können Patientendaten wie Laborbefunde, Arztbriefe und Privatrechnungen verschlüsselt direkt online an Patienten gesendet werden. |
+| 18  | CGM one Doku-Assistent              | [CGM one Doku-Assistent](https://www.cgm.com)                      | Ein Dokumentationsassistent von CompuGroup Medical, der die medizinische Dokumentation erleichtert. |
+| 19  | HCQS                                | [HCQS](https://www.hcqs.de)                                        | SMASS/SmED ist eine webbasierte Software zur schnellen und sicheren Einschätzung von Alltagsbeschwerden und medizinischem Versorgungsbedarf. Unterstützt Gesprächsführung und Dokumentation. |
+| 20  | Thieme Compliance                   | [Thieme Compliance](https://www.thieme-compliance.de)              | Bietet Lösungen für Patientenaufklärung und -information, einschließlich digitaler Aufklärungsbögen, die bereits zuhause ausgefüllt werden können. |
+| 21  | Noa (Jameda GmbH)                   | [Noa](https://www.noa.ai/de)                                       | Nimmt das Arzt-Patienten-Gespräch auf, dokumentiert den Verlauf und erstellt am Ende einen Bericht. Integration in ePA und PVS. |
+| 22  | voize GmbH                          | [voize](https://www.voize.de)                                      | Pflegekräfte können die Dokumentation frei am Smartphone einsprechen. Die Software erstellt automatisch die passenden Pflegeberichte und überträgt diese ins Dokumentationssystem. |
+
+: Übersicht Softwarelösungen Dokumentation 
