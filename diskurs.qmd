@@ -417,3 +417,7 @@
 | INA Gematik Veranstaltungskalender | [ina.gematik.de/veranstaltungskalender](https://www.ina.gematik.de/veranstaltungskalender) |
 
 : Tabelle Veranstaltungsverzeichnisse {#tbl-eventdirectories}
+
+## Soziale Medien
+
+Eine chinesische Studie untersuchte, wie Ärzte den Kurznachrichtendienst WeChat (Social-Media-Plattform) nutzen um sich wissen anzueignen. Über 60 % der 292 befragten Ärzte suchen regelmäßig online nach Fachwissen, wobei ca. 20 % WeChat dafür nutzen, jedoch nur ca. 24% mit den Ergebnissen zufrieden sind. Täglichen nutzten mehr als 70 % der Ärzte mehr als 30 Minuten die Platform und fast 40 % der Teilnehmenden griffen mehr als 20 Mal pro Tag auf WeChat zu. Fast die Hälfte liest regelmäßig medizinische Artikel auf WeChat, vor allem über Freundeskreise (ca. 60 %) und öffentlichen Profilen (60 %), doch die Professionalität und Nützlichkeit der Inhalte werden als gering bewertet. Der bevorzugte Inhalt ist "Fachwissen von Kollegen" und die Nutzung der Erinnerungsfunktion, was auf den Wunsch nach vertrauenswürdiger, peer-basierter Information hinweist. [@https://doi.org/10.1155/2018/2329876]
