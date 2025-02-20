@@ -58,6 +58,7 @@ book:
       - psychotherapie.qmd
       - ambulantes-operieren.qmd
       - zahnarzt.qmd
+      - hno.qmd
       - impfsoftware.qmd
     - part: "Verwaltung"
       chapters:
