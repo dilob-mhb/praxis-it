@@ -73,12 +73,11 @@ Zahnärztliche Software muss spezielle Anforderungen erfüllen, die sich von den
 
 : Übersicht Zahnarztsoftware
 
-| Nr. | Software                            | URL                                                               | Beschreibung |
-|----:|:------------------------------------|:-------------------------------------------------------------------|:------------|
-| 23  | Athena                              | [Athena](https://www.athenahealth.com)                            | Eine Praxisverwaltungssoftware, die Terminplanung, Abrechnung und Patientenverwaltung umfasst. |
-| 24  | Sonia                               | [Sonia](https://www.sonia-health.de)                              | Mit Sonia werden Aufklärung, Beratung und Behandlung in Ihrer Zahnarztpraxis automatisch einheitlich und vollständig dokumentiert. |
-
-: Übersicht Zahnarztsoftware Dokumentation
-
-
 Quelle: [@KZBV_EDV_Statistik]
+
+| Software                            | URL                                                               | Beschreibung |
+|:------------------------------------|:-------------------------------------------------------------------|:------------|
+| Athena                              | [Athena](https://www.athenahealth.com)                            | Eine Praxisverwaltungssoftware, die Terminplanung, Abrechnung und Patientenverwaltung umfasst. |
+| Sonia                               | [Sonia](https://www.sonia-health.de)                              | Mit Sonia werden Aufklärung, Beratung und Behandlung in Ihrer Zahnarztpraxis automatisch einheitlich und vollständig dokumentiert. |
+
+: Übersicht zahnärztliche Dokumentationswerkzeuge
