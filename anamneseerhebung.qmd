@@ -1,6 +1,10 @@
 # Anamnese & Dokumentation
 
+::: {.content-visible when-format="html"}
+
 ![](https://badgen.net/badge/DiLoB%20geprüft/Ja/green?icon=github)
+
+:::
 
 Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Patientendaten, Anamnesen, Schulung und Dokumentation.
 
