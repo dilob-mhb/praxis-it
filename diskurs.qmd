@@ -186,7 +186,9 @@
 Die Telematik-Roadmap von Mark Langguth ist eine Übersicht zur Einführung der Telematikinfrastruktur (TI) im deutschen Gesundheitswesen. Sie zeigt den Zeitplan für Anwendungen wie eRezept, ePA oder TI-Messenger, basierend auf gesetzlichen Vorgaben wie dem Digital-Gesetz, sowie technische Entwicklungen wie den Übergang zu TI 2.0.
 
 ```{=html}
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7298626503007764480" height="611" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7298626503007764480" height="611" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
 ```
 
 #### Podcasts
