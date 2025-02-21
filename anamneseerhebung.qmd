@@ -1,5 +1,7 @@
 # Anamnese & Dokumentation
 
+![](https://badgen.net/badge/DiLoB%20geprüft/Ja/green?icon=github)
+
 Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Patientendaten, Anamnesen, Schulung und Dokumentation.
 
 - **Patientenaufnahme und Anamnese**: Patienten können mit Tools wie Idana und Simpleprax ihre Anamnesebögen vorab digital ausfüllen, wobei Simpleprax auch die digitale Unterschrift und Verwaltung administrativer Dokumente ermöglicht.
