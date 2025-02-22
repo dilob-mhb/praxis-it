@@ -14,10 +14,10 @@ book:
     language: de
   google-analytics: 
     tracking-id: "G-THQ4G1SE9W"
-  # body-header: | 
-  #   ---
-  #   draft: true
-  #   ---
+  body-header: | 
+    ---
+    draft: true
+    ---
   margin-footer: |
     Projektpartner
 
@@ -84,7 +84,6 @@ format:
     theme: 
       light: flatly
       dark: darkly
-    draft: true
     include-in-header: gtm_code_head.html
     include-before-body: gtm_code_body.html
     lang: de
