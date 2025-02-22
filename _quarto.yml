@@ -85,7 +85,6 @@ format:
       light: flatly
       dark: darkly
     draft: true
-    draft-mode: visible
     include-in-header: gtm_code_head.html
     include-before-body: gtm_code_body.html
     lang: de

@@ -1,7 +1,3 @@
----
-draft: false
----
-
 # Anamnese & Dokumentation
 
 ::: {.content-visible when-format="html"}
