@@ -28,3 +28,7 @@ Die DMKG-App ist ein elektronischer Kopfschmerzkalender der Deutschen Migräne- 
 ## Öffentlicher Datensatz Floodlight App
 
 Der „Floodlight MS Dataset“ auf Kaggle, bereitgestellt von Kevin Mader, umfasst Smartphone-Daten zur Erforschung des täglichen Krankheitsverlaufs bei Multipler Sklerose (MS). Er enthält Messungen aus der Floodlight® MS-App, die kognitive, motorische und funktionelle Fähigkeiten von MS-Patienten über Sensoren wie Beschleunigungsmesser und Touchscreen-Interaktionen erfasst. Ziel ist es, Einblicke in die Lebensqualität und Krankheitsdynamik zu gewinnen, indem Daten wie Reaktionszeiten, Gehgeschwindigkeit und Handkoordination analysiert werden. Der Datensatz ist öffentlich zugänglich und eignet sich für maschinelles Lernen, um Muster und Veränderungen bei MS zu untersuchen. Weitere Details zur Datenerhebung und Nutzung finden sich auf der Kaggle-Seite unter [kaggle.com/datasets/kmader/floodlight-ms-dataset](https://www.kaggle.com/datasets/kmader/floodlight-ms-dataset).
+
+## Online Ressourcen
+
+[eisai-epitrack.com](https://eisai-epitrack.com/) ist eine Plattform von Eisai, einem globalen Pharmaunternehmen, die EpiTrack® vorstellt, ein klinisches Werkzeug zur Beurteilung von Aufmerksamkeit und exekutiven Funktionen bei Patienten mit Epilepsie. EpiTrack dient Ärzten, Pflegekräften, Psychologen und anderen Gesundheitsfachkräften als Screening-Instrument, um kognitive Nebenwirkungen von Antiepileptika sowie Auswirkungen von Anfällen zu verfolgen.
