@@ -69,3 +69,5 @@ Siehe dazu:
 | 23 | Medityme                      | Medityme GmbH                       | [Medityme](https://www.medityme.com/de/home)                         |
 
 : Übersicht Softwarelösungen Videosprechstunde
+
+[zweitmeinung-arzt.online](https://www.zweitmeinung-arzt.online/) bietet eine Plattform, um eine ärztliche Zweitmeinung online über eine Videosprechstunde einzuholen. Nutzer können Termine mit Fachärzten buchen, ihre medizinischen Unterlagen hochladen und eine Einschätzung erhalten, ohne lange Wartezeiten oder Anfahrtswege. Die Plattform, betrieben von der MedRefer GmbH im Auftrag der Konsilado GmbH, richtet sich an Selbstzahler und verspricht Flexibilität, Unabhängigkeit und Vertraulichkeit, wobei die Abrechnung nach der Gebührenordnung für Ärzte (GOÄ) erfolgt.
