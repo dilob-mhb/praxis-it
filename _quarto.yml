@@ -89,5 +89,8 @@ format:
     include-before-body: gtm_code_body.html
     lang: de
     number-sections: false
+    comments:
+      giscus: 
+        repo: bsenst/praxis-it
   pdf:
     documentclass: scrreprt
