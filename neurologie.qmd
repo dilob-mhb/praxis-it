@@ -1,3 +1,30 @@
 # Neurologie & Psychiatrie
 
+## Teleneuropsychologie
+
 Teleneuropsychologie, die Fernanwendung neuropsychologischer Tests über Telefon oder Videokonferenz, erweitert den Zugang zu Gesundheitsdiensten für Patienten in abgelegenen Gebieten oder mit Mobilitätseinschränkungen. Die Übersichtsarbeit von „Remote Neuropsychological Assessment: Teleneuropsychology“ von Elif Yıldırım et al. untersucht die Ergebnisse von Studien zur Teleneuropsychologie und deren Grundprinzipien, einschließlich einer speziell für die Türkei entwickelten Leitlinie für teleneuropsychologische Assessments zu Hause. Studien zeigen, dass Tests zu Aufmerksamkeit, Gedächtnis, exekutiven Funktionen und Sprache, insbesondere verbal durchgeführte, zuverlässig remote angewendet werden können, wobei Faktoren wie Patientenauswahl, Testwahl und ethische Aspekte berücksichtigt werden müssen. Obwohl direkter Patientenkontakt in der klinischen Neuropsychologie essenziell bleibt, bietet die Teleneuropsychologie, wenn sie von geschulten Experten korrekt angewendet wird, eine gute Alternative zu persönlichen Evaluationsmethoden. [@yildirim2024remote]
+
+Der Artikel „Applications of Teleneuropsychology to the Screening and Monitoring of Epilepsy“ von Chris Tailby et al. untersucht drei Ansätze für Fernbewertungen – unbeaufsichtigte, computerbasierte Tests, telefonische Assessments und videokonferenzbasierte Tests – und zeigt, dass diese Methoden trotz langsamer Adaption in der Epilepsie-Neuropsychologie vielversprechend sind. Unbeaufsichtigte, computeradministrative Tests (z. B. via Browser oder Apps) sind in der Altersforschung etabliert und zeigen Zuverlässigkeit bei Geschwindigkeit und Arbeitsgedächtnis, wurden jedoch in Epilepsie-Studien kaum untersucht, mit begrenzter Sensitivität für epilepsiespezifische Defizite. Telefonische Assessments sind bei älteren Kohorten weit verbreitet und technisch zugänglich, decken aber nicht alle kognitiven Domänen ab, während videokonferenzbasierte Tests diese Lücke teilweise schließen, jedoch oft traditionelle Materialien nutzen statt die Technologie voll auszuschöpfen. Die Autoren plädieren für die Entwicklung integrierter, videokonferenzbasierter, computerunterstützter Testverfahren, die Vorteile menschlicher und computergestützter Ansätze kombinieren, um eine breite Anwendbarkeit über neuropsychologische Erkrankungen hinweg zu ermöglichen, von Kindheit bis ins hohe Alter. [@tailby2024applications]
+
+## Digitales Kopfschmerztagebuch
+
+Die DMKG-App ist ein elektronischer Kopfschmerzkalender der Deutschen Migräne- und Kopfschmerzgesellschaft e.V. Nutzende können sich an Einträge erinnern lassen und eine übersichtliche Zusammenfassung in der App ansehen oder herunterladen. Sie unterstützt zudem die Kopfschmerzforschung in Deutschland als Teil des „Kopfschmerzregister“-Projekts, indem pseudonymisierte Daten für wissenschaftliche Auswertungen genutzt werden, um die Kopfschmerzversorgung langfristig zu verbessern. Die App ist kostenlos, werbefrei und sowohl für Android als auch iOS verfügbar. Weitere Infos gibt es unter [www.kopfschmerzregister.de](https://www.kopfschmerzregister.de).
+
+## Weitere digitale Anwendungen
+
+| Name                    | URL                             |
+|-------------------------|---------------------------------|
+| Floodlight MS           | [Roche Pressemitteilung](https://www.roche.de/presse/news/software-von-roche-foerdert-individuelles-therapiemanagement-bei-multipler-sklerose)           |
+| Emendia MS              | [neurosys.de/emendia](https://neurosys.de/emendia/)           |
+| Brisa                   | [Brisa App Google Play Store](https://play.google.com/store/apps/details?id=com.temedica.ms_companion)           |
+| Neolexon                | [neolexon.de](https://www.neolexon.de)                 |
+| NeuroNation MED         | [neuronation-med.de](https://neuronation-med.de/)          |
+| MoveApp                 | [deutsche-parkinson-hilfe.de/foerderprojekte/moveapp](https://www.deutsche-parkinson-hilfe.de/foerderprojekte/moveapp/)                 |
+| MS Kognition            | [dmsg.de/ms-kognition](https://www.dmsg.de/ms-kognition/)                 |
+| HeadApp                 | [headapp.com/de](https://www.headapp.com/de/startseite/)                 |
+
+: Übersicht digitale Anwendungen Neurologie
+
+## Öffentlicher Datensatz Floodlight App
+
+Der „Floodlight MS Dataset“ auf Kaggle, bereitgestellt von Kevin Mader, umfasst Smartphone-Daten zur Erforschung des täglichen Krankheitsverlaufs bei Multipler Sklerose (MS). Er enthält Messungen aus der Floodlight® MS-App, die kognitive, motorische und funktionelle Fähigkeiten von MS-Patienten über Sensoren wie Beschleunigungsmesser und Touchscreen-Interaktionen erfasst. Ziel ist es, Einblicke in die Lebensqualität und Krankheitsdynamik zu gewinnen, indem Daten wie Reaktionszeiten, Gehgeschwindigkeit und Handkoordination analysiert werden. Der Datensatz ist öffentlich zugänglich und eignet sich für maschinelles Lernen, um Muster und Veränderungen bei MS zu untersuchen. Weitere Details zur Datenerhebung und Nutzung finden sich auf der Kaggle-Seite unter [kaggle.com/datasets/kmader/floodlight-ms-dataset](https://www.kaggle.com/datasets/kmader/floodlight-ms-dataset).
