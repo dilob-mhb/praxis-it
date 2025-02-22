@@ -129,3 +129,5 @@ Im Jahr 2009 führte die US-Regierung eine Gesetzgebung ein, die Gesundheitsdien
 |-------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [ifap.de/therafox-pro](https://www.ifap.de/deu_de/lp/therafox-pro-fuer-aerzte.html) | THERAFOX PRO: Webbasierter AMTS-Check für Ärzte zur Prüfung von Medikationsrisiken wie Wechselwirkungen. |
 | [mmi.de/amts-service](https://www.mmi.de/mmi-pharmindex/mmi-amts-service)           | MMI AMTS-Service: Tool zur Analyse von Arzneimittelrisiken für Fachpersonal und Patientenberatung.       |
+
+: Übersicht AMTS Systeme
