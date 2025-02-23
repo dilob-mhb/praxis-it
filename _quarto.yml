@@ -92,5 +92,9 @@ format:
     comments:
       giscus: 
         repo: bsenst/praxis-it
+      hypothesis:
+        theme: classic
+        openSidebar: false
+        showHighlights: whenSidebarOpen
   pdf:
     documentclass: scrreprt
