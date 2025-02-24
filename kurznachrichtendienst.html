@@ -119,6 +119,19 @@ cookieconsent.run({
 });
 </script> 
   
+<script type="application/json" class="js-hypothesis-config">
+{
+  "theme": "classic",
+  "openSidebar": false,
+  "showHighlights": "whenSidebarOpen"
+}
+</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
 <!-- <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -309,6 +322,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./neurologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
   </div>
 </li>
@@ -425,6 +443,7 @@ cookieconsent.run({
   <li><a href="#replay--reflection--und-reordering-angriffe" id="toc-replay--reflection--und-reordering-angriffe" class="nav-link" data-scroll-target="#replay--reflection--und-reordering-angriffe">Replay-, Reflection- und Reordering-Angriffe</a></li>
   <li><a href="#end-to-end-verschlüsselung-e2ee" id="toc-end-to-end-verschlüsselung-e2ee" class="nav-link" data-scroll-target="#end-to-end-verschlüsselung-e2ee">End-to-End-Verschlüsselung (E2EE)</a></li>
   </ul></li>
+  <li><a href="#datenaustausch" id="toc-datenaustausch" class="nav-link" data-scroll-target="#datenaustausch">Datenaustausch</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/kurznachrichtendienst.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -604,6 +623,11 @@ Tabelle&nbsp;9.1: Kurznachrichtendienste Anbieter
 <h3 class="anchored" data-anchor-id="end-to-end-verschlüsselung-e2ee">End-to-End-Verschlüsselung (E2EE)</h3>
 <p>End-to-End-Verschlüsselung (E2EE) bezeichnet eine Methode der Datensicherheit, bei der Daten, die zwischen zwei Parteien ausgetauscht werden, nur von diesen beiden Parteien entschlüsselt und gelesen werden können.</p>
 <p>E2EE erfordert, dass die Schlüssel zwischen den Kommunikationspartnern sicher ausgetauscht oder generiert werden. Dies kann durch Protokolle wie Diffie-Hellman-Schlüsselaustausch oder durch die Verwendung von Public-Key-Kryptographie geschehen.</p>
+</section>
+</section>
+<section id="datenaustausch" class="level2">
+<h2 class="anchored" data-anchor-id="datenaustausch">Datenaustausch</h2>
+<p><a href="https://www.anonetics.de/">Anonetics</a> ist ein Hamburger Startup, das sich auf sichere digitale Dokumentenübertragung im Gesundheitswesen spezialisiert hat. Mit der Lösung anolink können Nutzer Dokumente schnell und DSGVO-konform über eine Blockchain- und Cloud-basierte Plattform versenden. Das Unternehmen zielt darauf ab, Systeme wie Faxgeräte zu ersetzen und Arbeitsabläufe in Kliniken, Apotheken und Praxen zu optimieren. Serverstandort ist Deutschland, und sensible Daten werden nur temporär gespeichert.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
@@ -641,7 +665,6 @@ Yakushi, Jose, Mose Wintner, Naomi Yau, Lina Borgo, und Edwin Solorzano. 2020. <
 Zhou, Yi Yvonne, Terhilda Garrido, Homer L Chin, Andrew M Wiesenthal, und Louise L Liang. 2007. <span>„Patient access to an electronic health record with secure messaging: impact on primary care utilization“</span>. <em>Am J Manag Care</em> 13 (7): 418–24.
 </div>
 </div>
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -1206,6 +1229,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<script src="https://giscus.app/client.js" data-repo="dilob-mhb/praxis-it" data-repo-id="R_kgDONyeBYw" data-category="General" data-category-id="DIC_kwDONyeBY84CnOKJ" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
+</script>
+<input type="hidden" id="giscus-base-theme" value="light">
+<input type="hidden" id="giscus-alt-theme" value="dark">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./kimdienst.html" class="pagination-link" aria-label="Telematikinfrastruktur">

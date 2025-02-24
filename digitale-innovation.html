@@ -119,6 +119,19 @@ cookieconsent.run({
 });
 </script> 
   
+<script type="application/json" class="js-hypothesis-config">
+{
+  "theme": "classic",
+  "openSidebar": false,
+  "showHighlights": "whenSidebarOpen"
+}
+</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
 <!-- <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -309,6 +322,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./neurologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
   </div>
 </li>
@@ -422,6 +440,7 @@ cookieconsent.run({
   <li><a href="#plattformen" id="toc-plattformen" class="nav-link" data-scroll-target="#plattformen">Plattformen</a></li>
   <li><a href="#offener-quelltext" id="toc-offener-quelltext" class="nav-link" data-scroll-target="#offener-quelltext">Offener Quelltext</a></li>
   <li><a href="#geschäftsmodelle" id="toc-geschäftsmodelle" class="nav-link" data-scroll-target="#geschäftsmodelle">Geschäftsmodelle</a></li>
+  <li><a href="#digitale-anwendungen" id="toc-digitale-anwendungen" class="nav-link" data-scroll-target="#digitale-anwendungen">Digitale Anwendungen</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/digitale-innovation.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -591,6 +610,9 @@ cookieconsent.run({
 <p>Die <a href="https://www.openhealthcarealliance.com/netzwerk">Open Healthcare Alliance (OHA)</a> ist ein Netzwerk, das sich darauf konzentriert, die digitale Gesundheitsversorgung voranzutreiben. Es fördert die Zusammenarbeit und den Austausch zwischen verschiedenen Akteuren im Gesundheitssektor, um innovative, interoperable Lösungen zu entwickeln und zu implementieren.</p>
 <p><a href="https://www.solutionfinder.health/">Solutionfinder.health</a> ist eine Plattform, die Health IT Lösungen für Gesundheitsdienstleister zusammenführt. Sie bietet eine zentrale Anlaufstelle, um digitale Tools und Services zu entdecken, die für spezifische Bedürfnisse im Gesundheitswesen geeignet sind, und somit die Auswahl und Implementierung dieser Lösungen erleichtert.</p>
 <p><a href="https://unitedwebsolutions.de/">United Web Solutions</a> ist ein Verband, der sich darauf spezialisiert hat, die Digitalisierung im Gesundheitswesen durch maßgeschneiderte IT-Lösungen voranzutreiben. Er bietet Krankenhäusern und MVZ die Möglichkeit, durch die Kombination verschiedener Expertenlösungen ihre Arbeitsprozesse zu optimieren und effizienter zu gestalten.</p>
+<p>[healthon.de](https://healthon.de/ ist eine Informations- und Qualitätsplattform für Gesundheits-Apps in Deutschland, die Verbraucher und Fachöffentlichkeit über Trends und Entwicklungen in der digitalen Gesundheit informiert. Sie bewertet Gesundheits-Apps, Medizin-Apps und Digitale Gesundheitsanwendungen (DiGA) anhand eines Ehrenkodex, bietet Testberichte, Marktanalysen und Statistiken wie das DiGA-Dashboard, um Transparenz zu schaffen.</p>
+<p>Das <a href="https://www.kvappradar.de/">KV-Appradar</a> ist ein Informationsportal des Zentralinstituts für die kassenärztliche Versorgung (Zi), das seit 2021 Fachinformationen zu über 3.400 Gesundheits-Apps und Digitalen Gesundheitsanwendungen (DiGA) bietet, um Ärzt:innen, Psychotherapeut:innen und Patient:innen bei der Orientierung im App-Markt zu unterstützen. Sie kategorisiert Apps in etwa 60 Themenbereiche, liefert Bewertungen, Downloadzahlen und unterscheidet sich von App-Stores durch medizinische Relevanz und Diagnoseinformationen.</p>
+<p><a href="https://mindapps.org/">Mindapps</a> beinhaltet die Mobile Health Index and Navigation Database (MIND), eine interaktive Plattform, die dabei hilft, Apps für mentale Gesundheit und Gehirnfunktionen zu finden, die individuellen Bedürfnissen und Vorlieben entsprechen. Nutzer können Apps nach Kriterien wie Datenschutz, Kosten (inklusive kostenloser Optionen), wissenschaftlicher Evidenz und Nutzerfreundlichkeit durchsuchen, um die passende Anwendung für sich zu identifizieren. Die Datenbank richtet sich an alle, die mentale Gesundheits-Apps suchen, und bietet eine Vielzahl von Kategorien wie Apps gegen Depressionen, Angstzustände oder Stress. Sie wird als gemeinnütziges Projekt ohne Werbung präsentiert und zielt darauf ab, personalisierte Lösungen für psychisches Wohlbefinden zu fördern.</p>
 </section>
 <section id="offener-quelltext" class="level2">
 <h2 class="anchored" data-anchor-id="offener-quelltext">Offener Quelltext</h2>
@@ -599,6 +621,10 @@ cookieconsent.run({
 <section id="geschäftsmodelle" class="level2">
 <h2 class="anchored" data-anchor-id="geschäftsmodelle">Geschäftsmodelle</h2>
 <p>Softwarehersteller im Bereich der ambulanten Medizin nutzen unterschiedliche Geschäftsmodelle. Sie unterscheiden sich in Kostenstrukturen und Innovationskraft. Es gibt Anbieter mit Lizenzmodell, bei dem Ärzte Anschaffungskosten zahlen, gefolgt von jährlichen Gebühren. Andere bieten Abonnements (SaaS), bei denen monatliche Gebühren für Cloud-basierte Lösungen anfallen – flexibel, aber mit fortlaufenden Kosten und Notwendigkeit eines von Internetzugang; die Innovationskraft ist hoch, da regelmäßige Updates den Wettbewerb antreiben. Wieder andere verkaufen Software als einmaligen Kauf mit optionalen Supportverträgen. Das Genossenschaftsmodell der <a href="https://www.duria.de/">Duria eG</a> hebt sich davon ab: ÄrztInnen zahlen einmalig einen Genossenschaftsanteil und einen jährlichen Beitrag.</p>
+</section>
+<section id="digitale-anwendungen" class="level2">
+<h2 class="anchored" data-anchor-id="digitale-anwendungen">Digitale Anwendungen</h2>
+<p>Gesundheits-Apps bilden die Mehrheit der verfügbaren Anwendungen und umfassen ungeschützte Begriffe wie Lifestyle-Apps (z. B. Fitness-Tracker) oder serviceorientierte Apps, die keine medizinischen Zwecke verfolgen, sondern Informationen und Organisation unterstützen. Digitale Medizinprodukte hingegen sind CE-gekennzeichnete Anwendungen, die nach EU-Medizinprodukteverordnung (MDR) registriert sind und gezielt Krankheiten erkennen, behandeln oder Patienten zu einem gesundheitsförderlichen Leben begleiten. DiGA (Digitale Gesundheitsanwendungen) sind eine spezielle Unterkategorie digitaler Medizinprodukte, die zusätzlich vom BfArM auf Sicherheit, Qualität und Wirksamkeit geprüft werden, einen positiven Gesundheitsnutzen nachweisen müssen und als „Apps auf Rezept“ erstattungsfähig sind, wenn sie ärztlich verschrieben oder direkt über die Krankenkasse bei Diagnose beantragt werden.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
@@ -1170,6 +1196,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<script src="https://giscus.app/client.js" data-repo="dilob-mhb/praxis-it" data-repo-id="R_kgDONyeBYw" data-category="General" data-category-id="DIC_kwDONyeBY84CnOKJ" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
+</script>
+<input type="hidden" id="giscus-base-theme" value="light">
+<input type="hidden" id="giscus-alt-theme" value="dark">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./diskurs.html" class="pagination-link" aria-label="Diskurs">

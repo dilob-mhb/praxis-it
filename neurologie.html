@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Rehabilitation – Praxis-IT</title>
+<title>Neurologie &amp; Psychiatrie – Praxis-IT</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./psychotherapie.html" rel="next">
-<link href="./rheumatologie.html" rel="prev">
+<link href="./ambulantes-operieren.html" rel="next">
+<link href="./psychotherapie.html" rel="prev">
 <script src="site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -139,7 +159,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./rehabilitation.html"><span class="chapter-title">Rehabilitation</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./neurologie.html"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Suchen" onclick="window.quartoOpenSearch();">
@@ -292,7 +312,7 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./rehabilitation.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Rehabilitation</span></a>
+  <a href="./rehabilitation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Rehabilitation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -302,7 +322,7 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./neurologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a>
+  <a href="./neurologie.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -413,10 +433,13 @@ cookieconsent.run({
     <h2 id="toc-title">Inhaltsverzeichnis</h2>
    
   <ul>
-  <li><a href="#hilfsmittel" id="toc-hilfsmittel" class="nav-link active" data-scroll-target="#hilfsmittel">Hilfsmittel</a></li>
-  <li><a href="#heilmittel" id="toc-heilmittel" class="nav-link" data-scroll-target="#heilmittel">Heilmittel</a></li>
+  <li><a href="#teleneuropsychologie" id="toc-teleneuropsychologie" class="nav-link active" data-scroll-target="#teleneuropsychologie">Teleneuropsychologie</a></li>
+  <li><a href="#digitales-kopfschmerztagebuch" id="toc-digitales-kopfschmerztagebuch" class="nav-link" data-scroll-target="#digitales-kopfschmerztagebuch">Digitales Kopfschmerztagebuch</a></li>
+  <li><a href="#weitere-digitale-anwendungen" id="toc-weitere-digitale-anwendungen" class="nav-link" data-scroll-target="#weitere-digitale-anwendungen">Weitere digitale Anwendungen</a></li>
+  <li><a href="#öffentlicher-datensatz-floodlight-app" id="toc-öffentlicher-datensatz-floodlight-app" class="nav-link" data-scroll-target="#öffentlicher-datensatz-floodlight-app">Öffentlicher Datensatz Floodlight App</a></li>
+  <li><a href="#online-ressourcen" id="toc-online-ressourcen" class="nav-link" data-scroll-target="#online-ressourcen">Online Ressourcen</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/rehabilitation.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/neurologie.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
 <p>Projektpartner</p>
 <p><a href="https://www.dilob-mhb.de/"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/DiLoB-Logo-Transparent.png" class="img-fluid" width="100"></a></p>
@@ -435,9 +458,9 @@ cookieconsent.run({
   gtag('config', 'G-W0VVGPQSBH');
 </script>
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./rehabilitation.html"><span class="chapter-title">Rehabilitation</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./neurologie.html"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Rehabilitation</span></h1>
+<h1 class="title"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></h1>
 </div>
 
 
@@ -454,102 +477,78 @@ cookieconsent.run({
 </header>
 
 
-<p>Der <a href="https://www.bdpk.de/themen/rehabilitation-pflege/telematikinfrastruktur-fuer-reha-und-vorsorgeeinrichtungen">Bundesverband Deutscher Privatkliniken (BDPK)</a> informiert auf seiner Webseite über die Anbindung von Reha- und Vorsorgeeinrichtungen an die Telematikinfrastruktur (TI), die durch das Patientendaten-Schutz-Gesetz (PDSG) seit dem 1. Januar 2021 ermöglicht wurde. Die TI bringt Vorteile wie Notfalldatenmanagement, elektronische Medikationspläne und Patientenakten sowie eine sichere Kommunikationsplattform (KIM). Die Kosten für die notwendigen Komponenten wie Konnektoren, Institutionskarten und eHealth-Kartenterminals werden seit dem 1. Januar 2022 durch einen Zuschlag gedeckt, der auf Antrag ausgezahlt wird.</p>
+<section id="teleneuropsychologie" class="level2">
+<h2 class="anchored" data-anchor-id="teleneuropsychologie">Teleneuropsychologie</h2>
+<p>Teleneuropsychologie, die Fernanwendung neuropsychologischer Tests über Telefon oder Videokonferenz, erweitert den Zugang zu Gesundheitsdiensten für Patienten in abgelegenen Gebieten oder mit Mobilitätseinschränkungen. Die Übersichtsarbeit von „Remote Neuropsychological Assessment: Teleneuropsychology“ von Elif Yıldırım et al.&nbsp;untersucht die Ergebnisse von Studien zur Teleneuropsychologie und deren Grundprinzipien, einschließlich einer speziell für die Türkei entwickelten Leitlinie für teleneuropsychologische Assessments zu Hause. Studien zeigen, dass Tests zu Aufmerksamkeit, Gedächtnis, exekutiven Funktionen und Sprache, insbesondere verbal durchgeführte, zuverlässig remote angewendet werden können, wobei Faktoren wie Patientenauswahl, Testwahl und ethische Aspekte berücksichtigt werden müssen. Obwohl direkter Patientenkontakt in der klinischen Neuropsychologie essenziell bleibt, bietet die Teleneuropsychologie, wenn sie von geschulten Experten korrekt angewendet wird, eine gute Alternative zu persönlichen Evaluationsmethoden. <span class="citation" data-cites="yildirim2024remote">(<a href="referenzen.html#ref-yildirim2024remote" role="doc-biblioref">Yıldırım u.&nbsp;a. 2024</a>)</span></p>
+<p>Der Artikel „Applications of Teleneuropsychology to the Screening and Monitoring of Epilepsy“ von Chris Tailby et al.&nbsp;untersucht drei Ansätze für Fernbewertungen – unbeaufsichtigte, computerbasierte Tests, telefonische Assessments und videokonferenzbasierte Tests – und zeigt, dass diese Methoden trotz langsamer Adaption in der Epilepsie-Neuropsychologie vielversprechend sind. Unbeaufsichtigte, computeradministrative Tests (z. B. via Browser oder Apps) sind in der Altersforschung etabliert und zeigen Zuverlässigkeit bei Geschwindigkeit und Arbeitsgedächtnis, wurden jedoch in Epilepsie-Studien kaum untersucht, mit begrenzter Sensitivität für epilepsiespezifische Defizite. Telefonische Assessments sind bei älteren Kohorten weit verbreitet und technisch zugänglich, decken aber nicht alle kognitiven Domänen ab, während videokonferenzbasierte Tests diese Lücke teilweise schließen, jedoch oft traditionelle Materialien nutzen statt die Technologie voll auszuschöpfen. Die Autoren plädieren für die Entwicklung integrierter, videokonferenzbasierter, computerunterstützter Testverfahren, die Vorteile menschlicher und computergestützter Ansätze kombinieren, um eine breite Anwendbarkeit über neuropsychologische Erkrankungen hinweg zu ermöglichen, von Kindheit bis ins hohe Alter. <span class="citation" data-cites="tailby2024applications">(<a href="referenzen.html#ref-tailby2024applications" role="doc-biblioref">Tailby u.&nbsp;a. 2024</a>)</span></p>
+</section>
+<section id="digitales-kopfschmerztagebuch" class="level2">
+<h2 class="anchored" data-anchor-id="digitales-kopfschmerztagebuch">Digitales Kopfschmerztagebuch</h2>
+<p>Die DMKG-App ist ein elektronischer Kopfschmerzkalender der Deutschen Migräne- und Kopfschmerzgesellschaft e.V. Nutzende können sich an Einträge erinnern lassen und eine übersichtliche Zusammenfassung in der App ansehen oder herunterladen. Sie unterstützt zudem die Kopfschmerzforschung in Deutschland als Teil des „Kopfschmerzregister“-Projekts, indem pseudonymisierte Daten für wissenschaftliche Auswertungen genutzt werden, um die Kopfschmerzversorgung langfristig zu verbessern. Die App ist kostenlos, werbefrei und sowohl für Android als auch iOS verfügbar. Weitere Infos gibt es unter <a href="https://www.kopfschmerzregister.de">www.kopfschmerzregister.de</a>.</p>
+</section>
+<section id="weitere-digitale-anwendungen" class="level2">
+<h2 class="anchored" data-anchor-id="weitere-digitale-anwendungen">Weitere digitale Anwendungen</h2>
 <table class="caption-top table">
+<caption>Übersicht digitale Anwendungen Neurologie</caption>
 <thead>
 <tr class="header">
-<th>Produkt</th>
-<th>Company</th>
+<th>Name</th>
 <th>URL</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>VivoInform</td>
-<td>bee-i GmbH</td>
-<td><a href="https://vivoinform.de/">vivoinform.de</a></td>
-</tr>
-</tbody>
-</table>
-<section id="hilfsmittel" class="level2">
-<h2 class="anchored" data-anchor-id="hilfsmittel">Hilfsmittel</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Produkt</th>
-<th>Company</th>
-<th>URL</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Digitale Anwendungen</td>
-<td>medi GmbH &amp; Co.&nbsp;KG</td>
-<td><a href="https://www.medi.de/digitale-anwendungen/">medi.de</a></td>
+<td>Floodlight MS</td>
+<td><a href="https://www.roche.de/presse/news/software-von-roche-foerdert-individuelles-therapiemanagement-bei-multipler-sklerose">Roche Pressemitteilung</a></td>
 </tr>
 <tr class="even">
-<td>Hilfsmittel-App</td>
-<td>Hilfsmittel-App</td>
-<td><a href="https://hilfsmittel-app.de/">hilfsmittel-app.de</a></td>
+<td>Emendia MS</td>
+<td><a href="https://neurosys.de/emendia/">neurosys.de/emendia</a></td>
 </tr>
 <tr class="odd">
-<td>Rehadat</td>
-<td>Rehadat</td>
-<td><a href="https://www.rehadat.de/">rehadat.de</a></td>
+<td>Brisa</td>
+<td><a href="https://play.google.com/store/apps/details?id=com.temedica.ms_companion">Brisa App Google Play Store</a></td>
 </tr>
 <tr class="even">
-<td>Optica Omnia</td>
-<td>Optica GmbH</td>
-<td><a href="https://www.optica.de/software/optica-omnia">optica.de</a></td>
+<td>Neolexon</td>
+<td><a href="https://www.neolexon.de">neolexon.de</a></td>
 </tr>
 <tr class="odd">
-<td>PraxWin</td>
-<td>PraxWin GmbH</td>
-<td><a href="https://praxwin.de/">praxwin.de</a></td>
+<td>NeuroNation MED</td>
+<td><a href="https://neuronation-med.de/">neuronation-med.de</a></td>
+</tr>
+<tr class="even">
+<td>MoveApp</td>
+<td><a href="https://www.deutsche-parkinson-hilfe.de/foerderprojekte/moveapp/">deutsche-parkinson-hilfe.de/foerderprojekte/moveapp</a></td>
+</tr>
+<tr class="odd">
+<td>MS Kognition</td>
+<td><a href="https://www.dmsg.de/ms-kognition/">dmsg.de/ms-kognition</a></td>
+</tr>
+<tr class="even">
+<td>HeadApp</td>
+<td><a href="https://www.headapp.com/de/startseite/">headapp.com/de</a></td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="heilmittel" class="level2">
-<h2 class="anchored" data-anchor-id="heilmittel">Heilmittel</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Produkt</th>
-<th>Company</th>
-<th>URL</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Thera-Pi</td>
-<td>Thera-Pi</td>
-<td><a href="https://www.thera-pi-software.de/">thera-pi-software.de</a></td>
-</tr>
-<tr class="even">
-<td>Buchner</td>
-<td>Buchner GmbH</td>
-<td><a href="https://www.buchner.de/">buchner.de</a></td>
-</tr>
-<tr class="odd">
-<td>Thevea</td>
-<td>Thevea</td>
-<td><a href="https://thevea.de/">thevea.de</a></td>
-</tr>
-<tr class="even">
-<td>Henara</td>
-<td>Henara GmbH</td>
-<td><a href="https://henara.de/">henara.de</a></td>
-</tr>
-<tr class="odd">
-<td>Synaptos</td>
-<td>Synaptos</td>
-<td><a href="https://synaptos.de/">synaptos.de</a></td>
-</tr>
-</tbody>
-</table>
+<section id="öffentlicher-datensatz-floodlight-app" class="level2">
+<h2 class="anchored" data-anchor-id="öffentlicher-datensatz-floodlight-app">Öffentlicher Datensatz Floodlight App</h2>
+<p>Der „Floodlight MS Dataset“ auf Kaggle, bereitgestellt von Kevin Mader, umfasst Smartphone-Daten zur Erforschung des täglichen Krankheitsverlaufs bei Multipler Sklerose (MS). Er enthält Messungen aus der Floodlight® MS-App, die kognitive, motorische und funktionelle Fähigkeiten von MS-Patienten über Sensoren wie Beschleunigungsmesser und Touchscreen-Interaktionen erfasst. Ziel ist es, Einblicke in die Lebensqualität und Krankheitsdynamik zu gewinnen, indem Daten wie Reaktionszeiten, Gehgeschwindigkeit und Handkoordination analysiert werden. Der Datensatz ist öffentlich zugänglich und eignet sich für maschinelles Lernen, um Muster und Veränderungen bei MS zu untersuchen. Weitere Details zur Datenerhebung und Nutzung finden sich auf der Kaggle-Seite unter <a href="https://www.kaggle.com/datasets/kmader/floodlight-ms-dataset">kaggle.com/datasets/kmader/floodlight-ms-dataset</a>.</p>
+</section>
+<section id="online-ressourcen" class="level2">
+<h2 class="anchored" data-anchor-id="online-ressourcen">Online Ressourcen</h2>
+<p><a href="https://eisai-epitrack.com/">eisai-epitrack.com</a> ist eine Plattform von Eisai, einem globalen Pharmaunternehmen, die EpiTrack® vorstellt, ein klinisches Werkzeug zur Beurteilung von Aufmerksamkeit und exekutiven Funktionen bei Patienten mit Epilepsie. EpiTrack dient Ärzten, Pflegekräften, Psychologen und anderen Gesundheitsfachkräften als Screening-Instrument, um kognitive Nebenwirkungen von Antiepileptika sowie Auswirkungen von Anfällen zu verfolgen.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-tailby2024applications" class="csl-entry" role="listitem">
+Tailby, Chris, Jodie E Chapman, Remy Pugh, A Holth Skogan, Christoph Helmstaedter, und Graeme D Jackson. 2024. <span>„Applications of teleneuropsychology to the screening and monitoring of epilepsy“</span>. <em>Seizure: European Journal of Epilepsy</em>.
+</div>
+<div id="ref-yildirim2024remote" class="csl-entry" role="listitem">
+Yıldırım, Elif, Ezgi Soncu Büyükişcan, Şükriye Akça Kalem, und İ Hakan Gürvit. 2024. <span>„Remote Neuropscyhological Assessment: Teleneuropsychology“</span>. <em>Archives of Neuropsychiatry</em> 61 (2): 167.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -1120,13 +1119,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <input type="hidden" id="giscus-alt-theme" value="dark">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./rheumatologie.html" class="pagination-link" aria-label="Rheumatologie">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Rheumatologie</span></span>
+      <a href="./psychotherapie.html" class="pagination-link" aria-label="Psychotherapie">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Psychotherapie</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./psychotherapie.html" class="pagination-link" aria-label="Psychotherapie">
-        <span class="nav-page-text"><span class="chapter-title">Psychotherapie</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./ambulantes-operieren.html" class="pagination-link" aria-label="Ambulantes Operieren">
+        <span class="nav-page-text"><span class="chapter-title">Ambulantes Operieren</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1138,7 +1137,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
 
-<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/rehabilitation.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/neurologie.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

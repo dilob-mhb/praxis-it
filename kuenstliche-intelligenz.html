@@ -119,6 +119,19 @@ cookieconsent.run({
 });
 </script> 
   
+<script type="application/json" class="js-hypothesis-config">
+{
+  "theme": "classic",
+  "openSidebar": false,
+  "showHighlights": "whenSidebarOpen"
+}
+</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
 <!-- <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -309,6 +322,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./neurologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
   </div>
 </li>
@@ -416,6 +434,8 @@ cookieconsent.run({
    
   <ul>
   <li><a href="#lernmaterialien" id="toc-lernmaterialien" class="nav-link active" data-scroll-target="#lernmaterialien">Lernmaterialien</a></li>
+  <li><a href="#experimentelle-anwendungen" id="toc-experimentelle-anwendungen" class="nav-link" data-scroll-target="#experimentelle-anwendungen">Experimentelle Anwendungen</a></li>
+  <li><a href="#online-plattformen" id="toc-online-plattformen" class="nav-link" data-scroll-target="#online-plattformen">Online Plattformen</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/kuenstliche-intelligenz.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -462,6 +482,14 @@ cookieconsent.run({
 <p>Der <a href="https://ki-campus.org/themen/medizin">KI-Campus</a> bietet kostenlose Online-Kurse und Ressourcen zum Thema Künstliche Intelligenz in der Medizin, darunter Kurse zu Grundlagen, klinischen Anwendungen und Ethik. Diese Kurse sind für Mediziner:innen konzipiert und werden in Zusammenarbeit mit renommierten Partnern wie der Charité und dem DFKI angeboten.</p>
 <p><a href="https://open.hpi.de/">openHPI</a> ist die Bildungsplattform des Hasso-Plattner-Instituts, die kostenlose Online-Kurse zu Themen der Informatik anbietet. Diese Kurse richten sich an verschiedene Zielgruppen, von Einsteigern bis zu Fachpublikum, und decken sowohl Grundlagen als auch aktuelle Forschungsthemen ab. Die Plattform wurde 2012 als erstes europäisches MOOC-Projekt gestartet und bietet innovative Lernformate.</p>
 <p><a href="https://www.kaggle.com/learn">Kaggle Learn</a> bietet eine Sammlung kostenloser, interaktiver Kurse zum Erlernen von Datenwissenschaft und maschinellem Lernen. Diese Kurse sind so gestaltet, dass Sie praktische Fähigkeiten erwerben können, die Sie sofort anwenden können. Kaggle Learn ist ideal für Anfänger und Fortgeschrittene, um ihre Fähigkeiten in Bereichen wie Python, Pandas, und maschinellem Lernen zu verbessern.</p>
+</section>
+<section id="experimentelle-anwendungen" class="level2">
+<h2 class="anchored" data-anchor-id="experimentelle-anwendungen">Experimentelle Anwendungen</h2>
+<p><a href="https://pillenfuchs.konsilado.de/">pillenfuchs.konsilado.de</a> ist ein experimentelles KI-gestütztes Forschungsprojekt, das darauf abzielt, Medikationspläne mithilfe eines großes Sprachmodells zu überprüfen. Es handelt sich explizit nicht um ein medizinisches Angebot von menschlichen Ärzten oder Apothekern, sondern um ein experimentelles Tool. Die KI analysiert Medikationspläne basierend auf eingegebenen Patientendaten wie Alter, Geschlecht, Nierenfunktion und einem hochgeladenen Bundesmedikationsplan (als PDF oder Text). Dabei werden potenzielle Arzneimittelwechselwirkungen, Empfehlungen und Quellen ausgegeben. Die Ergebnisse sind jedoch ohne Gewähr, können Fehler enthalten und stellen keine verbindlichen Handlungsempfehlungen dar. Es wird ausdrücklich betont, dass nur der behandelnde Arzt verlässliche medizinische Ratschläge geben kann.</p>
+</section>
+<section id="online-plattformen" class="level2">
+<h2 class="anchored" data-anchor-id="online-plattformen">Online Plattformen</h2>
+<p>Kaggle-Datensätze und Kaggle-Wettbewerbe illustrieren den Einsatz künstlicher Intelligenz in der Medizin, indem sie Zugang zu Gesundheitsdaten und Herausforderungen bieten. Nutzende können <a href="https://www.kaggle.com/datasets?tags=11111-Health">Datensätze</a> wie beispielsweise anonymisierte, fiktive Gesundheitsdaten oder medizinische Bilddaten herunterladen, um KI-Modelle für Diagnosen oder Therapieoptimierung zu trainieren. Parallel dazu fördern <a href="https://www.kaggle.com/competitions?tagIds=4202">Wettbewerbe</a> die Entwicklung von Algorithmen und Modellen, etwa zur Vorhersage von Krankheitsverläufen oder zur Analyse von Gesundheitsrisiken, durch kollaborativen Wissenswettbewerb. Kaggle bietet eine Plattform, auf der KI-gestützte Lösungen getestet, verfeinert und auf medizinische Probleme angewendet werden können.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
@@ -1033,6 +1061,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<script src="https://giscus.app/client.js" data-repo="dilob-mhb/praxis-it" data-repo-id="R_kgDONyeBYw" data-category="General" data-category-id="DIC_kwDONyeBY84CnOKJ" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
+</script>
+<input type="hidden" id="giscus-base-theme" value="light">
+<input type="hidden" id="giscus-alt-theme" value="dark">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./digitale-innovation.html" class="pagination-link" aria-label="Digitale Innovation">
