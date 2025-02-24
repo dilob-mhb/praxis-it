@@ -129,3 +129,9 @@ Im Jahr 2009 führte die US-Regierung eine Gesetzgebung ein, die Gesundheitsdien
 |-------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [ifap.de/therafox-pro](https://www.ifap.de/deu_de/lp/therafox-pro-fuer-aerzte.html) | THERAFOX PRO: Webbasierter AMTS-Check für Ärzte zur Prüfung von Medikationsrisiken wie Wechselwirkungen. |
 | [mmi.de/amts-service](https://www.mmi.de/mmi-pharmindex/mmi-amts-service)           | MMI AMTS-Service: Tool zur Analyse von Arzneimittelrisiken für Fachpersonal und Patientenberatung.       |
+
+: Übersicht AMTS Systeme
+
+[embryotox.de](https://www.embryotox.de/) ist eine unabhängige Informationsplattform des Pharmakovigilanz- und Beratungszentrums für Embryonaltoxikologie an der Charité-Universitätsmedizin Berlin. Sie bietet evidenzbasierte Informationen zur Sicherheit von Arzneimitteln in Schwangerschaft und Stillzeit. Nutzer können Wirkstoffe oder Erkrankungen suchen, um Risiken, Empfehlungen und Alternativen zu erfahren, ergänzt durch ein Ampelsystem zur schnellen Einschätzung. Gefördert vom Bundesministerium für Gesundheit, arbeitet Embryotox ohne Einfluss der Pharmaindustrie und bietet zusätzlich kostenlose individuelle Beratung sowie eine App.
+
+[dosing.de](https://dosing.de/) wird vom Institut für Klinische Pharmakologie & Pharmakoepidemiologie des Universitätsklinikums Heidelberg betrieben. Kernfunktion ist die Unterstützung bei der Dosisanpassung von Medikamenten, insbesondere bei Niereninsuffizienz.

@@ -56,6 +56,7 @@ book:
       - rheumatologie.qmd
       - rehabilitation.qmd
       - psychotherapie.qmd
+      - neurologie.qmd
       - ambulantes-operieren.qmd
       - zahnarzt.qmd
       - hno.qmd
@@ -87,5 +88,12 @@ format:
     include-before-body: gtm_code_body.html
     lang: de
     number-sections: false
+    comments:
+      giscus: 
+        repo: bsenst/praxis-it
+      hypothesis:
+        theme: classic
+        openSidebar: false
+        showHighlights: whenSidebarOpen
   pdf:
     documentclass: scrreprt

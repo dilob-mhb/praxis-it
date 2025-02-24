@@ -73,3 +73,7 @@ Diese Angriffe zielen darauf ab, die Sicherheitsprotokolle zu umgehen, die auf d
 End-to-End-Verschlüsselung (E2EE) bezeichnet eine Methode der Datensicherheit, bei der Daten, die zwischen zwei Parteien ausgetauscht werden, nur von diesen beiden Parteien entschlüsselt und gelesen werden können.
 
 E2EE erfordert, dass die Schlüssel zwischen den Kommunikationspartnern sicher ausgetauscht oder generiert werden. Dies kann durch Protokolle wie Diffie-Hellman-Schlüsselaustausch oder durch die Verwendung von Public-Key-Kryptographie geschehen.
+
+## Datenaustausch
+
+[Anonetics](https://www.anonetics.de/) ist ein Hamburger Startup, das sich auf sichere digitale Dokumentenübertragung im Gesundheitswesen spezialisiert hat. Mit der Lösung anolink können Nutzer Dokumente schnell und DSGVO-konform über eine Blockchain- und Cloud-basierte Plattform versenden. Das Unternehmen zielt darauf ab, Systeme wie Faxgeräte zu ersetzen und Arbeitsabläufe in Kliniken, Apotheken und Praxen zu optimieren. Serverstandort ist Deutschland, und sensible Daten werden nur temporär gespeichert.
