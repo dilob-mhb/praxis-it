@@ -85,3 +85,9 @@ Die Quellen diskutieren Reiseimpfungen im Kontext des digitalen Impfmanagement, 
 | Impfpass                 | [impfpass.de](https://impfpass.de/)            |
 
 : Übersicht Anbieter Impfsoftware
+
+## Nutzung von digitalen Impfinformationssystem
+
+Die Studie „Use of Immunization Information Systems in Primary Care“ von Allison Kempe und Kollegen untersucht, wie Kinderärzte, Familienmediziner (FPs) und Allgemeininternisten (GIMs) in den USA Immunisierungsinformationssysteme (IIS) nutzen. Von Januar bis April 2015 befragten die Autoren 907 Ärzte per E-Mail und Post, mit Rücklaufquoten zwischen 63 % und 75 %. Ergebnisse zeigen, dass viele Ärzte – besonders GIMs (48 %) – nicht wissen, dass es IIS gibt; 81 % der Kinderärzte, 72 % der FPs und nur 27 % der GIMs nutzen sie. Häufige Nutzungshürden sind fehlende Updates in elektronischen Patientenakten (29–35 %) und Probleme beim elektronischen Datenupload (22–31 %). Die Studie identifiziert Wissenslücken über IIS-Funktionen wie Impfstatusbestimmung oder Erinnerungen und zeigt, dass FPs und GIMs im Vergleich zu Kinderärzten seltener IIS nutzen. Abschließend wird betont, dass mangelnde Interoperabilität mit elektronischen Systemen und geringe Awareness – vor allem bei Erwachsenenmedizinern – die Nutzung einschränken, obwohl IIS in fast allen US-Bundesstaaten existieren und 88 % der Kinder unter 6 Jahren erfasst sind. [@KEMPE2017173]
+
+Der Artikel „Praxistaugliche Gesamtlösung – Digitaler Impfnachweis für die Praxis schon bald verfügbar“ aus Gesundheitsökonomie & Qualitätsmanagement (2021; 26(02): 76-77) beschreibt die Entwicklung eines digitalen Impfnachweises durch die Gesellschaft zur Förderung der Impfmedizin (GZIM) als Reaktion auf die wachsende Nachfrage nach digitalen Gesundheitslösungen. Der Beitrag hebt hervor, wie digitale Ansätze in der Gesundheitsdiskussion an Bedeutung gewinnen, und positioniert den Impfnachweis als praxisnahe Antwort auf aktuelle Bedürfnisse. [@gzim2021]
