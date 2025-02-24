@@ -3,3 +3,9 @@ book:
   issue-url: "https://github.com/dilob-mhb/praxis-it/issues"
   google-analytics: 
     tracking-id: "G-W0VVGPQSBH"
+
+format:
+  html:
+    comments:
+      giscus: 
+        repo: dilob-mhb/praxis-it
