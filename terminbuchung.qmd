@@ -1,37 +1,41 @@
 # Terminbuchung
 
+::: {.content-visible when-format="html"}
+
+![](https://badgen.net/badge/DiLoB%20geprüft/Ja/green?icon=github)
+
+:::
+
 Bei der Auswahl eines Terminbuchungstools sollten Sie auf Funktionsumfang, Benutzerfreundlichkeit, Integration mit bestehender Software und Datenschutz achten. Berücksichtigen Sie auch die Kostenstruktur, den Kundensupport und die Skalierbarkeit des Systems, um sicherzustellen, dass es den aktuellen und zukünftigen Bedürfnissen Ihrer Einrichtung entspricht. Benutzerbewertungen können ebenfalls wertvolle Einblicke bieten.
 
 Eine Studie von Atherton et al. [@Atherton2024] untersuchte die Nutzung und Erfahrungen mit Online-Terminbuchungssystemen in englischen Hausarztpraxen und fand heraus, dass nur 16 % der Patienten diese Systeme nutzten, obwohl 45 % davon wussten. Besonders ältere Menschen über 75 Jahre und Patienten aus sozioökonomisch benachteiligten Gebieten nutzten die Angebote seltener. Berufstätige und Menschen mit chronischen Erkrankungen schätzten die Flexibilität und Einfachheit, während ältere Patienten oft die Telefonbuchung bevorzugten. Die Nutzung wurde maßgeblich durch die Organisation der Praxis, die Verfügbarkeit von Terminen und die Benutzerfreundlichkeit beeinflusst. Um die Nutzung zu erhöhen, sind gezielte Informationen und Unterstützung für benachteiligte Gruppen notwendig.
 
 Waddell et al. [@WADDELL2024399] untersuchte den Zusammenhang zwischen der Einführung einer Selbstbuchungsfunktion im elektronischen Patientenakte (EHR) System und der Durchführung von Screening-Mammographien. Sie zeigte, dass nach der Einführung der Selbstbuchung die Rate der Mammographie-Abschlüsse von 22,2% auf 49,7% stieg. Die Ergebnisse legen nahe, dass die Selbstbuchungsfunktion im EHR-System eine kostengünstige und skalierbare Möglichkeit zur Steigerung der Teilnahme an vorbeugenden Krebsscreenings darstellt.
 
-| Index | Product | Company | URL |
-|---|---|---|---| 
-| 0 | TimeControl | Computerservice & Software Mentz | [timecontrol.co](https://timecontrol.co) |
-| 1 | terminiko | terminiko | [terminiko.de](http://www.terminiko.de) |
-| 2 | Dr.wait - Digitale Arztpraxis | Dr.wait UG (haftungsbeschränkt) | [drwait.de](https://www.drwait.de/) |
-| 3 | eTermin Online Terminplaner | eTermin GmbH | [etermin.net](https://www.etermin.net) |
-| 4 | dubidoc | Takuta GmbH | [dubidoc.de](http://www.dubidoc.de) |
-| 5 | Doctena PRO | Doctena Germany GmbH | [de.doctena.de](https://de.doctena.de/) |
-| 6 | TerMed | Facharzt-Sofort-GmbH | [termed.de](http://www.termed.de) |
-| 7 | Acuity Scheduling | Acuity Scheduling GmbH | [de.acuityscheduling.com](https://de.acuityscheduling.com/) |
-| 8 | Terminland Gesundheitswesen | Terminland GmbH | [terminland.de/branchen/gesundheitswesen/](https://www.terminland.de/branchen/gesundheitswesen/) |
-| 9 | dubidoc | Takuta GmbH | [dubidoc.de](https://www.dubidoc.de/) |
-| 10 | TerMed | Facharzt-Sofort-GmbH | [termed.de/start](https://www.termed.de/start) |
-| 11 | Jameda Terminservice | Jameda GmbH | [pro.jameda.de](https://pro.jameda.de/) |
-| 12 | Dr. Flex | Dr. Flex GmbH | [dr-flex.de/aerzte](https://dr-flex.de/aerzte) |
-| 13 | Doctolib | Doctolib GmbH | [info.doctolib.de](https://info.doctolib.de/) |
-| 14 | Visita | Visita GmbH | [visita.arzttermine.de](https://visita.arzttermine.de/) |
-| 15 | Doctena | Doctena Germany GmbH | [doctena.com/de/](https://www.doctena.com/de/) |
-| 16 | TIMIFY | TerminApp GmbH | [timify.com](https://www.timify.com/) |
-| 17 | termed | termed GmbH | [termed.de/start](https://www.termed.de/start) |
-| 18 | Betty24                         | Betty24 GmbH                        | [betty24.de](https://info.betty24.de/)                               |
-| 19 | TimerBee                        | TimerBee GmbH                       | [timerbee.com](https://www.timerbee.com/)                            |
-| 20 | No-Q                            | No-Q GmbH                           | [no-q.info](https://www.no-q.info/)                                  |
-| 21 | 321med                          | 321med GmbH                         | [321med.com](https://321med.com/)                                    |
-| 22 | Therapiefix                     | Therapiefix GmbH                    | [therapiefix.de](https://www.therapiefix.de/)                        |
-| 23 | Dr.Flex                         | Dr.Flex GmbH                        | [dr-flex.de](https://dr-flex.de/aerzte)                              |
-| 24 | Cituro                          | Cituro GmbH                         | [cituro.com](https://www.cituro.com/)                                |
+| Index | Anbieter | Webseite | Beschreibung |
+|---|---|---|---|
+| 0 | Betty24 | [info.betty24.de](https://info.betty24.de/) | Online-Terminbuchungssystem für medizinische Einrichtungen mit automatisierten Terminerinnerungen und Patientenmanagement. |
+| 1 | Cituro | [cituro.com](https://www.cituro.com/praxis-software) | Flexible Praxissoftware für Online-Terminbuchungen mit individuellen Einstellungen für Arztpraxen. |
+| 2 | Doctena | [doctena.com](https://www.doctena.com/de/) | Online-Terminbuchungsplattform für Patienten zur einfachen Arztterminvereinbarung. |
+| 3 | Dr. Flex | [dr-flex.de](https://dr-flex.de/aerzte) | Smarte Online-Terminvergabe für Arztpraxen mit automatisierten Erinnerungen und digitaler Patientenverwaltung. |
+| 4 | eTermin | [etermin.net](https://www.etermin.net/online-terminplaner-arzt) | Online-Terminplaner für Arztpraxen mit Kalendersynchronisation, automatischen Erinnerungen und flexibler Verwaltung. |
+| 5 | terminiko | [terminiko.de](https://www.terminiko.de/) | Praxisinterne Terminverwaltung mit Online-Buchungsmöglichkeiten für Patienten ohne Benutzerkonto. |
+| 6 | Terminland | [terminland.de](https://www.terminland.de/branchen/gesundheitswesen/) | Online-Terminbuchung für das Gesundheitswesen mit individuellen Anpassungsmöglichkeiten für Praxen. |
+| 7 | TimeControl | [timecontrol.app](https://timecontrol.app/) | Praxissoftware für digitale Terminplanung mit automatischen Erinnerungen und Integration in bestehende Systeme. |
+| 8 | Visita | [visita.arzttermine.de](https://visita.arzttermine.de/) | Online-Terminvergabe für Ärzte mit digitalem Wartezimmer, Videosprechstunden und Patientenkommunikation. |
 
 : Übersicht Softwarelösungen Terminbuchung
+
+| Index | Anbieter | Webseite | Beschreibung |
+|---|---|---|---|
+| 0 | 321med | [321med.com](https://321med.com/de) | Digitale Lösung für Arztpraxen mit Online-Terminbuchung, Videosprechstunden, digitaler Anamnese und sicherer Patientenkommunikation. |
+| 1 | Doctolib | [doctolib.de](https://info.doctolib.de/) | Plattform für Termin- und Patientenmanagement mit Videosprechstunden, digitaler Kommunikation und Praxissoftware-Integration. |
+| 2 | Dr. QEN | [drqen.com](https://drqen.com/) | Online-Terminbuchung und kontaktlose Patientenkommunikation mit digitaler Anamnese und Dokumentenverwaltung. |
+| 3 | Dr. Wait | [drwait.de](https://www.drwait.de/) | Echtzeit-Wartezeitmanagement mit KI-basierten Lösungen zur Arztbrief-Erstellung, Rezepttelefon und Laborwert-Erklärung. |
+| 4 | Dubidoc | [dubidoc.de](https://www.dubidoc.de/) | Online-Terminbuchung mit Self-Check-In zur Automatisierung des Anmeldeprozesses und Entlastung der Fachkräfte. |
+| 5 | Jameda | [jameda.de](https://pro.jameda.de/) | Online-Terminvergabe mit Videosprechstunden und KI-gestützter Dokumentation über Noa Notes. |
+| 6 | No-Q | [no-q.info](https://www.no-q.info/) | Digitale Lösung für Terminplanung, Videosprechstunden und Dokumentverwaltung zur Optimierung von Arbeitsprozessen. |
+| 7 | TerMed | [termed.de](https://www.termed.de/reserve) | Terminmanagementsystem mit Online-Buchung und integrierter Videosprechstunde für Arztpraxen. |
+| 8 | Timerbee | [timerbee.com](https://www.timerbee.com/) | Flexibles Terminbuchungssystem mit automatischen Erinnerungen, Workflow-Optimierung und OP-Planung. |
+
+: Übersicht Softwarelösungen Terminbuchung und weitere Funktionen
