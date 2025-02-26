@@ -58,9 +58,11 @@ book:
       - psychotherapie.qmd
       - neurologie.qmd
       - ambulantes-operieren.qmd
-      - zahnarzt.qmd
       - hno.qmd
       - impfsoftware.qmd
+      - zahnarzt.qmd
+      # - pflege.qmd
+      # - krankenhaus.qmd
     - part: "Verwaltung"
       chapters:
       - buchhaltung.qmd
