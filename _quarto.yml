@@ -54,6 +54,7 @@ book:
       - gefaessmedizin.qmd
       - wunddokumentation.qmd
       - rheumatologie.qmd
+      # - orthopaedie.qmd
       - rehabilitation.qmd
       - psychotherapie.qmd
       - neurologie.qmd
