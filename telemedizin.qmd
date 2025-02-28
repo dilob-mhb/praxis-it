@@ -112,3 +112,18 @@
 | 38 | Actimi                          | Actimi GmbH                         | [actimi.com](https://actimi.com/)                                    |
 
 : Übersicht Telemedizinische Anbieter
+
+## Photoplethysmographie (PPG)
+
+Image Photoplethysmographie (iPPG) ist eine berührungslose Methode zur Messung von Herzfrequenz und Blutdruck, indem Lichtintensitätsänderungen im Gesicht mittels Webcam aufgezeichnet werden, wie in einer Studie von Trirongjitmoah et al. (Heliyon, 2024) beschrieben. Die Analyse von 100 Probanden zeigte eine starke Korrelation der iPPG-Herzfrequenz mit einem oszillometrischen Blutdruckmessgerät. Für die Blutdruckschätzung wurden 6-Sekunden-Segmente des iPPG-Signals mittels kontinuierlicher Wavelet-Transformation und einem kompakten Convolutional Neural Network (CNN) verarbeitet, mit Ergebnissen von Grad A für diastolischen und Grad B für systolischen Blutdruck nach den Kriterien der British Hypertension Society. Die Methode erfüllt auch die Standards der Association for the Advancement of Medical Instrumentation und bietet Potenzial für effiziente, nicht-invasiveScreenings, bleibt aber auf klare Signale unter kontrollierten Bedingungen angewiesen. [@trirongjitmoah2024assessing]
+
+Remote Photoplethysmographie (rPPG) ermöglicht die berührungslose Messung physiologischer Parameter wie Herzfrequenz durch Analyse von Hautlichtveränderungen in Videos, wie in einer Studie von Di Lernia et al. (2024) untersucht. Die Autoren entwickelten ein Open-Source-rPPG-Verfahren, das Herzfrequenz aus Online-Webcam-Videos extrahiert, selbst unter unkontrollierten Bedingungen wie variierender Beleuchtung oder Bewegung. In zwei Experimenten wurde die Methode validiert: Zuerst gegen den CohFace-Datensatz (Laborkonditionen) und dann mit 231 Online-Videos von 18 Teilnehmern, verglichen mit Fingerpulsoximeter-Daten. Die Ergebnisse zeigten eine hohe Genauigkeit (Spearman-Korrelation rs = 0.752 im Labor, Pearson r = 0.578 online), trotz Herausforderungen wie Signalrauschen und schlechter Videoqualität. [@di2024remote]
+
+Die Studie von Allado et al. (2022) untersuchte die Genauigkeit der Remote-Photoplethysmographie (rPPGc) zur Messung der Herzfrequenz (HR) in klinischen Alltagssituationen anhand von 963 Patienten, die eine Lungenfunktionsprüfung benötigten. Mit dem rPPGc-System Caducy v1.0.0 wurden HR-Messungen per Webcam gleichzeitig mit einem Standard-EKG (Goldstandard) über 60 Sekunden durchgeführt. Die Ergebnisse zeigten eine hohe Übereinstimmung (ICC = 0.886, CI95 [0.871–0.899]), wobei 94,6 % der Messungen im Bland-Altman-Plot innerhalb des CI95 lagen, was eine Genauigkeit von 96,2 % ergab. Alter, Geschlecht und Hautphototypen 1–4 beeinflussten die Präzision nicht, jedoch war die Stichprobe für dunklere Hauttöne (FSP 5–6) zu klein für definitive Aussagen. Die Studie bestätigt das Potenzial von rPPGc für HR-Messungen in der Telemedizin. [@allado2022accurate]
+
+| Anwendung          | URL                                                                                   |
+|--------------------|---------------------------------------------------------------------------------------|
+| CheckBP            | [checkbp.com](https://www.checkbp.com/)                                               |
+| Pulse HRV by Camera BLE ECG | [play.google.com](https://play.google.com/store/apps/details?id=srb.ctb.pulse.heartrate.camera.ecg4everybody&hl=en) |
+
+: Beispiele PPG Anwendungen
