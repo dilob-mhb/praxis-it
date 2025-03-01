@@ -61,6 +61,7 @@ book:
       - ambulantes-operieren.qmd
       - hno.qmd
       - impfsoftware.qmd
+      - medikation.qmd
       - zahnarzt.qmd
       # - pflege.qmd
       # - krankenhaus.qmd
