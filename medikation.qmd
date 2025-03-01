@@ -1,0 +1,8 @@
+# Medikation
+
+| Name                  | URL                                                                 |
+|-----------------------|---------------------------------------------------------------------|
+| Papp                  | [play.google.com](https://play.google.com/store/apps/details?id=com.rwthaachen.papp) |
+| Meine Medikation      | [play.google.com](https://play.google.com/store/apps/details?id=de.barmer.meinemedikation) |
+| Mediteo               | [play.google.com](https://play.google.com/store/apps/details?id=com.mediteo.mobile) |
+| MyTherapy             | [mytherapyapp.com](https://www.mytherapyapp.com/de/app-zum-bundeseinheitlichen-medikationsplan-scan) |
