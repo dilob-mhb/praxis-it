@@ -34,6 +34,8 @@
 
 ### Elektronische Patientenakte
 
+In seinem Artikel „Why Doctors Hate Their Computers“ vom 12. November 2018 im New Yorker beschreibt Atul Gawande die Frustration von Ärzten mit elektronischen Patientenakten, am Beispiel der Einführung des Epic-Systems bei Partners HealthCare, das mit 1,6 Milliarden Dollar die Arbeitsweise von 70.000 Mitarbeitern verändern sollte. Statt Effizienz zu bringen, hat die Digitalisierung die Arbeitsbelastung erhöht: Ärzte verbringen doppelt so viel Zeit mit Computertätigkeiten wie mit Patienten. Gawande schildert, wie die Systeme durch ihre Starrheit und bürokratischen Anforderungen die Arzt-Patient-Beziehung beeinträchtigen, während Lösungen wie Schreibassistenten oder KI-gestützte Diktierfunktionen zwar Zeit sparen, aber die Grundprobleme nicht lösen; er plädiert für anpassungsfähigere Technologien, die menschliche Verbindungen stärken statt schwächen. [@gawande2018why]
+
 #### Podcasts
 
 | index | title | date |
