@@ -63,8 +63,8 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ae8f628366cf69ee7dacdca8e88bd768.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-5bee1ded51a482bb1dc82a13494c6431.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-fa33682af00bbd8cf7d0918c676daf29.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-f78b2b218f805bd415631127bf3d3985.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -332,17 +332,22 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./hno.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hals-Nasen-Ohren-Heilkunde</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./impfsoftware.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Impfsoftware</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./medikation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Medikation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
   </div>
 </li>
       </ul>
@@ -439,7 +444,9 @@ cookieconsent.run({
   <li><a href="#ti-score" id="toc-ti-score" class="nav-link" data-scroll-target="#ti-score">TI-Score</a></li>
   <li><a href="#übersichtstabelle" id="toc-übersichtstabelle" class="nav-link" data-scroll-target="#übersichtstabelle">Übersichtstabelle</a></li>
   <li><a href="#opennotes-einblicke-in-die-praxisdokumentation" id="toc-opennotes-einblicke-in-die-praxisdokumentation" class="nav-link" data-scroll-target="#opennotes-einblicke-in-die-praxisdokumentation">OpenNotes – Einblicke in die Praxisdokumentation</a></li>
-  <li><a href="#arzneimitteltherapiesicherheit-amts" id="toc-arzneimitteltherapiesicherheit-amts" class="nav-link" data-scroll-target="#arzneimitteltherapiesicherheit-amts">Arzneimitteltherapiesicherheit (AMTS)</a></li>
+  <li><a href="#elektronische-patientenakte" id="toc-elektronische-patientenakte" class="nav-link" data-scroll-target="#elektronische-patientenakte">Elektronische Patientenakte</a></li>
+  <li><a href="#effiziente-dateneingabe" id="toc-effiziente-dateneingabe" class="nav-link" data-scroll-target="#effiziente-dateneingabe">Effiziente Dateneingabe</a></li>
+  <li><a href="#gesundheitsinformationssysteme" id="toc-gesundheitsinformationssysteme" class="nav-link" data-scroll-target="#gesundheitsinformationssysteme">Gesundheitsinformationssysteme</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/praxisverwaltung.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -1720,40 +1727,50 @@ cookieconsent.run({
 <h2 class="anchored" data-anchor-id="opennotes-einblicke-in-die-praxisdokumentation">OpenNotes – Einblicke in die Praxisdokumentation</h2>
 <p>Im Jahr 2009 führte die US-Regierung eine Gesetzgebung ein, die Gesundheitsdienstleister dazu anregte, Technologien zu adaptieren, die Patienten elektronischen Zugang zu ihren Gesundheitsdaten über sichere Patientenportale ermöglichen, um eine stärkere Patientenbeteiligung für bessere Gesundheitsergebnisse zu fördern. Die OpenNotes-Initiative von 2010, die zunächst auf hausärztliche Versorgung fokussiert war, beinhaltete das Teilen von Ärzte-Notizen mit Patienten und zeigte erhebliche Vorteile wie eine erhöhte Kontrolle der Patienten über ihre Gesundheitsversorgung, ein besseres Verständnis der medizinischen Pläne und eine bessere Vorbereitung auf Arztbesuche. Diese Praxis hat sich seitdem erweitert, und mittlerweile haben über 38 Millionen US-Patienten elektronischen Zugang zu ihren Notizen in verschiedenen Fachrichtungen. Eine umfassende Umfrage in drei Gesundheitssystemen zeigte, dass Patienten, insbesondere solche aus benachteiligten Gruppen, das Lesen der Notizen als äußerst nützlich empfanden, wobei nur wenige Verwirrung oder erhöhte Sorgen meldeten. Die Studie unterstreicht den Wert transparenter medizinischer Aufzeichnungen zur Verbesserung der Patientenbeteiligung und deutet auf Potenziale für weitere Verbesserungen in der Kommunikation zwischen Patient und Arzt hin. <span class="citation" data-cites="info:doi/10.2196/13876">(<a href="referenzen.html#ref-info:doi/10.2196/13876" role="doc-biblioref">Walker u.&nbsp;a. 2019</a>)</span></p>
 </section>
-<section id="arzneimitteltherapiesicherheit-amts" class="level2">
-<h2 class="anchored" data-anchor-id="arzneimitteltherapiesicherheit-amts">Arzneimitteltherapiesicherheit (AMTS)</h2>
-<table class="caption-top table">
-<caption>Übersicht AMTS Systeme</caption>
-<thead>
-<tr class="header">
-<th>Produkt-URL</th>
-<th>Beschreibung</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://www.ifap.de/deu_de/lp/therafox-pro-fuer-aerzte.html">ifap.de/therafox-pro</a></td>
-<td>THERAFOX PRO: Webbasierter AMTS-Check für Ärzte zur Prüfung von Medikationsrisiken wie Wechselwirkungen.</td>
-</tr>
-<tr class="even">
-<td><a href="https://www.mmi.de/mmi-pharmindex/mmi-amts-service">mmi.de/amts-service</a></td>
-<td>MMI AMTS-Service: Tool zur Analyse von Arzneimittelrisiken für Fachpersonal und Patientenberatung.</td>
-</tr>
-</tbody>
-</table>
-<p><a href="https://www.embryotox.de/">embryotox.de</a> ist eine unabhängige Informationsplattform des Pharmakovigilanz- und Beratungszentrums für Embryonaltoxikologie an der Charité-Universitätsmedizin Berlin. Sie bietet evidenzbasierte Informationen zur Sicherheit von Arzneimitteln in Schwangerschaft und Stillzeit. Nutzer können Wirkstoffe oder Erkrankungen suchen, um Risiken, Empfehlungen und Alternativen zu erfahren, ergänzt durch ein Ampelsystem zur schnellen Einschätzung. Gefördert vom Bundesministerium für Gesundheit, arbeitet Embryotox ohne Einfluss der Pharmaindustrie und bietet zusätzlich kostenlose individuelle Beratung sowie eine App.</p>
-<p><a href="https://dosing.de/">dosing.de</a> wird vom Institut für Klinische Pharmakologie &amp; Pharmakoepidemiologie des Universitätsklinikums Heidelberg betrieben. Kernfunktion ist die Unterstützung bei der Dosisanpassung von Medikamenten, insbesondere bei Niereninsuffizienz.</p>
+<section id="elektronische-patientenakte" class="level2">
+<h2 class="anchored" data-anchor-id="elektronische-patientenakte">Elektronische Patientenakte</h2>
+<p>Der Artikel „The impact of the electronic medical record on structure, process, and outcomes within primary care: a systematic review of the evidence“ von Jayna M. Holroyd-Leduc und Kollegen untersucht die Auswirkungen elektronischer Patientenakten (EPA) in der ambulanten Primärversorgung. Die systematische Literaturübersicht analysiert Studien von 1998 bis 2010 und zeigt, dass EPA strukturelle Vorteile wie bessere Lesbarkeit und Zugänglichkeit bietet sowie Prozesse wie Dokumentation und Kommunikation verbessert. Die Effekte auf klinische Ergebnisse sind jedoch weniger eindeutig, mit nur geringfügigen Verbesserungen der Gesundheitsqualität. Kosten-Nutzen-Analysen deuten auf langfristige Einsparungen hin. <span class="citation" data-cites="holroyd2011impact">(<a href="referenzen.html#ref-holroyd2011impact" role="doc-biblioref">Holroyd-Leduc u.&nbsp;a. 2011</a>)</span></p>
+<p>Der Artikel „Adopting electronic medical records: Are they just electronic paper records?“ von Morgan Price und Kollegen untersucht die Herausforderungen bei der Einführung elektronischer Patientenakten in der Primärversorgung in Manitoba, Kanada. In einer Mixed-Methods-Studie mit 57 Interviews und Diskussionsgruppen in fünf Praxen wurden Adoptionsniveaus (2,3 bis 3,0 von 5) bewertet und qualitative Analysen durchgeführt. Viele Nutzer verwendeten die elektronischen Systeme lediglich als „elektronische Papierakten“, ohne erweiterte Funktionen wie Entscheidungsunterstützung, Patientenzugang zu Daten oder Praxisberichte zu nutzen. Hauptprobleme waren eine technologische Implementierungsgrenzen, mangelnde Kenntnis der Funktionen und schlechte Datenqualität der Akten, die zukünftige Nutzung einschränken könnten. Die Autoren betonen die Notwendigkeit von Schulungen und Qualitätsverbesserungen, um die Optimierung der elektronischen Patientenakten zu fördern. <span class="citation" data-cites="price2013adopting">(<a href="referenzen.html#ref-price2013adopting" role="doc-biblioref">Price, Singer, und Kim 2013</a>)</span></p>
+<p>Im Artikel „Challenges to EHR Implementation in Electronic- Versus Paper-based Office Practices“ von Stephanie O. Zandieh und Kollegen werden spezifische Hürden bei der Einführung elektronischer Patientenakten (EPA) in papierbasierten und bereits digitalisierten ambulanten Praxen identifiziert. Für papierbasierte Praxen wurden folgende Hürden hervorgehoben: unzureichende Hardware wie Arbeitsstationen und Drucker, die Notwendigkeit eines IT-Experten vor Ort, mangelnde Vertrautheit mit IT sowie Schwierigkeiten bei der Anpassung der Arbeitsabläufe an ein papierloses System. Diese Praxen erwarteten zudem Produktivitätseinbuße während der Umstellung. Im Gegensatz dazu sahen bereits digitalisierte Praxen andere Hindernisse: Widerstand gegen den Wechsel von einem vertrauten System, unzureichende technische Schulungen und fortlaufender Support. Beide Praxistypen kämpften mit Produktivitätsverlusten und Anpassungsschwierigkeiten, jedoch unterschieden sich die Schwerpunkte der Herausforderungen je nach Ausgangslage. <span class="citation" data-cites="zandieh2008challenges">(<a href="referenzen.html#ref-zandieh2008challenges" role="doc-biblioref">Zandieh u.&nbsp;a. 2008</a>)</span></p>
+<p>Der Artikel „Electronic Health Record Impact on Work Burden in Small, Unaffiliated, Community-Based Primary Care Practices“ von Jenna Howard und Kollegen untersucht, wie der Einsatz elektronischer Patientenakten die Arbeitsbelastung in kleinen, unabhängigen Primärversorgungspraxen beeinflusst. Durch qualitative Feldforschung in sieben Praxen im Nordosten der USA wurde festgestellt, dass elektronische Patientenakten die Arbeitsbelastung von nicht-ärztlichen Mitarbeitern (z. B. durch verbesserte Patientenaufnahme und Kommunikation) reduziert, während sie bei ärztlichem Personal variabel wirkt: Einige Aufgaben wie Verschreibungen werden erleichtert, andere wie das Sprechzimmerdokumentation und die Verwaltung chronischer Krankheiten erschweren die Arbeit. Die Studie betont, dass durchdachte Implementierung und Workflow-Redesign die Belastung für das ärztliche Personal mildern können. Sie fordert PVS-Entwickler, die komplexen Bedürfnisse des Personals besser zu berücksichtigen, um die Effizienz und Nutzung zu optimieren. <span class="citation" data-cites="howard2013electronic">(<a href="referenzen.html#ref-howard2013electronic" role="doc-biblioref">Howard u.&nbsp;a. 2013</a>)</span></p>
+<p>Der Artikel „The Impact of Electronic Health Records on Workflow and Financial Measures in Primary Care Practices“ von Neil S. Fleming und Kollegen untersucht die Auswirkungen der Einführung eines kommerziellen elektronischen Patientenakten-Systems auf Arbeitsabläufe und finanzielle Kennzahlen in 26 Primärversorgungspraxen des HealthTexas Provider Network zwischen 2006 und 2008. Mithilfe eines unterbrochenen Zeitreihendesigns wurden monatliche Daten von 2004 bis 2009 analysiert, darunter Personalbestand, Produktivität, Patientenzahlen, Praxiskosten, Einnahmen und Nettogewinn. Die Ergebnisse zeigen, dass nach der Einführung einer elektronischen Patientenakte die Personalkosten und Praxisausgaben anstiegen (3 bzw. 6 % nach 12 Monaten), während Produktivität, Besuchszahlen und Nettogewinn zunächst sanken, sich aber nach 12 Monaten weitgehend erholten. Die Besuchsintensität blieb stabil.<span class="citation" data-cites="fleming2014impact">(<a href="referenzen.html#ref-fleming2014impact" role="doc-biblioref">Fleming u.&nbsp;a. 2014</a>)</span></p>
+</section>
+<section id="effiziente-dateneingabe" class="level2">
+<h2 class="anchored" data-anchor-id="effiziente-dateneingabe">Effiziente Dateneingabe</h2>
+<p>Die Arbeit „Making Keyboard Shortcuts Accessible: Keyboard Shortcuts for Healthcare Professionals in an Electronic Healthcare System“ von Julia Grentzelius untersucht die Nutzung von Tastaturkürzeln im klinischen Informationssystem <a href="https://www.cambiogroup.com/our-solutions/cambio-cosmic/">COSMIC</a>. Ziel der Studie war es, herauszufinden, welche Nutzergruppen am meisten von Tastaturkürzeln profitieren würden und wie sie diese effektiv erlernen können. Die Forschung ergab, dass insbesondere Pflegekräfte durch den Einsatz von Tastaturkürzeln erhebliche Zeitersparnisse erzielen könnten. Hauptprobleme waren mangelndes Bewusstsein und fehlende Visualisierung der Shortcuts. <span class="citation" data-cites="grentzelius2023making">(<a href="referenzen.html#ref-grentzelius2023making" role="doc-biblioref">Grentzelius 2023</a>)</span></p>
+<p>Der Artikel „Hidden Costs of Graphical User Interfaces“ untersucht, warum erfahrene Nutzer von grafischen Benutzeroberflächen wie Microsoft Word selten effiziente Tastenkürzel verwenden, obwohl diese schneller sind als Menüs und Symbolleisten. Eine Umfrage unter 251 erfahrenen Word-Nutzern zeigte, dass die meisten die weniger effizienten Symbolleisten bevorzugen, während eine zweite Studie mit sechs Teilnehmern bestätigte, dass Tastenkürzel tatsächlich die schnellste Methode sind. Die Autoren schließen, dass Nutzer trotz der Lernunterstützung durch die Oberfläche nicht zu effizienten Methoden übergehen und schlagen vor, Trainingsprogramme zu optimieren, um diesen Übergang zu fördern. <span class="citation" data-cites="lane2005hidden">(<a href="referenzen.html#ref-lane2005hidden" role="doc-biblioref">Lane u.&nbsp;a. 2005</a>)</span></p>
+<p>Der Artikel „Digital disparities among healthcare workers in typing speed“ untersucht die Tippfähigkeiten von 2690 Mitarbeitern aus zwei großen medizinischen Zentren in Amsterdam und zeigt erhebliche Unterschiede nach Alter, Beruf und medizinischer Spezialisierung. Die durchschnittliche korrigierte Tippgeschwindigkeit betrug 60,1 Wörter pro Minute, wobei sie mit zunehmendem Alter signifikant abnahm (rho −0,51, P&lt;0,001), Personen mit Tippkursen über 20 % schneller tippten und Ärzte der Inneren Medizin die schnellsten unter den medizinischen Fachkräften waren, während kein Geschlechterunterschied bestand. Die Ergebnisse deuten darauf hin, dass ältere Mitarbeiter und bestimmte Berufsgruppen in einem zunehmend digitalisierten Gesundheitswesen benachteiligt sind, und schlagen Trainingsmodule sowie alternative Eingabemethoden vor, um diese Unterschiede auszugleichen. <span class="citation" data-cites="schuurman2022digital">(<a href="referenzen.html#ref-schuurman2022digital" role="doc-biblioref">Schuurman u.&nbsp;a. 2022</a>)</span></p>
+<p>Tastenkürzel können die Effizienz von Ärzten bei der Nutzung medizinischer Software steigern, indem sie repetitive Aufgaben beschleunigen und den Arbeitsfluss optimieren: * <a href="https://support.tomedo.de/handbuch/tomedo/tipps-und-tricks/die-wichtigsten-tomedo-tastenkuerzel/">Tomedo Tastaturkürzel</a> * <a href="https://hilfe.t2med.de/navigation/Shortcuts/">T2med Tastaturkürzel</a> * <a href="https://www.hcs-ct.de/ueber-uns/aktuelles/detail/tastaturbelegungen-in-cgm-albis">CGM Albis Tastaturkürzel</a></p>
+</section>
+<section id="gesundheitsinformationssysteme" class="level2">
+<h2 class="anchored" data-anchor-id="gesundheitsinformationssysteme">Gesundheitsinformationssysteme</h2>
+<p>Das Buch Health Information Systems: Technological and Management Perspectives von Alfred Winter, Elske Ammenwerth, Reinhold Haux, Michael Marschollek, Bianca Steiner und Franziska Jahn bietet eine umfassende Einführung in die Technologien und Managementansätze von Gesundheitsinformationssystemen. In dieser überarbeiteten Open-Access-Ausgabe von 2023 wird detailliert beschrieben, wie diese Systeme in verschiedenen Kontexten – von der Prävention über die Behandlung akuter und chronischer Krankheiten bis hin zur medizinischen Forschung – aufgebaut, verwaltet und deren Qualität bewertet werden kann. <span class="citation" data-cites="winter2023health">(<a href="referenzen.html#ref-winter2023health" role="doc-biblioref">Winter u.&nbsp;a. 2023</a>)</span></p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
 <div id="ref-CHERIFF2010492" class="csl-entry" role="listitem">
 Cheriff, Adam D., Akshay G. Kapur, Maggie Qiu, und Curtis L. Cole. 2010. <span>„Physician productivity and the ambulatory EHR in a large academic multi-specialty physician group“</span>. <em>International Journal of Medical Informatics</em> 79 (7): 492–500. https://doi.org/<a href="https://doi.org/10.1016/j.ijmedinf.2010.04.006">https://doi.org/10.1016/j.ijmedinf.2010.04.006</a>.
 </div>
+<div id="ref-fleming2014impact" class="csl-entry" role="listitem">
+Fleming, Neil S, Edmund R Becker, Steven D Culler, Dunlei Cheng, Russell McCorkle, Briget da Graca, und David J Ballard. 2014. <span>„The impact of electronic health records on workflow and financial measures in primary care practices“</span>. <em>Health services research</em> 49 (1pt2): 405–20.
+</div>
 <div id="ref-TI-Score2025" class="csl-entry" role="listitem">
 gematik GmbH. 2025. <span>„TI-Score - Wie gut ist Ihre Software im Alltag?“</span> <a href="https://www.ti-score.de/" class="uri">https://www.ti-score.de/</a>.
 </div>
+<div id="ref-grentzelius2023making" class="csl-entry" role="listitem">
+Grentzelius, Julia. 2023. <span>„Making Keyboard Shortcuts Accessible: Keyboard Shortcuts for Healthcare Professionals in an Electronic Healthcare System“</span>.
+</div>
+<div id="ref-holroyd2011impact" class="csl-entry" role="listitem">
+Holroyd-Leduc, Jayna M, Diane Lorenzetti, Sharon E Straus, Lindsay Sykes, und Hude Quan. 2011. <span>„The impact of the electronic medical record on structure, process, and outcomes within primary care: a systematic review of the evidence“</span>. <em>Journal of the American Medical Informatics Association</em> 18 (6): 732–37.
+</div>
+<div id="ref-howard2013electronic" class="csl-entry" role="listitem">
+Howard, Jenna, Elizabeth C Clark, Asia Friedman, Jesse C Crosson, Maria Pellerano, Benjamin F Crabtree, Ben-Tzion Karsh, Carlos R Jaen, Douglas S Bell, und Deborah J Cohen. 2013. <span>„Electronic health record impact on work burden in small, unaffiliated, community-based primary care practices“</span>. <em>Journal of general internal medicine</em> 28: 107–13.
+</div>
 <div id="ref-kbv2025" class="csl-entry" role="listitem">
 Kassenärztliche Bundesvereinigung. 2025. <span>„Praxisverwaltungssysteme (PVS) - Installationsstatistiken von Softwaresystemen“</span>. <a href="https://www.kbv.de/html/6989.php" class="uri">https://www.kbv.de/html/6989.php</a>.
+</div>
+<div id="ref-lane2005hidden" class="csl-entry" role="listitem">
+Lane, David M, H Albert Napier, S Camille Peres, und Aniko Sandor. 2005. <span>„Hidden costs of graphical user interfaces: Failure to make the transition from menus and icon toolbars to keyboard shortcuts“</span>. <em>International Journal of Human-Computer Interaction</em> 18 (2): 133–44.
 </div>
 <div id="ref-mullerpraxisverwaltungssysteme" class="csl-entry" role="listitem">
 Müller, D, T Nieporte, und D Graf von Stillfried. o.&nbsp;J. <span>„Praxisverwaltungssysteme: Deutschlandweite Ergebnisse zu Usability, Nutzerzufriedenheit und Wechselbereitschaft aus 10.245 Bewertungen Practice management systems: Germany-wide results on usability, user satisfaction, and willingness to switch from 10,245 evaluations“</span>.
@@ -1761,8 +1778,20 @@ Müller, D, T Nieporte, und D Graf von Stillfried. o.&nbsp;J. <span>„Praxisver
 <div id="ref-overhage2020physician" class="csl-entry" role="listitem">
 Overhage, J Marc, und David McCallie Jr. 2020. <span>„Physician time spent using the electronic health record during outpatient encounters: a descriptive study“</span>. <em>Annals of internal medicine</em> 172 (3): 169–74.
 </div>
+<div id="ref-price2013adopting" class="csl-entry" role="listitem">
+Price, Morgan, Alex Singer, und Julie Kim. 2013. <span>„Adopting electronic medical records: are they just electronic paper records?“</span> <em>Canadian Family Physician</em> 59 (7): e322–29.
+</div>
+<div id="ref-schuurman2022digital" class="csl-entry" role="listitem">
+Schuurman, Alex R, ME Baarsma, W Joost Wiersinga, und Joppe W Hovius. 2022. <span>„Digital disparities among healthcare workers in typing speed between generations, genders, and medical specialties: cross sectional study“</span>. <em>bmj</em> 379.
+</div>
 <div id="ref-info:doi/10.2196/13876" class="csl-entry" role="listitem">
 Walker, Jan, Suzanne Leveille, Sigall Bell, Hannah Chimowitz, Zhiyong Dong, Joann G Elmore, Leonor Fernandez, u.&nbsp;a. 2019. <span>„OpenNotes After 7 Years: Patient Experiences With Ongoing Access to Their Clinicians’ Outpatient Visit Notes“</span>. <em>J Med Internet Res</em> 21 (5): e13876. <a href="https://doi.org/10.2196/13876">https://doi.org/10.2196/13876</a>.
+</div>
+<div id="ref-winter2023health" class="csl-entry" role="listitem">
+Winter, Alfred, Elske Ammenwerth, Reinhold Haux, Michael Marschollek, Bianca Steiner, und Franziska Jahn. 2023. <em>Health information systems: Technological and management perspectives</em>. Springer Nature.
+</div>
+<div id="ref-zandieh2008challenges" class="csl-entry" role="listitem">
+Zandieh, Stephanie O, Kahyun Yoon-Flannery, Gilad J Kuperman, Daniel J Langsam, Daniel Hyman, und Rainu Kaushal. 2008. <span>„Challenges to EHR implementation in electronic-versus paper-based office practices“</span>. <em>Journal of general internal medicine</em> 23: 755–61.
 </div>
 </div>
 </section>

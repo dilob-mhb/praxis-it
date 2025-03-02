@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -43,8 +63,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ae8f628366cf69ee7dacdca8e88bd768.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-5bee1ded51a482bb1dc82a13494c6431.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-fa33682af00bbd8cf7d0918c676daf29.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-f78b2b218f805bd415631127bf3d3985.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -312,17 +332,22 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./hno.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hals-Nasen-Ohren-Heilkunde</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./impfsoftware.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Impfsoftware</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./medikation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Medikation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
   </div>
 </li>
       </ul>
@@ -409,7 +434,13 @@ cookieconsent.run({
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhaltsverzeichnis</h2>
+   
+  <ul>
+  <li><a href="#künstliche-intelligenz" id="toc-künstliche-intelligenz" class="nav-link active" data-scroll-target="#künstliche-intelligenz">Künstliche Intelligenz</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/augenheilkunde.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
 <p>Projektpartner</p>
 <p><a href="https://www.dilob-mhb.de/"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/DiLoB-Logo-Transparent.png" class="img-fluid" width="100"></a></p>
@@ -521,8 +552,17 @@ cookieconsent.run({
 </tr>
 </tbody>
 </table>
+<section id="künstliche-intelligenz" class="level2">
+<h2 class="anchored" data-anchor-id="künstliche-intelligenz">Künstliche Intelligenz</h2>
+<p>Die Arbeit „VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence“ stellt ein KI-Bilderkennungsmodell vor, das mit 3,4 Millionen ophthalmologischen Bildern von 560.457 Personen aus 26 Ländern und Regionen trainiert wurde. VisionFM deckt ein breites Spektrum an Augenerkrankungen, Bildgebungsmodalitäten (z. B. Fundusfotografie, OCT, UBM) und Geräten ab und bietet durch selbstüberwachtes Lernen eine Grundlage für zahlreiche Anwendungen wie Krankheitsdiagnose, Segmentierung von Läsionen und Gefäßen, Verlaufsprognosen und die Vorhersage systemischer Biomarker. Es übertrifft in der Diagnose von 12 häufigen Augenerkrankungen sowohl junge als auch mittelerfahrene Ophthalmologen, zeigt starke Verallgemeinerungsfähigkeit auf neue Modalitäten und Geräte und nutzt synthetische Daten, um die Lernfähigkeit zu verbessern. Ziel ist es, globale ophthalmologische Herausforderungen effizienter und skalierbarer zu bewältigen, insbesondere in Regionen mit begrenztem Zugang zu Fachkräften, und die Entwicklung zukünftiger KI-Anwendungen im Augenheilkundebereich zu beschleunigen. <span class="citation" data-cites="qiu2023visionfm">(<a href="referenzen.html#ref-qiu2023visionfm" role="doc-biblioref">Qiu u.&nbsp;a. 2023</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-qiu2023visionfm" class="csl-entry" role="listitem">
+Qiu, Jianing, Jian Wu, Hao Wei, Peilun Shi, Minqing Zhang, Yunyun Sun, Lin Li, u.&nbsp;a. 2023. <span>„Visionfm: a multi-modal multi-task vision foundation model for generalist ophthalmic artificial intelligence“</span>. <em>arXiv preprint arXiv:2310.04992</em>.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1110,7 +1150,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
 
-<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/augenheilkunde.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/augenheilkunde.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -43,8 +63,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ae8f628366cf69ee7dacdca8e88bd768.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-5bee1ded51a482bb1dc82a13494c6431.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-fa33682af00bbd8cf7d0918c676daf29.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-f78b2b218f805bd415631127bf3d3985.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -312,17 +332,22 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./hno.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hals-Nasen-Ohren-Heilkunde</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./impfsoftware.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Impfsoftware</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./medikation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Medikation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
   </div>
 </li>
       </ul>
@@ -427,6 +452,7 @@ cookieconsent.run({
   <li><a href="#telemonitoring-bei-copd-und-atemwegserkrankungen" id="toc-telemonitoring-bei-copd-und-atemwegserkrankungen" class="nav-link" data-scroll-target="#telemonitoring-bei-copd-und-atemwegserkrankungen">Telemonitoring bei COPD und Atemwegserkrankungen:</a></li>
   </ul></li>
   <li><a href="#übersichtstabelle" id="toc-übersichtstabelle" class="nav-link" data-scroll-target="#übersichtstabelle">Übersichtstabelle</a></li>
+  <li><a href="#photoplethysmographie-ppg" id="toc-photoplethysmographie-ppg" class="nav-link" data-scroll-target="#photoplethysmographie-ppg">Photoplethysmographie (PPG)</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/telemedizin.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -821,8 +847,44 @@ cookieconsent.run({
 </tr>
 </tbody>
 </table>
+</section>
+<section id="photoplethysmographie-ppg" class="level2">
+<h2 class="anchored" data-anchor-id="photoplethysmographie-ppg">Photoplethysmographie (PPG)</h2>
+<p>Image Photoplethysmographie (iPPG) ist eine berührungslose Methode zur Messung von Herzfrequenz und Blutdruck, indem Lichtintensitätsänderungen im Gesicht mittels Webcam aufgezeichnet werden, wie in einer Studie von Trirongjitmoah et al.&nbsp;(Heliyon, 2024) beschrieben. Die Analyse von 100 Probanden zeigte eine starke Korrelation der iPPG-Herzfrequenz mit einem oszillometrischen Blutdruckmessgerät. Für die Blutdruckschätzung wurden 6-Sekunden-Segmente des iPPG-Signals mittels kontinuierlicher Wavelet-Transformation und einem kompakten Convolutional Neural Network (CNN) verarbeitet, mit Ergebnissen von Grad A für diastolischen und Grad B für systolischen Blutdruck nach den Kriterien der British Hypertension Society. Die Methode erfüllt auch die Standards der Association for the Advancement of Medical Instrumentation und bietet Potenzial für effiziente, nicht-invasiveScreenings, bleibt aber auf klare Signale unter kontrollierten Bedingungen angewiesen. <span class="citation" data-cites="trirongjitmoah2024assessing">(<a href="referenzen.html#ref-trirongjitmoah2024assessing" role="doc-biblioref">Trirongjitmoah u.&nbsp;a. 2024</a>)</span></p>
+<p>Remote Photoplethysmographie (rPPG) ermöglicht die berührungslose Messung physiologischer Parameter wie Herzfrequenz durch Analyse von Hautlichtveränderungen in Videos, wie in einer Studie von Di Lernia et al.&nbsp;(2024) untersucht. Die Autoren entwickelten ein Open-Source-rPPG-Verfahren, das Herzfrequenz aus Online-Webcam-Videos extrahiert, selbst unter unkontrollierten Bedingungen wie variierender Beleuchtung oder Bewegung. In zwei Experimenten wurde die Methode validiert: Zuerst gegen den CohFace-Datensatz (Laborkonditionen) und dann mit 231 Online-Videos von 18 Teilnehmern, verglichen mit Fingerpulsoximeter-Daten. Die Ergebnisse zeigten eine hohe Genauigkeit (Spearman-Korrelation rs = 0.752 im Labor, Pearson r = 0.578 online), trotz Herausforderungen wie Signalrauschen und schlechter Videoqualität. <span class="citation" data-cites="di2024remote">(<a href="referenzen.html#ref-di2024remote" role="doc-biblioref">Di Lernia u.&nbsp;a. 2024</a>)</span></p>
+<p>Die Studie von Allado et al.&nbsp;(2022) untersuchte die Genauigkeit der Remote-Photoplethysmographie (rPPGc) zur Messung der Herzfrequenz (HR) in klinischen Alltagssituationen anhand von 963 Patienten, die eine Lungenfunktionsprüfung benötigten. Mit dem rPPGc-System Caducy v1.0.0 wurden HR-Messungen per Webcam gleichzeitig mit einem Standard-EKG (Goldstandard) über 60 Sekunden durchgeführt. Die Ergebnisse zeigten eine hohe Übereinstimmung (ICC = 0.886, CI95 [0.871–0.899]), wobei 94,6 % der Messungen im Bland-Altman-Plot innerhalb des CI95 lagen, was eine Genauigkeit von 96,2 % ergab. Alter, Geschlecht und Hautphototypen 1–4 beeinflussten die Präzision nicht, jedoch war die Stichprobe für dunklere Hauttöne (FSP 5–6) zu klein für definitive Aussagen. Die Studie bestätigt das Potenzial von rPPGc für HR-Messungen in der Telemedizin. <span class="citation" data-cites="allado2022accurate">(<a href="referenzen.html#ref-allado2022accurate" role="doc-biblioref">Allado u.&nbsp;a. 2022</a>)</span></p>
+<table class="caption-top table">
+<caption>Beispiele PPG Anwendungen</caption>
+<thead>
+<tr class="header">
+<th>Anwendung</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>CheckBP</td>
+<td><a href="https://www.checkbp.com/">checkbp.com</a></td>
+</tr>
+<tr class="even">
+<td>Pulse HRV by Camera BLE ECG</td>
+<td><a href="https://play.google.com/store/apps/details?id=srb.ctb.pulse.heartrate.camera.ecg4everybody&amp;hl=en">play.google.com</a></td>
+</tr>
+</tbody>
+</table>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-allado2022accurate" class="csl-entry" role="listitem">
+Allado, Edem, Mathias Poussel, Anthony Moussu, Oriane Hily, Margaux Temperelli, Asma Cherifi, Veronique Saunier, Yohann Bernard, Eliane Albuisson, und Bruno Chenuel. 2022. <span>„Accurate and reliable assessment of heart rate in real-life clinical settings using an imaging photoplethysmography“</span>. <em>Journal of Clinical Medicine</em> 11 (20): 6101.
+</div>
+<div id="ref-di2024remote" class="csl-entry" role="listitem">
+Di Lernia, Daniele, Gianluca Finotti, Manos Tsakiris, Giuseppe Riva, und Marnix Naber. 2024. <span>„Remote photoplethysmography (rPPG) in the wild: Remote heart rate imaging via online webcams“</span>. <em>Behavior Research Methods</em> 56 (7): 6904–14.
+</div>
+<div id="ref-trirongjitmoah2024assessing" class="csl-entry" role="listitem">
+Trirongjitmoah, Suchin, Arphorn Promking, Khanittha Kaewdang, Nisarut Phansiri, und Kriengsak Treeprapin. 2024. <span>„Assessing heart rate and blood pressure estimation from image photoplethysmography using a digital blood pressure meter“</span>. <em>Heliyon</em> 10 (5).
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
