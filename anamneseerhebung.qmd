@@ -1,10 +1,12 @@
+# Anamnese & Dokumentation
+
 ::: {.content-visible when-format="html"}
 
 ![](https://badgen.net/badge/DiLoB%20geprüft/Ja/green?icon=github)
 
 :::
 
-# Anamnese & Dokumentation
+## Einleitung
 
 Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Patientendaten, Anamnesen, Schulung und Dokumentation.
 
@@ -40,6 +42,8 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 
 : Übersicht Softwarelösungen digitale Anamnese & Dokumentation
 
+## Dokumentation
+
 | Anbieter                            | Webseite                                                           | Beschreibung |
 |:------------------------------------|:-------------------------------------------------------------------|:------------|
 | medudoc                            | [medudoc](https://www.medudoc.com)                                 | Bietet eine digitale Plattform für Patientenaufklärung mit personalisierten Videos. Patienten können sich vorab über geplante Eingriffe informieren. |
@@ -55,7 +59,7 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 
 : Übersicht Softwarelösungen Dokumentation 
 
-## Weitere Triagewerkzeuge
+## Triagewerkzeuge
 
 Der [Patienten-Navi](https://www.116117.de/de/patienten-navi.php), ein digitales Tool der Kassenärztlichen Bundesvereinigung (KBV), das Hilfesuchenden eine Selbsteinschätzung ihrer medizinischen Beschwerden ermöglicht. Über einen Chatbot beantworten Nutzer Fragen zu ihren Symptomen, woraufhin die Software „Strukturierte medizinische Ersteinschätzung in Deutschland“ (SmED) Warnhinweise prüft und Empfehlungen zur Dringlichkeit und Versorgungsstufe (z. B. Arztpraxis, 116117 oder 112) gibt. Das Angebot ist anonym, ohne Anmeldung nutzbar und unterstützt die Entlastung des ärztlichen Bereitschaftsdienstes, indem es Patienten orientiert und bei Bedarf an weitere Dienste vermittelt.
 
