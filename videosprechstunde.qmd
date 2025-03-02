@@ -1,5 +1,7 @@
 # Videosprechstunde
 
+## Einleitung
+
 **Gemeinsame Merkmale von Videosprechstundenprodukten:**
 
 - **Video- und Audio-Kommunikation**: Alle Anbieter bieten eine Plattform zur visuellen und akustischen Interaktion zwischen Arzt und Patient.
