@@ -6,3 +6,25 @@
 | Meine Medikation      | [play.google.com](https://play.google.com/store/apps/details?id=de.barmer.meinemedikation) |
 | Mediteo               | [play.google.com](https://play.google.com/store/apps/details?id=com.mediteo.mobile) |
 | MyTherapy             | [mytherapyapp.com](https://www.mytherapyapp.com/de/app-zum-bundeseinheitlichen-medikationsplan-scan) |
+
+## Arzneimitteltherapiesicherheit (AMTS)
+
+| Produkt-URL                                     | Beschreibung                                                                                   |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [ifap.de/therafox-pro](https://www.ifap.de/deu_de/lp/therafox-pro-fuer-aerzte.html) | THERAFOX PRO: Webbasierter AMTS-Check für Ärzte zur Prüfung von Medikationsrisiken wie Wechselwirkungen. |
+| [mmi.de/amts-service](https://www.mmi.de/mmi-pharmindex/mmi-amts-service)           | MMI AMTS-Service: Tool zur Analyse von Arzneimittelrisiken für Fachpersonal und Patientenberatung.       |
+
+: Übersicht AMTS Systeme
+
+[embryotox.de](https://www.embryotox.de/) ist eine unabhängige Informationsplattform des Pharmakovigilanz- und Beratungszentrums für Embryonaltoxikologie an der Charité-Universitätsmedizin Berlin. Sie bietet evidenzbasierte Informationen zur Sicherheit von Arzneimitteln in Schwangerschaft und Stillzeit. Nutzer können Wirkstoffe oder Erkrankungen suchen, um Risiken, Empfehlungen und Alternativen zu erfahren, ergänzt durch ein Ampelsystem zur schnellen Einschätzung. Gefördert vom Bundesministerium für Gesundheit, arbeitet Embryotox ohne Einfluss der Pharmaindustrie und bietet zusätzlich kostenlose individuelle Beratung sowie eine App.
+
+[dosing.de](https://dosing.de/) wird vom Institut für Klinische Pharmakologie & Pharmakoepidemiologie des Universitätsklinikums Heidelberg betrieben. Kernfunktion ist die Unterstützung bei der Dosisanpassung von Medikamenten, insbesondere bei Niereninsuffizienz.
+
+## ATHINA
+
+[ATHINA (Arzneimitteltherapiesicherheit in Apotheken)](https://www.aknr.de/amts/athina) ist ein Qualifizierungskonzept, das 2012 von der Apothekerkammer Nordrhein entwickelt wurde und mittlerweile von zwölf Landesapothekerkammern im ATHINA-Verbund umgesetzt wird. Ziel ist die Etablierung der Medikationsanalyse in öffentlichen Apotheken, um die Arzneimitteltherapiesicherheit (AMTS) zu verbessern, insbesondere bei Patienten mit Polymedikation.
+
+## Pharmazeutische Dienstleistung Polymedikation
+
+Die [pharmazeutische Dienstleistung „Erweiterte Medikationsberatung bei Polymedikation“](https://www.abda.de/pharmazeutische-dienstleistungen/polymedikation/) richtet sich an Patienten mit Polymedikation, also Personen, die dauerhaft mindestens fünf systemisch wirkende Arzneimittel oder Inhalativa einnehmen. Sie wird einmal jährlich oder bei erheblicher Umstellung der Medikation (mindestens drei neue oder geänderte systemische Mittel innerhalb von vier Wochen) angeboten. Im Mittelpunkt steht ein strukturiertes Gespräch, bei dem die gesamte Medikation – einschließlich Selbstmedikation – erfasst wird, ergänzt durch Daten aus der Apotheke, Medikationsplänen oder Arztberichten. Eine pharmazeutische Prüfung auf arzneimittelbezogene Probleme wie Interaktionen, Doppelmedikation oder Anwendungsfehler folgt, wobei Lösungen erarbeitet und bei Bedarf mit dem Arzt abgestimmt werden. Abschließend erhalten Patienten einen aktuellen Medikationsplan, Ärzte bei Zustimmung einen Bericht. Ziel ist die Erhöhung der Arzneimitteltherapiesicherheit, Verbesserung der Therapieeffektivität und Optimierung der Medikamentenanwendung. Die Dienstleistung wird von qualifizierten Apothekern erbracht und von der Krankenkasse vergütet.
+
