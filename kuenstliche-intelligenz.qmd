@@ -19,3 +19,15 @@ Der [KI-Campus](https://ki-campus.org/themen/medizin) bietet kostenlose Online-K
 ## Online Plattformen
 
 Kaggle-Datensätze und Kaggle-Wettbewerbe illustrieren den Einsatz künstlicher Intelligenz in der Medizin, indem sie Zugang zu Gesundheitsdaten und Herausforderungen bieten. Nutzende können [Datensätze](https://www.kaggle.com/datasets?tags=11111-Health) wie beispielsweise anonymisierte, fiktive Gesundheitsdaten oder medizinische Bilddaten herunterladen, um KI-Modelle für Diagnosen oder Therapieoptimierung zu trainieren. Parallel dazu fördern [Wettbewerbe](https://www.kaggle.com/competitions?tagIds=4202) die Entwicklung von Algorithmen und Modellen, etwa zur Vorhersage von Krankheitsverläufen oder zur Analyse von Gesundheitsrisiken, durch kollaborativen Wissenswettbewerb. Kaggle bietet eine Plattform, auf der KI-gestützte Lösungen getestet, verfeinert und auf medizinische Probleme angewendet werden können.
+
+## Ethik
+
+Das Projekt [„Mein Doktor, die KI und ich“](https://www.mhh.de/institute-zentren-forschungseinrichtungen/institut-fuer-geschichte-ethik-und-philosophie-der-medizin/arbeitsgruppen/ag-ethik-und-theorie-der-digitalisierung/mein-doktor-die-ki-und-ich#skip-navigation-link) des Instituts für Geschichte, Ethik und Philosophie der Medizin an der Medizinischen Hochschule Hannover untersuchte den Einsatz von Künstlicher Intelligenz in der Gesundheitsversorgung aus der Perspektive von Bürgern und Ärzten über den Zeitraum von 2023 bis 2024. In mehreren Veranstaltungen wurde diskutiert, wie KI die Arzt-Patienten-Beziehung verändert und welche ethischen Herausforderungen dabei entstehen. Ziel war es, konkrete Handlungsempfehlungen für den verantwortungsvollen Einsatz von KI in der Medizin zu entwickeln.
+
+## Datengetriebene Lösungen
+
+Die Dienstleistung von [Intrexx](https://www.intrexx.com/de/gesundheitswesen/) konzentriert sich auf die Bereitstellung einer Low-Code-Plattform, um Datenaustausch bestehender digitaler Systeme nahtlos zu ermöglichen. Intrexx ermöglicht die Erstellung von Datenanwendungen mit minimalem Programmieraufwand, indem es intuitive Tools wie den [Daten-Designer](https://www.intrexx.com/de/plattform/daten-builder/) für zentralisierte, datenschutzkonforme Datenverwaltung bereitstellt. Automatisierung wird durch vordefinierte [Workflows](https://www.intrexx.com/de/plattform/prozess-builder/) realisiert, wodurch Routineaufgaben effizienter und fehlerärmer werden. Der Intrexx [Applikations-Builder](https://www.intrexx.com/de/plattform/applikations-builder/) ermöglicht es Datenmodelle, Formulare und Workflows zu erstellen und an spezifische Anforderungen anzupassen. Es bedarf keine umfassenden IT-Kenntnisse, dank der Low-Code-Ansätze wie Drag-and-Drop und vorgefertigter Schnittstellen.
+
+## Übersichtsplattform
+
+Die Website [Alles KI](https://alles-ki.com/de) bietet einen Überblick über KI-Anwendungen zum Einsatz im Alltag.

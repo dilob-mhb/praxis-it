@@ -1,0 +1,38 @@
+# Medikation
+
+| Name                  | URL                                                                 |
+|-----------------------|---------------------------------------------------------------------|
+| Papp                  | [play.google.com](https://play.google.com/store/apps/details?id=com.rwthaachen.papp) |
+| Meine Medikation      | [play.google.com](https://play.google.com/store/apps/details?id=de.barmer.meinemedikation) |
+| Mediteo               | [play.google.com](https://play.google.com/store/apps/details?id=com.mediteo.mobile) |
+| MyTherapy             | [mytherapyapp.com](https://www.mytherapyapp.com/de/app-zum-bundeseinheitlichen-medikationsplan-scan) |
+
+## Arzneimitteltherapiesicherheit (AMTS)
+
+| Produkt-URL                                     | Beschreibung                                                                                   |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [ifap.de/therafox-pro](https://www.ifap.de/deu_de/lp/therafox-pro-fuer-aerzte.html) | THERAFOX PRO: Webbasierter AMTS-Check für Ärzte zur Prüfung von Medikationsrisiken wie Wechselwirkungen. |
+| [mmi.de/amts-service](https://www.mmi.de/mmi-pharmindex/mmi-amts-service)           | MMI AMTS-Service: Tool zur Analyse von Arzneimittelrisiken für Fachpersonal und Patientenberatung.       |
+
+: Übersicht AMTS Systeme
+
+[embryotox.de](https://www.embryotox.de/) ist eine unabhängige Informationsplattform des Pharmakovigilanz- und Beratungszentrums für Embryonaltoxikologie an der Charité-Universitätsmedizin Berlin. Sie bietet evidenzbasierte Informationen zur Sicherheit von Arzneimitteln in Schwangerschaft und Stillzeit. Nutzer können Wirkstoffe oder Erkrankungen suchen, um Risiken, Empfehlungen und Alternativen zu erfahren, ergänzt durch ein Ampelsystem zur schnellen Einschätzung. Gefördert vom Bundesministerium für Gesundheit, arbeitet Embryotox ohne Einfluss der Pharmaindustrie und bietet zusätzlich kostenlose individuelle Beratung sowie eine App.
+
+[dosing.de](https://dosing.de/) wird vom Institut für Klinische Pharmakologie & Pharmakoepidemiologie des Universitätsklinikums Heidelberg betrieben. Kernfunktion ist die Unterstützung bei der Dosisanpassung von Medikamenten, insbesondere bei Niereninsuffizienz.
+
+## ATHINA
+
+[ATHINA (Arzneimitteltherapiesicherheit in Apotheken)](https://www.aknr.de/amts/athina) ist ein Qualifizierungskonzept, das 2012 von der Apothekerkammer Nordrhein entwickelt wurde und mittlerweile von zwölf Landesapothekerkammern im ATHINA-Verbund umgesetzt wird. Ziel ist die Etablierung der Medikationsanalyse in öffentlichen Apotheken, um die Arzneimitteltherapiesicherheit (AMTS) zu verbessern, insbesondere bei Patienten mit Polymedikation.
+
+## Pharmazeutische Dienstleistung Polymedikation
+
+Die [pharmazeutische Dienstleistung „Erweiterte Medikationsberatung bei Polymedikation“](https://www.abda.de/pharmazeutische-dienstleistungen/polymedikation/) richtet sich an Patienten mit Polymedikation, also Personen, die dauerhaft mindestens fünf systemisch wirkende Arzneimittel oder Inhalativa einnehmen. Sie wird einmal jährlich oder bei erheblicher Umstellung der Medikation (mindestens drei neue oder geänderte systemische Mittel innerhalb von vier Wochen) angeboten. Im Mittelpunkt steht ein strukturiertes Gespräch, bei dem die gesamte Medikation – einschließlich Selbstmedikation – erfasst wird, ergänzt durch Daten aus der Apotheke, Medikationsplänen oder Arztberichten. Eine pharmazeutische Prüfung auf arzneimittelbezogene Probleme wie Interaktionen, Doppelmedikation oder Anwendungsfehler folgt, wobei Lösungen erarbeitet und bei Bedarf mit dem Arzt abgestimmt werden. Abschließend erhalten Patienten einen aktuellen Medikationsplan, Ärzte bei Zustimmung einen Bericht. Ziel ist die Erhöhung der Arzneimitteltherapiesicherheit, Verbesserung der Therapieeffektivität und Optimierung der Medikamentenanwendung. Die Dienstleistung wird von qualifizierten Apothekern erbracht und von der Krankenkasse vergütet.
+
+## Datenmatrix QR Code Medikationsplan
+
+Ein Datenmatrix QR-Code des bundeseinheitlichen Medikationsplans ist ein zweidimensionaler Barcode, der die wichtigsten Informationen eines Medikationsplans in digitaler Form speichert. Er ermöglicht eine schnelle und fehlerfreie Übertragung von Arzneimittelinformationen zwischen Arzt, Apotheke und Patient, indem er Details zu verschriebenen Medikamenten, Dosierungen und Anwendungsbedingungen enthält.
+
+Die [Spezifikation für den bundeseinheitlichen Medikationsplan (BMP) gemäß § 31a SGB V](https://www.kbv.de/media/sp/Medikationsplan_Anlage3_ab_01.04.2023.pdf) regelt die technischen Anforderungen und Struktur eines standardisierten Medikationsplans, der in Papierform sowie als maschinenlesbare Version vorliegt. Sie legt fest, wie dieser Plan erstellt, aktualisiert und von verschiedenen Akteuren im Gesundheitswesen genutzt wird, einschließlich der Integration in Arztpraxen, Apotheken und Krankenhäusern. Die Spezifikation berücksichtigt auch die Barrierefreiheit für sehbehinderte Patienten und den Einsatz eines 2D-Barcodes zur maschinenlesbaren Speicherung und Übertragung der Medikationsdaten.
+
+![Beispieldatenmatrix QR Code](https://barcode.tec-it.com/barcode.ashx?data=%3CMP+v%3D%22026%22+U%3D%227B2C1D04B453472D9FDA6CD74C1FE8C9%22+l%3D%22de-DE%22%3E%0A++%3CP+g%3D%22J%26%23xfc%3Brgen%22+f%3D%22Wernersen%22+b%3D%221940-03-%22%2F%3E%0A++%3CA+n%3D%22J%26%23xfc%3Brgen+Wernersen%22+t%3D%222025-03-02T11%3A24%3A23%22%2F%3E%0A++%3CO%2F%3E%0A++%3CS%3E%0A++++%3CM+p%3D%22230272%22+f%3D%22RET%22+m%3D%221%22+du%3D%221%22+r%3D%22Metformin%22%2F%3E%0A++++%3CM+p%3D%222223945%22+f%3D%22TAB%22+m%3D%221%22+du%3D%221%22+r%3D%22Sitagliptin%22%2F%3E%0A++++%3CM+p%3D%22558736%22+f%3D%22ZAM%22+m%3D%2220%22+v%3D%2220%22+du%3D%22p%22+i%3D%22Wechseln+der+Injektionsstellen%2C+unmittelbar+vor+einer+Mahlzeit+spritzen%22+r%3D%22Forxiga%22%2F%3E%0A++%3C%2FS%3E%0A++%3CS+c%3D%22423%22%3E%0A++++%3CM+p%3D%222239828%22+f%3D%22PFT%22+t%3D%22alle+drei+Tage+1%22+du%3D%221%22+i%3D%22auf+wechselnde+Stellen+aufkleben%22+r%3D%22Schmerzen%22%2F%3E%0A++%3C%2FS%3E%0A++%3CS+c%3D%22418%22%3E%0A++++%3CM+p%3D%222455874%22+f%3D%22FTA%22+m%3D%221%22+du%3D%221%22+r%3D%22Stimmung%22%2F%3E%0A++%3C%2FS%3E%0A++%3CS+t%3D%22Hinweise+zur+Aktualit%26%23xe4%3Bt%22%3E%0A++++%3CX+t%3D%22Medikationsplan+basiert+auf+einem+vorherigen+Ausdruck+und+wurde+vom+Patienten+m%C3%B6glicherweise+ver%C3%A4ndert.%22%2F%3E%0A++%3C%2FS%3E%0A%3C%2FMP%3E%0A&code=DataMatrix&dmsize=Default)
+

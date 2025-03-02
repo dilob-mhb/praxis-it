@@ -10,3 +10,5 @@
 | Orgamax | [orgamax.de](https://www.orgamax.de/) |
 
 : Beispiele digitale Materialwirtschaft
+
+Die Praxisdienst-Apps, ["easyOrder"](https://www.praxisdienst.de/praxisdienst+apps/), zeigt wie digitale Hilfsmittel in der Materialwirtschaft in Arztpraxen nützlich sein können. Die easyOrder App ermöglicht es, vergangene Bestellungen als Basis für neue zu nutzen, Produktsuchen durchzuführen und durch Bestandsalarme rechtzeitig Nachschub zu ordern. Der Bestell-Assistent erleichtert das Scannen von EAN-Codes per Smartphone oder Zebra TC22 Scanner, um Artikel direkt in den digitalen Warenkorb zu übernehmen.
