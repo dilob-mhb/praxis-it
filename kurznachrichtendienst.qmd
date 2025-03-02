@@ -46,6 +46,13 @@ Das Matrix-Protokoll ist ein offenes Standardprotokoll für dezentrale, sichere 
 
 Quelle: u.a. [@gematik-ti-messenger]
 
+|    | Software            | Anbieter                | URL                |
+|---:|:--------------------|:------------------------|:-------------------|
+| 0 | Garrio                          | Garrio GmbH             | [garrio.de](https://garrio.de/)          |
+| 1 | App zum Doc                     | helpwave GmbH        | [app-zum-doc.de](https://app-zum-doc.de/) |
+
+: Weitere Kommunikationsanwendungen
+
 ## Sicherheit Nachrichtenverkehr
 
 ### Vergleich von Instant-Messaging-Diensten

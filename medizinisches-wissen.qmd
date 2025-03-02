@@ -68,3 +68,15 @@ Die optimale Methode Wissen zu notieren, ob auf Papier oder elektronisch, bleibt
 | Evernote | [evernote.com](https://evernote.com/de-de)                          |
 
 : Beispiele digitale Notizprogramme
+
+## digitale Verwaltung der Fortbildungspunkte
+
+Die Website https://www.fobiapp.de/ ist die offizielle Plattform der FobiApp, einer Fortbildungsanwendung, die von der Landesärztekammer Hessen entwickelt wurde, um Ärztinnen und Ärzten in Deutschland die Verwaltung ihrer Fortbildungspunkte und -veranstaltungen zu erleichtern. Sie bietet Informationen zur Nutzung der App, die ab 2025 durch eine webbasierte Lösungen ersetzt wird.
+
+## eLogbuch
+
+Das eLogbuch der Ärztekammern, zugänglich über https://elogbuch.bundesaerztekammer.de/Home/Login, ist eine digitale Webanwendung der Bundesärztekammer, die einheitlich die Dokumentation der ärztlichen Weiterbildung sowohl für Weiterbildungsbefugte (WBB) als auch für Ärztinnen und Ärzte in Weiterbildung (WBA) erleichtert. Für Weiterzubildende ermöglicht das eLogbuch eine kontinuierliche, ortsunabhängige Erfassung von Weiterbildungsinhalten. Anders als beim Papierlogbuch, das physisch geführt und übergeben werden muss, können WBA ihre Fortschritte jederzeit digital aktualisieren, an WBB zur Bestätigung freigeben und bei einem Kammerwechsel nahtlos mitnehmen – ein klarer Vorteil gegenüber der statischen Papierform. Für Weiterbildungsbefugte bietet das eLogbuch eine zentrale, digitale Übersicht über die Logbücher der WBA, die sie betreuen. Statt Papierdokumente einzeln zu prüfen, können WBB online auf freigegebene Einträge zugreifen, diese bestätigen und Weiterbildungsgespräche direkt im System dokumentieren. Dies reduziert den Verwaltungsaufwand erheblich und ermöglicht eine schnellere, transparentere Rückmeldung im Vergleich zum oft zeitaufwändigen Austausch physischer Logbücher.
+
+## Große Sprachmodelle
+
+OpenEvidence (OE), ein großes Sprachmodel mit medizinischem Fokus, zeichnet sich im Vergleich zu ähnlichen Produkten wie DynaMed, UpToDate und anderen LLMs (z. B. GPT-4, Llama-3.1, CoPilot) durch Antworten mit Referenzen aus Fachjournalen und Leitlinien aus. OE ist bei allgemeinen Fragen effizienter ist als textlastige klinische Ressourcen. Im Gegensatz zu GPT-4 oder Llama-3.1, die keine Zitate liefern, und CoPilot, das oft auf Websites verweist, bietet OE eine wissenschaftlichere Grundlage, ist aber weniger umfassend als kostenpflichtige Tools wie UpToDate oder Amboss und dient eher als gezielte Punkt-of-Care-Hilfe denn als Wissensdatenbank. [@10.22454/FamMed.2024.587513]

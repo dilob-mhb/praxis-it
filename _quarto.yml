@@ -54,13 +54,17 @@ book:
       - gefaessmedizin.qmd
       - wunddokumentation.qmd
       - rheumatologie.qmd
+      # - orthopaedie.qmd
       - rehabilitation.qmd
       - psychotherapie.qmd
       - neurologie.qmd
       - ambulantes-operieren.qmd
-      - zahnarzt.qmd
       - hno.qmd
       - impfsoftware.qmd
+      - medikation.qmd
+      - zahnarzt.qmd
+      # - pflege.qmd
+      # - krankenhaus.qmd
     - part: "Verwaltung"
       chapters:
       - buchhaltung.qmd
