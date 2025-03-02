@@ -123,19 +123,6 @@ Quellen: System Usability Scale (SUS Mittelwert) und Net Promoter Score (NPS Mit
 
 Im Jahr 2009 führte die US-Regierung eine Gesetzgebung ein, die Gesundheitsdienstleister dazu anregte, Technologien zu adaptieren, die Patienten elektronischen Zugang zu ihren Gesundheitsdaten über sichere Patientenportale ermöglichen, um eine stärkere Patientenbeteiligung für bessere Gesundheitsergebnisse zu fördern. Die OpenNotes-Initiative von 2010, die zunächst auf hausärztliche Versorgung fokussiert war, beinhaltete das Teilen von Ärzte-Notizen mit Patienten und zeigte erhebliche Vorteile wie eine erhöhte Kontrolle der Patienten über ihre Gesundheitsversorgung, ein besseres Verständnis der medizinischen Pläne und eine bessere Vorbereitung auf Arztbesuche. Diese Praxis hat sich seitdem erweitert, und mittlerweile haben über 38 Millionen US-Patienten elektronischen Zugang zu ihren Notizen in verschiedenen Fachrichtungen. Eine umfassende Umfrage in drei Gesundheitssystemen zeigte, dass Patienten, insbesondere solche aus benachteiligten Gruppen, das Lesen der Notizen als äußerst nützlich empfanden, wobei nur wenige Verwirrung oder erhöhte Sorgen meldeten. Die Studie unterstreicht den Wert transparenter medizinischer Aufzeichnungen zur Verbesserung der Patientenbeteiligung und deutet auf Potenziale für weitere Verbesserungen in der Kommunikation zwischen Patient und Arzt hin. [@info:doi/10.2196/13876]
 
-## Arzneimitteltherapiesicherheit (AMTS)
-
-| Produkt-URL                                     | Beschreibung                                                                                   |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [ifap.de/therafox-pro](https://www.ifap.de/deu_de/lp/therafox-pro-fuer-aerzte.html) | THERAFOX PRO: Webbasierter AMTS-Check für Ärzte zur Prüfung von Medikationsrisiken wie Wechselwirkungen. |
-| [mmi.de/amts-service](https://www.mmi.de/mmi-pharmindex/mmi-amts-service)           | MMI AMTS-Service: Tool zur Analyse von Arzneimittelrisiken für Fachpersonal und Patientenberatung.       |
-
-: Übersicht AMTS Systeme
-
-[embryotox.de](https://www.embryotox.de/) ist eine unabhängige Informationsplattform des Pharmakovigilanz- und Beratungszentrums für Embryonaltoxikologie an der Charité-Universitätsmedizin Berlin. Sie bietet evidenzbasierte Informationen zur Sicherheit von Arzneimitteln in Schwangerschaft und Stillzeit. Nutzer können Wirkstoffe oder Erkrankungen suchen, um Risiken, Empfehlungen und Alternativen zu erfahren, ergänzt durch ein Ampelsystem zur schnellen Einschätzung. Gefördert vom Bundesministerium für Gesundheit, arbeitet Embryotox ohne Einfluss der Pharmaindustrie und bietet zusätzlich kostenlose individuelle Beratung sowie eine App.
-
-[dosing.de](https://dosing.de/) wird vom Institut für Klinische Pharmakologie & Pharmakoepidemiologie des Universitätsklinikums Heidelberg betrieben. Kernfunktion ist die Unterstützung bei der Dosisanpassung von Medikamenten, insbesondere bei Niereninsuffizienz.
-
 ## Elektronische Patientenakte
 
 Der Artikel „The impact of the electronic medical record on structure, process, and outcomes within primary care: a systematic review of the evidence“ von Jayna M. Holroyd-Leduc und Kollegen untersucht die Auswirkungen elektronischer Patientenakten (EPA) in der ambulanten Primärversorgung. Die systematische Literaturübersicht analysiert Studien von 1998 bis 2010 und zeigt, dass EPA strukturelle Vorteile wie bessere Lesbarkeit und Zugänglichkeit bietet sowie Prozesse wie Dokumentation und Kommunikation verbessert. Die Effekte auf klinische Ergebnisse sind jedoch weniger eindeutig, mit nur geringfügigen Verbesserungen der Gesundheitsqualität. Kosten-Nutzen-Analysen deuten auf langfristige Einsparungen hin. [@holroyd2011impact]
