@@ -3,3 +3,12 @@
 ## Forschung
 
 Die Studie „Real-Time Laryngeal Cancer Boundaries Delineation on White Light and Narrow-Band Imaging Laryngoscopy with Deep Learning“, veröffentlicht am 4. Januar 2024 in The Laryngoscope, untersucht die Anwendung von Deep Learning zur automatischen Abgrenzung von Kehlkopfkrebs in endoskopischen Bildern und Videos. Unter der Leitung von Claudio Sampieri und Kollegen wurde das Modell SegMENT-Plus anhand von 3933 Bildern von 557 Patienten trainiert und auf zwei externen Datensätzen validiert, wobei es eine hohe Genauigkeit (Dice Similarity Coefficient = 0,83) und eine Verarbeitungsgeschwindigkeit von 25,6 Frames pro Sekunde erreichte. Es zeigte ähnliche Leistungen wie zwei HNO-Assistenzärzte und konnte in Echtzeit auf Videolaryngoskopien angewendet werden. Ziel ist es, die Präzision bei der Tumorresektion zu verbessern und positive Schnittränder zu reduzieren, wobei klinische Studien für die Praxisanwendung noch ausstehen. Die Ergebnisse deuten auf eine robuste Generalisierung und ein großes Potenzial für die chirurgische Unterstützung hin. [@https://doi.org/10.1002/lary.31255]
+
+## DiGA
+
+Digitale Gesundheitsanwendungen (DiGA) haben in den letzten Jahren zunehmend an Bedeutung gewonnen, insbesondere im HNO-Bereich, wo sie Patienten mit chronischen Erkrankungen wie Tinnitus unterstützen können. Diese Apps bieten strukturierte, evidenzbasierte Therapieansätze oder beratende Maßnahmen, die in den Behandlungsprozess integriert werden können. Beide Apps, Meine Tinnitus App und Kalmeda, sind digitale Gesundheitsanwendungen (DiGA), die darauf abzielen, Menschen mit Tinnitus zu unterstützen. 
+
+| Anbieter                | Webseite                                                 | Beschreibung                                                                                          | Anwendungsdauer |
+|:------------------------|:---------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:----------------|
+| Meine Tinnitus App     | [Meine Tinnitus App](https://www.meinetinnitusapp.de/)   | Bietet Tinnitus Counseling zur Aufklärung und Beratung, um eine Basis für weitere Therapieoptionen zu schaffen. | 10 Wochen (Lektionen à 60–90 Minuten) |
+| Kalmeda               | [Kalmeda](https://www.kalmeda.de/)                        | Digitale Gesundheitsanwendung mit kognitiver Verhaltenstherapie zur Behandlung und Bewältigung von Tinnitus. | 90 Tage |
