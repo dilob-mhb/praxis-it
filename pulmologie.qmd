@@ -1,5 +1,7 @@
 # Pulmologie
 
+Die Webseite [atemwegsliga.de/pneumo-digital-apps](https://www.atemwegsliga.de/pneumo-digital-apps/articles/pneumo-digital-apps.html) gehört zur Deutschen Atemwegsliga e.V. und ist Teil der Initiative PneumoDigital. Diese Initiative widmet sich der Bewertung und Vorstellung von Gesundheits-Apps, die speziell für Menschen mit pneumologischen Erkrankungen wie Asthma oder COPD entwickelt wurden.
+
 ## Schlafen
 
 | Name         | URL                           |
