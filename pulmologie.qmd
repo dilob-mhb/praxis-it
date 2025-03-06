@@ -2,6 +2,26 @@
 
 Die Webseite [atemwegsliga.de/pneumo-digital-apps](https://www.atemwegsliga.de/pneumo-digital-apps/articles/pneumo-digital-apps.html) gehört zur Deutschen Atemwegsliga e.V. und ist Teil der Initiative PneumoDigital. Diese Initiative widmet sich der Bewertung und Vorstellung von Gesundheits-Apps, die speziell für Menschen mit pneumologischen Erkrankungen wie Asthma oder COPD entwickelt wurden.
 
+| Name                   | URL                                                                 |
+|------------------------|---------------------------------------------------------------------|
+| Kaia COPD              | [Kaia COPD](https://kaiahealth.de/patient-kaia-copd/)          |
+| Atemwege gemeinsam gehen | [pneumo-digital-apps/app-atemwege](https://www.atemwegsliga.de/service-220/pneumodigital/pneumo-digital-apps/app-atemwege.html) |
+| OMRON Asthma Diary     | [OMRON Asthma Diary](https://www.atemwegsliga.de/app/omron-asthma-diary.html) |
+| Vivatmo                | [Vivatmo](https://www.atemwegsliga.de/app/vivatmo.html)              |
+| breazyTrack            | [breazyTrack](https://www.atemwegsliga.de/app/breazy-track.html)      |
+| copd-aktuell.de        | [copd-aktuell.de](https://www.atemwegsliga.de/app/copd-aktuell.de.html) |
+| Kata                   | [Kata](https://www.atemwegsliga.de/app/kata.html)                    |
+| myAir                  | [myAir](https://www.atemwegsliga.de/app/my-air.html)                  |
+| NichtraucherHelden     | [NichtraucherHelden](https://www.atemwegsliga.de/app/nichtraucher-helden.html) |
+| SaniQ                  | [SaniQ](https://www.atemwegsliga.de/app/sani-q-asthma.html)                  |
+| TheraKey               | [TheraKey](https://www.atemwegsliga.de/app/thera-key.html)            |
+
+: Beispiele digitale Anwendungen
+
+Quelle: [atemwegsliga.de/pneumo-digital-apps](https://www.atemwegsliga.de/pneumo-digital-apps/articles/pneumo-digital-apps.html)
+
+Die Webseite https://rauchfrei-info.de/ ist ein unabhängiges Informationsportal der Bundeszentrale für gesundheitliche Aufklärung (BZgA), das Rauchenden kostenfrei und seriös beim Ausstieg aus der Nikotinabhängigkeit unterstützt. Sie bietet umfassende Ressourcen wie das „rauchfrei Ausstiegsprogramm“, bei dem Nutzer über 21 Tage mit täglichen Tipps, E-Mails und einer Erfolgskurve begleitet werden, sowie ein Forum und Chat für den Austausch mit Gleichgesinnten und Experten. Zusätzlich gibt es praktische Tools wie einen Ersparnisrechner, Tests zur Tabakabhängigkeit und Motivation, sowie Informationen zu Gesundheitsrisiken und Unterstützungsangeboten wie der kostenlosen Telefonberatung (0800 8313131), um den Weg in ein rauchfreies Leben zu erleichtern.
+
 Die PARI Kinder App, vorgestellt auf https://www.pari.com/de/kinderecke/, ist eine kostenlose Anwendung für Kinder ab etwa vier Jahren, die spielerisch das Thema Inhalation und Atemwege vermittelt.
 
 ## Schlafen
