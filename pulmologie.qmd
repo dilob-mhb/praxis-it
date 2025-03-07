@@ -34,6 +34,7 @@ Die PARI Kinder App, vorgestellt auf https://www.pari.com/de/kinderecke/, ist ei
 | Vyntus BODY (Vyaire)   | [vyaire.com](https://www.vyaire.com/products/sentrysuite-software-solution) |
 | MasterScreen (Morgan)  | [morgansci.com](https://www.morgansci.com/pft-software/)    |
 | COSMED Software        | [cosmed.com](https://www.cosmed.com/en/products/software)   |
+| MIR - Medical International Research | [spirometry.com](https://www.spirometry.com/en/software/)   |
 
 : Beispiele Software Lungenfunktionsdiagnostik
 
