@@ -1,5 +1,7 @@
 # Pulmologie
 
+## Allgemein
+
 Die Webseite [atemwegsliga.de/pneumo-digital-apps](https://www.atemwegsliga.de/pneumo-digital-apps/articles/pneumo-digital-apps.html) gehört zur Deutschen Atemwegsliga e.V. und ist Teil der Initiative PneumoDigital. Diese Initiative widmet sich der Bewertung und Vorstellung von Gesundheits-Apps, die speziell für Menschen mit pneumologischen Erkrankungen wie Asthma oder COPD entwickelt wurden.
 
 | Name                   | URL                                                                 |
@@ -24,6 +26,17 @@ Die Webseite https://rauchfrei-info.de/ ist ein unabhängiges Informationsportal
 
 Die PARI Kinder App, vorgestellt auf https://www.pari.com/de/kinderecke/, ist eine kostenlose Anwendung für Kinder ab etwa vier Jahren, die spielerisch das Thema Inhalation und Atemwege vermittelt.
 
+## Lungenfunktionsdiagnostik
+
+| Name                    | URL                                              |
+|-------------------------|--------------------------------------------------|
+| GANSHORN PowerCube     | [ganshorn.de](https://www.ganshorn.de/software-de/)         |
+| Vyntus BODY (Vyaire)   | [vyaire.com](https://www.vyaire.com/products/sentrysuite-software-solution) |
+| MasterScreen (Morgan)  | [morgansci.com](https://www.morgansci.com/pft-software/)    |
+| COSMED Software        | [cosmed.com](https://www.cosmed.com/en/products/software)   |
+
+: Beispiele Software Lungenfunktionsdiagnostik
+
 ## Schlafen
 
 | Name         | URL                           |
@@ -31,6 +44,8 @@ Die PARI Kinder App, vorgestellt auf https://www.pari.com/de/kinderecke/, ist ei
 | Somnovia     | [somnovia.de](https://somnovia.de/)         |
 | Somn.io      | [somn.io](https://somn.io/)             |
 | HelloBetter  | [hellobetter.de](https://hellobetter.de/online-kurse/schlafen/) |
+
+: Beispiele Anwendungen
 
 ## Forschung
 
