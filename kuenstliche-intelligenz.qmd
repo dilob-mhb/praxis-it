@@ -33,3 +33,11 @@ Die Dienstleistung von [Intrexx](https://www.intrexx.com/de/gesundheitswesen/) k
 ## Übersichtsplattform
 
 Die Website [Alles KI](https://alles-ki.com/de) bietet einen Überblick über KI-Anwendungen zum Einsatz im Alltag.
+
+## Forschung
+
+AMIE (Articulate Medical Intelligence Explorer) ist ein KI-System basierend auf einem großen Sprachmodell, das für diagnostische Dialoge optimiert wurde. Der medizinische Dialog mit dem Patienten ist elementar für eine präzise Diagnose. KI kann diesen Prozess zugänglicher und konsistenter machen könnte. AMIE wurde mit einem neuartigen, simulationsbasierten Selbstlernsystem trainiert und in einer randomisierten, doppelt verblindeten Studie mit 149 klinischen Szenarien gegen Hausärzte getestet. Dabei zeigte AMIE eine höhere diagnostische Genauigkeit und übertraf die Ärzte in den meisten Bewertungskategorien, wie Anamneseaufnahme und Empathie. Dennoch betont der Artikel Einschränkungen, wie die ungewohnte Text-Chat-Schnittstelle, und fordert weitere Forschung für reale Anwendungen. [@tu2024conversationaldiagnosticai] AMIE wurde erweitert, um nicht nur Diagnosen zu stellen, sondern auch das Follow-up zu unterstützen, indem es Krankheitsverläufe, Therapieansprechen und sichere Medikamentenverordnungen berücksichtigt. Basierend auf den Gemini-Modellen nutzt AMIE Techniken wie langes Kontextverständnis und geringe Halluzinationsraten, um Ärzte und Patienten bei komplexen Behandlungsplänen zu unterstützen. 
+
+* [research.google/blog/amie-a-research-ai-system-for-diagnostic-medical-reasoning-and-conversations](https://research.google/blog/amie-a-research-ai-system-for-diagnostic-medical-reasoning-and-conversations/)
+* [research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/)
+* [research.google/blog/from-diagnosis-to-treatment-advancing-amie-for-longitudinal-disease-management](https://research.google/blog/from-diagnosis-to-treatment-advancing-amie-for-longitudinal-disease-management/)
