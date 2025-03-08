@@ -46,6 +46,8 @@ Siehe dazu:
 * [KBV Media Videosprechstunde Vergütung](https://www.kbv.de/media/sp/Videosprechstunde__uebersicht_Verguetung.pdf)
 * [Beschluss des Erweiterten Bewertungsausschusses zu EBM Ziffer 01443](https://www.kbv.de/media/sp/EBM_2025-04-01_EBA_83_BeeG_NDS_GOP_01443.pdf)
 
+## Softwarelösungen
+
 | Index | Product | Company | URL |
 |---|---|---|---|
 | 1 | m.Doc Smart Practice | m.Doc GmbH | [smart-practice.mdoc.one](http://smart-practice.mdoc.one/) |
