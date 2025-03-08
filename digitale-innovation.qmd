@@ -6,7 +6,7 @@ In seinem JAMA Artikel „How AI Could Reshape Health Care—Rise in Direct-to-C
 
 Digitale Innovationen können über direkte und indirekte Zugangswege in den ersten Gesundheitsmarkt integriert werden [@GerschDanelski2022].
 
-## Direkte Zugangswege (B2P/B2C-Lösungen):
+## Direkte Zugangswege (B2P/B2C-Lösungen)
 1. **Digitale Pflegeanwendungen (DiPA, §40a SGB XI)**:
    - Versorgung von Pflegebedürftigen mit digitalen Anwendungen, die deren Selbstständigkeit fördern.
    - Antragstellung erfolgt bei der Pflegekasse.
@@ -35,7 +35,7 @@ Digitale Innovationen können über direkte und indirekte Zugangswege in den ers
 7. **Besondere Versorgung (§140a SGB V)**:
    - Verträge zwischen Krankenkassen und Leistungserbringern, z. B. für sektorenübergreifende Lösungen.
 
-## Indirekte Zugangswege (B2B-Modelle):
+## Indirekte Zugangswege (B2B-Modelle)
 1. **Krankenhauszukunftsgesetz (KHZG)**:
    - Finanzierung von Digitalisierungsprojekten in Krankenhäusern (z. B. elektronische Patientenakten, IT-Sicherheit).
 
