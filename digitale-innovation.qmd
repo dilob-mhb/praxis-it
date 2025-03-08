@@ -1,6 +1,10 @@
 # Digitale Innovation
 
-Digitale Innovationen können über direkte und indirekte Zugangswege in den ersten Gesundheitsmarkt integriert werden [@GerschDanelski2022]:
+## Einleitung
+
+In seinem JAMA Artikel „How AI Could Reshape Health Care—Rise in Direct-to-Consumer Models“, beschreibt Kenneth D. Mandl, wie künstliche Intelligenz (KI) die Gesundheitsversorgung grundlegend verändern könnte, insbesondere durch den Aufstieg direkter Konsumentenmodelle (DTC). Er hebt hervor, dass Google Search längst als Entscheidungshilfe für Patienten dient, während Amazon Prime Telemedizin, Apothekenleistungen und vor Ort hausärztliche Versorgung integriert. Traditionelle Gesundheitsorganisationen (HCOs) kämpfen jedoch mit der digitalen Innovation, da sie an starren Strukturen und komplexen Anforderungen hängen bleiben. Gleichzeitig kommt es zu einer Vermarktwirtschaftlichung der Gesundheitsversorgung durch DTC-Unternehmen, die mit Big Tech und agilen KI-Lösungen schnell skalieren und personalisierte Angebote schaffen, während HCOs Marktanteile an diese Innovatoren verlieren könnten. [@10.1001/jama.2025.0946]
+
+Digitale Innovationen können über direkte und indirekte Zugangswege in den ersten Gesundheitsmarkt integriert werden [@GerschDanelski2022].
 
 ## Direkte Zugangswege (B2P/B2C-Lösungen):
 1. **Digitale Pflegeanwendungen (DiPA, §40a SGB XI)**:
