@@ -59,6 +59,8 @@ book:
       - psychotherapie.qmd
       - neurologie.qmd
       - ambulantes-operieren.qmd
+      # - radiologie.qmd
+      - pulmologie.qmd
       - hno.qmd
       - impfsoftware.qmd
       - medikation.qmd

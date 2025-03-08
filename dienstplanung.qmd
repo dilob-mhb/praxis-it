@@ -1,5 +1,7 @@
 # Dienstplanung
 
+## Softwarefunktionen
+
 Ein effektives Dienstplanungstool für eine Arztpraxis sollte folgende wesentliche Merkmale besitzen:
 
 - **Benutzerfreundlichkeit**: Eine intuitive Oberfläche, leicht zu bedienen für Ärzte und Praxismitarbeiter.
@@ -18,6 +20,8 @@ Ein effektives Dienstplanungstool für eine Arztpraxis sollte folgende wesentlic
 - **Kommunikationswerkzeuge**: Interne Kommunikation für Schichtplanung und Notizen.
 
 Diese Merkmale fördern Transparenz, Flexibilität und Effizienz, was zur Zufriedenheit und Produktivität im Praxisteam beiträgt.
+
+## Softwarelösungen
 
 | Produkt                | Anbieter              | URL                                                                 |
 |------------------------|-----------------------|---------------------------------------------------------------------|

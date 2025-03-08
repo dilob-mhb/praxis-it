@@ -1,5 +1,7 @@
 # Videosprechstunde
 
+## Einleitung
+
 **Gemeinsame Merkmale von Videosprechstundenprodukten:**
 
 - **Video- und Audio-Kommunikation**: Alle Anbieter bieten eine Plattform zur visuellen und akustischen Interaktion zwischen Arzt und Patient.
@@ -43,6 +45,8 @@ Siehe dazu:
 * [KBV Praxisnachrichten - Demenz: Videofallkonferenz mit Pflegefachkräften wird vergütet](https://www.kbv.de/html/1150_73622.php)
 * [KBV Media Videosprechstunde Vergütung](https://www.kbv.de/media/sp/Videosprechstunde__uebersicht_Verguetung.pdf)
 * [Beschluss des Erweiterten Bewertungsausschusses zu EBM Ziffer 01443](https://www.kbv.de/media/sp/EBM_2025-04-01_EBA_83_BeeG_NDS_GOP_01443.pdf)
+
+## Softwarelösungen
 
 | Index | Product | Company | URL |
 |---|---|---|---|

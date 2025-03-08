@@ -1,3 +1,16 @@
 # Zusammenfassung
 
+## Wisssensbuch
+
 „Praxis-IT“ zeigt praxisnahe IT-Lösungen auf, die den Arbeitsalltag in Praxen effizienter gestalten können. Es behandelt Themen von Praxisverwaltungssoftware bis hin zu KIM-Diensten und gibt wertvolle Einblicke in deren Anwendungsmöglichkeiten.
+
+## Projekt
+
+Das Projekt „Digitalisierungslots:innen in der Brandenburger Primärversorgung“ (DiLoB), gefördert vom Bundesgesundheitsministerium im Rahmen der Ressortforschung, zielt darauf ab, die Digitalisierung in Arztpraxen der Primärversorgung in Brandenburg nachhaltig zu etablieren. Unter der Leitung der Medizinischen Hochschule Brandenburg (MHB) unterstützt es Praxen bei der Einführung digitaler Prozesse, indem sogenannte Digitalisierungslots:innen – geschultes Personal – Ärzte und Teams bei der Nutzung digitaler Technologien begleiten. Es adressiert die Herausforderungen, die insbesondere ältere Mediziner:innen bei der Integration neuer Technologien empfinden, und nutzt das digitale Reifegradmodell der Kassenärztlichen Vereinigung Westfalen-Lippe. Durch die Einbindung regionaler Akteure wie Ärztenetzwerke soll die Nachhaltigkeit der Ergebnisse gesichert werden, um die Versorgung zu verbessern und digitale Kompetenzen langfristig zu stärken.
+
+* [mhb-fontane.de/de/DiLoB](https://www.mhb-fontane.de/de/DiLoB)
+* [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/ministerium/ressortforschung/handlungsfelder/forschungsschwerpunkte/pilotvorhaben-zur-implementierung-und-verstetigung-von-digital-health-ansaetzen/dilob.html)
+
+## Hinweis
+
+Die aufgeführten Produkte dienen ausschließlich der Veranschaulichung und wurden unabhängig ausgewählt. Die Liste erhebt keinen Anspruch auf Vollständigkeit und stellt keine Empfehlung, Bewertung oder Werbung dar. Die Auswahl erfolgte nach den wissenschaftlichen Grundsätzen des DiLoB-Projektes und unter Berücksichtigung der geltenden Neutralitätsrichtlinien.

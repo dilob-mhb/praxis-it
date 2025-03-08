@@ -19,7 +19,7 @@
 ## Herzrhythmusstörungen
 - **BIOTRONIK Home Monitoring** zur Überwachung von Herzrhythmusstörungen; erkennt subklinische Vorhofflimmern.
 
-## EBM (gesetzliche Krankenversicherung):
+## EBM (gesetzliche Krankenversicherung)
 
 - **Telemonitoring bei Herzinsuffizienz** seit Januar 2022 abrechenbar:
   - **GOP 13583**: Einweisung und Schulung: **€10,92** (1x pro Jahr).
@@ -31,7 +31,7 @@
 - **Infrastruktur**: Service- und Infrastrukturkosten werden erstattet.
 - **Extrabudgetäre Vergütung**: Mögliche bei Nutzung von Plattformen wie SaniQ HERZ.
 
-## GOÄ (private Krankenversicherung):
+## GOÄ (private Krankenversicherung)
 
 - **Gemeinsame Abrechnungsrichtlinien** seit Januar 2024:
   - **Analog Code 33 GOÄ**: Einweisung und Schulung: **€17,49/40,22/61,20** (1x zu Beginn).
@@ -41,25 +41,25 @@
 
 ## Studien zur Wirksamkeit von Telemedizin
 
-### Herzinsuffizienz-Telemonitoring:
+### Herzinsuffizienz-Telemonitoring
 
 - **TIM-HF2-Studie**: Zeigte, dass **telemedizinische Betreuung bei Herzinsuffizienz** positive Ergebnisse liefert, egal wie stark die Pumpfunktion des linken Ventrikels beeinträchtigt ist.
 - **Meta-Analyse von IN-TIME, ECOST, TRUST (TRUECOIN)**: Unterstützung für den Nutzen der täglichen Fernüberwachung von ICDs.
 - **IN-TIME-Studie**: Reduzierte **Mortalität um 60%** und Verschlechterung des Herzversagens um 30%.
 
-### Fernüberwachung implantierbarer Geräte:
+### Fernüberwachung implantierbarer Geräte
 
 - **TRUST-Studie**: Reduzierte **geplante persönliche Nachkontrollen um 60%**.
 - **COMPAS-Studie**: Verringerte **Krankenhauseinweisungen um 66%** bei Vorhofflimmern.
 - **ECOST-Studie**: Verringerte **Hospitalisierungen um 72%** bei unangemessenen ICD-Schocks.
 
-### DX-Technologie zur Arrhythmie-Erkennung:
+### DX-Technologie zur Arrhythmie-Erkennung
 
 - **MATRIX-Studie**: Verbesserte **Erkennung subklinischer Vorhofflimmern** durch DX-ICD-Systeme.
 - **THINGS-Register**: DX-Systeme erkennen **AT/AF fast viermal häufiger**.
 - **SENSE-Studie**: Vorteile der DX-ICD-Systeme bei der Erkennung von AHRE.
 
-### Telemonitoring bei COPD und Atemwegserkrankungen:
+### Telemonitoring bei COPD und Atemwegserkrankungen
 
 - **TELEMENTOR COPD-Studie**: Prüft die Reduktion von Rückfällen bei COPD-Patienten mit SaniQ.
 - **Studie während der Pandemie**: Zeigte Verbesserungen bei Asthma, COPD und SARS-CoV-2 Patienten.

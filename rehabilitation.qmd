@@ -1,5 +1,7 @@
 # Rehabilitation
 
+## Einleitung
+
 Der [Bundesverband Deutscher Privatkliniken (BDPK)](https://www.bdpk.de/themen/rehabilitation-pflege/telematikinfrastruktur-fuer-reha-und-vorsorgeeinrichtungen) informiert auf seiner Webseite über die Anbindung von Reha- und Vorsorgeeinrichtungen an die Telematikinfrastruktur (TI), die durch das Patientendaten-Schutz-Gesetz (PDSG) seit dem 1. Januar 2021 ermöglicht wurde. Die TI bringt Vorteile wie Notfalldatenmanagement, elektronische Medikationspläne und Patientenakten sowie eine sichere Kommunikationsplattform (KIM). Die Kosten für die notwendigen Komponenten wie Konnektoren, Institutionskarten und eHealth-Kartenterminals werden seit dem 1. Januar 2022 durch einen Zuschlag gedeckt, der auf Antrag ausgezahlt wird.
 
 | Produkt                            | Company                         | URL                                    |
