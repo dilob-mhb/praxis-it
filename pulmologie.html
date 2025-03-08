@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ambulantes Operieren – Praxis-IT</title>
+<title>Pulmologie – Praxis-IT</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./pulmologie.html" rel="next">
-<link href="./neurologie.html" rel="prev">
+<link href="./hno.html" rel="next">
+<link href="./ambulantes-operieren.html" rel="prev">
 <script src="site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -139,7 +159,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./ambulantes-operieren.html"><span class="chapter-title">Ambulantes Operieren</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./pulmologie.html"><span class="chapter-title">Pulmologie</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Suchen" onclick="window.quartoOpenSearch();">
@@ -307,12 +327,12 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Ambulantes Operieren</span></a>
+  <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pulmologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pulmologie</span></a>
+  <a href="./pulmologie.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Pulmologie</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -419,7 +439,16 @@ cookieconsent.run({
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhaltsverzeichnis</h2>
+   
+  <ul>
+  <li><a href="#allgemein" id="toc-allgemein" class="nav-link active" data-scroll-target="#allgemein">Allgemein</a></li>
+  <li><a href="#lungenfunktionsdiagnostik" id="toc-lungenfunktionsdiagnostik" class="nav-link" data-scroll-target="#lungenfunktionsdiagnostik">Lungenfunktionsdiagnostik</a></li>
+  <li><a href="#schlafen" id="toc-schlafen" class="nav-link" data-scroll-target="#schlafen">Schlafen</a></li>
+  <li><a href="#forschung" id="toc-forschung" class="nav-link" data-scroll-target="#forschung">Forschung</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/pulmologie.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
 <p>Projektpartner</p>
 <p><a href="https://www.dilob-mhb.de/"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/DiLoB-Logo-Transparent.png" class="img-fluid" width="100"></a></p>
@@ -438,9 +467,9 @@ cookieconsent.run({
   gtag('config', 'G-W0VVGPQSBH');
 </script>
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./ambulantes-operieren.html"><span class="chapter-title">Ambulantes Operieren</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dermatologie.html">Fachdisziplinen</a></li><li class="breadcrumb-item"><a href="./pulmologie.html"><span class="chapter-title">Pulmologie</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Ambulantes Operieren</span></h1>
+<h1 class="title"><span class="chapter-title">Pulmologie</span></h1>
 </div>
 
 
@@ -457,107 +486,163 @@ cookieconsent.run({
 </header>
 
 
-<p>Die Softwarelösungen für das ambulante Operieren unterstützen verschiedene Aspekte des operativen Managements, von der Planung und Dokumentation bis hin zur Optimierung und Integration.</p>
-<p><strong>OP-Management und Planung:</strong></p>
-<ul>
-<li>Torin (Getinge), OP-Management (Meierhofer), OPteamizer (Logex), DIANA (HP Lehnen Software), und B. Braun Organize (B. Braun SE) bieten Funktionen zur detaillierten Planung, Zeitmanagement und Ressourcenallokation für Operationen. Sie ermöglichen eine optimale Nutzung von OP-Sälen, Personal und Materialien.</li>
-</ul>
-<p><strong>Dokumentation und Nachverfolgung:</strong></p>
-<ul>
-<li>Produkte wie T-DOC 2000, T-DOC Select, T-DOC Endo (alle Getinge), und instacount®PLUS (Invitec) konzentrieren sich auf die Dokumentation von chirurgischen Eingriffen, Instrumentenverfolgung und Qualitätskontrolle. Sie unterstützen die Erfassung und Speicherung von Daten zur Nachverfolgung und zur Einhaltung von Standards.</li>
-</ul>
-<p><strong>Datenanalyse und Optimierung:</strong></p>
-<ul>
-<li>INSIGHT (Getinge), Caresyntax, und Torin SmartView (Getinge) nutzen Datenanalyse, um operative Prozesse zu optimieren, Effizienz zu steigern und potenzielle Engpässe zu identifizieren. Diese Systeme bieten Einblicke in die Leistungsfähigkeit und helfen, operative Prozesse kontinuierlich zu verbessern.</li>
-</ul>
-<p><strong>Integration und Interoperabilität:</strong></p>
-<ul>
-<li>Viele dieser Softwarelösungen sind darauf ausgelegt, mit anderen Systemen im Krankenhaus oder in der Praxis zu interagieren, wie z.B. Krankenhausinformationssystemen (KIS), um eine nahtlose Datenübertragung und eine ganzheitliche Betrachtung der Patientenversorgung zu gewährleisten.</li>
-</ul>
+<section id="allgemein" class="level2">
+<h2 class="anchored" data-anchor-id="allgemein">Allgemein</h2>
+<p>Die Webseite <a href="https://www.atemwegsliga.de/pneumo-digital-apps/articles/pneumo-digital-apps.html">atemwegsliga.de/pneumo-digital-apps</a> gehört zur Deutschen Atemwegsliga e.V. und ist Teil der Initiative PneumoDigital. Diese Initiative widmet sich der Bewertung und Vorstellung von Gesundheits-Apps, die speziell für Menschen mit pneumologischen Erkrankungen wie Asthma oder COPD entwickelt wurden.</p>
 <table class="caption-top table">
-<caption>Übersicht der Softwarelösungen für die OP-Management- und Sterilgutverwaltung</caption>
+<caption>Beispiele digitale Anwendungen</caption>
 <thead>
 <tr class="header">
-<th><strong>Software</strong></th>
-<th><strong>Hersteller</strong></th>
-<th><strong>URL</strong></th>
+<th>Name</th>
+<th>URL</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>INSIGHT</td>
-<td>Getinge</td>
-<td><a href="https://www.getinge.com/de/produkte/insight/">getinge.com/de/produkte/insight</a></td>
+<td>Kaia COPD</td>
+<td><a href="https://kaiahealth.de/patient-kaia-copd/">Kaia COPD</a></td>
 </tr>
 <tr class="even">
-<td>Torin</td>
-<td>Getinge</td>
-<td><a href="https://www.getinge.com/int/products/torin/">getinge.com/int/products/torin</a></td>
+<td>Atemwege gemeinsam gehen</td>
+<td><a href="https://www.atemwegsliga.de/service-220/pneumodigital/pneumo-digital-apps/app-atemwege.html">pneumo-digital-apps/app-atemwege</a></td>
 </tr>
 <tr class="odd">
-<td>T-DOC 2000</td>
-<td>Getinge</td>
-<td><a href="https://www.getinge.com/de/produkte/t-doc-2000/">getinge.com/de/produkte/t-doc-2000</a></td>
+<td>OMRON Asthma Diary</td>
+<td><a href="https://www.atemwegsliga.de/app/omron-asthma-diary.html">OMRON Asthma Diary</a></td>
 </tr>
 <tr class="even">
-<td>Getinge Online</td>
-<td>Getinge</td>
-<td><a href="https://www.getinge.com/de/produkte/getinge-online/">getinge.com/de/produkte/getinge-online</a></td>
+<td>Vivatmo</td>
+<td><a href="https://www.atemwegsliga.de/app/vivatmo.html">Vivatmo</a></td>
 </tr>
 <tr class="odd">
-<td>T-DOC Select</td>
-<td>Getinge</td>
-<td><a href="https://www.getinge.com/de/produkte/t-doc-select/">getinge.com/de/produkte/t-doc-select</a></td>
+<td>breazyTrack</td>
+<td><a href="https://www.atemwegsliga.de/app/breazy-track.html">breazyTrack</a></td>
 </tr>
 <tr class="even">
-<td>T-DOC Endo</td>
-<td>Getinge</td>
-<td><a href="https://www.getinge.com/de/produkte/t-doc-endo/">getinge.com/de/produkte/t-doc-endo</a></td>
+<td>copd-aktuell.de</td>
+<td><a href="https://www.atemwegsliga.de/app/copd-aktuell.de.html">copd-aktuell.de</a></td>
 </tr>
 <tr class="odd">
-<td>Tegris</td>
-<td>Getinge</td>
-<td><a href="https://www.getinge.com/de/produkte/tegris/">getinge.com/de/produkte/tegris</a></td>
+<td>Kata</td>
+<td><a href="https://www.atemwegsliga.de/app/kata.html">Kata</a></td>
 </tr>
 <tr class="even">
-<td>Torin SmartView</td>
-<td>Getinge</td>
-<td><a href="https://www.getinge.com/int/products/torin-smartview/">getinge.com/int/products/torin-smartview</a></td>
+<td>myAir</td>
+<td><a href="https://www.atemwegsliga.de/app/my-air.html">myAir</a></td>
 </tr>
 <tr class="odd">
-<td>DIANA</td>
-<td>HP Lehnen Software</td>
-<td><a href="https://www.hp-lehnen-software.com/diana">hp-lehnen-software.com/diana</a></td>
+<td>NichtraucherHelden</td>
+<td><a href="https://www.atemwegsliga.de/app/nichtraucher-helden.html">NichtraucherHelden</a></td>
 </tr>
 <tr class="even">
-<td>OP-Management</td>
-<td>Meierhofer</td>
-<td><a href="https://www.meierhofer.com/loesungen/op-management/">meierhofer.com/loesungen/op-management</a></td>
+<td>SaniQ</td>
+<td><a href="https://www.atemwegsliga.de/app/sani-q-asthma.html">SaniQ</a></td>
 </tr>
 <tr class="odd">
-<td>OPteamizer</td>
-<td>Logex</td>
-<td><a href="https://logex.com/de/losungen/financial-analytics/opteamizer/">logex.com</a></td>
-</tr>
-<tr class="even">
-<td>Caresyntax</td>
-<td>Caresyntax</td>
-<td><a href="https://caresyntax.com/">caresyntax.com</a></td>
-</tr>
-<tr class="odd">
-<td>instacount®PLUS</td>
-<td>Invitec</td>
-<td><a href="https://invitec.de/">invitec.de</a></td>
-</tr>
-<tr class="even">
-<td>B. Braun Organize</td>
-<td>B. Braun SE</td>
-<td><a href="https://www.bbraun.de/de/produkte-und-loesungen/loesungen/ambulantes-operieren/it-fuer-warenwirtschaft.html">bbraun.de</a></td>
+<td>TheraKey</td>
+<td><a href="https://www.atemwegsliga.de/app/thera-key.html">TheraKey</a></td>
 </tr>
 </tbody>
 </table>
+<p>Quelle: <a href="https://www.atemwegsliga.de/pneumo-digital-apps/articles/pneumo-digital-apps.html">atemwegsliga.de/pneumo-digital-apps</a></p>
+<p>Die Webseite https://rauchfrei-info.de/ ist ein unabhängiges Informationsportal der Bundeszentrale für gesundheitliche Aufklärung (BZgA), das Rauchenden kostenfrei und seriös beim Ausstieg aus der Nikotinabhängigkeit unterstützt. Sie bietet umfassende Ressourcen wie das „rauchfrei Ausstiegsprogramm“, bei dem Nutzer über 21 Tage mit täglichen Tipps, E-Mails und einer Erfolgskurve begleitet werden, sowie ein Forum und Chat für den Austausch mit Gleichgesinnten und Experten. Zusätzlich gibt es praktische Tools wie einen Ersparnisrechner, Tests zur Tabakabhängigkeit und Motivation, sowie Informationen zu Gesundheitsrisiken und Unterstützungsangeboten wie der kostenlosen Telefonberatung (0800 8313131), um den Weg in ein rauchfreies Leben zu erleichtern.</p>
+<p>Die PARI Kinder App, vorgestellt auf https://www.pari.com/de/kinderecke/, ist eine kostenlose Anwendung für Kinder ab etwa vier Jahren, die spielerisch das Thema Inhalation und Atemwege vermittelt.</p>
+</section>
+<section id="lungenfunktionsdiagnostik" class="level2">
+<h2 class="anchored" data-anchor-id="lungenfunktionsdiagnostik">Lungenfunktionsdiagnostik</h2>
+<table class="caption-top table">
+<caption>Beispiele Software Lungenfunktionsdiagnostik</caption>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>GANSHORN PowerCube</td>
+<td><a href="https://www.ganshorn.de/software-de/">ganshorn.de</a></td>
+</tr>
+<tr class="even">
+<td>Vyntus BODY (Vyaire)</td>
+<td><a href="https://www.vyaire.com/products/sentrysuite-software-solution">vyaire.com</a></td>
+</tr>
+<tr class="odd">
+<td>MasterScreen (Morgan)</td>
+<td><a href="https://www.morgansci.com/pft-software/">morgansci.com</a></td>
+</tr>
+<tr class="even">
+<td>COSMED Software</td>
+<td><a href="https://www.cosmed.com/en/products/software">cosmed.com</a></td>
+</tr>
+<tr class="odd">
+<td>MIR - Medical International Research</td>
+<td><a href="https://www.spirometry.com/en/software/">spirometry.com</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="schlafen" class="level2">
+<h2 class="anchored" data-anchor-id="schlafen">Schlafen</h2>
+<table class="caption-top table">
+<caption>Beispiele Anwendungen</caption>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Somnovia</td>
+<td><a href="https://somnovia.de/">somnovia.de</a></td>
+</tr>
+<tr class="even">
+<td>Somn.io</td>
+<td><a href="https://somn.io/">somn.io</a></td>
+</tr>
+<tr class="odd">
+<td>HelloBetter</td>
+<td><a href="https://hellobetter.de/online-kurse/schlafen/">hellobetter.de</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="forschung" class="level2">
+<h2 class="anchored" data-anchor-id="forschung">Forschung</h2>
+<p>Das Buch „Lung Function Testing in the 21st Century: Methodologies and Tools Bridging Engineering to Clinical Practice“ von C. Ionescu aus dem Jahr 2018 bietet eine umfassende Übersicht über Lungenfunktionstests, von standardisierten bis hin zu neuen Methoden wie IOS und FOT. Es verbindet Ingenieurwissenschaften mit klinischer Praxis, indem es fortschrittliche Technologien aus Mathematik, Physik und Biologie vorstellt und deren Anwendung in der Atemwegsdiagnostik erläutert. Zudem behandelt es Geräte, Protokolle und zukünftige Perspektiven, um die Lücke zwischen Forschung, Entwicklung und klinischem Einsatz zu schließen. <span class="citation" data-cites="ionescu2018lung">(<a href="referenzen.html#ref-ionescu2018lung" role="doc-biblioref">Ionescu 2018</a>)</span></p>
+<p>Die Studie “Artificial Intelligence-Driven Prognosis of Respiratory Mechanics: Forecasting Tissue Hysteresivity Using Long Short-Term Memory and Continuous Sensor Data” untersucht die Anwendung künstlicher Intelligenz (KI) zur Prognose der Atemmechanik, insbesondere zur Vorhersage der sogenannten Gewebehysteresivität – einem wichtigen Marker für Atemwegserkrankungen. Dazu wird ein Long Short-Term Memory (LSTM)-Modell verwendet, das kontinuierliche Sensordaten analysiert. Die Forscher kombinieren Daten aus der Forcierten Oszillationstechnik (FOT) und dem kommerziellen RESMON-Gerät mit kontinuierlichen Messungen des Equivital (EQV) LifeMonitor. Das Ziel ist es, die Anzahl und Dauer der notwendigen Messungen zu reduzieren, indem die Gewebehysteresivität anhand von Herzfrequenz- und EKG-Daten geschätzt und vorhergesagt wird. Die Ergebnisse zeigen, dass LSTM-Modelle die Gewebehysteresivität mit hoher Genauigkeit bestimmen können, wodurch die Messbelastung für Patienten signifikant verringert und die Atemwegsüberwachung durch KI optimiert wird. <span class="citation" data-cites="othman2024artificial">(<a href="referenzen.html#ref-othman2024artificial" role="doc-biblioref">Othman u.&nbsp;a. 2024</a>)</span></p>
+<p>Die Studie untersucht die wachsende Bedeutung der Forced Oscillation Technique (FOT) zur Charakterisierung der Atemmechanik bei gesunden und erkrankten Personen. FOT ergänzt traditionelle Lungenfunktionstests, indem sie während der normalen Atmung oszillatorische Frequenzen nutzt, um Widerstand (Rrs) und Reaktanz (Xrs) des Atmungssystems zu messen, die den Luftwegdurchmesser sowie Energieverlust und -speicherung widerspiegeln. Trotz steigender Popularität und neuer technischer Standards bleibt die klinische Anwendung wegen mangelnder Standardisierung bei Datenerfassung und -berichterstattung begrenzt. <span class="citation" data-cites="qian2022employing">(<a href="referenzen.html#ref-qian2022employing" role="doc-biblioref">Qian u.&nbsp;a. 2022</a>)</span></p>
+<p>Die Studie von Hawthorne et al.&nbsp;(2022) untersucht, ob kontinuierliches, nicht-invasives Monitoring von Vitalzeichen mittels tragbarer Technologie eine bevorstehende Wiedereinweisung nach einer akuten Exazerbation der chronisch obstruktiven Lungenerkrankung (AECOPD) vorhersagen kann. Dazu wurden 35 Patienten nach ihrer Krankenhausentlassung gebeten, über sechs Wochen ein tragbares Überwachungsgerät zu tragen, das Atemfrequenz, Herzfrequenz, Hauttemperatur und körperliche Aktivität erfasste. Die Ergebnisse zeigen, dass eine erhöhte Herzfrequenz und eine reduzierte körperliche Aktivität mit einer Verschlechterung der Symptome korrelierten. Zudem stiegen drei Tage vor einer Exazerbation die Atemfrequenz und die Herzfrequenz messbar an. Die Studie weist darauf hin, dass Atem- und Herzfrequenz als potenzielle Prädiktoren für eine bevorstehende Exazerbation weiter untersucht werden sollten, obwohl individuelle Unterschiede in den Vitalzeichen die Vorhersage erschweren. <span class="citation" data-cites="hawthorne2022proof">(<a href="referenzen.html#ref-hawthorne2022proof" role="doc-biblioref">Hawthorne u.&nbsp;a. 2022</a>)</span></p>
+<p>Die Studie „Towards Using Cough for Respiratory Disease Diagnosis by Leveraging Artificial Intelligence: A Survey“ von Aneeqa Ijaz und Kollegen bietet einen umfassenden Überblick über den Einsatz von Husten als diagnostisches Werkzeug für Atemwegserkrankungen mithilfe künstlicher Intelligenz (KI). Sie untersucht, wie Machine Learning (ML) und Deep Learning (DL) Hustenakustik analysieren können, um Krankheiten wie Asthma, COPD, Pneumonie oder COVID-19 mit hoher Genauigkeit zu erkennen und vorläufig zu diagnostizieren. Die Autoren beleuchten den Mechanismus der Hustenentstehung, latente Hustenmerkmale und deren Nutzung in KI-Modellen sowie die Entwicklung spezialisierter Anwendungen zur Hustenüberwachung. Basierend auf einer umfangreichen Literaturanalyse zeigen sie, dass KI-basierte Algorithmen eine entscheidende Rolle bei der Früherkennung von Atemwegserkrankungen spielen können, indem sie charakteristische Merkmale aus Hustengeräuschen extrahieren. Zudem werden Herausforderungen wie Datenverfügbarkeit, Modellinterpretierbarkeit und Datenschutz sowie zukünftige Forschungsrichtungen für robuste, ubiquitäre Lösungen diskutiert. <span class="citation" data-cites="ijaz2022towards">(<a href="referenzen.html#ref-ijaz2022towards" role="doc-biblioref">Ijaz u.&nbsp;a. 2022</a>)</span></p>
+<p>Die Studie „Artificial Intelligence Techniques to Predict the Airway Disorders Illness: A Systematic Review“ von Apeksha Koul und Kollegen bietet eine systematische Übersicht über den Einsatz von maschinellem Lernen (ML) und tiefem Lernen (DL) zur Vorhersage von Atemwegserkrankungen wie Asthma, Lungenkrebs, COVID-19 und anderen. Sie analysiert 155 Artikel aus den Jahren 2010 bis 2022 und fasst den aktuellen Stand KI-basierter Systeme zur Erkennung dieser Erkrankungen zusammen. Die Autoren beleuchten Trends, vergleichen Techniken wie CNN, SVM und Random Forest anhand von Metriken wie Genauigkeit und F1-Score und diskutieren Herausforderungen wie Datenmangel, Modellfehler und Klassenungleichgewicht. Abschließend werden zukünftige Forschungswege vorgeschlagen, um die Effizienz und Anwendbarkeit KI-gestützter Diagnosen zu verbessern. <span class="citation" data-cites="koul2023artificial">(<a href="referenzen.html#ref-koul2023artificial" role="doc-biblioref">Koul, Bawa, und Kumar 2023</a>)</span></p>
+<p>Die Pilotstudie untersucht die Machbarkeit und Benutzbarkeit einer Smartphone-App, die mittels partizipativen Designs entwickelt wurde, um Asthma-Patienten durch Überwachung und Psychoeducation zu einem verantwortungsvollen Umgang mit kurz wirksamen Beta2-Agonisten (SABA) zu verhelfen. Weltweit leiden etwa 262 Millionen Menschen an Asthma, und der übermäßige Gebrauch von SABA kann negative gesundheitliche Folgen haben. Mit einem Mixed-Methods-Ansatz wurden quantitative Daten über App-Nutzung, Asthma-Symptome (Control of Allergic Rhinitis and Asthma Test) und Lebensqualität (SF-36) sowie qualitative Interviews zur Nutzererfahrung erhoben. Nach drei Monaten verbesserten sich die Asthma-Symptome signifikant (von 14,8 auf 18,5), blieben jedoch unkontrolliert, während die Lebensqualität unverändert blieb; die App wurde als benutzerfreundlich (SUS: 82,3) bewertet. Trotz hoher Abbruchraten deuten die Ergebnisse auf ein Potenzial zur Integration in die Standardbehandlung hin, wobei weitere Studien erforderlich sind. <span class="citation" data-cites="info:doi/10.2196/54386">(<a href="referenzen.html#ref-info:doi/10.2196/54386" role="doc-biblioref">Berg u.&nbsp;a. 2024</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-info:doi/10.2196/54386" class="csl-entry" role="listitem">
+Berg, Liselot N van den, Cynthia Hallensleben, Lisa AE Vlug, Niels H Chavannes, und Anke Versluis. 2024. <span>„The Asthma App as a New Way to Promote Responsible Short-Acting Beta2-Agonist Use in People With Asthma: Results of a Mixed Methods Pilot Study“</span>. <em>JMIR Hum Factors</em> 11 (April): e54386. <a href="https://doi.org/10.2196/54386">https://doi.org/10.2196/54386</a>.
+</div>
+<div id="ref-hawthorne2022proof" class="csl-entry" role="listitem">
+Hawthorne, Grace, Matthew Richardson, Neil J Greening, Dale Esliger, Samuel Briggs-Price, Emma J Chaplin, Lisa Clinch, Michael C Steiner, Sally J Singh, und Mark W Orme. 2022. <span>„A proof of concept for continuous, non-invasive, free-living vital signs monitoring to predict readmission following an acute exacerbation of COPD: a prospective cohort study“</span>. <em>Respiratory Research</em> 23 (1): 102.
+</div>
+<div id="ref-ijaz2022towards" class="csl-entry" role="listitem">
+Ijaz, Aneeqa, Muhammad Nabeel, Usama Masood, Tahir Mahmood, Mydah Sajid Hashmi, Iryna Posokhova, Ali Rizwan, und Ali Imran. 2022. <span>„Towards using cough for respiratory disease diagnosis by leveraging Artificial Intelligence: A survey“</span>. <em>Informatics in Medicine Unlocked</em> 29: 100832.
+</div>
+<div id="ref-ionescu2018lung" class="csl-entry" role="listitem">
+Ionescu, Clara. 2018. <em>Lung function testing in the 21st century: methodologies and tools bridging engineering to clinical practice</em>. Academic Press.
+</div>
+<div id="ref-koul2023artificial" class="csl-entry" role="listitem">
+Koul, Apeksha, Rajesh K Bawa, und Yogesh Kumar. 2023. <span>„Artificial intelligence techniques to predict the airway disorders illness: a systematic review“</span>. <em>Archives of Computational Methods in Engineering</em> 30 (2): 831–64.
+</div>
+<div id="ref-othman2024artificial" class="csl-entry" role="listitem">
+Othman, Ghada Ben, Amani R Ynineb, Erhan Yumuk, Hamed Farbakhsh, Cristina Muresan, Isabela Roxana Birs, Alexandra De Raeve, Cosmin Copot, Clara M Ionescu, und Dana Copot. 2024. <span>„Artificial Intelligence-Driven Prognosis of Respiratory Mechanics: Forecasting Tissue Hysteresivity Using Long Short-Term Memory and Continuous Sensor Data“</span>. <em>Sensors</em> 24 (17): 5544.
+</div>
+<div id="ref-qian2022employing" class="csl-entry" role="listitem">
+Qian, Wei, Avani Desai, Jennifer H Therkorn, Jacquelyn C Klein-Adams, Anays M Sotolongo, und Michael J Falvo. 2022. <span>„Employing the forced oscillation technique for the assessment of respiratory mechanics in adults“</span>. <em>Journal of Visualized Experiments (JoVE)</em>, Nr. 180: e63165.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1127,13 +1212,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <input type="hidden" id="giscus-alt-theme" value="dark">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./neurologie.html" class="pagination-link" aria-label="Neurologie &amp; Psychiatrie">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></span>
+      <a href="./ambulantes-operieren.html" class="pagination-link" aria-label="Ambulantes Operieren">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Ambulantes Operieren</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./pulmologie.html" class="pagination-link" aria-label="Pulmologie">
-        <span class="nav-page-text"><span class="chapter-title">Pulmologie</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./hno.html" class="pagination-link" aria-label="Hals-Nasen-Ohren-Heilkunde">
+        <span class="nav-page-text"><span class="chapter-title">Hals-Nasen-Ohren-Heilkunde</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1145,7 +1230,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
 
-<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/ambulantes-operieren.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/pulmologie.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

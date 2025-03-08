@@ -312,6 +312,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./pulmologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pulmologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./hno.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hals-Nasen-Ohren-Heilkunde</span></a>
   </div>
 </li>
@@ -419,7 +424,8 @@ cookieconsent.run({
    
   <ul>
   <li><a href="#e-rezept" id="toc-e-rezept" class="nav-link active" data-scroll-target="#e-rezept">E-Rezept</a></li>
-  <li><a href="#epa-apps" id="toc-epa-apps" class="nav-link" data-scroll-target="#epa-apps">ePA-Apps</a>
+  <li><a href="#epa-apps" id="toc-epa-apps" class="nav-link" data-scroll-target="#epa-apps">ePA-Apps</a></li>
+  <li><a href="#tabelle-epa-apps" id="toc-tabelle-epa-apps" class="nav-link" data-scroll-target="#tabelle-epa-apps">Tabelle ePA Apps</a>
   <ul class="collapse">
   <li><a href="#installationszahlen-epa-apps-google-play-store" id="toc-installationszahlen-epa-apps-google-play-store" class="nav-link" data-scroll-target="#installationszahlen-epa-apps-google-play-store">Installationszahlen ePA Apps Google Play Store</a></li>
   </ul></li>
@@ -427,6 +433,7 @@ cookieconsent.run({
   <li><a href="#elektronische-arbeitsunfähigkeitsbescheinigung" id="toc-elektronische-arbeitsunfähigkeitsbescheinigung" class="nav-link" data-scroll-target="#elektronische-arbeitsunfähigkeitsbescheinigung">Elektronische Arbeitsunfähigkeitsbescheinigung</a></li>
   <li><a href="#gesundheitsid" id="toc-gesundheitsid" class="nav-link" data-scroll-target="#gesundheitsid">GesundheitsID</a></li>
   <li><a href="#interoperabilität" id="toc-interoperabilität" class="nav-link" data-scroll-target="#interoperabilität">Interoperabilität</a></li>
+  <li><a href="#offener-quelltext" id="toc-offener-quelltext" class="nav-link" data-scroll-target="#offener-quelltext">Offener Quelltext</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/krankenkassen.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -487,6 +494,9 @@ cookieconsent.run({
 </ul>
 <p>Beispiele von Krankenkassen-Apps: - AOK: “AOK Mein Leben” - Barmer: “BARMER eCare” - BKK B. Braun Aesculap: “BKK B. Braun Aesculap ePA” - Knappschaft: “Meine GESUNDHEIT”</p>
 <p>Diese Apps können von den jeweiligen Krankenkassen heruntergeladen werden und bieten eine zentrale Anlaufstelle für die Verwaltung persönlicher Gesundheitsdaten. Die Versicherten haben dabei stets die Kontrolle darüber, welche Daten in welcher Form und für wen zugänglich gemacht werden.</p>
+</section>
+<section id="tabelle-epa-apps" class="level2">
+<h2 class="anchored" data-anchor-id="tabelle-epa-apps">Tabelle ePA Apps</h2>
 <table class="caption-top table">
 <caption>Übersicht ePA Anwendungen der Krankenkassen</caption>
 <thead>
@@ -1156,6 +1166,10 @@ cookieconsent.run({
 <p>IBM stellt die <a href="https://www.ega.de/">eGA</a> als eigenständige Anwendung bereit, die über die Apps kooperierender Versicherungen (z. B. Techniker Krankenkasse, DKV, Generali) zugänglich ist. Versicherte können ihre Daten wie Arztberichte, Impfstatus oder Medikation zentral einsehen, verwalten und mit Ärzten oder Krankenhäusern teilen, wobei sie die volle Kontrolle über Zugriffsrechte behalten. IBM gewährleistet höchste Sicherheitsstandards durch Ende-zu-Ende-Verschlüsselung, Datenspeicherung ausschließlich in deutschen Rechenzentren und Zwei-Faktor-Authentifizierung.</p>
 <p><a href="https://openehr.org/">OpenEHR</a> und <a href="https://hl7.de/">FHIR</a> verfolgen unterschiedliche Ansätze zur Digitalisierung im Gesundheitswesen. OpenEHR, ein Standard der openEHR Foundation, zielt mit seinem zweistufigen Modell aus stabilem Referenzmodell und flexiblen Archetypen auf die Schaffung lebenslanger, semantisch reicher elektronischer Gesundheitsakten ab, die durch syntaktische Interoperabilität eine einheitliche Datenstrukturierung gewährleisten. Es eignet sich ideal für komplexe, longitudinale Patientenakten und wird etwa in nationalen EHR-Systemen genutzt, erfordert jedoch eine aufwendige Implementierung. FHIR, entwickelt von HL7, setzt hingegen auf eine ressourcenbasierte Architektur mit RESTful APIs, um den schnellen, pragmatischen Datenaustausch zwischen Systemen zu ermöglichen, wobei syntaktische Interoperabilität durch standardisierte Formate wie JSON erreicht wird – allerdings mit weniger Fokus auf semantische Tiefe. Während openEHR auf Persistenz und klinische Modellierung abzielt, punktet FHIR mit Entwicklerfreundlichkeit und breiter Akzeptanz, etwa in der deutschen Telematikinfrastruktur für Anwendungen wie das E-Rezept. Beide Standards sind komplementär: openEHR speichert Daten langfristig, FHIR tauscht sie effizient aus, und eine Kombination – etwa durch Mapping – könnte ihre Stärken optimal vereinen. Die Wahl hängt vom Ziel ab: Langzeitdaten mit openEHR oder flexibler Austausch mit FHIR.</p>
 <p>Semantische Interoperabilität im Gesundheitswesen ermöglicht die einheitliche Interpretation und Nutzung von Daten über Systemgrenzen hinweg, was durch standardisierte Terminologien und Klassifikationen gefördert wird, wie sie das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) bereitstellt. <a href="https://www.bfarm.de/DE/Kodiersysteme/Terminologien/SNOMED-CT/_node.html">SNOMED CT</a> ist eine umfassende klinische Terminologie, die präzise Begriffe für Diagnosen, Prozeduren und Befunde definiert und so die Bedeutung von Gesundheitsdaten maschinenlesbar macht. <a href="https://www.bfarm.de/DE/Kodiersysteme/Terminologien/LOINC-UCUM/LOINC-und-RELMA/_node.html">LOINC</a> standardisiert Labortests und klinische Messungen, wodurch Ergebnisse wie Blutwerte systemübergreifend vergleichbar werden, während UCUM die Einheiten vereinheitlicht. Die <a href="https://www.bfarm.de/EN/Code-systems/Classifications/ICD/ICD-10-GM/_node.html">ICD-10-GM</a>, eine deutsche Anpassung der Internationalen Klassifikation der Krankheiten, dient der einheitlichen Codierung von Diagnosen für Abrechnung und Statistik, mit jährlichen Updates für aktuelle medizinische Entwicklungen. Diese Systeme des BfArM tragen dazu bei, dass Daten nicht nur syntaktisch, sondern auch semantisch interoperabel sind, was die Qualität von Versorgung, Forschung und Gesundheitsmanagement steigert.</p>
+</section>
+<section id="offener-quelltext" class="level2">
+<h2 class="anchored" data-anchor-id="offener-quelltext">Offener Quelltext</h2>
+<p>Das GitHub-Repository <a href="https://github.com/med-united/epa4all">epa4all</a> widmet sich dem Thema der elektronischen Patientenakte (ePA) und ist eine Initiative zur Förderung ihrer Nutzung und Weiterentwicklung zu sein. Es bietet Werkzeuge, Ressourcen und Informationen, um die Implementierung der ePA im medizinischen Bereich zu unterstützen. Durch Zusammenarbeit und Wissensaustausch zielt das Projekt darauf ab, digitale Gesundheitslösungen zugänglicher und effizienter zu gestalten. Es richtet sich sowohl an Fachleute im Gesundheitswesen als auch an Entwickler, die an innovativen Technologien für die Gesundheitsbranche interessiert sind.</p>
 
 
 </section>

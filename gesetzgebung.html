@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -312,6 +332,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./pulmologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pulmologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./hno.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hals-Nasen-Ohren-Heilkunde</span></a>
   </div>
 </li>
@@ -418,7 +443,10 @@ cookieconsent.run({
     <h2 id="toc-title">Inhaltsverzeichnis</h2>
    
   <ul>
-  <li><a href="#übersicht-über-zentrale-gesetzesvorhaben-im-gesundheitswesen" id="toc-übersicht-über-zentrale-gesetzesvorhaben-im-gesundheitswesen" class="nav-link active" data-scroll-target="#übersicht-über-zentrale-gesetzesvorhaben-im-gesundheitswesen">Übersicht über zentrale Gesetzesvorhaben im Gesundheitswesen</a></li>
+  <li><a href="#übersicht-über-zentrale-gesetzesvorhaben-im-gesundheitswesen" id="toc-übersicht-über-zentrale-gesetzesvorhaben-im-gesundheitswesen" class="nav-link active" data-scroll-target="#übersicht-über-zentrale-gesetzesvorhaben-im-gesundheitswesen">Übersicht über zentrale Gesetzesvorhaben im Gesundheitswesen</a>
+  <ul class="collapse">
+  <li><a href="#nationale-ehealth-strategie" id="toc-nationale-ehealth-strategie" class="nav-link" data-scroll-target="#nationale-ehealth-strategie">Nationale eHealth Strategie</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/gesetzgebung.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -492,8 +520,84 @@ Definiert Rahmenvereinbarungen, die Anforderungen an Praxisverwaltungssysteme (P
 <li><a href="https://www.bundesgesundheitsministerium.de/pdsg.html">Bundesministerium für Gesundheit - PDSG</a></li>
 <li><a href="https://www.bundesgesundheitsministerium.de/dvpmg.html">Bundesministerium für Gesundheit - DVPMG</a></li>
 </ul>
+<section id="nationale-ehealth-strategie" class="level2">
+<h2 class="anchored" data-anchor-id="nationale-ehealth-strategie">Nationale eHealth Strategie</h2>
+<p>Der Artikel „National eHealth strategies: a comparative study of nine OECD health systems“, veröffentlicht in BMC Health Services Research, untersucht die eHealth-Strategien von neun Gesundheitssystemen (Australien, Dänemark, Estland, Finnland, Norwegen, Schweden, UK/NHS England, Katalonien/Spanien und USA/Veterans Affairs). Die Autoren führen eine qualitative Vergleichsanalyse durch, basierend auf öffentlich zugänglichen Strategiedokumenten, und fokussieren drei Dimensionen: Vision und Ziele, Umsetzungsmethoden sowie Nachverfolgungsstrukturen. Ziel ist es, die Effizienz und Ergebnisse von Gesundheitssystemen durch effektive eHealth-Strategien zu verbessern. Die Studie zeigt, dass die meisten Systeme klare Visionen und Ziele formulieren, und betont die Bedeutung einer strukturierten Implementierung und Nachverfolgung für den Erfolg digitaler Gesundheitsinitiativen. <span class="citation" data-cites="palm2025national">(<a href="referenzen.html#ref-palm2025national" role="doc-biblioref">Palm u.&nbsp;a. 2025</a>)</span></p>
+<table class="caption-top table">
+<caption>Übersicht nationale eHealth Strategien</caption>
+<thead>
+<tr class="header">
+<th><strong>Land/System</strong></th>
+<th><strong>Vision und Ziele</strong></th>
+<th><strong>Umsetzungsmethoden</strong></th>
+<th><strong>Nachverfolgungsstrukturen</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Australien</strong></td>
+<td>Förderung eines vernetzten, patientenzentrierten Gesundheitswesens durch digitale Tools.</td>
+<td>Nationale digitale Gesundheitsstrategie mit Fokus auf Interoperabilität und Datenaustausch.</td>
+<td>Regelmäßige Evaluierung durch die Australian Digital Health Agency.</td>
+</tr>
+<tr class="even">
+<td><strong>Dänemark</strong></td>
+<td>Verbesserung der Versorgungsqualität und Effizienz durch einheitliche digitale Lösungen.</td>
+<td>Zentralisierte Infrastruktur (z. B. Sundhed.dk) und verpflichtende Nutzung durch Gesundheitsdienste.</td>
+<td>Kontinuierliche Überwachung durch die Danish Health Data Authority.</td>
+</tr>
+<tr class="odd">
+<td><strong>Estland</strong></td>
+<td>Schaffung eines vollständig digitalisierten Gesundheitswesens mit Fokus auf Datenzugang.</td>
+<td>E-Health-System mit elektronischen Patientenakten und Blockchain-Technologie für Sicherheit.</td>
+<td>Staatliches Monitoring durch das Estonian e-Health Foundation-Team.</td>
+</tr>
+<tr class="even">
+<td><strong>Finnland</strong></td>
+<td>Stärkung der Bürgerbeteiligung und Effizienz durch digitale Selbstverwaltungstools.</td>
+<td>Kanta-System für zentrale Datenspeicherung und schrittweise Einführung von e-Services.</td>
+<td>Evaluierung durch das Gesundheitsministerium und das Nationale Institut für Gesundheit.</td>
+</tr>
+<tr class="odd">
+<td><strong>Norwegen</strong></td>
+<td>Integration und Koordination der Versorgung durch standardisierte digitale Plattformen.</td>
+<td>Nationale eHealth-Strategie mit Fokus auf elektronische Patientenakten und Telemedizin.</td>
+<td>Überwachung durch die Direktion für eHealth (<a href="https://www.norge.no/en">Norge.no</a>).</td>
+</tr>
+<tr class="even">
+<td><strong>Schweden</strong></td>
+<td>Förderung eines zugänglichen und sicheren Gesundheitswesens durch digitale Innovation.</td>
+<td>Vision e-hälsa 2025 mit regionaler Umsetzung und starker Betonung auf Datenschutz.</td>
+<td>Koordinierte Nachverfolgung durch die eHealth Agency und regionale Gesundheitsbehörden.</td>
+</tr>
+<tr class="odd">
+<td><strong>UK (NHS England)</strong></td>
+<td>Modernisierung des NHS durch digitale Transformation und verbesserte Patientenerfahrung.</td>
+<td>NHS Long Term Plan mit Investitionen in KI, Apps und digitale Infrastruktur (z. B. NHS App).</td>
+<td>Evaluierung durch NHS Digital und das Department of Health and Social Care.</td>
+</tr>
+<tr class="even">
+<td><strong>Katalonien (Spanien)</strong></td>
+<td>Personalisierte und nachhaltige Versorgung durch digitale Integration regionaler Dienste.</td>
+<td>TIC Salut Social-Strategie mit Fokus auf Interoperabilität und Telemedizin in der Primärversorgung.</td>
+<td>Regionale Überwachung durch das katalanische Gesundheitsministerium.</td>
+</tr>
+<tr class="odd">
+<td><strong>USA (Veterans Affairs)</strong></td>
+<td>Optimierung der Versorgung für Veteranen durch digitale Tools und Datenzugänglichkeit.</td>
+<td>VA’s Electronic Health Record Modernization (EHRM) mit Fokus auf eine einheitliche EHR-Plattform.</td>
+<td>Zentralisierte Kontrolle durch das VA Office of Information and Technology.</td>
+</tr>
+</tbody>
+</table>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-palm2025national" class="csl-entry" role="listitem">
+Palm, Klas, Anders Brantnell, Michael Peolsson, Nurgül Özbek, und Gustaf Hedström. 2025. <span>„National eHealth strategies: a comparative study of nine OECD health systems“</span>. <em>BMC Health Services Research</em> 25 (1): 269.
+</div>
+</div>
+</section>
 </section>
 
 </main> <!-- /main -->
