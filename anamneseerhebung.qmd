@@ -24,6 +24,8 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 
 - **Nachsorge und Qualitätssicherung**: MAIA unterstützt spezifische Nachsorgemodule, und strukturierte Patientenbefragungen wie ePRO dienen der Qualitätssicherung.
 
+## Anamnesewerkzeuge
+
 | Anbieter                          | Webseite                                                           | Beschreibung |
 |:----------------------------------|:-------------------------------------------------------------------|:------------|
 | Starc                             | [Starc](https://starc-medical.de/produkte/digitale-anamnese/)     | PatientInnen können aus mehr als 12 Sprachen wählen und digitale Anamnesebögen per PC, Smartphone oder Tablet vorab ausfüllen. Teilen des Anamnesebogens per QR-Code oder Internetseite möglich. |
