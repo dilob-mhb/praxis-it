@@ -12,3 +12,5 @@ Digitale Gesundheitsanwendungen (DiGA) haben in den letzten Jahren zunehmend an 
 |:------------------------|:---------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:----------------|
 | Meine Tinnitus App     | [Meine Tinnitus App](https://www.meinetinnitusapp.de/)   | Bietet Tinnitus Counseling zur Aufklärung und Beratung, um eine Basis für weitere Therapieoptionen zu schaffen. | 10 Wochen (Lektionen à 60–90 Minuten) |
 | Kalmeda               | [Kalmeda](https://www.kalmeda.de/)                        | Digitale Gesundheitsanwendung mit kognitiver Verhaltenstherapie zur Behandlung und Bewältigung von Tinnitus. | 90 Tage |
+
+: Beispiele Softwareanwendungen
