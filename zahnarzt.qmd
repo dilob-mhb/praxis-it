@@ -1,8 +1,12 @@
 # Zahnärztliche Praxis
 
+## Einleitung
+
 Zahnärztliche Software bietet eine Vielzahl von Funktionen. Dazu gehören Praxismanagement, das die Verwaltung von Terminen, Patientenakten und Abrechnungen umfasst, sowie Elektronische Gesundheitsakten. Moderne Programme bieten auch Telemedizinlösungen, E-Rezept-Funktionen und mobile Zugriffs-Optionen, um die Flexibilität und Effizienz in der Praxis zu erhöhen.
 
 Zahnärztliche Software muss spezielle Anforderungen erfüllen, die sich von denen allgemeiner medizinischer Praxen unterscheiden. Dazu gehören detaillierte Zahndokumentationen wie Odontogramme für die Behandlung und Planung sowie die Integration von speziellen Bildgebungsverfahren wie intraorale und panoramische Röntgenaufnahmen. Diese Software muss auch Funktionen für die Planung von Prothesen und Kieferorthopädie und besondere Abrechnungscodes unterstützen, die nur in der Zahnmedizin verwendet werden. Darüber hinaus bieten sie oft Visualisierungen für Behandlungspläne und spezialisierte Systeme zur Patientenerinnerung, um die spezifischen Bedürfnisse und Abläufe in zahnärztlichen Praxen abzudecken.
+
+## Softwarefunktionen
 
 - **Allgemeine Verwaltungsfunktionen:**
   - Terminplanung
@@ -35,6 +39,8 @@ Zahnärztliche Software muss spezielle Anforderungen erfüllen, die sich von den
   - Integration mit Dental-Labors für Prothesen- und Kieferorthopädiearbeiten
   - Spezifische Abrechnungscodes für die Zahnmedizin
   - Patientenerinnerungssysteme für regelmäßige Kontrollen
+
+## Zahnarztpraxissoftware
 
 |    | Software                     | URL                                                                                                                                        |
 |---:|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -74,6 +80,8 @@ Zahnärztliche Software muss spezielle Anforderungen erfüllen, die sich von den
 : Übersicht Zahnarztsoftware
 
 Quelle: [@KZBV_EDV_Statistik]
+
+## Zahnärztliche Dokumentationswerkzeuge
 
 | Software                            | URL                                                               | Beschreibung |
 |:------------------------------------|:-------------------------------------------------------------------|:------------|

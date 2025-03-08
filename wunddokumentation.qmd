@@ -1,5 +1,7 @@
 # Wunddokumentation
 
+## Einleitung
+
 Wund-Apps unterstützen bei der digitalen Dokumentation, Vermessung und Überwachung von Wunden sowie bei der Auswahl geeigneter Behandlungsmaterialien.
 
 Wichtige Features, die bei der Bewertung von Wund-Apps berücksichtigt werden sollten, sind:  
@@ -13,6 +15,8 @@ Wichtige Features, die bei der Bewertung von Wund-Apps berücksichtigt werden so
 7. **Datenschutz**: DSGVO-Konformität, inklusive sicherer Speicherung und Zugriffskontrolle.  
 8. **Visualisierung des Heilungsverlaufs**: Fotogalerien, Overlayfunktionen und Diagramme zur Verlaufskontrolle.  
 9. **Interoperabilität**: Schnittstellen zu anderen Systemen und Geräten, wie Praxissoftware oder digitalen Einwilligungslösungen.  
+
+## Softwarelösungen
 
 |    | Software         | Anbieter                          | URL                |
 |---:|:-----------------|:----------------------------------|:-------------------|

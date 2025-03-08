@@ -1,5 +1,7 @@
 # Künstliche Intelligenz
 
+## Einleitung
+
 Das [Positionspapier des HAEV aus Juli 2024](https://www.haev.de/fileadmin/user_upload/News_Dateien/2024/2024_07_04_HAEV_Positionspapier_KI.pdf), betitelt „Künstliche Intelligenz (KI) in der Hausarztpraxis“, beleuchtet den Einsatz von KI in der hausärztlichen Versorgung. Es betont die Chancen von KI, wie die Unterstützung bei Diagnose und Therapieplanung, die Entlastung von administrativen Aufgaben und die Verbesserung der Patienteninteraktion durch Chatbots. Gleichzeitig werden Risiken wie Datenschutzbedenken, ethische Fragen und mögliche Verzerrungen angesprochen. Das Papier fordert Transparenz, Qualitätssicherung der Daten, Anpassung an Praxisprozesse und die Entwicklung eines klaren regulatorischen Rahmens für den verantwortungsvollen Einsatz von KI in der Medizin. Es wird betont, dass KI als Ergänzung und nicht als Ersatz für ärztliche Entscheidungen dient, wobei die Sicherheit und der Datenschutz der Patienten sowie die Entlastung des Praxisteams im Vordergrund stehen.
 
 Der Artikel "Ten Ways Artificial Intelligence Will Transform Primary Care" aus dem Jahr 2019 beschreibt, wie KI die hausärztliche Versorgung in den USA verändern könnte. Er hebt zehn Bereiche hervor, darunter Risikoprädiktion, Populationsgesundheitsmanagement, medizinischer Rat und Triage, und Diagnostik, in denen KI Verbesserungen bringen könnte. Die Herausforderung besteht darin, die Balance zu finden, wie KI am besten in den hausärztlichen Alltag integriert wird, um die vier Ziele (bessere Versorgung, bessere Gesundheit, geringere Kosten, Wohlbefinden der Arbeitskräfte) zu erreichen. [@Lin2019]
@@ -31,3 +33,11 @@ Die Dienstleistung von [Intrexx](https://www.intrexx.com/de/gesundheitswesen/) k
 ## Übersichtsplattform
 
 Die Website [Alles KI](https://alles-ki.com/de) bietet einen Überblick über KI-Anwendungen zum Einsatz im Alltag.
+
+## Forschung
+
+AMIE (Articulate Medical Intelligence Explorer) ist ein KI-System basierend auf einem großen Sprachmodell, das für diagnostische Dialoge optimiert wurde. Der medizinische Dialog mit dem Patienten ist elementar für eine präzise Diagnose. KI kann diesen Prozess zugänglicher und konsistenter machen könnte. AMIE wurde mit einem neuartigen, simulationsbasierten Selbstlernsystem trainiert und in einer randomisierten, doppelt verblindeten Studie mit 149 klinischen Szenarien gegen Hausärzte getestet. Dabei zeigte AMIE eine höhere diagnostische Genauigkeit und übertraf die Ärzte in den meisten Bewertungskategorien, wie Anamneseaufnahme und Empathie. Dennoch betont der Artikel Einschränkungen, wie die ungewohnte Text-Chat-Schnittstelle, und fordert weitere Forschung für reale Anwendungen. [@tu2024conversationaldiagnosticai] AMIE wurde erweitert, um nicht nur Diagnosen zu stellen, sondern auch das Follow-up zu unterstützen, indem es Krankheitsverläufe, Therapieansprechen und sichere Medikamentenverordnungen berücksichtigt. Basierend auf den Gemini-Modellen nutzt AMIE Techniken wie langes Kontextverständnis und geringe Halluzinationsraten, um Ärzte und Patienten bei komplexen Behandlungsplänen zu unterstützen. 
+
+* [research.google/blog/amie-a-research-ai-system-for-diagnostic-medical-reasoning-and-conversations](https://research.google/blog/amie-a-research-ai-system-for-diagnostic-medical-reasoning-and-conversations/)
+* [research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/)
+* [research.google/blog/from-diagnosis-to-treatment-advancing-amie-for-longitudinal-disease-management](https://research.google/blog/from-diagnosis-to-treatment-advancing-amie-for-longitudinal-disease-management/)

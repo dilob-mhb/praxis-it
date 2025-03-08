@@ -1,6 +1,10 @@
 # Dermatologie
 
+## Einleitung
+
 Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der Benutzerfreundlichkeit, den unterstützten Plattformen (App vs. Web), der Kostenstruktur (kostenlos vs. kostenpflichtig) und der Spezialisierung auf bestimmte Hautprobleme oder -typen. Während einige Tools eher auf eine schnelle, allgemeine Hautanalyse abzielen, konzentrieren sich andere auf tiefgehende Untersuchungen, die von Dermatologen oder Hautpflegeexperten unterstützt werden. 
+
+## Softwarelösungen
 
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|
@@ -25,6 +29,8 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 | CRUSE Control            | UCARE (Urticaria Centers of Reference and Excellence) | [cruse-control.com](https://cruse-control.com/) |
 
 : Übersicht Softwarelösungen Direct-to-Consumer
+
+## Forschung
 
 | Product                  | Company                  | URL                                                                 |
 |--------------------------|--------------------------|---------------------------------------------------------------------|

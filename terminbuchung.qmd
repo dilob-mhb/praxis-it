@@ -6,11 +6,15 @@
 
 :::
 
+## Einleitung
+
 Bei der Auswahl eines Terminbuchungstools sollten Sie auf Funktionsumfang, Benutzerfreundlichkeit, Integration mit bestehender Software und Datenschutz achten. Berücksichtigen Sie auch die Kostenstruktur, den Kundensupport und die Skalierbarkeit des Systems, um sicherzustellen, dass es den aktuellen und zukünftigen Bedürfnissen Ihrer Einrichtung entspricht. Benutzerbewertungen können ebenfalls wertvolle Einblicke bieten.
 
 Eine Studie von Atherton et al. [@Atherton2024] untersuchte die Nutzung und Erfahrungen mit Online-Terminbuchungssystemen in englischen Hausarztpraxen und fand heraus, dass nur 16 % der Patienten diese Systeme nutzten, obwohl 45 % davon wussten. Besonders ältere Menschen über 75 Jahre und Patienten aus sozioökonomisch benachteiligten Gebieten nutzten die Angebote seltener. Berufstätige und Menschen mit chronischen Erkrankungen schätzten die Flexibilität und Einfachheit, während ältere Patienten oft die Telefonbuchung bevorzugten. Die Nutzung wurde maßgeblich durch die Organisation der Praxis, die Verfügbarkeit von Terminen und die Benutzerfreundlichkeit beeinflusst. Um die Nutzung zu erhöhen, sind gezielte Informationen und Unterstützung für benachteiligte Gruppen notwendig.
 
 Waddell et al. [@WADDELL2024399] untersuchte den Zusammenhang zwischen der Einführung einer Selbstbuchungsfunktion im elektronischen Patientenakte (EHR) System und der Durchführung von Screening-Mammographien. Sie zeigte, dass nach der Einführung der Selbstbuchung die Rate der Mammographie-Abschlüsse von 22,2% auf 49,7% stieg. Die Ergebnisse legen nahe, dass die Selbstbuchungsfunktion im EHR-System eine kostengünstige und skalierbare Möglichkeit zur Steigerung der Teilnahme an vorbeugenden Krebsscreenings darstellt.
+
+## Softwarelösungen
 
 | Index | Anbieter | Webseite | Beschreibung |
 |---|---|---|---|
@@ -25,6 +29,8 @@ Waddell et al. [@WADDELL2024399] untersuchte den Zusammenhang zwischen der Einf�
 | 8 | Visita | [visita.arzttermine.de](https://visita.arzttermine.de/) | Online-Terminvergabe für Ärzte mit digitalem Wartezimmer, Videosprechstunden und Patientenkommunikation. |
 
 : Übersicht Softwarelösungen Terminbuchung
+
+## Kombinationslösungen
 
 | Index | Anbieter | Webseite | Beschreibung |
 |---|---|---|---|

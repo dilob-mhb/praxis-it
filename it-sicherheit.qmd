@@ -1,5 +1,7 @@
 # IT-Sicherheit
 
+## Einleitung
+
 Die **KBV IT-Sicherheitsrichtlinie** wurde von der **Kassenärztlichen Bundesvereinigung (KBV)** entwickelt, um die Anforderungen von **§ 75b SGB V** zu erfüllen, einem Gesetz zur Stärkung der IT-Sicherheit im Gesundheitswesen. Die Richtlinie standardisiert technische und organisatorische Maßnahmen (TOMs) zur Datensicherheit gemäß Artikel 32 der DSGVO und unterscheidet sich nach Praxisgröße und IT-Infrastruktur. Sie fokussiert sich auf die Ziele Vertraulichkeit, Integrität und Verfügbarkeit von Daten und wird jährlich mit dem BSI aktualisiert. Diese Richtlinie ist für alle Praxen im gesetzlichen Krankenversicherungssystem verpflichtend und unterstützt eine schrittweise Umsetzung. [@KBV_IT_Sicherheitsrichtlinie_2020]
 
 ## Beispiele für IT-Schwachstellen
