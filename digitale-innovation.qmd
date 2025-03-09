@@ -119,7 +119,9 @@ Beratungsunternehmen unterstützen bei der digitalen Transformation. Der Beratun
 
 | Name                | URL                                    |
 |---------------------|----------------------------------------|
-| Lux Digitale Praxis | [lux-digitalepraxis.de](https://lux-digitalepraxis.de/) |
 | Docport             | [docport.de](https://www.docport.de/)  |
 | Eterno Health       | [eterno.health](https://www.eterno.health/fuer-aerzte) |
 | Arztkonsultation    | [arztkonsultation.de](https://arztkonsultation.de/) |
+| Lux Digitale Praxis | [lux-digitalepraxis.de](https://lux-digitalepraxis.de/) |
+| Digital Medizin     | [digital-medizin.com](https://www.digital-medizin.com/) |
+| Medizinio           | [medizinio.de](https://medizinio.de/) |
