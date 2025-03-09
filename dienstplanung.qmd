@@ -38,5 +38,6 @@ Diese Merkmale fördern Transparenz, Flexibilität und Effizienz, was zur Zufrie
 | Ordio                  | Ordio                 | [Ordio](https://www.ordio.com/)                                      |
 | Crewmeister            | Crewmeister           | [Crewmeister](https://crewmeister.com/de)                           |
 | TimeMonkey | MonkeyDent GmbH | [monkeydent.de](http://monkeydent.de) |
+| clockin | clockin GmbH | [clockin.de](https://www.clockin.de/zeiterfassung-fuer-branchen/arztpraxen) |
 
 : Übersicht Softwarelösungen Dienstplanung
