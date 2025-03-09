@@ -88,3 +88,7 @@ E2EE erfordert, dass die Schlüssel zwischen den Kommunikationspartnern sicher a
 ## Datenaustausch
 
 [Anonetics](https://www.anonetics.de/) ist ein Hamburger Startup, das sich auf sichere digitale Dokumentenübertragung im Gesundheitswesen spezialisiert hat. Mit der Lösung anolink können Nutzer Dokumente schnell und DSGVO-konform über eine Blockchain- und Cloud-basierte Plattform versenden. Das Unternehmen zielt darauf ab, Systeme wie Faxgeräte zu ersetzen und Arbeitsabläufe in Kliniken, Apotheken und Praxen zu optimieren. Serverstandort ist Deutschland, und sensible Daten werden nur temporär gespeichert.
+
+## Forschung
+
+Das [Projekt TI-PAA](https://dx.doi.org/10.3205/24gaa14) implementiert von Juni 2024 bis Mai 2025 einen TI-konformen Instant-Messenger zur Verbesserung der Kommunikation zwischen Hausarztpraxen, Apotheken und Pflegeheimen in Nürnberg. Ziel ist es, die bisherigen ineffizienten Kommunikationswege wie Telefon und Fax durch eine sichere, zeitsparende Alternative zu ersetzen und Handlungsempfehlungen für eine breitere Nutzung zu entwickeln. Erste Ergebnisse zeigen Potenzial, jedoch erschwert die fehlende TI-Anbindung der Pflegeheime die Umsetzung.
