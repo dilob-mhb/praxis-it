@@ -6,7 +6,7 @@ In seinem JAMA Artikel „How AI Could Reshape Health Care—Rise in Direct-to-C
 
 Digitale Innovationen können über direkte und indirekte Zugangswege in den ersten Gesundheitsmarkt integriert werden [@GerschDanelski2022].
 
-## Direkte Zugangswege (B2P/B2C-Lösungen):
+## Direkte Zugangswege (B2P/B2C-Lösungen)
 1. **Digitale Pflegeanwendungen (DiPA, §40a SGB XI)**:
    - Versorgung von Pflegebedürftigen mit digitalen Anwendungen, die deren Selbstständigkeit fördern.
    - Antragstellung erfolgt bei der Pflegekasse.
@@ -35,7 +35,7 @@ Digitale Innovationen können über direkte und indirekte Zugangswege in den ers
 7. **Besondere Versorgung (§140a SGB V)**:
    - Verträge zwischen Krankenkassen und Leistungserbringern, z. B. für sektorenübergreifende Lösungen.
 
-## Indirekte Zugangswege (B2B-Modelle):
+## Indirekte Zugangswege (B2B-Modelle)
 1. **Krankenhauszukunftsgesetz (KHZG)**:
    - Finanzierung von Digitalisierungsprojekten in Krankenhäusern (z. B. elektronische Patientenakten, IT-Sicherheit).
 
@@ -112,3 +112,16 @@ Startup-Inkubatoren und -Acceleratoren für digitale Gesundheitsunternehmen unte
 Die Studie "Voice as a Biomarker in Health-Tech: Mapping the Evolving Landscape of Voice Biomarkers in the Start-Up World" von Emily G. Evangelista und Kollegen untersucht die wachsende Rolle von Stimmbiomarkern in der Gesundheitstechnologie. Dies könnte andere, bisherige Diagnoseverfahren teilweise obsolet machen. Der Markt für Stimmbiomarker wurde 2021 mit 1,9 Milliarden US-Dollar bewertet und soll bis 2028 auf über 5,1 Milliarden US-Dollar ansteigen, mit einer jährlichen Wachstumsrate von 15,15 %. Ziel der Studie war es, die aktuelle Landschaft von Start-ups zu kartieren, die Stimme als Gesundheitsbiomarker nutzen. Dafür wurden umfassende Recherchen über Internetquellen, soziale Medien und Literaturdatenbanken durchgeführt. Insgesamt wurden 27 Start-ups identifiziert, die KI einsetzen, um Stimmbiomarker zu entwickeln; 24 davon sammelten Investitionen in Höhe von über 178 Millionen US-Dollar und veröffentlichten gemeinsam 194 Publikationen, von denen 66 % peer-reviewed sind. [@evangelista2024voice]
 
 Die Arbeit *"Disruptive Innovation – Considerations for Health and Health Care in Europe"*, herausgegeben von der Expertengruppe der Europäischen Kommission für effektive Investitionen im Gesundheitswesen (EXPH), untersucht das Potenzial disruptiver Innovationen im europäischen Gesundheitssektor. Disruptive Innovationen werden als Veränderungen definiert, die neue Netzwerke und Organisationsstrukturen schaffen, ältere Systeme verdrängen und Gesundheitsversorgung effizienter sowie zugänglicher machen. Die Expertengruppe identifiziert fünf zentrale Bereiche für disruptive Innovationen: translationale Forschung, Zugang zu neuen Technologien, Präzisionsmedizin, Ausbildung von Gesundheitsfachkräften und Gesundheitsförderung. Es empfiehlt politische Maßnahmen, um förderliche Bedingungen für Innovationen zu schaffen und bestehende Barrieren zu überwinden, während gleichzeitig Gerechtigkeit, Qualität und Nachhaltigkeit im Gesundheitswesen gewahrt bleiben. [@innovationconsiderations]
+
+## Beratung
+
+Beratungsunternehmen unterstützen bei der digitalen Transformation. Der Beratungsprozess beginnt mit einer Analyse der Bedürfnisse der Arztpraxis, gefolgt von einer individuellen Beratung und dem Vorschlag maßgeschneiderter digitaler Lösungen. Nach der Planung und Umsetzung, einschließlich Installation und Schulung, bieten die Anbieter fortlaufenden Support, um eine effiziente Nutzung sicherzustellen, während Datenschutz stets gewährleistet wird.
+
+| Name                | URL                                    |
+|---------------------|----------------------------------------|
+| Docport             | [docport.de](https://www.docport.de/)  |
+| Eterno Health       | [eterno.health](https://www.eterno.health/fuer-aerzte) |
+| Arztkonsultation    | [arztkonsultation.de](https://arztkonsultation.de/) |
+| Lux Digitale Praxis | [lux-digitalepraxis.de](https://lux-digitalepraxis.de/) |
+| Digital Medizin     | [digital-medizin.com](https://www.digital-medizin.com/) |
+| Medizinio           | [medizinio.de](https://medizinio.de/) |
