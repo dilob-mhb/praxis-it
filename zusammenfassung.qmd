@@ -4,6 +4,15 @@
 
 „Praxis-IT“ zeigt praxisnahe IT-Lösungen auf, die den Arbeitsalltag in Praxen effizienter gestalten können. Es behandelt Themen von Praxisverwaltungssoftware bis hin zu KIM-Diensten und gibt wertvolle Einblicke in deren Anwendungsmöglichkeiten.
 
+## Leitprinzipien
+
+Programmiersprachen werden oft von Leitprinzipien begleitet, die ihre Designphilosophie und Nutzung auf einer Metaebene definieren. Diese Prinzipien, wie der „Zen of Python“ oder die Unix-Philosophie, bieten Entwicklern Orientierung, indem sie Werte wie Einfachheit, Sicherheit oder Effizienz hervorheben. Sie dienen als Kompass für die Anwendung und Weiterentwicklung der Sprache in der Praxis. Im Umgang mit digitalen Anwendungen im ambulanten Bereich können folgende Handlungsprinzipien hilfreich sein:
+
+* Evidenz prüfen: Vor der Einführung digitaler Lösungen aktuelle Studien und Daten zu Auswirkungen auf Patienten, Mitarbeiter und die Praxisgemeinschaft analysieren. Schaden vermeiden steht an erster Stelle („First do no harm“).  
+* Einfache Lösungen priorisieren: Bestehende Software vollständig nutzen und Defizite beheben, bevor komplexe Anwendungen eingeführt werden.  
+* Sichere Kommunikation gewährleisten: Verschlüsselte Messengerdienste anstelle unverschlüsselter E-Mails verwenden und Patienten sichere Zugangswege bereitstellen.
+* Fehler systematisch managen: Softwarefehler akzeptieren, analysieren, in Teilprobleme zerlegen und lösen. Bei Bedarf eigenständig Hilfe recherchieren oder andere Personen konsultieren.
+
 ## Projekt
 
 Das Projekt „Digitalisierungslots:innen in der Brandenburger Primärversorgung“ (DiLoB), gefördert vom Bundesgesundheitsministerium im Rahmen der Ressortforschung, zielt darauf ab, die Digitalisierung in Arztpraxen der Primärversorgung in Brandenburg nachhaltig zu etablieren. Unter der Leitung der Medizinischen Hochschule Brandenburg (MHB) unterstützt es Praxen bei der Einführung digitaler Prozesse, indem sogenannte Digitalisierungslots:innen – geschultes Personal – Ärzte und Teams bei der Nutzung digitaler Technologien begleiten. Es adressiert die Herausforderungen, die insbesondere ältere Mediziner:innen bei der Integration neuer Technologien empfinden, und nutzt das digitale Reifegradmodell der Kassenärztlichen Vereinigung Westfalen-Lippe. Durch die Einbindung regionaler Akteure wie Ärztenetzwerke soll die Nachhaltigkeit der Ergebnisse gesichert werden, um die Versorgung zu verbessern und digitale Kompetenzen langfristig zu stärken.
