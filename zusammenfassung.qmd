@@ -8,16 +8,55 @@
 
 Programmiersprachen werden oft von Leitprinzipien begleitet, die ihre Designphilosophie und Nutzung auf einer Metaebene definieren. Diese Prinzipien, wie der „Zen of Python“ oder die Unix-Philosophie, bieten Entwicklern Orientierung, indem sie Werte wie Einfachheit, Sicherheit oder Effizienz hervorheben. Sie dienen als Kompass für die Anwendung und Weiterentwicklung der Sprache in der Praxis. Im Umgang mit digitalen Anwendungen im ambulanten Bereich können folgende Handlungsprinzipien hilfreich sein:
 
-* Evidenz prüfen: Vor der Einführung digitaler Lösungen aktuelle Studien und Daten zu Auswirkungen auf Patienten, Mitarbeiter und die Praxisgemeinschaft analysieren. Schaden vermeiden steht an erster Stelle („First do no harm“).  
-* Einfache Lösungen priorisieren: Bestehende Software vollständig nutzen und Defizite beheben, bevor komplexe Anwendungen eingeführt werden. Künstliche Intelligenz ist nur ein Mittel unter vielen und andere Mittel können Künstlicher Intelligenz überlegen sein.
-* Sichere Kommunikation gewährleisten: Verschlüsselte Messengerdienste anstelle unverschlüsselter E-Mails verwenden und Patienten sichere Zugangswege bereitstellen.
-* Fehler systematisch managen: Softwarefehler akzeptieren, analysieren, in Teilprobleme zerlegen und lösen. Bei Bedarf eigenständig Hilfe recherchieren bspw. in Nutzerforen oder andere Personen konsultieren.
-* Lernen und Verändern: Bereitschaft zeigen, neue Technologien zu erlernen und Arbeitsweisen entsprechend anzupassen, um den digitalen Wandel aktiv mitzugestalten.
-* Mitarbeiter und Patienten einbinden: Mitarbeiter und Patienten aktiv in die sichere Nutzung digitaler Technologien einbeziehen und durch Anleitung und Unterstützung mitnehmen.
-* Nützliche Lösungen erkennen und kommunizieren: gute digitale Werkzeuge identifizieren und Erkenntnisse kommunizieren, um eine effektive Nutzung zu fördern.
-* Gute Suchfunktion vor Hierarchienavigation: Digitale Systeme mit effizienten Suchfunktionen priorisieren, um Informationen schneller zu finden, anstatt auf komplexe Hierarchienavigation zu setzen.
-* Daten statt Menschen versenden: Digitale Übertragung von Daten nutzen, um Informationen effizient auszutauschen, anstatt physische Wege von Personen zu erfordern.
-* Standards vor individuellen Regeln: Allgemein anerkannte Standards bevorzugen, um Kompatibilität und Effizienz zu gewährleisten.
+::: {.callout-note}
+## Evidenz prüfen
+Vor der Einführung digitaler Lösungen aktuelle Studien und Daten zu Auswirkungen auf Patienten, Mitarbeiter und die Praxisgemeinschaft analysieren. Schaden vermeiden steht an erster Stelle („First do no harm“).  
+:::
+
+::: {.callout-note}
+## Einfache Lösungen priorisieren
+Bestehende Software vollständig nutzen und Defizite beheben, bevor komplexe Anwendungen eingeführt werden. Künstliche Intelligenz ist nur ein Mittel unter vielen und andere Mittel können Künstlicher Intelligenz überlegen sein.
+:::
+
+::: {.callout-note}
+## Sichere Kommunikation gewährleisten
+Verschlüsselte Messengerdienste anstelle unverschlüsselter E-Mails verwenden und Patienten sichere Zugangswege bereitstellen.
+:::
+
+::: {.callout-note}
+## Fehler systematisch managen
+Softwarefehler akzeptieren, analysieren, in Teilprobleme zerlegen und lösen. Bei Bedarf eigenständig Hilfe recherchieren bspw. in Nutzerforen oder andere Personen konsultieren.
+:::
+
+::: {.callout-note}
+## Lernen und Verändern
+Bereitschaft zeigen, neue Technologien zu erlernen und Arbeitsweisen entsprechend anzupassen, um den digitalen Wandel aktiv mitzugestalten.
+:::
+
+::: {.callout-note}
+## Mitarbeiter und Patienten einbinden
+Mitarbeiter und Patienten aktiv in die sichere Nutzung digitaler Technologien einbeziehen und durch Anleitung und Unterstützung mitnehmen.
+:::
+
+::: {.callout-note}
+## Nützliche Lösungen erkennen und kommunizieren
+gute digitale Werkzeuge identifizieren und Erkenntnisse kommunizieren, um eine effektive Nutzung zu fördern.
+:::
+
+::: {.callout-note}
+## Gute Suchfunktion vor Hierarchienavigation
+Digitale Systeme mit effizienten Suchfunktionen priorisieren, um Informationen schneller zu finden, anstatt auf komplexe Hierarchienavigation zu setzen.
+:::
+
+::: {.callout-note}
+## Daten nicht physisch versenden
+Digitale Übertragung von Daten nutzen, um Informationen effizient auszutauschen, anstatt physische Wege von Personen zu erfordern.
+:::
+
+::: {.callout-note}
+## Standards vor individuellen Regeln
+Allgemein anerkannte Standards bevorzugen, um Kompatibilität und Effizienz zu gewährleisten.
+:::
 
 ## Projekt
 
