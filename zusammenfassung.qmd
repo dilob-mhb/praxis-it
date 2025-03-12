@@ -15,6 +15,9 @@ Programmiersprachen werden oft von Leitprinzipien begleitet, die ihre Designphil
 * Lernen und Verändern: Bereitschaft zeigen, neue Technologien zu erlernen und Arbeitsweisen entsprechend anzupassen, um den digitalen Wandel aktiv mitzugestalten.
 * Mitarbeiter und Patienten einbinden: Mitarbeiter und Patienten aktiv in die sichere Nutzung digitaler Technologien einbeziehen und durch Anleitung und Unterstützung mitnehmen.
 * Nützliche Lösungen erkennen und kommunizieren: gute digitale Werkzeuge identifizieren und Erkenntnisse kommunizieren, um eine effektive Nutzung zu fördern.
+* Gute Suchfunktion vor Hierarchienavigation: Digitale Systeme mit effizienten Suchfunktionen priorisieren, um Informationen schneller zu finden, anstatt auf komplexe Hierarchienavigation zu setzen.
+* Daten statt Menschen versenden: Digitale Übertragung von Daten nutzen, um Informationen effizient auszutauschen, anstatt physische Wege von Personen zu erfordern.
+* Standards vor individuellen Regeln: Allgemein anerkannte Standards bevorzugen, um Kompatibilität und Effizienz zu gewährleisten.
 
 ## Projekt
 
