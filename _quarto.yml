@@ -68,6 +68,7 @@ book:
       - zahnarzt.qmd
       # - pflege.qmd
       # - krankenhaus.qmd
+      - oeffentliche-gesundheit.qmd
     - part: "Verwaltung"
       chapters:
       - buchhaltung.qmd
