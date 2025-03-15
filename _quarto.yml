@@ -63,6 +63,7 @@ book:
       - pulmologie.qmd
       - onkologie.qmd
       - hno.qmd
+      # - allergologie.qmd
       - impfsoftware.qmd
       - medikation.qmd
       - zahnarzt.qmd
