@@ -56,3 +56,5 @@ Diese Richtlinie schreibt ein internes Qualitätsmanagement für Vertragsärzte 
 | QM-Assist        | social-software.de                | [social-software.de](https://social-software.de) | Softwarekatalog für die Sozialwirtschaft      |
 
 : Weitere Softwarelösungen
+
+Die [qualido GmbH](https://www.qualido.com/) bietet mit dem qualido manager eine vielseitige Softwarelösung für Informations- und Qualitätsmanagement, die sich an Unternehmen aller Branchen richtet, mit einem Schwerpunkt auf dem Gesundheits- und Rettungswesen. Das modulare System umfasst Funktionen wie Dokumentenmanagement, Fortbildungsmanagement, Geräteverwaltung, Ereignismanagement, Auditmanagement und Vertragsmanagement, um Prozesse effizient zu gestalten und gesetzliche Anforderungen zu erfüllen. Es ermöglicht transparente Dokumentenlenkung, Schulungsplanung, digitale Zusammenarbeit und standortübergreifende Kommunikation – alles intuitiv bedienbar und mobil zugänglich. Zusätzlich bietet qualido Beratung, Schulungen und Audits, um den digitalen Wandel zu unterstützen. Kostenlose Live-Demos und eine Informationsmappe stehen Interessierten zur Verfügung.
