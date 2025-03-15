@@ -66,7 +66,7 @@ book:
       - impfsoftware.qmd
       - medikation.qmd
       - zahnarzt.qmd
-      # - pflege.qmd
+      - pflege.qmd
       # - krankenhaus.qmd
       - oeffentliche-gesundheit.qmd
     - part: "Verwaltung"
