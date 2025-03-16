@@ -22,6 +22,14 @@
 
 : Übersicht Initiativen
 
+## Forschung
+
+### oregis
+
+Die [oregis Initiative](https://oregis.de/)  ist das deutsche ophthalmologische Register, ein Projekt der Deutschen Ophthalmologischen Gesellschaft (DOG), das umfassende Daten zur Augenheilkunde in Deutschland sammelt. Ziel ist es, anonymisierte Behandlungsfalldaten aus Praxen und Kliniken zentral zusammenzuführen, um die Versorgungsforschung zu stärken und fundierte Erkenntnisse zu Erkrankungen, Therapien und Versorgungsstrukturen zu gewinnen. Mit über 870.000 Patienten und Millionen von Messwerten wie Augeninnendruck und Visus bietet oregis eine wachsende Datenbasis. Durch automatische Datenübertragung via Konnektor-Module und höchste Datenschutzstandards soll langfristig die augenheilkundliche Versorgung verbessert werden. Die Initiative ruft Kliniken und Praxen auf, sich anzuschließen, um die Forschung und Patientensicherheit nachhaltig voranzutreiben.
+
+Die oregis-Dashboard-Studie, veröffentlicht von Julian Alexander Zimmermann, Christopher Dicke, Maren Arndt, Noel-Adrian Hollosi, Jens Julian Storp und Nicole Eter in Klinische Monatsblätter für Augenheilkunde (2025), stellt eine neue Funktion des ophthalmologischen Registers oregis der Deutschen Ophthalmologischen Gesellschaft (DOG) vor. Entwickelt von der Klinik für Augenheilkunde am Universitätsklinikum Münster und oregis (DOG e.V., München), ermöglicht das webbasierte Dashboard teilnehmenden Zentren, ihre Versorgungsdaten in Echtzeit mit anonymisierten Gesamtdaten zu vergleichen. Basierend auf Apache Superset und einem sicheren Datenschutzkonzept mit Verschlüsselung und 2-Faktor-Authentifizierung, fördert es Benchmarking und Versorgungsforschung. [@zimmermann2025oregis]
+
 ## Künstliche Intelligenz
 
 Die Arbeit „VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence“ stellt ein KI-Bilderkennungsmodell vor, das mit 3,4 Millionen ophthalmologischen Bildern von 560.457 Personen aus 26 Ländern und Regionen trainiert wurde. VisionFM deckt ein breites Spektrum an Augenerkrankungen, Bildgebungsmodalitäten (z. B. Fundusfotografie, OCT, UBM) und Geräten ab und bietet durch selbstüberwachtes Lernen eine Grundlage für zahlreiche Anwendungen wie Krankheitsdiagnose, Segmentierung von Läsionen und Gefäßen, Verlaufsprognosen und die Vorhersage systemischer Biomarker. Es übertrifft in der Diagnose von 12 häufigen Augenerkrankungen sowohl junge als auch mittelerfahrene Ophthalmologen, zeigt starke Verallgemeinerungsfähigkeit auf neue Modalitäten und Geräte und nutzt synthetische Daten, um die Lernfähigkeit zu verbessern. Ziel ist es, globale ophthalmologische Herausforderungen effizienter und skalierbarer zu bewältigen, insbesondere in Regionen mit begrenztem Zugang zu Fachkräften, und die Entwicklung zukünftiger KI-Anwendungen im Augenheilkundebereich zu beschleunigen. [@qiu2023visionfm]

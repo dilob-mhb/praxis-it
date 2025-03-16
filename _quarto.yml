@@ -61,12 +61,15 @@ book:
       - ambulantes-operieren.qmd
       # - radiologie.qmd
       - pulmologie.qmd
+      - onkologie.qmd
       - hno.qmd
+      # - allergologie.qmd
       - impfsoftware.qmd
       - medikation.qmd
       - zahnarzt.qmd
-      # - pflege.qmd
+      - pflege.qmd
       # - krankenhaus.qmd
+      - oeffentliche-gesundheit.qmd
     - part: "Verwaltung"
       chapters:
       - buchhaltung.qmd

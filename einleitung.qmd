@@ -6,6 +6,8 @@ Es gibt Verzeichnisse, die ÄrztInnen und PatientInnen bei der Navigation und Au
 
 ## Schritt für Schritt zur neuen Software
 
+Die Studie "How to Implement Digital Services in a Way That They Integrate Into Routine Work: Qualitative Interview Study Among Health and Social Care Professionals" von Janna Nadav und Kollegen untersucht, wie digitale Dienste erfolgreich in die Routinearbeit von Gesundheits- und Sozialfachkräften integriert werden können. Durch qualitative Fokusgruppeninterviews mit 30 Fachkräften aus vier finnischen Gesundheitszentren wurden Erfahrungen mit der Implementierung digitaler Dienste analysiert und 14 Praktiken identifiziert, die den Erfolg fördern. Dazu gehören umfassende Kommunikation, konsistente Implementierungsprozesse, Rechtfertigung des Dienstes, Beteiligungsmöglichkeiten, positive Einstellungen, organisatorische Unterstützung, ausreichende Zeit und Schulungen, Benutzerfreundlichkeit sowie Feedback- und Monitoring-Möglichkeiten. Die Ergebnisse, basierend auf der Normalisierungstheorie, bieten wertvolle Erkenntnisse für Organisationen weltweit, insbesondere vor dem Hintergrund der durch die COVID-19-Pandemie beschleunigten Digitalisierung, und stammen aus Finnland, einem Vorreiterland in diesem Bereich. [@info:doi/10.2196/31668]
+
 ![Softwareeinführung Ablaufplan](assets/pako_eNp9U81u2zAMfhVBh56SIP7JXPswIKk7oIcABRL0MHkHxqZtLbJs0DK2NMiz7EV264tVdtPWCYbpIFDkJ_L7KOrI0zpDHvFc1b_SEsiwbZxoZlfb7QqCpmQPGYKwG_54C_Rr6YgVZkB5CxrUoUWWdZSW-cvfklCPga5YA-1NXlOblp0uxjFP3FNrUCnrZyg1tuyR6p-4N40C3Z6hq.png)
 
 ## Digitalisierung von Prozessen

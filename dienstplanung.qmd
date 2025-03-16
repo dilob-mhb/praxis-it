@@ -38,5 +38,8 @@ Diese Merkmale fördern Transparenz, Flexibilität und Effizienz, was zur Zufrie
 | Ordio                  | Ordio                 | [Ordio](https://www.ordio.com/)                                      |
 | Crewmeister            | Crewmeister           | [Crewmeister](https://crewmeister.com/de)                           |
 | TimeMonkey | MonkeyDent GmbH | [monkeydent.de](http://monkeydent.de) |
+| clockin | clockin GmbH | [clockin.de](https://www.clockin.de/zeiterfassung-fuer-branchen/arztpraxen) |
 
 : Übersicht Softwarelösungen Dienstplanung
+
+Der [AOK-Urlaubsplaner](https://www.aok.de/fk/nordost/tools/weitere-inhalte/aok-urlaubsplaner/) ist ein PDF-Formular, das hilft die Urlaubs- und Abwesenheitszeiten zu erfassen. Mit diesem kostenlosen PDF-Dokument, das im Adobe Acrobat Reader bearbeitet werden kann, lassen sich Urlaubswünsche, Resturlaub und andere Abwesenheiten einfach festhalten.
