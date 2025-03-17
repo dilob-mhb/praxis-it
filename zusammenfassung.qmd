@@ -44,6 +44,11 @@ gute digitale Werkzeuge identifizieren und Erkenntnisse kommunizieren, um eine e
 :::
 
 ::: {.callout-note}
+## Funktionen nutzen und Communitys einbinden
+Die vorhandenen Funktionen bestehender Software voll ausschöpfen und software-spezifische Communitys sowie Onlineforen nutzen, um Effizienz zu steigern und von bestehendem Wissen zu profitieren.
+:::
+
+::: {.callout-note}
 ## Gute Suchfunktion vor Hierarchienavigation
 Digitale Systeme mit effizienten Suchfunktionen priorisieren, um Informationen schneller zu finden, anstatt auf komplexe Hierarchienavigation zu setzen.
 :::
