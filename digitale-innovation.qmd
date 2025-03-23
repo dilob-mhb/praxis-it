@@ -113,6 +113,10 @@ Die Studie "Voice as a Biomarker in Health-Tech: Mapping the Evolving Landscape 
 
 Die Arbeit *"Disruptive Innovation – Considerations for Health and Health Care in Europe"*, herausgegeben von der Expertengruppe der Europäischen Kommission für effektive Investitionen im Gesundheitswesen (EXPH), untersucht das Potenzial disruptiver Innovationen im europäischen Gesundheitssektor. Disruptive Innovationen werden als Veränderungen definiert, die neue Netzwerke und Organisationsstrukturen schaffen, ältere Systeme verdrängen und Gesundheitsversorgung effizienter sowie zugänglicher machen. Die Expertengruppe identifiziert fünf zentrale Bereiche für disruptive Innovationen: translationale Forschung, Zugang zu neuen Technologien, Präzisionsmedizin, Ausbildung von Gesundheitsfachkräften und Gesundheitsförderung. Es empfiehlt politische Maßnahmen, um förderliche Bedingungen für Innovationen zu schaffen und bestehende Barrieren zu überwinden, während gleichzeitig Gerechtigkeit, Qualität und Nachhaltigkeit im Gesundheitswesen gewahrt bleiben. [@innovationconsiderations]
 
+## Digitale Barrieren
+
+Das Projekt [„Digital im Alter – Di@-Lotsen“](https://staatskanzlei.hessen.de/di-lotsen) soll älteren Menschen den Zugang zur digitalen Welt erleichtern. Ehrenamtliche Di@-Lotsinnen und -Lotsen bieten niedrigschwellige, wohnortnahe Unterstützung, etwa durch Kurse oder Hausbesuche, um digitale Kompetenzen zu vermitteln. Lokale Stützpunkte koordinieren diese Angebote, stellen Technik wie Tablets bereit und fördern die Vernetzung. Das Projekt, gestartet im Juli 2021, umfasst mittlerweile über 60 Stützpunkte und 500 Lotsen, die den Alltag älterer Menschen durch digitale Teilhabe bereichern.
+
 ## Beratung
 
 Beratungsunternehmen unterstützen bei der digitalen Transformation. Der Beratungsprozess beginnt mit einer Analyse der Bedürfnisse der Arztpraxis, gefolgt von einer individuellen Beratung und dem Vorschlag maßgeschneiderter digitaler Lösungen. Nach der Planung und Umsetzung, einschließlich Installation und Schulung, bieten die Anbieter fortlaufenden Support, um eine effiziente Nutzung sicherzustellen, während Datenschutz stets gewährleistet wird.
