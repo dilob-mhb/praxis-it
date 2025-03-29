@@ -91,6 +91,8 @@ E2EE erfordert, dass die Schlüssel zwischen den Kommunikationspartnern sicher a
 
 ## Datenaustausch
 
+„REDDOXX“ (https://www.reddoxx.com/) bietet E-Mail-Management und IT-Sicherheit, mit Fokus auf DSGVO-konforme E-Mail-Archivierung, Spam- und Virenschutz sowie einfacher E-Mail-Verschlüsselung ohne Zertifikatsaufwand, was den sicheren Austausch sensibler Patientendaten erleichtert. „DRACOON“ (https://www.dracoon.com/de/home) stellt eine Cloud-Plattform bereit, die für das Gesundheitswesen entwickelt wurde, und ermöglicht Praxen den datenschutzkonformen Austausch und die Speicherung medizinischer Daten, inklusive Zugriffskontrollen und mobiler Nutzung, um die Zusammenarbeit mit Kliniken oder Therapeuten zu optimieren. Beide Anbieter unterstützen Praxen dabei, Datenschutzvorgaben einzuhalten und Arbeitsprozesse effizienter zu gestalten.
+
 [Anonetics](https://www.anonetics.de/) ist ein Hamburger Startup, das sich auf sichere digitale Dokumentenübertragung im Gesundheitswesen spezialisiert hat. Mit der Lösung anolink können Nutzer Dokumente schnell und DSGVO-konform über eine Blockchain- und Cloud-basierte Plattform versenden. Das Unternehmen zielt darauf ab, Systeme wie Faxgeräte zu ersetzen und Arbeitsabläufe in Kliniken, Apotheken und Praxen zu optimieren. Serverstandort ist Deutschland, und sensible Daten werden nur temporär gespeichert.
 
 ## Forschung
