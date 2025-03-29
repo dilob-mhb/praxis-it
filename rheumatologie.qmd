@@ -23,7 +23,11 @@ Software in der Rheumatologie zeichnet sich durch spezifische Funktionen wie Ana
 
 : Übersicht Softwarelösungen Rheumatologie
 
-## Umfrage der Kommission Digitale Rheumatologie 2020
+## Digitalisierungsinitiative durch Fachgesellschaft
+
+Das [Digital Rheumatology Network](https://digitalrheumatology.org/) vernetzt eine Reihe von Digitalisierungsinitiativen. Zu den Aktivitäten gehören der jährliche „Digital Rheumatology Day“, ein hybrides Event, das Experten aus Medizin, Forschung, Pharma, MedTech und Gesundheits-IT zusammenbringt, um neue digitale Praktiken wie digitale Therapeutika, Biomarker, künstliche Intelligenz und virtuelle Realität zu diskutieren. Die Plattform bietet zudem Webinare und Podcasts, die Themen wie digitale Versorgungspfade und Fernüberwachung fokussieren, sowie einen Blog mit aktuellen Entwicklungen. Der „Digital Rheumatology Research Award“ zeichnet innovative Forschungsarbeiten aus, etwa zur Nutzung von Smartphone-Apps für Patientenberichte oder KI in der Diagnostik.
+
+### Umfrage der Kommission Digitale Rheumatologie 2020
 
 Die [Kommission "Digitale Rheumatologie"](https://dgrh.de/Start/DGRh/Die-Gesellschaft/Kommissionen-Amtszeit-2023-2025/Kommission-Digitale-Rheumatologie.html)
  der Deutschen Gesellschaft für Rheumatologie (DGRh) konzentriert sich auf die Digitalisierung in der Rheumatologie. Ihre Aufgaben umfassen die Erarbeitung von Empfehlungen zur Nutzung digitaler Anwendungen und Technologien in der rheumatologischen Praxis, die Verbesserung der Patientenversorgung durch digitale Lösungen und die Förderung der Forschung in diesem Bereich. Diese Kommission spielt eine zentrale Rolle bei der Integration neuer digitaler Tools und Methoden zur Optimierung der Diagnose, Behandlung und Nachsorge von Patienten mit rheumatischen Erkrankungen.
