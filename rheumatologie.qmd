@@ -55,3 +55,8 @@ Quelle: [@knitza2020ziele]
 ## DiGAs in der Rheumatologie
 
 Eine Studie von [@Albrecht2025] zeigt, dass digitale Gesundheitsanwendungen (DiGAs) eine Ergänzung zur Behandlung rheumatischer Erkrankungen darstellen, insbesondere bei der Symptomkontrolle von Rückenschmerzen und Gewichtsmanagement. Von 191 Patient:innen nutzten 66 % die DiGAs wöchentlich, 51 % berichteten von einer Symptomverbesserung, wobei Anwendungen wie **Kaia Rückenschmerzen** und **Somnio** besonders effektiv waren. Trotz hoher Benutzerfreundlichkeit bleibt die Abschlussrate niedrig (15 %), was auf die Notwendigkeit zusätzlicher Patientenschulungen und Unterstützungsangebote hinweist. Für Rheumatolog:innen bieten DiGAs eine Möglichkeit, Patienten über digitale Mittel individuell zu unterstützen und die Versorgung zu ergänzen.
+
+## Patientenermächtigung
+
+Die Anwendung [Lupus-Pass](https://lupus-rheumanet.org/forschung/der-lupus-pass/) der Lupus Erythematodes Selbsthilfegemeinschaft ermöglicht Betroffenen, ihre Krankheitsdaten zu verwalten und fördert durch ein Diskussionsforum den Austausch und die Gemeinschaftsbildung unter Lupus-Patienten. Neben der Präventionsunterstützung, wie der Einschätzung des Arteriosklerose-Risikos, bietet die Plattform auch wissenschaftliche Datenerhebung zur Verbesserung der Forschung und Lebensqualität. Zusätzlich dient sie als ständiger Begleiter, um Folgeerkrankungen vorzubeugen und persönliche Gesundheitsstrategien zu entwickeln.
+
