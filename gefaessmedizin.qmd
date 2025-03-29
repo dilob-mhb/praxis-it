@@ -25,6 +25,7 @@
 |---:|:-----------------|:----------------------------------|:-------------------|
 |  0 | Vantis | KHK und Herzinfarkt | G. Pohl-Boskamp GmbH & Co. KG     | [vantis.pohl-boskamp.de](https://vantis.pohl-boskamp.de/) |
 |  1 | actensio                  | mementor DE GmbH                  | [actens.io](https://actens.io/) |
+|  2 | Hypertonie.App   | Hypertension Care UG              | [www.hypertonie.app](https://www.hypertonie.app/) |
 
 ## Kardiologie
 
