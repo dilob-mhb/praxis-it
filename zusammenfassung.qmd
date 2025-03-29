@@ -63,6 +63,11 @@ Digitale Übertragung von Daten nutzen, um Informationen effizient auszutauschen
 Allgemein anerkannte Standards bevorzugen, um Kompatibilität und Effizienz zu gewährleisten.
 :::
 
+::: {.callout-note}
+## Aus Praxisdaten lernen
+Vorhandene Daten aus dem Praxisalltag erheben, verstehen und einsetzen, um Abläufe effizienter zu gestalten.
+:::
+
 ## Projekt
 
 Das Projekt „Digitalisierungslots:innen in der Brandenburger Primärversorgung“ (DiLoB), gefördert vom Bundesgesundheitsministerium im Rahmen der Ressortforschung, zielt darauf ab, die Digitalisierung in Arztpraxen der Primärversorgung in Brandenburg nachhaltig zu etablieren. Unter der Leitung der Medizinischen Hochschule Brandenburg (MHB) unterstützt es Praxen bei der Einführung digitaler Prozesse, indem sogenannte Digitalisierungslots:innen – geschultes Personal – Ärzte und Teams bei der Nutzung digitaler Technologien begleiten. Es adressiert die Herausforderungen, die insbesondere ältere Mediziner:innen bei der Integration neuer Technologien empfinden, und nutzt das digitale Reifegradmodell der Kassenärztlichen Vereinigung Westfalen-Lippe. Durch die Einbindung regionaler Akteure wie Ärztenetzwerke soll die Nachhaltigkeit der Ergebnisse gesichert werden, um die Versorgung zu verbessern und digitale Kompetenzen langfristig zu stärken.
