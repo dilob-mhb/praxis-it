@@ -16,6 +16,7 @@ Telefonassistenzsysteme zeichnen sich durch eine Reihe gemeinsamer Kriterien aus
 | VITAS                      | [vitas.ai](https://vitas.ai)                        |
 | CGM one Telefonassistent | [one.cgm.com/telefonassistent](https://one.cgm.com/telefonassistent) |
 | Medflex | [medflex.de](https://medflex.de/) |
+| Co-Brain                  | [co-brainers.com](https://co-brainers.com/) |
 
 : Übersicht Telefonassistenzsysteme für Arztpraxen
 
