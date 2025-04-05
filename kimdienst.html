@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.6.43">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -39,8 +59,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-4379b0ccadffce622b03caf4c46266b3.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-fa33682af00bbd8cf7d0918c676daf29.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -420,6 +440,11 @@ cookieconsent.run({
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./symptomchecker.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Symptomchecker</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./zusammenfassung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zusammenfassung</span></a>
   </div>
 </li>
@@ -481,6 +506,7 @@ cookieconsent.run({
 </header>
 
 
+<p>Der Artikel “The Role of the Installed Base in Information Exchange Among General Practitioners in Germany: Mixed Methods Study” von Tim Holetzek und Kollegen untersucht den Informationsaustausch von Hausärzten in Deutschland, basierend auf einer Umfrage mit 250 Teilnehmern und 10 Interviews im Land Brandenburg. Er zeigt, dass zum Zeitpunkt der Studie traditionelle Kommunikationswege wie Telefon, Fax und Post dominieren, während digitale Kanäle wie E-Mail oder KIM (Kommunikation im Medizinwesen) selten genutzt werden. Ältere Ärzte bevorzugen analoge Systeme und sehen in der Digitalisierung mehr Belastung als Nutzen, bedingt durch technische Probleme oder Inkompatibilitäten. Die Studie identifiziert drei Hinderniscluster – unausgereifte Softwarelösungen, Aufklärungssdefizite und zusätzliche Belastungen bei der Integration in bestehende Praxisprozesse – und betont, dass die etablierte Infrastruktur („Installed Base“) die digitale Transformation prägt. Eine erfolgreiche Integration neuer Technologien erfordert deren Anpassung an bestehende Routinen, um Frustration zu vermeiden und die Versorgung zu sichern. <span class="citation" data-cites="info:doi/10.2196/65241">(<a href="referenzen.html#ref-info:doi/10.2196/65241" role="doc-biblioref">Holetzek u.&nbsp;a. 2025</a>)</span></p>
 <section id="kim-dienste" class="level2">
 <h2 class="anchored" data-anchor-id="kim-dienste">KIM Dienste</h2>
 <p>KIM, abgekürzt für “Kommunikation im Medizinwesen”, ist ein zentrales Element der digitalen Transformation im deutschen Gesundheitswesen. Es handelt sich um ein sicheres Kommunikationssystem, das speziell für den Austausch vertraulicher Informationen zwischen verschiedenen Akteuren des Gesundheitssektors entwickelt wurde. Mit KIM können Ärzte, Apotheken, Krankenhäuser und andere Gesundheitsdienstleister Nachrichten, ärztliche Briefe, elektronische Arbeitsunfähigkeitsbescheinigungen (eAU) und Rezepte sicher per E-Mail versenden. Das Ziel ist es, traditionelle Kommunikationswege wie Post und Fax durch eine elektronische, effiziente und kostengünstige Alternative zu ersetzen. Seit dem 1. Oktober 2021 ist das Senden von eAU möglich, und seit dem 1. Januar 2022 sind Arztpraxen zur Nutzung von KIM verpflichtet, während Apotheken seit dem 1. Januar 2024 ebenfalls KIM nutzen müssen. Die Nutzung von KIM erfordert eine Registrierung und Identitätsprüfung sowie den Anschluss an die Telematikinfrastruktur (TI) über TI-Connect und eine elektronische Gesundheitskarte (eHBA). Ein zentrales Verzeichnis (Verzeichnisdienst) erleichtert zudem das Auffinden von Kontaktdaten innerhalb des Systems. KIM wird durch spezielle Softwaremodule, die als SMTP- und POP3-Proxys fungieren, unterstützt, die die Nachrichten vor dem Versenden verschlüsseln und signieren und bei Empfang entschlüsseln und die Signatur verifizieren.</p>
@@ -548,6 +574,11 @@ cookieconsent.run({
 <p><code>@praxis.tm.kim.telematik</code></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-info:doi/10.2196/65241" class="csl-entry" role="listitem">
+Holetzek, Tim, Andreas Häusler, Kathrin Gödde, Michael Rapp, Jacob Spallek, und Christine Holmberg. 2025. <span>„The Role of the Installed Base in Information Exchange Among General Practitioners in Germany: Mixed Methods Study“</span>. <em>J Med Internet Res</em> 27 (März): e65241. <a href="https://doi.org/10.2196/65241">https://doi.org/10.2196/65241</a>.
+</div>
+</div>
 </section>
 </section>
 </section>

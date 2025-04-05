@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.6.43">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -31,7 +51,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./referenzen.html" rel="next">
-<link href="./kuenstliche-intelligenz.html" rel="prev">
+<link href="./symptomchecker.html" rel="prev">
 <script src="site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -39,8 +59,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-4379b0ccadffce622b03caf4c46266b3.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-fa33682af00bbd8cf7d0918c676daf29.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -420,6 +440,11 @@ cookieconsent.run({
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./symptomchecker.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Symptomchecker</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./zusammenfassung.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Zusammenfassung</span></a>
   </div>
 </li>
@@ -631,6 +656,20 @@ Standards vor individuellen Regeln
 <p>Allgemein anerkannte Standards bevorzugen, um Kompatibilität und Effizienz zu gewährleisten.</p>
 </div>
 </div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Aus Praxisdaten lernen
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Vorhandene Daten aus dem Praxisalltag erheben, verstehen und einsetzen, um Abläufe effizienter zu gestalten.</p>
+</div>
+</div>
+<p>Daten können die primärärztliche Versorgung verbessern, indem sie systematisch genutzt werden, um die Patientenerfahrung und Versorgungsqualität zu optimieren, wie zwei Studien zeigen. Die Untersuchung von Ellis et al. <span class="citation" data-cites="ellis2025using">(<a href="referenzen.html#ref-ellis2025using" role="doc-biblioref">Ellis u.&nbsp;a. 2025</a>)</span> beschreibt, wie eine australische Hausarztpraxis Patientenerfahrungsdaten in einem Learning Health System (LHS) integriert. De Lusignan und van Weel <span class="citation" data-cites="de2006use">(<a href="referenzen.html#ref-de2006use" role="doc-biblioref">Lusignan und Weel 2006</a>)</span> betonen die Chancen routinemäßig erhobener Computer-Daten, die dank wachsender Datenmengen, besserer Qualität und Technologie Fortschritte in Audit, Epidemiologie und Versorgungsplanung ermöglichen, trotz Hindernissen wie begrenzten Forschungsmethoden und Datenschutzfragen. Beide Ansätze verdeutlichen, dass Daten die Grundlage für evidenzbasierte Verbesserungen in der ambulanten Versorgung bilden können.</p>
 </section>
 <section id="projekt" class="level2">
 <h2 class="anchored" data-anchor-id="projekt">Projekt</h2>
@@ -645,6 +684,14 @@ Standards vor individuellen Regeln
 <p>Die aufgeführten Produkte dienen ausschließlich der Veranschaulichung und wurden unabhängig ausgewählt. Die Liste erhebt keinen Anspruch auf Vollständigkeit und stellt keine Empfehlung, Bewertung oder Werbung dar. Die Auswahl erfolgte nach den wissenschaftlichen Grundsätzen des DiLoB-Projektes und unter Berücksichtigung der geltenden Neutralitätsrichtlinien.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-ellis2025using" class="csl-entry" role="listitem">
+Ellis, Louise A, Georgia Fisher, Kate Churruca, Maree Saba, Tanja Schroeder, Janani Mahadeva, Sanjyot Vagholkar, u.&nbsp;a. 2025. <span>„Using Learning Health System Principles to Embed Patient Experience Data in Primary Care: A Qualitative Investigation“</span>. <em>The International Journal of Health Planning and Management</em> 40 (2): 368–80.
+</div>
+<div id="ref-de2006use" class="csl-entry" role="listitem">
+Lusignan, Simon de, und Chris van Weel. 2006. <span>„The use of routinely collected computer data for research in primary care: opportunities and challenges“</span>. <em>Family practice</em> 23 (2): 253–63.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -1215,8 +1262,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <input type="hidden" id="giscus-alt-theme" value="dark">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./kuenstliche-intelligenz.html" class="pagination-link" aria-label="Künstliche Intelligenz">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Künstliche Intelligenz</span></span>
+      <a href="./symptomchecker.html" class="pagination-link" aria-label="Symptomchecker">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Symptomchecker</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
