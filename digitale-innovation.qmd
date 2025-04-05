@@ -125,3 +125,5 @@ Beratungsunternehmen unterstützen bei der digitalen Transformation. Der Beratun
 | Lux Digitale Praxis | [lux-digitalepraxis.de](https://lux-digitalepraxis.de/) |
 | Digital Medizin     | [digital-medizin.com](https://www.digital-medizin.com/) |
 | Medizinio           | [medizinio.de](https://medizinio.de/) |
+
+„Praxis-as-a-Service“ (PaaS) ist ein innovatives Konzept, bei dem Arztpraxen als vollständig digitalisierte und outsourced gemanagte Einheiten betrieben werden, wobei Dienstleister die gesamte technische Infrastruktur, wie Telematikinfrastruktur und Softwarelösungen, bereitstellen und warten, um den Praxisbetrieb zu optimieren. „Innovation-as-a-Service“ (IaaS) hingegen fokussiert sich darauf, Gesundheitseinrichtungen Zugang zu maßgeschneiderten, extern entwickelten Innovationslösungen zu bieten, etwa durch KI-gestützte Diagnostik oder digitale Therapieplattformen, ohne dass diese selbst entwickelt werden müssen. Beide Ansätze zielen darauf ab, die Effizienz zu steigern und den Fokus auf die Patientenversorgung zu legen, indem sie komplexe technologische Herausforderungen an spezialisierte Anbieter delegieren.

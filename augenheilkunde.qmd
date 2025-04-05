@@ -15,6 +15,8 @@
 
 : Übersicht Softwarelösungen
 
+[Altris](https://www.altris.ai/) AI ist ein MedTech-Unternehmen, das eine KI-gestützte Plattform zur Analyse von OCT-Scans (Optische Kohärenztomographie) entwickelt hat. Die browserbasierte Software unterstützt Augenärzte und Optometristen bei der Diagnostik, indem sie über 70 Netzhautpathologien und Biomarker automatisch erkennt. Mit FDA-Zulassung und CE-Zertifizierung ist Altris AI kompatibel mit OCT-Geräten und wird weltweit in über 500 Kliniken und Optometrie-Zentren eingesetzt. Das Unternehmen mit Hauptsitz in Chicago und Forschungsstandorten in Kiew und Málaga verfolgt die Mission, vermeidbare Erblindung durch frühzeitige Erkennung zu verhindern.
+
 | Produkt                            | Company                         | URL                                    |
 |------------------------------------|---------------------------------|----------------------------------------|
 | PASBADIA                           | PASBADIA                        | [copicoh.uni-luebeck.de](https://www.copicoh.uni-luebeck.de/forschung/projekte/aktuelle-projekte/pasbadia) |

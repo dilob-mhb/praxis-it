@@ -15,3 +15,10 @@ Die Studie "How to Implement Digital Services in a Way That They Integrate Into 
 Digitale Mittel können in Prozesse integriert werden. Als Beispiel dient die Blutentnahme. Für die meisten Prozessschritte stehen digitale Hilfsmittel zur Verfügung: Terminvereinbarung, Kommunikation, Anmeldung, Ergebnisrückmeldung.
 
 ![Beispielprozess Blutentnahme](assets/pako_eNqFUsFu2zAM_RWBZyeInTiqdVvWSw8DgnXYgCIXxaJtNbJUSFTRNMif7NjP6C0_ViWBgxUbMp1Iiu896lE7qJ1CEPDoore4XVmWDmkyyJbevWIIbMQWJhJasrLr8dwRsCbtLLuzSm_kKQyExqA93zN2q5sGfUJpaZSWrR0LxkUqt5qkydgSfXBWms98P51nCnv2A32vL1zn7DnRa.png)
+
+## Dienstleister vor Ort
+
+Dienstleister vor Ort (DVO) sind Ansprechpartner für die Umsetzung der IT in der Praxis. Sie verbinden medizinische Einrichtungen mit der Telematikinfrastruktur (TI) und übernehmen technische Aufgaben wie die Installation von Konnektoren und Kartenterminals, oft als zertifizierte Partner der KBV. Einige DVO konzentrieren sich auf spezifische IT Ökosysteme. So listen Unternehmen wie [CGM](https://www.cgm.com/_Resources/Persistent/d4f2bafb54506facdc60cfe77593f696861d3689/CGM-TI-Unteraufragnehmer%20-%20Stand%2002_2023.pdf), [Tomedo](https://tomedo.de/geschaeftspartner/), [T2Med](https://t2med.de/partner/) und [Medatixx](https://medatixx.de/servicepartner/) eigene Servicepartner auf, die Praxen bei der Einrichtung und Wartung unterstützen.
+
+* [gematik.de/informationen-fuer/dienstleister-vor-ort-dvo](https://fachportal.gematik.de/informationen-fuer/dienstleister-vor-ort-dvo)
+* [KBV_ISAP_Dienstleister_ZERT_P390_SGBV.pdf](https://www.kbv.de/media/sp/KBV_ISAP_Dienstleister_ZERT_P390_SGBV.pdf)
