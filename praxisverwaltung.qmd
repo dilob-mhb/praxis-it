@@ -144,6 +144,7 @@ Der Artikel „Hidden Costs of Graphical User Interfaces“ untersucht, warum er
 Der Artikel „Digital disparities among healthcare workers in typing speed“ untersucht die Tippfähigkeiten von 2690 Mitarbeitern aus zwei großen medizinischen Zentren in Amsterdam und zeigt erhebliche Unterschiede nach Alter, Beruf und medizinischer Spezialisierung. Die durchschnittliche korrigierte Tippgeschwindigkeit betrug 60,1 Wörter pro Minute, wobei sie mit zunehmendem Alter signifikant abnahm (rho −0,51, P<0,001), Personen mit Tippkursen über 20 % schneller tippten und Ärzte der Inneren Medizin die schnellsten unter den medizinischen Fachkräften waren, während kein Geschlechterunterschied bestand. Die Ergebnisse deuten darauf hin, dass ältere Mitarbeiter und bestimmte Berufsgruppen in einem zunehmend digitalisierten Gesundheitswesen benachteiligt sind, und schlagen Trainingsmodule sowie alternative Eingabemethoden vor, um diese Unterschiede auszugleichen. [@schuurman2022digital]
 
 Tastenkürzel können die Effizienz von Ärzten bei der Nutzung medizinischer Software steigern, indem sie repetitive Aufgaben beschleunigen und den Arbeitsfluss optimieren:
+
 * [Tomedo Tastaturkürzel](https://support.tomedo.de/handbuch/tomedo/tipps-und-tricks/die-wichtigsten-tomedo-tastenkuerzel/)
 * [T2med Tastaturkürzel](https://hilfe.t2med.de/navigation/Shortcuts/)
 * [CGM Albis Tastaturkürzel](https://www.hcs-ct.de/ueber-uns/aktuelles/detail/tastaturbelegungen-in-cgm-albis)
