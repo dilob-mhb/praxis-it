@@ -198,3 +198,20 @@ VeraCrypt ist ein kostenloses, quelloffenes Verschlüsselungs-Tool, das Daten au
 Icinga ist ein Open-Source-Tool zur Überwachung von IT-Infrastrukturen, das Netzwerke, Server und Anwendungen in Echtzeit überwacht. Es bietet flexible Konfigurationsmöglichkeiten, eine moderne Web-Oberfläche (Icinga Web 2) und unterstützt verteilte Systeme für hohe Skalierbarkeit. Als Fork von Nagios erweitert es dessen Funktionen mit Features wie REST-API und verbesserten Datenbankverbindungen.
 
 ModSecurity ist eine Open-Source-Web Application Firewall (WAF), die Webanwendungen vor Angriffen wie SQL-Injection oder Cross-Site-Scripting schützt. Sie lässt sich in Webserver wie Apache, Nginx oder IIS integrieren und bietet flexible Regelsets zur Erkennung und Blockierung von Bedrohungen in Echtzeit. Als leistungsstarkes Sicherheits-Tool wird sie oft mit zusätzlichen Regelwerken wie dem OWASP Core Rule Set erweitert.
+
+## Cyberversicherung
+
+Viele Arztpraxen und Krankenhäuser in Deutschland sind unzureichend gegen Cyberangriffe geschützt, obwohl die Folgen schwerwiegend sein können, wie Datenklau, Erpressung oder Manipulation medizinischer Geräte. Beispielsweise verursachte ein Hackerangriff 2016 am Lukaskrankenhaus Neuss einen Schaden von etwa einer Million Euro. Umfragen zeigen, dass zwei Drittel der Krankenhäuser bereits betroffen waren und niedergelassene Ärzte das Risiko unterschätzen, da sie sensible Patientendaten besitzen und technisch oft angreifbar sind. Ransomware-Angriffe, die Systeme blockieren oder Daten stehlen, sind besonders häufig, wobei Schäden auch ohne Lösegeldzahlung hoch sind. Schwachstellen entstehen durch einfache Passwörter, fehlende Updates und ungeschultes Personal, das oft Ziel von Social-Engineering-Techniken wird. Medizinische Geräte sind aufgrund strenger Sicherheitsstandards und permanenter Internetverbindung besonders anfällig. Empfohlene Schutzmaßnahmen umfassen regelmäßige Updates, starke Passwörter, Schulungen und Sicherungskopien. [@kurz2021cybersicherheit]
+
+Viele Krankenhäuser in Deutschland sind nicht gegen Cyberangriffe versichert, entweder weil sie keine Versicherung wollen oder als nicht versicherbar gelten, was an hohen Anforderungen und steigenden Prämien liegt, die sich teils verdoppelt oder verdreifacht haben. Cyberattacken nahmen 2023 um 18,7 % zu, wobei Gesundheitseinrichtungen durch sensible Patientendaten, veraltete Medizintechnik und Ressourcenmangel besonders gefährdet sind. Versicherer fordern Basisabsicherungen wie Virenschutz, Firewalls und Mitarbeiterschulungen, doch die Komplexität der Krankenhaus-IT, einschließlich vernetzter Medizin- und Betriebstechnik, erschwert dies. Ein Information Security Management System (ISMS) hilft, Transparenz zu schaffen, reicht aber allein nicht aus, da Patientensicherheit zusätzliche Schutzziele erfordert. Aktive Cyberversicherungen bieten neben Schadensersatz auch Präventionsleistungen wie Schulungen oder Notfall-Hotlines, während flexible Versicherer Auflagen mit Fristen setzen, um Krankenhäuser versicherbar zu machen. [@lang2025cyberversicherung]
+
+| Name       | URL                            |
+|------------|--------------------------------|
+| Ecclesia   | [ecclesia.com](https://www.ecclesia.com/de) |
+| Relyens    | [relyens.eu](https://www.relyens.eu/de/)   |
+| Hiscox     | [hiscox.de](https://www.hiscox.de/)        |
+| Cogitanda  | [cogitanda.com](https://www.cogitanda.com/) |
+| Cyberdirekt | [cyberdirekt.de](https://www.cyberdirekt.de/cyberversicherung-fuer-aerzte-und-zahnaerzte/) |
+| HDI         | [hdi.de](https://www.hdi.de/versicherungen/cyber-versicherung/cyber-versicherung-geschaeftskunden/) |
+
+: Beispiele Cyberversicherung
