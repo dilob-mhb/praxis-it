@@ -26,6 +26,18 @@ Mehrere Schlüsselfunktionen unterscheiden spezialisierte Impfsoftware:
   
 - **Digitale Zertifikate:** Einige Systeme generieren digitale Impfzertifikate, die als Nachweis für Impfungen verwendet werden können.
 
+## Impfausweis in der ePA
+
+Das Video „TK-Safe Challenge“ zeigt wesentliche Vorteile des digitalen Impfausweises gegenüber der analogen Version:  
+
+* Übersichtlichkeit: Alle Impfungen sind zentral in der App abrufbar, mit klarem Überblick über den Impfstatus.  
+* Erinnerungsfunktion: Die App benachrichtigt automatisch, wenn Impfungen (z. B. Tetanus) aufgefrischt werden müssen.  
+* Einfache Handhabung: Impfdaten sind jederzeit digital zugänglich, ohne mühsames Suchen oder Arztbesuche zur Statusprüfung.
+
+> "Wenn du dich zum Beispiel gegen Tetanus hast impfen lassen vor Jahren und die Wirkung der Impfung lässt nach, bekommst du von TK-Safe eine Erinnerung [...]"
+
+{{< video https://www.youtube.com/watch?v=90rbtNu64q4 >}}
+
 ## Kosten
 
 Die Kosten für Impfsoftware variieren je nach spezifischem Produkt und seinen Funktionen:
@@ -89,6 +101,10 @@ Die Quellen diskutieren Reiseimpfungen im Kontext des digitalen Impfmanagement, 
 ## Medizinisches Informationsobjekt
 
 Die [Impfpass-Spezifikation als Medizinisches Informationsobjekt (MIO)](https://hub.kbv.de/display/IM1X1X0/Impfpass+1.1.0) der Kassenärztlichen Bundesvereinigung (KBV) definiert den elektronischen Impfpass zur strukturierten Dokumentation von Impfunge. Das MIO definiert die Softwarestrukturen für die digitale Erfassung und Verwaltung von Impfdaten, einschließlich Impfstoff, Chargennummer, Datum, verabreichender Person und Immunitätsnachweisen wie Titeruntersuchungen oder durchgemachten Erkrankungen. Basierend auf FHIR® (Fast Healthcare Interoperability Resources) unterstützt das MIO eine einheitliche, interoperable Datenstruktur für die Integration in elektronische Patientenakten (ePA). Eine Umsetzungspflicht für IT-Systeme besteht aktuell nicht (Stand Juli 2024).
+
+## Impfsoftware während COVID-19 Pandemie
+
+Während der COVID-19-Pandemie spielte Software eine zentrale Rolle bei der Verwaltung und Nachverfolgung von COVID-Impfungen. Digitale Impfpässe, wie die EU-COVID-Zertifikate oder nationale Apps (z. B. CovPass in Deutschland), ermöglichten die Erfassung, Validierung und Vorlage von Impfdaten über standardisierte QR-Codes. Diese Systeme basierten oft auf FHIR-Standards und unterstützten die Interoperabilität. Regulatorische Bemühungen, etwa durch die WHO oder nationale Gesundheitsbehörden, fokussierten auf Datenschutz, Sicherheit und einheitliche Standards, um Impfstatus international vergleichbar zu machen. Softwarelösungen wie Impfmanagementsysteme optimierten Terminvergaben und Impfstofflogistik, während Meldesysteme (z. B. zum RKI) die Überwachung von Impfraten und Nebenwirkungen unterstützten.
 
 ## Nutzung von digitalen Impfinformationssystem
 
