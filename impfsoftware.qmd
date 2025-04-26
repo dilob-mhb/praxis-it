@@ -14,11 +14,7 @@ Mehrere Schlüsselfunktionen unterscheiden spezialisierte Impfsoftware:
   
 - **Datensicherheit und Datenschutz:** Ein Schwerpunkt liegt auf der sicheren Speicherung und Handhabung von Patientendaten. Viele der Softwarelösungen betonen ihre Einhaltung von Datenschutzvorschriften wie der DSGVO. Einige verwenden auch Zwei-Faktor-Authentifizierung zur zusätzlichen Sicherheit.
   
-- **Berichtswesen und Analysen:** Diese Systeme bieten oft Berichtsfunktionen, die es Nutzern ermöglichen, ihre eigenen Daten zu überprüfen oder Daten an Gesundheitseinrichtungen zu liefern. Einige sammeln und analysieren Impfdaten, um die Wirksamkeit von Impfstoffen zu überwachen und potenzielle Probleme zu identifizieren.
-  
 - **Unterstützung mehrerer Sprachen:** Einige Apps bieten Unterstützung für mehrere Sprachen, was die Zugänglichkeit für Patienten und Nutzer verbessert.
-  
-- **Chatbot-Integration:** Einige Plattformen nutzen intelligente Chatbots, um Patienteninformationen zu sammeln und Unterstützung zu bieten, wie z.B. die DIFA1 App.
 
 - **Mobile Zugänglichkeit:** Viele der Softwarelösungen haben Smartphone-Apps sowohl für Apple als auch für Android, was den einfachen Zugang zu Informationen für sowohl Gesundheitsdienstleister als auch Patienten ermöglicht.
   
@@ -48,8 +44,6 @@ Die Kosten für Impfsoftware variieren je nach spezifischem Produkt und seinen F
     - **Kombinierte jährliche Kosten** (einschließlich amortisierter Implementierungskosten): Diese reichen von €304,8 bis €3.226,8 pro Jahr.
     - Die Quelle bemerkt, dass die Kostenstrukturen dieser PVS-Systeme komplex sein können und es an Transparenz bei den Anbietern mangelt, was es schwer macht, die Gesamtkosten der Software zu kennen.
 
-- **Andere Software:** Die Quellen geben keine expliziten Angaben zu den Kosten für ImpfDocNE/ImpfDocCE oder impfsystem.de. Allerdings gibt es für **ImpfDocNE** eine Demoversion zum Testen und die Möglichkeit, Schulungen zu buchen.
-
 Es ist wichtig zu beachten, dass einige dieser Softwarelösungen, wie DIFA1 und impf.app, mit Unterstützung von öffentlichen Gesundheitsinitiativen entwickelt wurden und daher kostenlos angeboten werden. Das "Pay per use"-Modell von impfoo ist so konzipiert, dass es risikofrei ist, da die Kosten direkt mit der Nutzung verbunden sind und keine Abonnementgebühren anfallen.
 
 ## Reiseimpfungen
@@ -72,19 +66,29 @@ Die Quellen diskutieren Reiseimpfungen im Kontext des digitalen Impfmanagement, 
 
 ## Übersichtstabelle
 
-| Software                | URL                          |
-|--------------------------|------------------------------|
-| ImpfDocNE                | [impfdocne.de](https://www.impfdocne.de/)      |
-| Impfoo                   | [impfoo.de](https://www.impfoo.de/)            |
-| RKI STIKO-App            | [rki.de](https://www.rki.de/DE/Content/Kommissionen/STIKO/App/STIKO-App_node.html) |
-| Impfsystem               | [impfsystem.de](https://impfsystem.de/)        |
-| Medisoft Quickimpf       | [medisoft.de](https://www.medisoft.de/quickserie/quickimpf/) |
-| Impf.app                 | [impf.app](https://www.impf.app/)              |
-| DIFA Diga1               | [difa-vf.de](https://difa-vf.de/diga1/)        |
-| DIFA Difa1               | [difa-vf.de](https://difa-vf.de/difa1/)        |
-| Impfpass                 | [impfpass.de](https://impfpass.de/)            |
+| Software                | URL                          | Hinweis                       |
+|--------------------------|------------------------------|------------------------------|
+| ImpfDocNE                | [impfdocne.de](https://www.impfdocne.de/)      | Praxisseitiges Impfmanagement GZIM mbH |
+| Impfpass                 | [impfpass.de](https://impfpass.de/)            | Patientenseitiges Impfmanagement GZIM mbH |
+| Digitaler Impfpass | [https://www.digitaler-impfpass.at/](https://www.digitaler-impfpass.at/) | Rockenschaub & Hurnaus |
 
-: Übersicht Anbieter Impfsoftware
+: Übersicht Impfsoftware
+
+| Software                | URL                          | Hinweis                       |
+|--------------------------|------------------------------|------------------------------|
+| Impfoo                   | [impfoo.de](https://www.impfoo.de/)            | Impfzentren |
+| RKI STIKO-App            | [rki.de](https://www.rki.de/DE/Content/Kommissionen/STIKO/App/STIKO-App_node.html) | Impfwissen |
+| Impfsystem               | [impfsystem.de](https://impfsystem.de/)        | Impfmanagement |
+| Medisoft Quickimpf       | [medisoft.de](https://www.medisoft.de/quickserie/quickimpf/) | Impfdokumentation |
+| Impf.app                 | [impf.app](https://www.impf.app/)              | GZIM mbH Anwendungen für Hausärzteverband Niedersachsen |
+| DIFA Diga1               | [difa-vf.de](https://difa-vf.de/diga1/)        | Deutsches Institut für Fachärztliche Versorgungsforschung GmbH |
+| DIFA Difa1               | [difa-vf.de](https://difa-vf.de/difa1/)        | Deutsches Institut für Fachärztliche Versorgungsforschung GmbH |
+
+: Übersicht weitere Impfsoftware
+
+## Medizinisches Informationsobjekt
+
+Die [Impfpass-Spezifikation als Medizinisches Informationsobjekt (MIO)](https://hub.kbv.de/display/IM1X1X0/Impfpass+1.1.0) der Kassenärztlichen Bundesvereinigung (KBV) definiert den elektronischen Impfpass zur strukturierten Dokumentation von Impfunge. Das MIO definiert die Softwarestrukturen für die digitale Erfassung und Verwaltung von Impfdaten, einschließlich Impfstoff, Chargennummer, Datum, verabreichender Person und Immunitätsnachweisen wie Titeruntersuchungen oder durchgemachten Erkrankungen. Basierend auf FHIR® (Fast Healthcare Interoperability Resources) unterstützt das MIO eine einheitliche, interoperable Datenstruktur für die Integration in elektronische Patientenakten (ePA). Eine Umsetzungspflicht für IT-Systeme besteht aktuell nicht (Stand Juli 2024).
 
 ## Nutzung von digitalen Impfinformationssystem
 
