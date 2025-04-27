@@ -1,5 +1,17 @@
 # Medikation
 
+## Medikamentenmanagement
+
+Mehrere Onlinedienstleister bieten digitale Lösungen zur Vereinfachung des Medikamentenmanagements, einschließlich des Einlösens von E-Rezepten, der Online-Bestellung von Medikamenten mit Liefer- oder Abholoption und der Verwaltung von Gesundheitsdaten wie Medikationsplänen. Gemeinsam ist ihnen die Vernetzung mit lokalen Apotheken, die Förderung der Zugänglichkeit durch benutzerfreundliche Apps oder Webplattformen sowie die Integration von Zusatzfunktionen wie Terminbuchungen oder digitale Gesundheitsservices
+
+| Name                  | URL                                                                 |
+|-----------------------|---------------------------------------------------------------------|
+| Meine Apotheke        | [pharmatechnik.de](https://www.pharmatechnik.de/app-und-web-meine-apotheke) |
+| Medikamendo           | [medikamendo.de](https://medikamendo.de/)                           |
+| Gesund.de             | [gesund.de](https://www.gesund.de/)                                 |
+
+: Beispiele Onlinedienstleister Medikationsmanagement
+
 ## Medikamentenanwendungen
 
 | Name                  | URL                                                                 |
@@ -8,6 +20,10 @@
 | Meine Medikation      | [play.google.com](https://play.google.com/store/apps/details?id=de.barmer.meinemedikation) |
 | Mediteo               | [play.google.com](https://play.google.com/store/apps/details?id=com.mediteo.mobile) |
 | MyTherapy             | [mytherapyapp.com](https://www.mytherapyapp.com/de/app-zum-bundeseinheitlichen-medikationsplan-scan) |
+
+: Beispiele digitale Medikationsanwendungen
+
+Digitale Medikationsanwendungen erhöhen die Therapieadhärenz um 7 % bis 40 % und werden von Nutzern als nützlich und einfach zu bedienen wahrgenommen, mit einer durchschnittlichen Zufriedenheit von 8,1 von 10. Sie bieten Funktionen wie Erinnerungen, Medikamenteninformationen und Gesundheitstipps. [@perez2019mobile]
 
 ## Arzneimitteltherapiesicherheit (AMTS)
 
