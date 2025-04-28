@@ -50,3 +50,14 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 | 10 | Starke-DMS | Starke + Reichert GmbH & Co. KG | [starke-dms.de](https://www.starke-dms.de/) |
 
 : Übersicht Softwarelösungen Dokumentenmanagement
+
+## Bezahlsysteme
+
+| Name         | URL                                                                 |
+|:-------------|:--------------------------------------------------------------------|
+| Tillhub      | [tillhub.de](https://www.tillhub.de/kassensysteme-weitere-branchen/) |
+| SumUp        | [sumup.com](https://www.sumup.com/de-de/geschaeftsarten/medizinische-versorgung/) |
+| ready2order  | [ready2order.com](https://ready2order.com/de/kassensystem-gesundheitswesen/) |
+| PAYONE       | [payone.com](https://www.payone.com/DE-de/bezahlloesungen/dienstleistung) |
+
+: Beispiele Bezahlsysteme
