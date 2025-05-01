@@ -1,0 +1,5 @@
+# Ethik
+
+## Vertrauen
+
+Die Studie „A systematic review of consumers’ and healthcare professionals’ trust in digital healthcare“ von Soraia de Camargo Catapan et al. (npj Digital Medicine, 2025) analysiert systematisch 49 Studien zu Vertrauensmessungen in digitaler Gesundheitsversorgung aus der Perspektive von Konsumenten und Gesundheitsfachkräften. Die Ergebnisse zeigen, dass Vertrauen ein komplexes Konstrukt ist, das die Nutzung, Akzeptanz und Nützlichkeit digitaler Gesundheitsangebote beeinflusst. Konsumentenvertrauen wird durch Datengenauigkeit, Privatsphäre, digitale Kompetenz, Bildung und Einkommen beeinflusst, während Fachkräfte Vertrauen durch Schulung und gute Systemleistung entwickeln. Viele Studien verwenden jedoch nicht validierte Instrumente, und es fehlt ein theoretischer Rahmen für Vertrauen in digitale Gesundheit. Die Autoren fordern verbesserte, validierte Messinstrumente und einen Fokus auf kulturelle sowie geografische Unterschiede, um Vertrauen zu fördern und die Implementierung digitaler Gesundheitslösungen zu unterstützen. [@catapan2025systematic]
