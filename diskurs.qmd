@@ -425,6 +425,7 @@ Die Telematik-Roadmap von Mark Langguth ist eine Übersicht zur Einführung der 
 | Digital Health Events     | [digital-health-events.de](https://digital-health-events.de/) |
 | Digitalversorgt Events    | [digitalversorgt.info/events](https://digitalversorgt.info/events/) |
 | INA Gematik Veranstaltungskalender | [ina.gematik.de/veranstaltungskalender](https://www.ina.gematik.de/veranstaltungskalender) |
+| DigiKal | [eventsdev.buerofalk.de](https://eventsdev.buerofalk.de/) |
 
 : Tabelle Veranstaltungsverzeichnisse {#tbl-eventdirectories}
 
