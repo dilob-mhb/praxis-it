@@ -54,21 +54,22 @@ book:
       - gefaessmedizin.qmd
       - wunddokumentation.qmd
       - rheumatologie.qmd
-      # - orthopaedie.qmd
+      - orthopaedie.qmd
       - rehabilitation.qmd
       - psychotherapie.qmd
       - neurologie.qmd
       - ambulantes-operieren.qmd
-      # - radiologie.qmd
+      - radiologie.qmd
       - pulmologie.qmd
+      - gastroenterologie.qmd 
       - onkologie.qmd
       - hno.qmd
-      # - allergologie.qmd
+      - allergologie.qmd
       - impfsoftware.qmd
       - medikation.qmd
       - zahnarzt.qmd
       - pflege.qmd
-      # - krankenhaus.qmd
+      - krankenhaus.qmd
       - oeffentliche-gesundheit.qmd
     - part: "Verwaltung"
       chapters:
@@ -82,6 +83,7 @@ book:
       - krankenkassen.qmd
     - diskurs.qmd
     - digitale-innovation.qmd
+    - ethik.qmd
     - kuenstliche-intelligenz.qmd
     - symptomchecker.qmd
     - zusammenfassung.qmd

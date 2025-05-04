@@ -28,6 +28,8 @@ In der Studie von Sibley wurden die Erfahrungen des American College of Cardiolo
 | CME MediPoint            | CME MediPoint GmbH       | [cmemedipoint.de](https://cmemedipoint.de/)                          |
 | webop Von Chirurgen für Chirurgen | webop GmbH | [webop.de](https://www.webop.de/) |
 | Winglet | Winglet Education GmbH | [winglet-community.com](https://winglet-community.com/) |
+| SYNLAB Fortbildungen     | SYNLAB Weiden GmbH       | [synlab.de](https://www.synlab.de/human/fuer-aerzte/service/fortbildungen) |
+| IMD Fortbildungen        | IMD Institut für medizinische Diagnostik | [imd-berlin.de](https://www.imd-berlin.de/fortbildungen) |
 
 : Beispiele digitale Wissensplattformen
 
@@ -59,6 +61,7 @@ Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheits
 |--------------------------|--------------------------|---------------------------------------------------------------------|
 | Was hab ich              | Was hab’ ich? gemeinnützige GmbH | [washabich.de](https://washabich.de/)                               |
 | Gesund.bund.de           | Bundesministerium für Gesundheit | [gesund.bund.de](https://gesund.bund.de/)                           |
+| Simply Onno   | Simply Onno   | [simply-onno.com](https://www.simply-onno.com/) |
 
 : Übersicht digitale Gesundheitsaufklärung 
 
@@ -87,7 +90,12 @@ Das eLogbuch der Ärztekammern, zugänglich über https://elogbuch.bundesaerztek
 
 Der Artikel "Seventy-Five Trials and Eleven Systematic Reviews a Day: How Will We Ever Keep Up?" von Hilda Bastian, Paul Glasziou und Iain Chalmers untersucht die Herausforderungen, vor denen Gesundheitsfachkräfte und die Öffentlichkeit stehen, um mit der explosionsartigen Zunahme an klinischen Studien Schritt zu halten. Die Autoren zeigen, dass täglich etwa 75 Studien und 11 systematische Übersichtsarbeiten veröffentlicht werden – eine Zahl, die noch kein Plateau erreicht hat. Sie kritisieren, dass trotz der Fortschritte in der Evidenzsynthese nur ein kleiner Teil der Studien in systematischen Reviews analysiert wird. Um Archie Cochranes Vision von umfassenden, regelmäßig aktualisierten Zusammenfassungen aller relevanten randomisierten Studien zu verwirklichen, fordern sie eine eine Priorisierung systematischer Reviews, effizientere Methoden und offenen Zugang zu diesen Ressourcen. [@bastian2010seventy]
 
+**Pathway** und **Glass Health** sind zwei englischsprachige Plattformen, die Kliniker:innen bei der medizinischen Entscheidungsfindung unterstützen. Pathway ([http://www.pathway.md](http://www.pathway.md)) bietet evidenzbasierte, schnell zugängliche klinische Leitlinien, interaktive Algorithmen und Empfehlungen zu über 30.000 Themen. Glass Health ([https://glass.health](https://glass.health)) nutzt KI-gestützte Entscheidungsunterstützung, um Ärzt:innen Diagnosen und Behandlungspläne zu liefern. Beide Tools richten sich an medizinisches Fachpersonal und fördern eine datenbasierte Praxis.
+
 OpenEvidence (OE), ein großes Sprachmodel mit medizinischem Fokus, zeichnet sich im Vergleich zu ähnlichen Produkten wie DynaMed, UpToDate und anderen LLMs (z. B. GPT-4, Llama-3.1, CoPilot) durch Antworten mit Referenzen aus Fachjournalen und Leitlinien aus. OE ist bei allgemeinen Fragen effizienter ist als textlastige klinische Ressourcen. Im Gegensatz zu GPT-4 oder Llama-3.1, die keine Zitate liefern, und CoPilot, das oft auf Websites verweist, bietet OE eine wissenschaftlichere Grundlage, ist aber weniger umfassend als kostenpflichtige Tools wie UpToDate oder Amboss und dient eher als gezielte Punkt-of-Care-Hilfe denn als Wissensdatenbank. [@10.22454/FamMed.2024.587513]
 
 ResearchRabbit [researchrabbit.ai](https://www.researchrabbit.ai/) ist eine Plattform, die Techniken der Künstlichen Intelligenz (KI) nutzt, um bei der Bewältigung der stetig wachsenden Wissensflut zu unterstützen. Die Plattform ermöglicht es, wissenschaftliche Literatur effizient zu durchsuchen, zu organisieren und zu analysieren. Techniken wie maschinelles Lernen, NLP und Netzwerkanalyse werden genutzt, um relevante Studien, Artikel und Verbindungen zwischen Forschungsthemen aufzudecken. Durch Darstellung von Artikeln in Netzwerken hilft die Plattform, den Überblick zu behalten und die Informationsüberlastung zu reduzieren.
 
+## Lernendes Gesundheitssystem
+
+Die Studie „Learning health systems in primary care: a systematic scoping review“ von Nash et al. (2021) untersucht die Verbreitung und Merkmale von lernenden Gesundheitssystemen (LHS) in der Primärversorgung. Durch eine systematische Literaturrecherche von 2007 bis 2020 wurden 21 LHS identifiziert, von denen nur eines ausschließlich in der Primärversorgung tätig war, während die anderen integrierte Gesundheitssysteme umfassten. Die meisten Systeme befanden sich in den USA und nutzten Daten für Echtzeit-Überwachung, Qualitätsverbesserung und Entscheidungsunterstützung. Herausforderungen wie Datenzugang, Nachhaltigkeit und Förderung einer Lernkultur wurden ebenso identifiziert wie potenzielle Lösungen, etwa standardisierte Datenplattformen und Einbindung der Gemeinschaft. Die Studie betont das Potenzial von LHS in der Primärversorgung, hebt jedoch deren frühen Entwicklungsstand hervor. [@nash2021learning]

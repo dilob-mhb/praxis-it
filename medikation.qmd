@@ -1,5 +1,17 @@
 # Medikation
 
+## Medikamentenmanagement
+
+Mehrere Onlinedienstleister bieten digitale Lösungen zur Vereinfachung des Medikamentenmanagements, einschließlich des Einlösens von E-Rezepten, der Online-Bestellung von Medikamenten mit Liefer- oder Abholoption und der Verwaltung von Gesundheitsdaten wie Medikationsplänen. Gemeinsam ist ihnen die Vernetzung mit lokalen Apotheken, die Förderung der Zugänglichkeit durch benutzerfreundliche Apps oder Webplattformen sowie die Integration von Zusatzfunktionen wie Terminbuchungen oder digitale Gesundheitsservices
+
+| Name                  | URL                                                                 |
+|-----------------------|---------------------------------------------------------------------|
+| Meine Apotheke        | [pharmatechnik.de](https://www.pharmatechnik.de/app-und-web-meine-apotheke) |
+| Medikamendo           | [medikamendo.de](https://medikamendo.de/)                           |
+| Gesund.de             | [gesund.de](https://www.gesund.de/)                                 |
+
+: Beispiele Onlinedienstleister Medikationsmanagement
+
 ## Medikamentenanwendungen
 
 | Name                  | URL                                                                 |
@@ -8,6 +20,10 @@
 | Meine Medikation      | [play.google.com](https://play.google.com/store/apps/details?id=de.barmer.meinemedikation) |
 | Mediteo               | [play.google.com](https://play.google.com/store/apps/details?id=com.mediteo.mobile) |
 | MyTherapy             | [mytherapyapp.com](https://www.mytherapyapp.com/de/app-zum-bundeseinheitlichen-medikationsplan-scan) |
+
+: Beispiele digitale Medikationsanwendungen
+
+Digitale Medikationsanwendungen erhöhen die Therapieadhärenz um 7 % bis 40 % und werden von Nutzern als nützlich und einfach zu bedienen wahrgenommen, mit einer durchschnittlichen Zufriedenheit von 8,1 von 10. Sie bieten Funktionen wie Erinnerungen, Medikamenteninformationen und Gesundheitstipps. [@perez2019mobile]
 
 ## Arzneimitteltherapiesicherheit (AMTS)
 
@@ -37,3 +53,12 @@ Ein Datenmatrix QR-Code des bundeseinheitlichen Medikationsplans ist ein zweidim
 Die [Spezifikation für den bundeseinheitlichen Medikationsplan (BMP) gemäß § 31a SGB V](https://www.kbv.de/media/sp/Medikationsplan_Anlage3_ab_01.04.2023.pdf) regelt die technischen Anforderungen und Struktur eines standardisierten Medikationsplans, der in Papierform sowie als maschinenlesbare Version vorliegt. Sie legt fest, wie dieser Plan erstellt, aktualisiert und von verschiedenen Akteuren im Gesundheitswesen genutzt wird, einschließlich der Integration in Arztpraxen, Apotheken und Krankenhäusern. Die Spezifikation berücksichtigt auch die Barrierefreiheit für sehbehinderte Patienten und den Einsatz eines 2D-Barcodes zur maschinenlesbaren Speicherung und Übertragung der Medikationsdaten.
 
 ![Barcode Medikationsplan](assets/barcode.png)
+
+## Betäubungsmittel
+
+Der Referentenentwurf der Vierten Verordnung zur Änderung der Betäubungsmittel-Verschreibungsverordnung sieht die verpflichtende Einführung der elektronischen Betäubungsmittel-Verordnung (eBtM) in der vertragsärztlichen Versorgung vor. Die [KBV begrüßt die Digitalisierung](https://www.kbv.de/html/68523.php), fordert jedoch vollständige digitale Lösungen für alle BtM-Verordnungen, rechtssichere Direktzuweisung von Substitutionsmitteln, ausschließlich elektronische Dokumentation, minimierte dezentrale Dokumentation, digitale Verordnung von Praxisbedarf, ausreichende Erprobung in Modellregionen, Übertragbarkeit auf Praxisvertreter, keine Verzögerungen bei der Datenübermittlung und Vermeidung doppelter Verordnungen. Die KBV erwartet steigende Kosten und Aufwände für Praxen und kritisiert die angenommene Kostenneutralität. Siehe dazu [KBV-Stellungnahme zum Referentenentwurf der vierten Verordnung zur Änderung der Betäubungsmittel-Verschreibungsverordnung, Stand 21.03.2024, PDF 251 KB](https://www.kbv.de/media/sp/2024-03-21_KBV_Stellungnahme_eBtM-Rezepte.pdf)
+
+## Medikamenteneinnahmeerinnerung
+
+Die Studie "Patient-reported usability challenges when implementing integrated EHR medication reminders for kidney transplant patients in a home setting: A pilot study" untersucht die Machbarkeit eines integrierten EHR-Medikamentenerinnerungstools für Nierentransplantationspatienten in einer häuslichen Umgebung. In einer Pilotstudie mit 43 Teilnehmern an einem großen akademischen Krankenhaus in den Niederlanden wurde die Benutzbarkeit und Zufriedenheit mittels des validierten GEMS-Fragebogens bewertet. Die Ergebnisse zeigten eine gemischte Benutzbarkeit und Zufriedenheit (GEMS-Score: 65,0 %), mit Einschränkungen wie mangelnder Anpassungsmöglichkeit der Erinnerungen und Schwierigkeiten beim Abhaken von Medikamenten. Etwa ein Drittel der Teilnehmer fand das Tool nützlich und war bereit, es weiter zu nutzen. Verbesserungen, insbesondere bei der Individualisierung der Benachrichtigungen, sind für eine großflächige Implementierung erforderlich. [@oudbier2025patient]
+
