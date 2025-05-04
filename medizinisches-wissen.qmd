@@ -61,6 +61,7 @@ Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheits
 |--------------------------|--------------------------|---------------------------------------------------------------------|
 | Was hab ich              | Was hab’ ich? gemeinnützige GmbH | [washabich.de](https://washabich.de/)                               |
 | Gesund.bund.de           | Bundesministerium für Gesundheit | [gesund.bund.de](https://gesund.bund.de/)                           |
+| Simply Onno   | Simply Onno   | [simply-onno.com](https://www.simply-onno.com/) |
 
 : Übersicht digitale Gesundheitsaufklärung 
 
