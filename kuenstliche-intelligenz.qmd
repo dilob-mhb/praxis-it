@@ -45,3 +45,7 @@ AMIE (Articulate Medical Intelligence Explorer) ist ein KI-System basierend auf 
 * [research.google/blog/amie-a-research-ai-system-for-diagnostic-medical-reasoning-and-conversations](https://research.google/blog/amie-a-research-ai-system-for-diagnostic-medical-reasoning-and-conversations/)
 * [research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/)
 * [research.google/blog/from-diagnosis-to-treatment-advancing-amie-for-longitudinal-disease-management](https://research.google/blog/from-diagnosis-to-treatment-advancing-amie-for-longitudinal-disease-management/)
+
+## KI Lehre
+
+Die Studie in "AI education for clinicians" (Januar 2025) betont die Notwendigkeit gezielter AI-Ausbildung für Kliniker, um den sicheren und effektiven Einsatz von AI-Tools in der Medizin zu gewährleisten. Sie schlägt drei Expertise-Stufen vor: grundlegende Fähigkeiten zur Nutzung von AI-Tools, fortgeschrittene Fähigkeiten zur kritischen Bewertung und ethischen Implikationen sowie Expertenfähigkeiten für technische Innovationen. Die Autoren diskutieren Herausforderungen in der Integration von AI in medizinische Curricula, insbesondere logistische und curriculare Hürden, und empfehlen multidisziplinäre Ansätze sowie angepasste Lehrpläne für verschiedene Gesundheitssysteme und Fachrichtungen. Beispiele bestehender AI-Ausbildungsprogramme werden zur Veranschaulichung angeführt. [@schubert2025ai]
