@@ -1,0 +1,5 @@
+# Gastroenterologie 
+
+## Forschung 
+
+Die Studie „Telephone Consultation as a Substitute for Routine Out-patient Face-to-face Consultation for Children With Inflammatory Bowel Disease“ (2015) untersucht die Wirksamkeit und Kosten von Telefonkonsultationen im Vergleich zu herkömmlichen ambulanten persönlichen Konsultationen bei Kindern mit entzündlichen Darmerkrankungen (IBD). In einer randomisierten kontrollierten Studie mit 86 Patienten (8–16 Jahre) in Manchester, UK, zeigte sich kein Unterschied in der Lebensqualität nach 12 Monaten zwischen den Gruppen (Telefon vs. persönlich). Telefonkonsultationen waren kürzer (9,8 vs. 14,3 Minuten) und kostengünstiger (£35,41 vs. £51,12 pro Konsultation), ohne Hinweise auf Nachteile in Bezug auf Krankheitsverlauf oder Patientenzufriedenheit. Die Studie, finanziert vom UK National Institute for Health Research, zeigt, dass Telefonkonsultationen eine effektive und kostensparende Alternative für die Routinebetreuung von Kindern mit IBD sind. [@akobeng2015telephone]
