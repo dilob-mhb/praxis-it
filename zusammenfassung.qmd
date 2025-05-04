@@ -34,6 +34,11 @@ Bereitschaft zeigen, neue Technologien zu erlernen und Arbeitsweisen entsprechen
 :::
 
 ::: {.callout-note}
+## Digital wenn möglich, analog wenn nötig
+Digitale Werkzeuge sind nicht für alle Menschen einfach zu nutzen. Digitale Anwendungen können ausfallen. Analoge Alternativen werden weiterhin benötigt.
+:::
+
+::: {.callout-note}
 ## Mitarbeiter und Patienten einbinden
 Mitarbeiter und Patienten aktiv in die sichere Nutzung digitaler Technologien einbeziehen und durch Anleitung und Unterstützung mitnehmen.
 :::
