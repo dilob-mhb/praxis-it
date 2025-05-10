@@ -135,3 +135,7 @@ Beratungsunternehmen unterstützen bei der digitalen Transformation. Der Beratun
 ## Praxisgründung Simulator
 
 Praxisraum ist ein innovatives Planspiel, das angehende Ärztinnen und Ärzte spielerisch auf den Aufbau und die Organisation einer Vertragsarztpraxis vorbereitet. Unter [www.praxisraum.de](https://www.praxisraum.de/) können Nutzer ein Serious Game erleben, das durch Gamification-Elemente wie Avatar-Auswahl, praxisnahe Entscheidungen und Herausforderungen motiviert. Ziel ist es, Wissenslücken zu schließen und Berührungsängste abzubauen, indem realitätsnahe Daten in eine interaktive, motivierende Spielumgebung eingebettet werden.
+
+## Implementierungsforschung
+
+Implementierungsforschung untersucht, wie evidenzbasierte Praktiken, Interventionen oder Technologien effektiv in reale Systeme integriert werden können. Die Plattform [Implementome](https://gdhub.unige.ch/implementome/main), entwickelt vom Geneva Digital Health Hub (gdhub), ist eine Wissensdatenbank für digitale Gesundheit. Sie nutzt das Konzept der „Implementomics“, um multidimensionale Daten zu Projekten, Akteuren, Publikationen und Erfahrungen zu sammeln, zu organisieren und bereitzustellen. Ziel ist es, die Zusammenarbeit globaler Akteure zu fördern, evidenzbasierte Entscheidungen und die digitale Gesundheitstransformation zu unterstützen.
