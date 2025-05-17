@@ -32,3 +32,7 @@ Wichtige Features, die bei der Bewertung von Wund-Apps berücksichtigt werden so
 |  9 | Recom WundApp    | Ascom                             | [ascom.com/recom-wundapp](https://www.ascom.com/de/uber-uns/vorteile-von-ascom/ecosystem-myco--friends/myco--friends-app-partner/recom-wundapp/) |
 
 : Übersicht Wunddokumentationsanwendungen
+
+## Forschung
+
+Eine Studie von Nair (2018) zeigte, dass Smartphone-Apps für digitale Wundbilder die Produktivität in der Wunddokumentation und -analyse steigern, indem sie Zeit (27 Stunden täglich in einem Zentrum mit 10 Pflegern) und Kosten sparen und genaue Messungen ermöglichen. [@nair2018increasing] Bradshaw et al. (2011) entwickelten eine klinische Leitlinie und Kompetenzcheckliste, um die Konsistenz und Genauigkeit der Wundfotografie zu verbessern, was die Dokumentation und Kommunikation zwischen Klinikern optimierte. [@bradshaw2011collaboration] Murphy et al. (2006) fanden heraus, dass digitale Bilder nach Training und mit einem Bewertungstool eine zuverlässige Alternative zur traditionellen Wundbeurteilung am Krankenbett bieten, was die Effizienz und den Zugang zu Expertise an entfernten Standorten erhöht. [@murphy2006reliability]
