@@ -1,5 +1,7 @@
 # Psychotherapie
 
+## Software
+
 | Produkt | Unternehmen | URL |
 |---|---|---|
 | Klindo | KLINDO GmbH | [klindo.de](https://klindo.de/) |
@@ -21,3 +23,7 @@
 : Übersicht Forschung
 
 [Ama Mind](https://www.ama-mind.info/) bietet ein Online-Portal, das psychisch belasteten Menschen in Deutschland hilft, qualitätsgeprüfte Hilfsangebote zur Verbesserung ihres mentalen Wohlbefindens zu finden. Die Plattform richtet sich an Betroffene, Organisationen und Unternehmen und stellt kostenfrei geprüfte Lösungen bereit, die individuell auf die Bedürfnisse der Nutzer abgestimmt sind. Ziel ist es, den Zugang zur psychischen Gesundheitsversorgung zu erleichtern
+
+## Forschung
+
+Die Studie „Randomized Trial of a Generative AI Chatbot for Mental Health Treatment“, veröffentlicht am 27. März 2025 in NEJM AI, untersucht die Wirksamkeit des KI-Chatbots Therabot bei der Behandlung von psychischen Erkrankungen. In einer nationalen, randomisierten kontrollierten Studie mit 210 Erwachsenen, die an Depressionen, generalisierten Angststörungen oder einem hohen Risiko für Essstörungen litten, wurde Therabot über vier Wochen getestet. Teilnehmer, die Therabot nutzten, zeigten signifikante Symptomreduktionen im Vergleich zur Kontrollgruppe, sowohl nach vier als auch nach acht Wochen. Der Chatbot wurde intensiv genutzt, und die therapeutische Beziehung wurde mit der zu menschlichen Therapeuten vergleichbar bewertet. Die Ergebnisse deuten darauf hin, dass feinabgestimmte KI-Chatbots personalisierte psychische Gesundheitsinterventionen skalierbar anbieten können, wobei weitere Forschung nötig ist. [@heinz2025randomized]

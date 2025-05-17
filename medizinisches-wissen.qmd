@@ -50,6 +50,7 @@ Die EIV-Schnittstelle der Bundesärztekammer, erreichbar über [punkte.eiv-fobi.
 | Dosing                   | Abt. Klinische Pharmakologie & Pharmakoepidemiologie UK Heidelberg | [dosing.de](https://dosing.de/) |
 | Medbee                   | Medbee GmbH    | [medbee.org/s/](https://medbee.org/s/) |
 | MedCalc                  | MDCalc Ltd. Inc.        | [medcalc.org](https://www.medcalc.com/)                              |
+| MAGICapp                 | MAGIC Evidence Ecosystem Foundation | [magicevidence.org/magicapp](https://www.magicevidence.org/magicapp/) |
 
 : Beispiele digitale Wissenstools
 

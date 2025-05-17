@@ -45,3 +45,18 @@ Waddell et al. [@WADDELL2024399] untersuchte den Zusammenhang zwischen der Einf�
 | 8 | Timerbee | [timerbee.com](https://www.timerbee.com/) | Flexibles Terminbuchungssystem mit automatischen Erinnerungen, Workflow-Optimierung und OP-Planung. |
 
 : Übersicht Softwarelösungen Terminbuchung und weitere Funktionen
+
+# Terminplanungs- und Umfragetools
+
+Digitale Terminplanungs- und Umfragetools vereinfachen die Organisation von Meetings, Events oder Abstimmungen, indem sie Zeitpläne koordinieren und Antworten erfassen. Diese Tools sind besonders nützlich für Teams, Vereine oder private Gruppen, da sie oft ohne großen Aufwand genutzt werden können. Viele bieten datenschutzfreundliche Optionen, intuitive Bedienoberflächen und flexible Anpassungsmöglichkeiten.
+
+- [StrawPoll](https://strawpoll.com/de/meetings/)
+- [Nuudel](https://nuudel.digitalcourage.de/)
+- [Xoyondo](https://xoyondo.com/dp/example_de)
+- [Kulibri](https://kulibri.com/de/kulibri-beispiele)
+- [Bitpoll](https://bitpoll.de/)
+- [DuD-Poll](https://dud-poll.inf.tu-dresden.de/coffeebreak/)
+
+# Rechtliches
+
+Das [Gesundheits-Digital-Agentur-Gesetz (GDAG)](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gesundheits-digitalagentur-gesetz-gdag.html) sieht vor, dass gemäß § 370c SGB V technische und prozessuale Anforderungen an digitale Terminbuchungsplattformen festgelegt werden. Dabei sollen Obergrenzen für Terminbuchungsmöglichkeiten über Online-Plattformen definiert werden. Außerdem werden Mindestvorgaben für die telefonische Erreichbarkeit von Ärztepraxen eingeführt. Die Online-Terminvergabe soll laut Gesetzgeber einen bedarfsgerechten und diskriminierungsfreien Zugang zu Terminen für Versicherte schaffen. Sie zielt darauf ab, eine wirtschaftliche Prüfung der Terminvergabe zu vermeiden, indem kurzfristige Termine nicht nur für extrabudgetar vergütete Leistungen reserviert werden. Zudem sollen gleiche Chancen für diejenigen gewährleistet werden, die Online-Terminbuchungen nicht nutzen können.
