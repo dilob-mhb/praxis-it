@@ -61,3 +61,7 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 | PAYONE       | [payone.com](https://www.payone.com/DE-de/bezahlloesungen/dienstleistung) |
 
 : Beispiele Bezahlsysteme
+
+## E-Rechnung
+
+Die E-Rechnung ermöglicht die strukturierte, maschinenlesbare Übermittlung von Rechnungsdaten, etwa im ZUGFeRD- oder XRechnungs-Format, und erfüllt gesetzliche Anforderungen, wie die EU-Richtlinie 2014/55/EU.
