@@ -1,0 +1,5 @@
+# Forschung
+
+## Datenerfassung im Ambulanten Bereich
+
+Die Forschung durch Datensammlung im ambulanten Bereich wird durch Wearables und mobile Technologien verändert. Geräte wie Fitness-Tracker oder Smartwatches ermöglichen die kontinuierliche Erfassung von Gesundheitsdaten wie Herzfrequenz, Schlafqualität oder Aktivitätsniveaus in Echtzeit. Plattformen wie die [REDCap Mobile App](https://projectredcap.org/software/mobile-app/) unterstützen Forscher bei der Datenerfassung und -verwaltung direkt von Patienten, während [GoWrap](https://rti.gowrap.org/) die Integration und Analyse von Daten aus Wearables erleichtert.

@@ -61,6 +61,8 @@ Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Pati
 
 : Übersicht Softwarelösungen Dokumentation 
 
+[Medicstream](https://medicstream.net/de) ist eine Plattform, die Ärzten und Behandlungsteams ermöglicht, Patienten vor oder nach Gesprächen individuelle Informationen zu Erkrankungen und Behandlungen bereitzustellen. Über personalisierte Videoclips und digitale Inhalte, wie Kurse oder Apps, können Ärzte maßgeschneiderte „Infoboxen“ erstellen, die Patienten zeit- und ortsunabhängig nutzen können. Die Plattform entlastet Arzt-Patienten-Gespräche, indem sie Grundaufklärung digital vermittelt, und ist intuitiv ohne Vorkenntnisse nutzbar.
+
 ## Triagewerkzeuge
 
 Der [Patienten-Navi](https://www.116117.de/de/patienten-navi.php), ein digitales Tool der Kassenärztlichen Bundesvereinigung (KBV), das Hilfesuchenden eine Selbsteinschätzung ihrer medizinischen Beschwerden ermöglicht. Über einen Chatbot beantworten Nutzer Fragen zu ihren Symptomen, woraufhin die Software „Strukturierte medizinische Ersteinschätzung in Deutschland“ (SmED) Warnhinweise prüft und Empfehlungen zur Dringlichkeit und Versorgungsstufe (z. B. Arztpraxis, 116117 oder 112) gibt. Das Angebot ist anonym, ohne Anmeldung nutzbar und unterstützt die Entlastung des ärztlichen Bereitschaftsdienstes, indem es Patienten orientiert und bei Bedarf an weitere Dienste vermittelt.
