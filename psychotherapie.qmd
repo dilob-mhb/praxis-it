@@ -1,5 +1,7 @@
 # Psychotherapie
 
+## Software
+
 | Produkt | Unternehmen | URL |
 |---|---|---|
 | Klindo | KLINDO GmbH | [klindo.de](https://klindo.de/) |
