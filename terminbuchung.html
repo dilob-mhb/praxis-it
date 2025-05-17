@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.29">
+<meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -60,14 +60,14 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-748b535e376f14d4692bf2b2e5fd6380.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b8efe6475c6fc2c22b8b9c23b7102d0a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-cc7dd368786a98462920c55e2aa46c52.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-b8efe6475c6fc2c22b8b9c23b7102d0a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-abb45eac0308967937b9f4a188770b38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-3949cc9f2dc0a9df21dde18aac5c1a92.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-abb45eac0308967937b9f4a188770b38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -307,6 +307,7 @@ cookieconsent.run({
       toggleColorMode(toAlternate);
       setStyleSentinel(toAlternate);
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
     };
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
@@ -610,6 +611,11 @@ cookieconsent.run({
   <a href="./krankenkassen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitalisierung der Krankenkassen</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./forschung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Forschung</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item">
@@ -660,6 +666,8 @@ cookieconsent.run({
   <li><a href="#einleitung" id="toc-einleitung" class="nav-link active" data-scroll-target="#einleitung">Einleitung</a></li>
   <li><a href="#softwarelösungen" id="toc-softwarelösungen" class="nav-link" data-scroll-target="#softwarelösungen">Softwarelösungen</a></li>
   <li><a href="#kombinationslösungen" id="toc-kombinationslösungen" class="nav-link" data-scroll-target="#kombinationslösungen">Kombinationslösungen</a></li>
+  <li><a href="#terminplanungs--und-umfragetools" id="toc-terminplanungs--und-umfragetools" class="nav-link" data-scroll-target="#terminplanungs--und-umfragetools">Terminplanungs- und Umfragetools</a></li>
+  <li><a href="#rechtliches" id="toc-rechtliches" class="nav-link" data-scroll-target="#rechtliches">Rechtliches</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/terminbuchung.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -846,6 +854,22 @@ cookieconsent.run({
 </tr>
 </tbody>
 </table>
+</section>
+<section id="terminplanungs--und-umfragetools" class="level1">
+<h1>Terminplanungs- und Umfragetools</h1>
+<p>Digitale Terminplanungs- und Umfragetools vereinfachen die Organisation von Meetings, Events oder Abstimmungen, indem sie Zeitpläne koordinieren und Antworten erfassen. Diese Tools sind besonders nützlich für Teams, Vereine oder private Gruppen, da sie oft ohne großen Aufwand genutzt werden können. Viele bieten datenschutzfreundliche Optionen, intuitive Bedienoberflächen und flexible Anpassungsmöglichkeiten.</p>
+<ul>
+<li><a href="https://strawpoll.com/de/meetings/">StrawPoll</a></li>
+<li><a href="https://nuudel.digitalcourage.de/">Nuudel</a></li>
+<li><a href="https://xoyondo.com/dp/example_de">Xoyondo</a></li>
+<li><a href="https://kulibri.com/de/kulibri-beispiele">Kulibri</a></li>
+<li><a href="https://bitpoll.de/">Bitpoll</a></li>
+<li><a href="https://dud-poll.inf.tu-dresden.de/coffeebreak/">DuD-Poll</a></li>
+</ul>
+</section>
+<section id="rechtliches" class="level1">
+<h1>Rechtliches</h1>
+<p>Das <a href="https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gesundheits-digitalagentur-gesetz-gdag.html">Gesundheits-Digital-Agentur-Gesetz (GDAG)</a> sieht vor, dass gemäß § 370c SGB V technische und prozessuale Anforderungen an digitale Terminbuchungsplattformen festgelegt werden. Dabei sollen Obergrenzen für Terminbuchungsmöglichkeiten über Online-Plattformen definiert werden. Außerdem werden Mindestvorgaben für die telefonische Erreichbarkeit von Ärztepraxen eingeführt. Die Online-Terminvergabe soll laut Gesetzgeber einen bedarfsgerechten und diskriminierungsfreien Zugang zu Terminen für Versicherte schaffen. Sie zielt darauf ab, eine wirtschaftliche Prüfung der Terminvergabe zu vermeiden, indem kurzfristige Termine nicht nur für extrabudgetar vergütete Leistungen reserviert werden. Zudem sollen gleiche Chancen für diejenigen gewährleistet werden, die Online-Terminbuchungen nicht nutzen können.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
@@ -1271,30 +1295,38 @@ Waddell, Kimberly J., Keshav Goel, Sae-Hwan Park, Kristin A. Linn, Amol S. Navat
     }
   });
   </script>
-<script src="https://giscus.app/client.js" data-repo="dilob-mhb/praxis-it" data-repo-id="R_kgDONyeBYw" data-category="General" data-category-id="DIC_kwDONyeBY84CnOKJ" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
-</script>
-<script type="application/javascript">
-  const giscusIframeObserver = new MutationObserver(function (mutations) {
-    mutations.forEach(function (mutation) {
-      mutation.addedNodes.forEach(function (addedNode) {
-        if (addedNode.matches && addedNode.matches('div.giscus')) {
-          const giscusIframe = addedNode.querySelector('iframe.giscus-frame');
-          if(giscusIframe) {
-            giscusIframe.addEventListener("load", function() {
-              window.setTimeout(() => {
-                toggleGiscusIfUsed(hasAlternateSentinel(), authorPrefersDark);
-              }, 100);
-            });
-            giscusIframeObserver.disconnect();
-          }
-        }
-      });
-    });
-  });
-  giscusIframeObserver.observe(document.body, { childList: true, subtree: true });
-</script>
 <input type="hidden" id="giscus-base-theme" value="light">
 <input type="hidden" id="giscus-alt-theme" value="dark">
+<script>
+  function loadGiscus() {
+    // Function to get the theme based on body class
+    const getTheme = () => {
+      let baseTheme = document.getElementById('giscus-base-theme').value;
+      let altTheme = document.getElementById('giscus-alt-theme').value;
+      if (authorPrefersDark) {
+          [baseTheme, altTheme] = [altTheme, baseTheme];
+      }
+      return document.body.classList.contains('quarto-dark') ? altTheme : baseTheme;
+    };
+    const script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.dataset.repo = "dilob-mhb/praxis-it";
+    script.dataset.repoId = "R_kgDONyeBYw";
+    script.dataset.category = "General";
+    script.dataset.categoryId = "DIC_kwDONyeBY84CnOKJ";
+    script.dataset.mapping = "title";
+    script.dataset.reactionsEnabled = "1";
+    script.dataset.emitMetadata = "0";
+    script.dataset.inputPosition = "top";
+    script.dataset.theme = getTheme();
+    script.dataset.lang = "en";
+    script.crossOrigin = "anonymous";
+    // Append the script to the desired div instead of at the end of the body
+    document.getElementById("quarto-content").appendChild(script);
+  }
+  loadGiscus();
+</script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./kurznachrichtendienst.html" class="pagination-link" aria-label="Kurznachrichtendienst">

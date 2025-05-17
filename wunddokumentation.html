@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.29">
+<meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -40,14 +60,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-748b535e376f14d4692bf2b2e5fd6380.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b8efe6475c6fc2c22b8b9c23b7102d0a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-cc7dd368786a98462920c55e2aa46c52.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-b8efe6475c6fc2c22b8b9c23b7102d0a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-abb45eac0308967937b9f4a188770b38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-3949cc9f2dc0a9df21dde18aac5c1a92.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-abb45eac0308967937b9f4a188770b38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -287,6 +307,7 @@ cookieconsent.run({
       toggleColorMode(toAlternate);
       setStyleSentinel(toAlternate);
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
     };
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
@@ -590,6 +611,11 @@ cookieconsent.run({
   <a href="./krankenkassen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitalisierung der Krankenkassen</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./forschung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Forschung</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item">
@@ -639,6 +665,7 @@ cookieconsent.run({
   <ul>
   <li><a href="#einleitung" id="toc-einleitung" class="nav-link active" data-scroll-target="#einleitung">Einleitung</a></li>
   <li><a href="#softwarelösungen" id="toc-softwarelösungen" class="nav-link" data-scroll-target="#softwarelösungen">Softwarelösungen</a></li>
+  <li><a href="#forschung" id="toc-forschung" class="nav-link" data-scroll-target="#forschung">Forschung</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/wunddokumentation.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -778,8 +805,23 @@ cookieconsent.run({
 </tr>
 </tbody>
 </table>
+</section>
+<section id="forschung" class="level2">
+<h2 class="anchored" data-anchor-id="forschung">Forschung</h2>
+<p>Eine Studie von Nair (2018) zeigte, dass Smartphone-Apps für digitale Wundbilder die Produktivität in der Wunddokumentation und -analyse steigern, indem sie Zeit (27 Stunden täglich in einem Zentrum mit 10 Pflegern) und Kosten sparen und genaue Messungen ermöglichen. <span class="citation" data-cites="nair2018increasing">(<a href="referenzen.html#ref-nair2018increasing" role="doc-biblioref">Nair 2018</a>)</span> Bradshaw et al.&nbsp;(2011) entwickelten eine klinische Leitlinie und Kompetenzcheckliste, um die Konsistenz und Genauigkeit der Wundfotografie zu verbessern, was die Dokumentation und Kommunikation zwischen Klinikern optimierte. <span class="citation" data-cites="bradshaw2011collaboration">(<a href="referenzen.html#ref-bradshaw2011collaboration" role="doc-biblioref">Bradshaw, Gergar, und Holko 2011</a>)</span> Murphy et al.&nbsp;(2006) fanden heraus, dass digitale Bilder nach Training und mit einem Bewertungstool eine zuverlässige Alternative zur traditionellen Wundbeurteilung am Krankenbett bieten, was die Effizienz und den Zugang zu Expertise an entfernten Standorten erhöht. <span class="citation" data-cites="murphy2006reliability">(<a href="referenzen.html#ref-murphy2006reliability" role="doc-biblioref">Murphy Jr u.&nbsp;a. 2006</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-bradshaw2011collaboration" class="csl-entry" role="listitem">
+Bradshaw, Leah Marie, Margaret E Gergar, und Ginger A Holko. 2011. <span>„Collaboration in wound photography competency development: a unique approach“</span>. <em>Advances in Skin &amp; Wound Care</em> 24 (2): 85–92.
+</div>
+<div id="ref-murphy2006reliability" class="csl-entry" role="listitem">
+Murphy Jr, Robert X, Michael A Bain, Thomas E Wasser, Eric Wilson, und Walter J Okunski. 2006. <span>„The reliability of digital imaging in the remote assessment of wounds: defining a standard“</span>. <em>Annals of plastic surgery</em> 56 (4): 431–36.
+</div>
+<div id="ref-nair2018increasing" class="csl-entry" role="listitem">
+Nair, Harikrishna KR. 2018. <span>„Increasing productivity with smartphone digital imagery wound measurements and analysis“</span>. <em>Journal of Wound Care</em> 27 (Sup9a): S12–19.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -1195,30 +1237,38 @@ cookieconsent.run({
     }
   });
   </script>
-<script src="https://giscus.app/client.js" data-repo="dilob-mhb/praxis-it" data-repo-id="R_kgDONyeBYw" data-category="General" data-category-id="DIC_kwDONyeBY84CnOKJ" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
-</script>
-<script type="application/javascript">
-  const giscusIframeObserver = new MutationObserver(function (mutations) {
-    mutations.forEach(function (mutation) {
-      mutation.addedNodes.forEach(function (addedNode) {
-        if (addedNode.matches && addedNode.matches('div.giscus')) {
-          const giscusIframe = addedNode.querySelector('iframe.giscus-frame');
-          if(giscusIframe) {
-            giscusIframe.addEventListener("load", function() {
-              window.setTimeout(() => {
-                toggleGiscusIfUsed(hasAlternateSentinel(), authorPrefersDark);
-              }, 100);
-            });
-            giscusIframeObserver.disconnect();
-          }
-        }
-      });
-    });
-  });
-  giscusIframeObserver.observe(document.body, { childList: true, subtree: true });
-</script>
 <input type="hidden" id="giscus-base-theme" value="light">
 <input type="hidden" id="giscus-alt-theme" value="dark">
+<script>
+  function loadGiscus() {
+    // Function to get the theme based on body class
+    const getTheme = () => {
+      let baseTheme = document.getElementById('giscus-base-theme').value;
+      let altTheme = document.getElementById('giscus-alt-theme').value;
+      if (authorPrefersDark) {
+          [baseTheme, altTheme] = [altTheme, baseTheme];
+      }
+      return document.body.classList.contains('quarto-dark') ? altTheme : baseTheme;
+    };
+    const script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.dataset.repo = "dilob-mhb/praxis-it";
+    script.dataset.repoId = "R_kgDONyeBYw";
+    script.dataset.category = "General";
+    script.dataset.categoryId = "DIC_kwDONyeBY84CnOKJ";
+    script.dataset.mapping = "title";
+    script.dataset.reactionsEnabled = "1";
+    script.dataset.emitMetadata = "0";
+    script.dataset.inputPosition = "top";
+    script.dataset.theme = getTheme();
+    script.dataset.lang = "en";
+    script.crossOrigin = "anonymous";
+    // Append the script to the desired div instead of at the end of the body
+    document.getElementById("quarto-content").appendChild(script);
+  }
+  loadGiscus();
+</script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./gefaessmedizin.html" class="pagination-link" aria-label="Herz- &amp; Kreislaufmedizin">

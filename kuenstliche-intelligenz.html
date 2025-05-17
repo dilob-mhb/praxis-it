@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.29">
+<meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -60,14 +60,14 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-748b535e376f14d4692bf2b2e5fd6380.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b8efe6475c6fc2c22b8b9c23b7102d0a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-cc7dd368786a98462920c55e2aa46c52.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-b8efe6475c6fc2c22b8b9c23b7102d0a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-abb45eac0308967937b9f4a188770b38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-3949cc9f2dc0a9df21dde18aac5c1a92.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-abb45eac0308967937b9f4a188770b38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -307,6 +307,7 @@ cookieconsent.run({
       toggleColorMode(toAlternate);
       setStyleSentinel(toAlternate);
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
     };
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
@@ -610,6 +611,11 @@ cookieconsent.run({
   <a href="./krankenkassen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitalisierung der Krankenkassen</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./forschung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Forschung</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item">
@@ -666,6 +672,8 @@ cookieconsent.run({
   <li><a href="#übersichtsplattform" id="toc-übersichtsplattform" class="nav-link" data-scroll-target="#übersichtsplattform">Übersichtsplattform</a></li>
   <li><a href="#forschung" id="toc-forschung" class="nav-link" data-scroll-target="#forschung">Forschung</a></li>
   <li><a href="#ki-lehre" id="toc-ki-lehre" class="nav-link" data-scroll-target="#ki-lehre">KI Lehre</a></li>
+  <li><a href="#ki-curriculum" id="toc-ki-curriculum" class="nav-link" data-scroll-target="#ki-curriculum">KI Curriculum</a></li>
+  <li><a href="#internationaler-vergleich" id="toc-internationaler-vergleich" class="nav-link" data-scroll-target="#internationaler-vergleich">Internationaler Vergleich</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/kuenstliche-intelligenz.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -747,10 +755,19 @@ cookieconsent.run({
 <li><a href="https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/">research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation</a></li>
 <li><a href="https://research.google/blog/from-diagnosis-to-treatment-advancing-amie-for-longitudinal-disease-management/">research.google/blog/from-diagnosis-to-treatment-advancing-amie-for-longitudinal-disease-management</a></li>
 </ul>
+<p>Die Studie „Why Is Primary Care Different? Considerations for Machine Learning Development with Electronic Medical Record Data“ von Jacqueline K. Kueper et al., veröffentlicht am 24. April 2025 in NEJM AI, beleuchtet die Besonderheiten der Primärversorgung und deren Implikationen für die Entwicklung von maschinellem Lernen (ML) mit Daten aus elektronischen Patientenakten. Primärversorgung als Fundament des Gesundheitssystems zeichnet sich durch Erstkontakt, Ganzheitlichkeit, Koordination und Kontinuität aus, doch die ML-Entwicklung in diesem Bereich hinkt anderen medizinischen Fachrichtungen hinterher. Die Autoren betonen die Notwendigkeit maßgeschneiderter Methoden, die repräsentative Daten, ganzheitliche Kohorten, zielgerichtete Outcomes und validierungsstrategien für dezentrale klinische Kontexte berücksichtigen. Interdisziplinäre Zusammenarbeit und verstärkte Investitionen in ML-Forschung für die Primärversorgung könnten klinische Entscheidungsfindung, Patientenergebnisse und Innovationen im Gesundheitswesen verbessern. <span class="citation" data-cites="kueper2025primary">(<a href="referenzen.html#ref-kueper2025primary" role="doc-biblioref"><strong>kueper2025primary?</strong></a>)</span></p>
 </section>
 <section id="ki-lehre" class="level2">
 <h2 class="anchored" data-anchor-id="ki-lehre">KI Lehre</h2>
 <p>Die Studie in “AI education for clinicians” (Januar 2025) betont die Notwendigkeit gezielter AI-Ausbildung für Kliniker, um den sicheren und effektiven Einsatz von AI-Tools in der Medizin zu gewährleisten. Sie schlägt drei Expertise-Stufen vor: grundlegende Fähigkeiten zur Nutzung von AI-Tools, fortgeschrittene Fähigkeiten zur kritischen Bewertung und ethischen Implikationen sowie Expertenfähigkeiten für technische Innovationen. Die Autoren diskutieren Herausforderungen in der Integration von AI in medizinische Curricula, insbesondere logistische und curriculare Hürden, und empfehlen multidisziplinäre Ansätze sowie angepasste Lehrpläne für verschiedene Gesundheitssysteme und Fachrichtungen. Beispiele bestehender AI-Ausbildungsprogramme werden zur Veranschaulichung angeführt. <span class="citation" data-cites="schubert2025ai">(<a href="referenzen.html#ref-schubert2025ai" role="doc-biblioref">Schubert u.&nbsp;a. 2025</a>)</span></p>
+</section>
+<section id="ki-curriculum" class="level2">
+<h2 class="anchored" data-anchor-id="ki-curriculum">KI Curriculum</h2>
+<p>Die Studie „AIFM-ed Curriculum Framework for Postgraduate Family Medicine Education on Artificial Intelligence: Mixed Methods Study“ entwickelt einen Lehrplanrahmen, um Künstliche Intelligenz (KI) in die Weiterbildung kanadischer Hausärzte zu integrieren. Durch eine Literaturrecherche und Expertenpanels entstand das AIFM-ed-Framework, das KI-Inhalte wie Grundlagen der Datenwissenschaft, Anwendung von KI-Tools (z. B. Diagnoseunterstützung, Praxisorganisation), ethische Aspekte (z. B. Datenschutz, Bias) und Bewertungsmethoden für KI-Tools umfasst. Diese Inhalte werden im 24-monatigen kanadischen Hausmedizin-Curriculum longitudinal integriert: im ersten Jahr durch Grundlagenmodule, im zweiten durch praktische Anwendungen wie Simulationen. Das Framework orientiert sich an den CanMEDS-Kompetenzen und adressiert den Bedarf an digitaler Kompetenz, wie vom College of Family Physicians of Canada gefordert. Es soll angehende Hausärzte befähigen, KI verantwortungsvoll in der Praxis einzusetzen, und fordert weitere Validierung für eine flächendeckende Implementierung. <span class="citation" data-cites="tolentino2025aifm">(<a href="referenzen.html#ref-tolentino2025aifm" role="doc-biblioref">Tolentino u.&nbsp;a. 2025</a>)</span></p>
+</section>
+<section id="internationaler-vergleich" class="level2">
+<h2 class="anchored" data-anchor-id="internationaler-vergleich">Internationaler Vergleich</h2>
+<p>Der Bericht <a href="https://kpmg.com/xx/en/our-insights/ai-and-technology/trust-attitudes-and-use-of-ai.html">„Trust, attitudes and use of artificial intelligence: A global study 2025“</a> zeigt, dass Deutschland im Vergleich zu anderen Ländern niedrige Werte bei KI-Ausbildung, -Wissen und -Kompetenz aufweist, wobei nur 20% der Befragten KI-bezogene Schulungen angaben, das Wissen bei 2,4/5 und die Kompetenz bei 4,0/7 liegt. Viele nutzen KI-Systeme regelmäßig, doch nur einige glauben, dass die Vorteile die Risiken überwiegen, und die Besorgnis über KI überwiegt Optimismus. Es wird Regulierung gefordert, bestehende Vorschriften seien unzureichend, wobei die wahrgenommene Angemessenheit von Schutzmaßnahmen von 2022 bis 2024 sank. Im Arbeitskontext stieg die regelmäßige KI-Nutzung, und die organisatorische Einführung von KI wuchs, doch die Unterstützung für verantwortungsvolle KI-Nutzung nahm ab. Das KI-Wissen blieb konstant, aber Sorgen und wahrgenommene Risiken stiegen, während Vertrauen in KI-Systeme und deren Vertrauenswürdigkeit abnahmen. Deutschland zeigt somit geringe KI-Akzeptanz, sinkendes Vertrauen und wachsende Skepsis, ähnlich wie andere fortgeschrittene Volkswirtschaften.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
@@ -765,6 +782,9 @@ Nong, Paige, und Jodyn Platt. 2025. <span>„Patients’ Trust in Health Systems
 </div>
 <div id="ref-schubert2025ai" class="csl-entry" role="listitem">
 Schubert, Tim, Tim Oosterlinck, Robert D Stevens, Patrick H Maxwell, und Mihaela van der Schaar. 2025. <span>„AI education for clinicians“</span>. <em>EClinicalMedicine</em> 79.
+</div>
+<div id="ref-tolentino2025aifm" class="csl-entry" role="listitem">
+Tolentino, Raymond, Fanny Hersson-Edery, Mark Yaffe, und Samira Abbasgholizadeh-Rahimi. 2025. <span>„AIFM-ed Curriculum Framework for Postgraduate Family Medicine Education on Artificial Intelligence: Mixed Methods Study“</span>. <em>JMIR Medical Education</em> 11: e66828.
 </div>
 <div id="ref-tu2024conversationaldiagnosticai" class="csl-entry" role="listitem">
 Tu, Tao, Anil Palepu, Mike Schaekermann, Khaled Saab, Jan Freyberg, Ryutaro Tanno, Amy Wang, u.&nbsp;a. 2024. <span>„Towards Conversational Diagnostic AI“</span>. <a href="https://arxiv.org/abs/2401.05654">https://arxiv.org/abs/2401.05654</a>.
@@ -1185,30 +1205,38 @@ Tu, Tao, Anil Palepu, Mike Schaekermann, Khaled Saab, Jan Freyberg, Ryutaro Tann
     }
   });
   </script>
-<script src="https://giscus.app/client.js" data-repo="dilob-mhb/praxis-it" data-repo-id="R_kgDONyeBYw" data-category="General" data-category-id="DIC_kwDONyeBY84CnOKJ" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
-</script>
-<script type="application/javascript">
-  const giscusIframeObserver = new MutationObserver(function (mutations) {
-    mutations.forEach(function (mutation) {
-      mutation.addedNodes.forEach(function (addedNode) {
-        if (addedNode.matches && addedNode.matches('div.giscus')) {
-          const giscusIframe = addedNode.querySelector('iframe.giscus-frame');
-          if(giscusIframe) {
-            giscusIframe.addEventListener("load", function() {
-              window.setTimeout(() => {
-                toggleGiscusIfUsed(hasAlternateSentinel(), authorPrefersDark);
-              }, 100);
-            });
-            giscusIframeObserver.disconnect();
-          }
-        }
-      });
-    });
-  });
-  giscusIframeObserver.observe(document.body, { childList: true, subtree: true });
-</script>
 <input type="hidden" id="giscus-base-theme" value="light">
 <input type="hidden" id="giscus-alt-theme" value="dark">
+<script>
+  function loadGiscus() {
+    // Function to get the theme based on body class
+    const getTheme = () => {
+      let baseTheme = document.getElementById('giscus-base-theme').value;
+      let altTheme = document.getElementById('giscus-alt-theme').value;
+      if (authorPrefersDark) {
+          [baseTheme, altTheme] = [altTheme, baseTheme];
+      }
+      return document.body.classList.contains('quarto-dark') ? altTheme : baseTheme;
+    };
+    const script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.dataset.repo = "dilob-mhb/praxis-it";
+    script.dataset.repoId = "R_kgDONyeBYw";
+    script.dataset.category = "General";
+    script.dataset.categoryId = "DIC_kwDONyeBY84CnOKJ";
+    script.dataset.mapping = "title";
+    script.dataset.reactionsEnabled = "1";
+    script.dataset.emitMetadata = "0";
+    script.dataset.inputPosition = "top";
+    script.dataset.theme = getTheme();
+    script.dataset.lang = "en";
+    script.crossOrigin = "anonymous";
+    // Append the script to the desired div instead of at the end of the body
+    document.getElementById("quarto-content").appendChild(script);
+  }
+  loadGiscus();
+</script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./ethik.html" class="pagination-link" aria-label="Ethik">
