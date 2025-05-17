@@ -56,3 +56,7 @@ Digitale Terminplanungs- und Umfragetools vereinfachen die Organisation von Meet
 - [Kulibri](https://kulibri.com/de/kulibri-beispiele)
 - [Bitpoll](https://bitpoll.de/)
 - [DuD-Poll](https://dud-poll.inf.tu-dresden.de/coffeebreak/)
+
+# Rechtliches
+
+Das [Gesundheits-Digital-Agentur-Gesetz (GDAG)](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gesundheits-digitalagentur-gesetz-gdag.html) sieht vor, dass gemäß § 370c SGB V technische und prozessuale Anforderungen an digitale Terminbuchungsplattformen festgelegt werden. Dabei sollen Obergrenzen für Terminbuchungsmöglichkeiten über Online-Plattformen definiert werden. Außerdem werden Mindestvorgaben für die telefonische Erreichbarkeit von Ärztepraxen eingeführt. Die Online-Terminvergabe soll laut Gesetzgeber einen bedarfsgerechten und diskriminierungsfreien Zugang zu Terminen für Versicherte schaffen. Sie zielt darauf ab, eine wirtschaftliche Prüfung der Terminvergabe zu vermeiden, indem kurzfristige Termine nicht nur für extrabudgetar vergütete Leistungen reserviert werden. Zudem sollen gleiche Chancen für diejenigen gewährleistet werden, die Online-Terminbuchungen nicht nutzen können.
