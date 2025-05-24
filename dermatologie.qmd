@@ -30,6 +30,8 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 
 : Übersicht Softwarelösungen Direct-to-Consumer
 
+Die [ItchyMonsters-App](https://www.itchy-monsters.de/) unterstützt Kinder mit Neurodermitis spielerisch bei der täglichen Hautpflege. Durch Gamification und Augmented Reality motiviert die App Kinder dazu, regelmäßig einzucremen, während ein integriertes Hauttagebuch Eltern und Ärzt:innen hilft, den Therapieverlauf zu überwachen. Kostenlos und werbefrei bietet sie eine kindgerechte, stressfreie Lösung zur Verbesserung der Hautgesundheit.
+
 ## Forschung
 
 | Product                  | Company                  | URL                                                                 |
