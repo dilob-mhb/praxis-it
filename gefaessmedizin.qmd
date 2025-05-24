@@ -19,6 +19,8 @@
 
 : Übersicht Softwarelösungen Gefäßmedizin
 
+Die Webseite [cholesterin-neu-verstehen.de](https://www.cholesterin-neu-verstehen.de/) bietet Informationen rund um das Thema Cholesterin, dessen Bedeutung für die Gesundheit und den Umgang damit. Sie klärt über die Rolle von Cholesterin im Körper, Risikofaktoren für Herz-Kreislauf-Erkrankungen und Möglichkeiten zur Senkung hoher Cholesterinwerte auf. Die Inhalte sind leicht verständlich und richten sich an Menschen, die mehr über Cholesterinmanagement, Ernährung und einen gesunden Lebensstil erfahren möchten.
+
 ## Bluthochdruck
 
 |    | Software         | Anbieter                          | URL                |
