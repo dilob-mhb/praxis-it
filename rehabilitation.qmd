@@ -27,3 +27,7 @@ Der [Bundesverband Deutscher Privatkliniken (BDPK)](https://www.bdpk.de/themen/r
 | Thevea                             | Thevea                          | [thevea.de](https://thevea.de/) |
 | Henara                             | Henara GmbH                     | [henara.de](https://henara.de/) |
 | Synaptos                           | Synaptos                        | [synaptos.de](https://synaptos.de/) |
+
+## Roboterassistenz
+
+[TEDIRO GmbH](https://tediro.com/), ein Tech-Startup aus Leipzig und Ilmenau, entwickelt den mobile Roboter THERY, der Patienten beim selbstgesteuerten Gangtraining mit Unterarmstützen unterstützt, indem Bewegungsabläufe mittels KI-gestützter Kameratechnologie analysiert und Korrekturvorschläge gegeben werden. Das cloudbasierte Therapie-Management-System ermöglicht personalisierte Trainingspläne und die Dokumentation von Fortschritten. TEDIRO kombiniert Expertise in Robotik, Softwareentwicklung und Physiotherapie, um die Mobilität von Patienten fördern.
