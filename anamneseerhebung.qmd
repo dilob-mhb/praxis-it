@@ -1,11 +1,5 @@
 # Anamnese & Dokumentation
 
-::: {.content-visible when-format="html"}
-
-![](https://badgen.net/badge/DiLoB%20geprüft/Ja/green?icon=github)
-
-:::
-
 ## Einleitung
 
 Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Patientendaten, Anamnesen, Schulung und Dokumentation.
@@ -76,3 +70,7 @@ Das Forschungsprojekt [DokPro](https://hessen-ideen.de/ideen/alumni/detailansich
 ## Aufklärung
 
 Der [ArztAvatar](https://arztavatar.de/) ist ein Werkzeug für Ärzte, das auf künstlicher Intelligenz basiert und die Kommunikation zwischen Arzt und Patient optimiert. Es ermöglicht die Erstellung eines digitalen Avatars, der Patienten in verschiedenen Sprachen und rund um die Uhr Informationen zu Behandlungen, Terminen oder medizinischen Fragen liefert. Durch die einfache Integration in Praxis-Websites oder Apps verbessert es die Patientenbindung und entlastet das Praxispersonal.
+
+## Ambient Scribe
+
+Gordon D. Schiff beschreibt in „AI-Driven Clinical Documentation — Driving Out the Chitchat?“ die persönliche Erfahrung mit dem Einsatz von Künstlicher Intelligenz (KI) in der klinischen Dokumentation. Er beleuchtet, wie KI-basierte Tools wie Spracherkennung und automatische Notizgenerierung die Effizienz in der medizinischen Dokumentation steigern können, indem sie redundante oder irrelevante Informationen („Chitchat“) reduzieren. Gleichzeitig warnt Schiff vor potenziellen Risiken, wie dem Verlust wichtiger klinischer Nuancen oder der Überautomatisierung, die die Arzt-Patient-Interaktion beeinträchtigen könnte. Der Artikel fordert einen ausgewogenen Ansatz, um die Vorteile von KI zu nutzen, ohne die Qualität der Patientenversorgung zu gefährden. [@schiff2025ai]
