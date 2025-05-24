@@ -29,6 +29,11 @@ Softwarefehler akzeptieren, analysieren, in Teilprobleme zerlegen und lösen. Be
 :::
 
 ::: {.callout-note}
+## Testumgebungen für Lernen und Ausprobieren bereitstellen
+Sichere und realitätsnahe Testumgebungen, Sandkästen oder Demos einrichten, um neue Technologien und Prozesse risikofrei zu erlernen und auszuprobieren. Dadurch werden Schwierigkeiten und Fehler in produktiven Umgebungen minimiert, während die Kompetenzentwicklung gefördert wird.
+:::
+
+::: {.callout-note}
 ## Lernen und Verändern
 Bereitschaft zeigen, neue Technologien zu erlernen und Arbeitsweisen entsprechend anzupassen, um den digitalen Wandel aktiv mitzugestalten.
 :::
