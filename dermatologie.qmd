@@ -4,6 +4,10 @@
 
 Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der Benutzerfreundlichkeit, den unterstützten Plattformen (App vs. Web), der Kostenstruktur (kostenlos vs. kostenpflichtig) und der Spezialisierung auf bestimmte Hautprobleme oder -typen. Während einige Tools eher auf eine schnelle, allgemeine Hautanalyse abzielen, konzentrieren sich andere auf tiefgehende Untersuchungen, die von Dermatologen oder Hautpflegeexperten unterstützt werden. 
 
+[hautnetz-deutschland.de](https://hautnetz-deutschland.de/) ist ein Netzwerk für dermatologische Versorgung, das Patienten den Zugang zu spezialisierten Hautärzten und telemedizinischen Dienstleistungen in Deutschland erleichtert.
+
+[www.gemeinsam-gegen-hautkrebs.de](https://www.gemeinsam-gegen-hautkrebs.de/) informiert über Hautkrebsprävention, Früherkennung und Behandlungsmöglichkeiten und fördert die Zusammenarbeit zwischen Patienten, Ärzten und Organisationen im Kampf gegen Hautkrebs.
+
 ## Softwarelösungen
 
 | Product                  | Company                  | URL                                                                 |
