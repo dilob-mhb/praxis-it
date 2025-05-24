@@ -45,3 +45,5 @@ Die [ItchyMonsters-App](https://www.itchy-monsters.de/) unterstützt Kinder mit 
 | KIADEKU | KIADEKU GmbH | [interaktive-technologien.de/projekte/kiadeku](https://www.interaktive-technologien.de/projekte/kiadeku) |
 
 : Übersicht Forschungsprojekte
+
+[Aisencia](https://aisencia.de/) ist ein Start-up aus Bremen, das sich auf KI-gestützte Lösungen für die Dermatopathologie spezialisiert hat. Mit der Software Vistaneos optimiert das Unternehmen den Workflow in Laboren, indem es ein Bildverwaltungssystem mit künstlicher Intelligenz kombiniert, um präzise und schnelle Diagnosen von Hautkrankheiten wie Basalzellkarzinom oder Melanom zu ermöglichen. Aisencia hat Auszeichnungen erhalten, darunter den 2. Platz beim EXIST Start-up Award 2024 und den 1. Platz beim CAMPUSiDEEN-Wettbewerb 2023.
