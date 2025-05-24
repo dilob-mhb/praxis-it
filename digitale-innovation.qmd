@@ -146,6 +146,11 @@ Implementierungsforschung untersucht, wie evidenzbasierte Praktiken, Interventio
 
 Das [ICER-PHTI Assessment Framework for Digital Health Technologies](https://phti.org/how-we-assess/), entwickelt in Zusammenarbeit mit dem Institute for Clinical and Economic Review (ICER), bewertet digitale Gesundheitslösungen anhand von klinischer Wirksamkeit und wirtschaftlichem Einfluss. Es basiert auf den Prioritäten von Arbeitgebern, Krankenkassen und Gesundheitssystemen und unterstützt diese bei fundierten Entscheidungen über den Einsatz digitaler Technologien. Das Framework analysiert den Technologiekontext, die klinischen Vorteile, die Nutzererfahrung, die Sicherheit und Wirksamkeit (in drei Risikostufen: Selbstmanagement, diagnostische/prognostische und therapeutische Technologien), die Gesundheitsgerechtigkeit (Zugänglichkeit und Verteilung) sowie den wirtschaftlichen Einfluss durch Budgetanalysen. Es bietet Entwicklern und Investoren Leitlinien zur Evidenzgenerierung und fördert die Einführung hochwertiger, kosteneffizienter Technologien.
 
+Private Forschungsorganisationen:
+
+* [inav-berlin.de](https://inav-berlin.de/leistungen/ditital-health/)
+* [agenon.de](https://www.agenon.de/leistungen/digitalisierung/)
+
 ## Institutionalisierung
 
 In Deutschland haben sich mehrere Institute gebildet, die sich der digitalen Medizin widmen:
