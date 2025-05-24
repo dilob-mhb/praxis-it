@@ -73,6 +73,7 @@ Siehe dazu:
 | 21 | Webprax                       | Webprax GmbH                        | [Webprax](https://webprax.de/)                                       |
 | 22 | Avodaq                        | Avodaq AG                           | [Avodaq Connected Healthcare](https://www.avodaq.com/de/leistungen/connected-healthcare/) |
 | 23 | Medityme                      | Medityme GmbH                       | [Medityme](https://www.medityme.com/de/home)                         |
+| 24 | Videoclinic | A+ Videoclinic GmbH | [videoclinic.de](https://videoclinic.de/) |
 
 : Übersicht Softwarelösungen Videosprechstunde
 
