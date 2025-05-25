@@ -38,6 +38,8 @@ Digitale Medikationsanwendungen erhöhen die Therapieadhärenz um 7 % bis 40 % u
 
 [dosing.de](https://dosing.de/) wird vom Institut für Klinische Pharmakologie & Pharmakoepidemiologie des Universitätsklinikums Heidelberg betrieben. Kernfunktion ist die Unterstützung bei der Dosisanpassung von Medikamenten, insbesondere bei Niereninsuffizienz.
 
+Die Studie „A scoping review on generative AI and large language models in mitigating medication related harm“ untersucht den Einsatz generativer KI und großer Sprachmodelle (LLMs) zur Reduzierung medikamentenbedingter Schäden. Die Analyse von 30 Studien zeigt, dass diese Technologien in drei Hauptbereichen angewendet werden: Erkennung und Vorhersage von Arzneimittelwechselwirkungen, Unterstützung klinischer Entscheidungen und Pharmakovigilanz. Generative KI und LLMs zeigen vielversprechende Ergebnisse bei der frühzeitigen Identifikation von Nebenwirkungen, der Klassifikation von Arzneimittelereignissen und der Unterstützung bei der Medikamentenverwaltung. Allerdings fehlen prospektive Tests in realen klinischen Umgebungen, und es bestehen Herausforderungen wie unzureichende Sensitivität, veraltete Informationen und potenzielle Verzerrungen. [@ong2025scoping]
+
 ## ATHINA
 
 [ATHINA (Arzneimitteltherapiesicherheit in Apotheken)](https://www.aknr.de/amts/athina) ist ein Qualifizierungskonzept, das 2012 von der Apothekerkammer Nordrhein entwickelt wurde und mittlerweile von zwölf Landesapothekerkammern im ATHINA-Verbund umgesetzt wird. Ziel ist die Etablierung der Medikationsanalyse in öffentlichen Apotheken, um die Arzneimitteltherapiesicherheit (AMTS) zu verbessern, insbesondere bei Patienten mit Polymedikation.

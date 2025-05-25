@@ -33,7 +33,6 @@ book:
     - index.qmd
     - einleitung.qmd
     - praxisverwaltung.qmd
-    - anamneseerhebung.qmd
     - medizinisches-wissen.qmd
     - part: "Kommunikation"
       chapters:
@@ -48,29 +47,39 @@ book:
       - wartezimmer.qmd
     - part: "Fachdisziplinen"
       chapters:
-      - dermatologie.qmd
       - augenheilkunde.qmd
+      - dermatologie.qmd
       - diabetologie.qmd
       - gefaessmedizin.qmd
-      - wunddokumentation.qmd
       - rheumatologie.qmd
       - orthopaedie.qmd
       - rehabilitation.qmd
-      - psychotherapie.qmd
       - neurologie.qmd
-      - ambulantes-operieren.qmd
       - radiologie.qmd
       - pulmologie.qmd
-      - gastroenterologie.qmd 
+      - gastroenterologie.qmd
+      - kinderheilkunde.qmd
       - onkologie.qmd
       - hno.qmd
       - allergologie.qmd
+    - part: "med. Fähigkeiten"
+      chapters:
+      - anamneseerhebung.qmd
+      - symptomchecker.qmd
+      - wunddokumentation.qmd
       - impfsoftware.qmd
       - medikation.qmd
+      - ambulantes-operieren.qmd
+      - psychotherapie.qmd
+    - part: "andere Sektoren"
+      chapters:
       - zahnarzt.qmd
       - pflege.qmd
       - krankenhaus.qmd
       - oeffentliche-gesundheit.qmd
+      - krankenkassen.qmd
+      - gesetzgebung.qmd
+      - forschung.qmd
     - part: "Verwaltung"
       chapters:
       - buchhaltung.qmd
@@ -78,15 +87,12 @@ book:
       - dienstplanung.qmd
       - materialwirtschaft.qmd
       - datenschutz.qmd
-      - gesetzgebung.qmd
       - it-sicherheit.qmd
-      - krankenkassen.qmd
-      - forschung.qmd
     - diskurs.qmd
     - digitale-innovation.qmd
-    - ethik.qmd
     - kuenstliche-intelligenz.qmd
-    - symptomchecker.qmd
+    - ethik.qmd
+    - international.qmd
     - zusammenfassung.qmd
     - referenzen.qmd
 
