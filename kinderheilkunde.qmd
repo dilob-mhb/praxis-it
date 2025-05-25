@@ -1,0 +1,5 @@
+# Kinderheilkunde
+
+## Forschung
+
+Das [Regionale Telepädiatrische Netzwerk](https://rtp-net.med.uni-greifswald.de/) (RTP-Net) in Mecklenburg-Vorpommern und Brandenburg verbessert die pädiatrische Versorgung in ländlichen Regionen durch telemedizinische Lösungen. Angesichts des demografischen Wandels, sinkender Geburtenraten und langer Anfahrtswege vernetzt RTP-Net 12 Kliniken, um Kapazitäten zu bündeln und Fachkompetenzen zu ergänzen. Es bietet telemedizinische Triage, spezialfachärztliche Videosprechstunden und einen virtuellen Hintergrunddienst, um eine wohnortnahe, hochwertige Versorgung sicherzustellen. Das [Forschungsprojekt](https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/rtp-net.344), gefördert mit 1,3 Millionen Euro, untersucht, ob Telemedizin die regionale Versorgung nachhaltig stärken kann, und evaluiert Prozesse sowie Vergütungsmodelle für eine mögliche Überführung in die Regelversorgung.
