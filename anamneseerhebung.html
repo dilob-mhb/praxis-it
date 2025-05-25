@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./medizinisches-wissen.html" rel="next">
-<link href="./praxisverwaltung.html" rel="prev">
+<link href="./symptomchecker.html" rel="next">
+<link href="./allergologie.html" rel="prev">
 <script src="site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
@@ -304,7 +324,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./anamneseerhebung.html"><span class="chapter-title">Anamnese &amp; Dokumentation</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./anamneseerhebung.html">med. Fähigkeiten</a></li><li class="breadcrumb-item"><a href="./anamneseerhebung.html"><span class="chapter-title">Anamnese &amp; Dokumentation</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Suchen" onclick="window.quartoOpenSearch();">
@@ -348,11 +368,6 @@ cookieconsent.run({
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./praxisverwaltung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Praxisverwaltungssoftware</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./anamneseerhebung.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Anamnese &amp; Dokumentation</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -427,12 +442,12 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./dermatologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dermatologie</span></a>
+  <a href="./augenheilkunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Augenheilkunde</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./augenheilkunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Augenheilkunde</span></a>
+  <a href="./dermatologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dermatologie</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -443,11 +458,6 @@ cookieconsent.run({
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./gefaessmedizin.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Herz- &amp; Kreislaufmedizin</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./wunddokumentation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Wunddokumentation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -467,17 +477,7 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./psychotherapie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Psychotherapie</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./neurologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -497,6 +497,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./kinderheilkunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kinderheilkunde</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./onkologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Onkologie &amp; Hämatologie</span></a>
   </div>
 </li>
@@ -510,6 +515,32 @@ cookieconsent.run({
   <a href="./allergologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Allergologie</span></a>
   </div>
 </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">med. Fähigkeiten</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./anamneseerhebung.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Anamnese &amp; Dokumentation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./symptomchecker.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Symptomchecker</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./wunddokumentation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Wunddokumentation</span></a>
+  </div>
+</li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./impfsoftware.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Impfsoftware</span></a>
@@ -520,6 +551,27 @@ cookieconsent.run({
   <a href="./medikation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Medikation</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./psychotherapie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Psychotherapie</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
+ <span class="menu-text">andere Sektoren</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
@@ -540,17 +592,32 @@ cookieconsent.run({
   <a href="./oeffentliche-gesundheit.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Öffentliches Gesundheitswesen</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./krankenkassen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitalisierung der Krankenkassen</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./gesetzgebung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gesetzgebung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./forschung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Forschung</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
  <span class="menu-text">Verwaltung</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./buchhaltung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Buchhaltung</span></a>
@@ -578,22 +645,7 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./gesetzgebung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gesetzgebung</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./it-sicherheit.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">IT-Sicherheit</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./krankenkassen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitalisierung der Krankenkassen</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./forschung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Forschung</span></a>
   </div>
 </li>
       </ul>
@@ -610,17 +662,17 @@ cookieconsent.run({
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ethik.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ethik</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./kuenstliche-intelligenz.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Künstliche Intelligenz</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./symptomchecker.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Symptomchecker</span></a>
+  <a href="./ethik.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ethik</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./international.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">International</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -647,6 +699,8 @@ cookieconsent.run({
   <li><a href="#anamnesewerkzeuge" id="toc-anamnesewerkzeuge" class="nav-link" data-scroll-target="#anamnesewerkzeuge">Anamnesewerkzeuge</a></li>
   <li><a href="#dokumentation" id="toc-dokumentation" class="nav-link" data-scroll-target="#dokumentation">Dokumentation</a></li>
   <li><a href="#triagewerkzeuge" id="toc-triagewerkzeuge" class="nav-link" data-scroll-target="#triagewerkzeuge">Triagewerkzeuge</a></li>
+  <li><a href="#aufklärung" id="toc-aufklärung" class="nav-link" data-scroll-target="#aufklärung">Aufklärung</a></li>
+  <li><a href="#ambient-scribe" id="toc-ambient-scribe" class="nav-link" data-scroll-target="#ambient-scribe">Ambient Scribe</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/anamneseerhebung.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -668,7 +722,7 @@ cookieconsent.run({
   gtag('config', 'G-W0VVGPQSBH');
 </script>
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./anamneseerhebung.html">med. Fähigkeiten</a></li><li class="breadcrumb-item"><a href="./anamneseerhebung.html"><span class="chapter-title">Anamnese &amp; Dokumentation</span></a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title"><span class="chapter-title">Anamnese &amp; Dokumentation</span></h1>
 </div>
@@ -687,7 +741,6 @@ cookieconsent.run({
 </header>
 
 
-<p><img src="https://badgen.net/badge/DiLoB%20geprüft/Ja/green?icon=github.png" class="img-fluid"></p>
 <section id="einleitung" class="level2">
 <h2 class="anchored" data-anchor-id="einleitung">Einleitung</h2>
 <p>Digitale Lösungen in Arztpraxen ermöglichen die effiziente Verwaltung von Patientendaten, Anamnesen, Schulung und Dokumentation.</p>
@@ -852,8 +905,22 @@ cookieconsent.run({
 <p>Der <a href="https://www.116117.de/de/patienten-navi.php">Patienten-Navi</a>, ein digitales Tool der Kassenärztlichen Bundesvereinigung (KBV), das Hilfesuchenden eine Selbsteinschätzung ihrer medizinischen Beschwerden ermöglicht. Über einen Chatbot beantworten Nutzer Fragen zu ihren Symptomen, woraufhin die Software „Strukturierte medizinische Ersteinschätzung in Deutschland“ (SmED) Warnhinweise prüft und Empfehlungen zur Dringlichkeit und Versorgungsstufe (z. B. Arztpraxis, 116117 oder 112) gibt. Das Angebot ist anonym, ohne Anmeldung nutzbar und unterstützt die Entlastung des ärztlichen Bereitschaftsdienstes, indem es Patienten orientiert und bei Bedarf an weitere Dienste vermittelt.</p>
 <p><a href="https://www.infermedica.com">Infermedica</a>, ein polnisches Unternehmen, bietet für den deutschen Markt KI-gestützte Symptom-Checker und virtuelle Triage-Dienste an (<a href="https://symptomate.com/de">symptomate.com</a>). Diese helfen Patienten, Symptome zu bewerten und Diagnosen zu erhalten, während Gesundheitsdienstleister effizienter triagieren können. Anpassbar an deutsche Standards, unterstützt Infermedica Krankenkassen und Kliniken bei der Digitalisierung, entlastet Personal und passt zur elektronischen Patientenakte (ePA).</p>
 <p><a href="https://www.xund.ai">XUND</a> bietet eine KI-gestützte „Patient Interaction Suite“, die den gesamten Patientenweg von Prävention über Diagnose bis zur Nachsorge digitalisiert. Zu den Kernangeboten zählen vier Module: „Symptom Check“ zur Identifikation möglicher Ursachen von Symptomen, „Illness Check“ zur Bewertung spezifischer Krankheitsvermutungen, „Health Check“ für präventive Risikoanalysen und „Patient Monitoring“ für automatisierte Nachsorge. Diese Lösungen sind als API-first-Medizinprodukte konzipiert, die sich flexibel in bestehende Systeme integrieren lassen und über 520 Krankheiten sowie 21.000 Symptomvarianten abdecken. Zusatzfunktionen wie „Medical Content“ mit Selbsthilfetipps, „Data Insights“ für detaillierte Analysen und „Ecosystem Management“ zur Verknüpfung mit Gesundheitsdienstleistern ergänzen das Angebot. XUND richtet sich an Gesundheitsdienstleister, Versicherungen und Pharmaunternehmen, ist als Klasse-IIa-Medizinprodukt nach MDR zertifiziert und fördert eine präzise, zugängliche Gesundheitsversorgung. XUND wird primär für den europäischen Markt angeboten, mit einem starken Fokus auf den deutschsprachigen Raum (Österreich, Deutschland, Schweiz), da das Unternehmen seinen Sitz in Wien hat.</p>
+<p>Das Forschungsprojekt <a href="https://hessen-ideen.de/ideen/alumni/detailansicht/444/DokPro%20-%20ein%20modulares%20KI-System%20zur%20Unterst%C3%BCtzung%20der%20Notaufnahme/show/Projekte/2/0/?cHash=f62b0e5ec52ed1cef0d8885f905cb1f9">DokPro</a> ist ein modulares KI-System, das Notaufnahmen entlastet, indem es die Erstanamnese automatisiert. Patienten kommunizieren in einer Kabine mit einem Avatar, der Vitalparameter wie Herzfrequenz und Blutsauerstoff misst und gezielte Fragen stellt. Das System erstellt einen detaillierten PDF-Bericht, der automatisch ins Krankenhausinformationssystem (KIS) übertragen wird.</p>
+</section>
+<section id="aufklärung" class="level2">
+<h2 class="anchored" data-anchor-id="aufklärung">Aufklärung</h2>
+<p>Der <a href="https://arztavatar.de/">ArztAvatar</a> ist ein Werkzeug für Ärzte, das auf künstlicher Intelligenz basiert und die Kommunikation zwischen Arzt und Patient optimiert. Es ermöglicht die Erstellung eines digitalen Avatars, der Patienten in verschiedenen Sprachen und rund um die Uhr Informationen zu Behandlungen, Terminen oder medizinischen Fragen liefert. Durch die einfache Integration in Praxis-Websites oder Apps verbessert es die Patientenbindung und entlastet das Praxispersonal.</p>
+</section>
+<section id="ambient-scribe" class="level2">
+<h2 class="anchored" data-anchor-id="ambient-scribe">Ambient Scribe</h2>
+<p>Gordon D. Schiff beschreibt in „AI-Driven Clinical Documentation — Driving Out the Chitchat?“ die persönliche Erfahrung mit dem Einsatz von Künstlicher Intelligenz (KI) in der klinischen Dokumentation. Er beleuchtet, wie KI-basierte Tools wie Spracherkennung und automatische Notizgenerierung die Effizienz in der medizinischen Dokumentation steigern können, indem sie redundante oder irrelevante Informationen („Chitchat“) reduzieren. Gleichzeitig warnt Schiff vor potenziellen Risiken, wie dem Verlust wichtiger klinischer Nuancen oder der Überautomatisierung, die die Arzt-Patient-Interaktion beeinträchtigen könnte. Der Artikel fordert einen ausgewogenen Ansatz, um die Vorteile von KI zu nutzen, ohne die Qualität der Patientenversorgung zu gefährden. <span class="citation" data-cites="schiff2025ai">(<a href="referenzen.html#ref-schiff2025ai" role="doc-biblioref">Schiff 2025</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-schiff2025ai" class="csl-entry" role="listitem">
+Schiff, Gordon D. 2025. <span>„AI-Driven Clinical Documentation—Driving Out the Chitchat?“</span> <em>New England Journal of Medicine</em>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -1303,13 +1370,13 @@ cookieconsent.run({
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./praxisverwaltung.html" class="pagination-link" aria-label="Praxisverwaltungssoftware">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Praxisverwaltungssoftware</span></span>
+      <a href="./allergologie.html" class="pagination-link" aria-label="Allergologie">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Allergologie</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./medizinisches-wissen.html" class="pagination-link" aria-label="Digitales Wissensmanagement">
-        <span class="nav-page-text"><span class="chapter-title">Digitales Wissensmanagement</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./symptomchecker.html" class="pagination-link" aria-label="Symptomchecker">
+        <span class="nav-page-text"><span class="chapter-title">Symptomchecker</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
