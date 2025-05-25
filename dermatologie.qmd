@@ -4,6 +4,10 @@
 
 Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der Benutzerfreundlichkeit, den unterstützten Plattformen (App vs. Web), der Kostenstruktur (kostenlos vs. kostenpflichtig) und der Spezialisierung auf bestimmte Hautprobleme oder -typen. Während einige Tools eher auf eine schnelle, allgemeine Hautanalyse abzielen, konzentrieren sich andere auf tiefgehende Untersuchungen, die von Dermatologen oder Hautpflegeexperten unterstützt werden. 
 
+[hautnetz-deutschland.de](https://hautnetz-deutschland.de/) ist ein Netzwerk für dermatologische Versorgung, das Patienten den Zugang zu spezialisierten Hautärzten und telemedizinischen Dienstleistungen in Deutschland erleichtert.
+
+[www.gemeinsam-gegen-hautkrebs.de](https://www.gemeinsam-gegen-hautkrebs.de/) informiert über Hautkrebsprävention, Früherkennung und Behandlungsmöglichkeiten und fördert die Zusammenarbeit zwischen Patienten, Ärzten und Organisationen im Kampf gegen Hautkrebs.
+
 ## Softwarelösungen
 
 | Product                  | Company                  | URL                                                                 |
@@ -30,6 +34,8 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 
 : Übersicht Softwarelösungen Direct-to-Consumer
 
+Die [ItchyMonsters-App](https://www.itchy-monsters.de/) unterstützt Kinder mit Neurodermitis spielerisch bei der täglichen Hautpflege. Durch Gamification und Augmented Reality motiviert die App Kinder dazu, regelmäßig einzucremen, während ein integriertes Hauttagebuch Eltern und Ärzt:innen hilft, den Therapieverlauf zu überwachen. Kostenlos und werbefrei bietet sie eine kindgerechte, stressfreie Lösung zur Verbesserung der Hautgesundheit.
+
 ## Forschung
 
 | Product                  | Company                  | URL                                                                 |
@@ -39,3 +45,5 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 | KIADEKU | KIADEKU GmbH | [interaktive-technologien.de/projekte/kiadeku](https://www.interaktive-technologien.de/projekte/kiadeku) |
 
 : Übersicht Forschungsprojekte
+
+[Aisencia](https://aisencia.de/) ist ein Start-up aus Bremen, das sich auf KI-gestützte Lösungen für die Dermatopathologie spezialisiert hat. Mit der Software Vistaneos optimiert das Unternehmen den Workflow in Laboren, indem es ein Bildverwaltungssystem mit künstlicher Intelligenz kombiniert, um präzise und schnelle Diagnosen von Hautkrankheiten wie Basalzellkarzinom oder Melanom zu ermöglichen. Aisencia hat Auszeichnungen erhalten, darunter den 2. Platz beim EXIST Start-up Award 2024 und den 1. Platz beim CAMPUSiDEEN-Wettbewerb 2023.

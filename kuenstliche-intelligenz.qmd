@@ -8,15 +8,26 @@ Der Artikel "Ten Ways Artificial Intelligence Will Transform Primary Care" aus d
 
 ## Lernmaterialien
 
+### Kostenfreie Angebote
+
 Der [KI-Campus](https://ki-campus.org/themen/medizin) bietet kostenlose Online-Kurse und Ressourcen zum Thema Künstliche Intelligenz in der Medizin, darunter Kurse zu Grundlagen, klinischen Anwendungen und Ethik. Diese Kurse sind für Mediziner:innen konzipiert und werden in Zusammenarbeit mit renommierten Partnern wie der Charité und dem DFKI angeboten.
 
 [openHPI](https://open.hpi.de/) ist die Bildungsplattform des Hasso-Plattner-Instituts, die kostenlose Online-Kurse zu Themen der Informatik anbietet. Diese Kurse richten sich an verschiedene Zielgruppen, von Einsteigern bis zu Fachpublikum, und decken sowohl Grundlagen als auch aktuelle Forschungsthemen ab. Die Plattform wurde 2012 als erstes europäisches MOOC-Projekt gestartet und bietet innovative Lernformate.
 
 [Kaggle Learn](https://www.kaggle.com/learn) bietet eine Sammlung kostenloser, interaktiver Kurse zum Erlernen von Datenwissenschaft und maschinellem Lernen. Diese Kurse sind so gestaltet, dass Sie praktische Fähigkeiten erwerben können, die Sie sofort anwenden können. Kaggle Learn ist ideal für Anfänger und Fortgeschrittene, um ihre Fähigkeiten in Bereichen wie Python, Pandas, und maschinellem Lernen zu verbessern.
 
+### Kostenpflichtige Angebote
+
+* [nuvio.health/ki-kompetenztraining](https://nuvio.health/ki-kompetenztraining/)
+* [futurehealth.academy](https://www.futurehealth.academy/)
+
 ## Experimentelle Anwendungen
 
 [pillenfuchs.konsilado.de](https://pillenfuchs.konsilado.de/) ist ein experimentelles KI-gestütztes Forschungsprojekt, das darauf abzielt, Medikationspläne mithilfe eines großes Sprachmodells zu überprüfen. Es handelt sich explizit nicht um ein medizinisches Angebot von menschlichen Ärzten oder Apothekern, sondern um ein experimentelles Tool. Die KI analysiert Medikationspläne basierend auf eingegebenen Patientendaten wie Alter, Geschlecht, Nierenfunktion und einem hochgeladenen Bundesmedikationsplan (als PDF oder Text). Dabei werden potenzielle Arzneimittelwechselwirkungen, Empfehlungen und Quellen ausgegeben. Die Ergebnisse sind jedoch ohne Gewähr, können Fehler enthalten und stellen keine verbindlichen Handlungsempfehlungen dar. Es wird ausdrücklich betont, dass nur der behandelnde Arzt verlässliche medizinische Ratschläge geben kann.
+
+## KI-Agenten
+
+[dianoviCDS](https://www.dianovi.com/) unterstützt bei der Diagnose und Behandlung, indem es patientenspezifische Empfehlungen auf Basis von Symptomen, medizinischen Leitlinien und anonymisierten Patientendaten liefert. Die Plattform kombiniert Sprachmodelle mit klassischem maschinellem Lernen. Durch Integration in bestehende Informationssysteme optimiert dianoviCDS Arbeitsabläufe und unterstützt bei der Abrechnungsoptimierung. [hessian.ai/aisr-community/dianovi](https://hessian.ai/aisr-community/dianovi/)
 
 ## Online Plattformen
 
@@ -55,6 +66,8 @@ Die Studie in "AI education for clinicians" (Januar 2025) betont die Notwendigke
 ## KI Curriculum
 
 Die Studie „AIFM-ed Curriculum Framework for Postgraduate Family Medicine Education on Artificial Intelligence: Mixed Methods Study“ entwickelt einen Lehrplanrahmen, um Künstliche Intelligenz (KI) in die Weiterbildung kanadischer Hausärzte zu integrieren. Durch eine Literaturrecherche und Expertenpanels entstand das AIFM-ed-Framework, das KI-Inhalte wie Grundlagen der Datenwissenschaft, Anwendung von KI-Tools (z. B. Diagnoseunterstützung, Praxisorganisation), ethische Aspekte (z. B. Datenschutz, Bias) und Bewertungsmethoden für KI-Tools umfasst. Diese Inhalte werden im 24-monatigen kanadischen Hausmedizin-Curriculum longitudinal integriert: im ersten Jahr durch Grundlagenmodule, im zweiten durch praktische Anwendungen wie Simulationen. Das Framework orientiert sich an den CanMEDS-Kompetenzen und adressiert den Bedarf an digitaler Kompetenz, wie vom College of Family Physicians of Canada gefordert. Es soll angehende Hausärzte befähigen, KI verantwortungsvoll in der Praxis einzusetzen, und fordert weitere Validierung für eine flächendeckende Implementierung. [@tolentino2025aifm]
+
+Das Data-Augmented, Technology-Assisted Medical Decision Making (DATA-MD) Curriculum, entwickelt von einem interdisziplinären Team der University of Michigan, schließt die Wissenslücke von klinischem Personal bei der Bewertung und Nutzung von Künstlicher Intelligenz (KI) und Maschinenlernen (ML). Im Mai und Juni 2023 mit 23 Assistenzärzten der Inneren Medizin getestet, umfasst das Curriculum vier Module zu KI/ML-Grundlagen, Epidemiologie und Biostatistik, Unterstützung diagnostischer Entscheidungen sowie ethischen und rechtlichen Aspekten. Das Pilotprogramm zeigte signifikante Verbesserungen der Wissensstände in drei Modulen und erhöhte das Vertrauen der Lernenden in die Bewertung von KI/ML-Literatur und deren Anwendung in der klinischen Praxis. Trotz Einschränkungen wie kleiner Stichprobengröße und fehlendem Fokus auf generative KI zeigt das Curriculum Potenzial für eine breitere Anwendung in verschiedenen medizinischen Fachrichtungen und Institutionen, mit Plänen für Erweiterung und regelmäßige Aktualisierungen, um neue KI-Technologien zu berücksichtigen. [@wong2024data]
 
 ## Internationaler Vergleich
 
