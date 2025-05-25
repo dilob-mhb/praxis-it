@@ -71,6 +71,14 @@ book:
       - medikation.qmd
       - ambulantes-operieren.qmd
       - psychotherapie.qmd
+    - part: "Praxisverwaltung"
+      chapters:
+      - buchhaltung.qmd
+      - qualitaetsmanagement.qmd
+      - dienstplanung.qmd
+      - materialwirtschaft.qmd
+      - datenschutz.qmd
+      - it-sicherheit.qmd
     - part: "andere Sektoren"
       chapters:
       - zahnarzt.qmd
@@ -80,14 +88,6 @@ book:
       - krankenkassen.qmd
       - gesetzgebung.qmd
       - forschung.qmd
-    - part: "Verwaltung"
-      chapters:
-      - buchhaltung.qmd
-      - qualitaetsmanagement.qmd
-      - dienstplanung.qmd
-      - materialwirtschaft.qmd
-      - datenschutz.qmd
-      - it-sicherheit.qmd
     - diskurs.qmd
     - digitale-innovation.qmd
     - kuenstliche-intelligenz.qmd
