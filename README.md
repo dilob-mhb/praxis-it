@@ -4,7 +4,7 @@ This repository contains the source code for the "Praxis-IT" Quarto book. The bo
 
 ## Contributing
 
-The Praxis-IT Knowledgebook is an open-source Quarto website/book hosted on GitHub (bsenst.github.io/praxis-it, dilob-mhb.github.io/praxis-it) dedicated to digital transformation in the ambulatory medical care system. The Knowledgebook collects and shares insights on digitalization, covering enterprises, products, techniques, social implications, and implementation strategies. It offers a resource to navigate the digital landscape. Contributions are encouraged, including creating new pages, updating content, or adding scientific literature on digital transformation in ambulatory care. Engage via GitHub Issues github.com/bsenst/praxis-it/issues or Discussions github.com/bsenst/praxis-it/discussions.
+The Praxis-IT Knowledgebook is an open-source Quarto website/book hosted on GitHub ([bsenst.github.io/praxis-it](https://bsenst.github.io/praxis-it), [dilob-mhb.github.io/praxis-it](https://dilob-mhb.github.io/praxis-it)) dedicated to digital transformation in the ambulatory medical care system. The Knowledgebook collects and shares insights on digitalization, covering enterprises, products, techniques, social implications, and implementation strategies. It offers a resource to navigate the digital landscape. Contributions are encouraged, including creating new pages, updating content, or adding scientific literature on digital transformation in ambulatory care. Engage via GitHub Issues [github.com/bsenst/praxis-it/issues](https://github.com/bsenst/praxis-it/issues) or Discussions [github.com/bsenst/praxis-it/discussions](https://github.com/bsenst/praxis-it/discussions).
 
 ## Viewing the Book
 
