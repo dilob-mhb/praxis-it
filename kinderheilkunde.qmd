@@ -2,6 +2,8 @@
 
 ## Anwendungen
 
+Der BVKJ fördert die Digitalisierung im Gesundheitswesen ([bvkj-service-gmbh.de/digitale-angebote](https://www.bvkj-service-gmbh.de/digitale-angebote)) durch Angebote wie die PraxisApp „Meine pädiatrische Praxis“, PädExpert® für telemedizinische Konsultationen und PädAssist® für digitales Langzeitmonitoring.
+
 Die [ItchyMonsters-App](https://www.itchy-monsters.de/) macht Hautpflege für Kinder mit Neurodermitis zu einem spannenden Abenteuer. Durch Gamification und Augmented Reality motiviert die App Kinder, sich regelmäßig einzucremen, indem sie virtuelle Monster pflegen und entwickeln. Mit einem Hauttagebuch, kindgerechtem Lernen über Neurodermitis und einer werbefreien, sicheren Umgebung unterstützt sie Familien und Ärzte.
 
 ## Kinderuntersuchungsheft als Medizinisches Informationsobjekt (MIO)
