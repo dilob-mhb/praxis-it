@@ -66,6 +66,8 @@ Es gibt Schlüsselfaktoren, die den Erfolg solcher Implementierungen beeinflusse
 
 ![Digitalisierung Ambulante Gesundheitsversorgung](assets/digitalisierung_plot.png)
 
+Das [Positionspapier der Kassenärztlichen Bundesvereinigung zur Digitalisierung der ambulanten Versorgung](https://www.kbv.de/html/digital-und-nah.php) (Mai 2025) skizziert die Vision eines „Digitalen Praxenlands“, das durch digitale Tools wie eRezept, elektronische Patientenakte (ePA), Telemedizin, KIM, TIM und Künstliche Intelligenz (KI) eine vernetzte, effiziente und patientenorientierte Versorgung ermöglicht. Es betont die Notwendigkeit, Herausforderungen wie demografischen Wandel, Fachkräftemangel und steigende Versorgungskomplexität durch digitale Unterstützung zu bewältigen, während der persönliche Patientenkontakt als Goldstandard erhalten bleibt. Die KBV fordert eine stabile Telematikinfrastruktur, nutzerfreundliche Praxisverwaltungssysteme, staatliche Förderprogramme wie ein „Praxiszukunftsgesetz“ und Anreize statt Sanktionen, um die Digitalisierung voranzutreiben.
+
 ## Evaluierung von digitalen Gesundheits-Technologien
 
 Das "Evidence Standards Framework" (ESF) des National Institute for Health and Care Excellence (NICE) für digitale Gesundheits- und Pflege-Technologien (DHTs) wurde 2018 entwickelt stellt eine standardisierte Vorgehensweise für die klinische und wirtschaftliche Bewertung von DHTs durch Gesundheitssysteme bereit. Der Rahmen wurde mit einem agilen und iterativen Ansatz entwickelt, der eine Literaturrecherche, Expertenkonsultationen und Stakeholder-Feedback beinhaltete. [@Unsworth_2021]
