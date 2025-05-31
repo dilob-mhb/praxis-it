@@ -6,6 +6,8 @@ Das [Positionspapier des HAEV aus Juli 2024](https://www.haev.de/fileadmin/user_
 
 Der Artikel "Ten Ways Artificial Intelligence Will Transform Primary Care" aus dem Jahr 2019 beschreibt, wie KI die hausärztliche Versorgung in den USA verändern könnte. Er hebt zehn Bereiche hervor, darunter Risikoprädiktion, Populationsgesundheitsmanagement, medizinischer Rat und Triage, und Diagnostik, in denen KI Verbesserungen bringen könnte. Die Herausforderung besteht darin, die Balance zu finden, wie KI am besten in den hausärztlichen Alltag integriert wird, um die vier Ziele (bessere Versorgung, bessere Gesundheit, geringere Kosten, Wohlbefinden der Arbeitskräfte) zu erreichen. [@Lin2019]
 
+Die Trendstudie [„Künstliche Intelligenz in der ambulanten Versorgung: Trends, Chancen und Potenziale für das deutsche Gesundheitswesen“](https://www.gesundheitsstadt-berlin.de/aktivitaeten/veroeffentlichungen#c574) untersucht die Rolle von KI im Gesundheitswesen. Sie zeigt, dass ein Drittel der Ärzt:innen bereits KI nutzt, insbesondere in Bildgebung, Diagnostik und Dokumentation, während zwei Drittel ein hohes Zukunftspotenzial sehen. KI entlastet vor allem administrative Aufgaben, verbessert Prävention und ermöglicht personalisierte Medizin. Haftungsrisiken und Kontrollverlust sind jedoch zentrale Vorbehalte. Die Studie betont die Notwendigkeit europäischer Gesundheitsdaten, strenger Datenschutzstandards und umfassender Fortbildung, um KI verantwortungsvoll einzusetzen und den Fachkräftemangel zu mildern.
+
 ## Lernmaterialien
 
 ### Kostenfreie Angebote
