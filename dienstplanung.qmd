@@ -37,6 +37,7 @@ Diese Merkmale fördern Transparenz, Flexibilität und Effizienz, was zur Zufrie
 | Dyflexis               | Dyflexis              | [Dyflexis](https://www.dyflexis.de/)                                 |
 | Ordio                  | Ordio                 | [Ordio](https://www.ordio.com/)                                      |
 | Crewmeister            | Crewmeister           | [Crewmeister](https://crewmeister.com/de)                           |
+| Zeiterfassung | Softwarenetz | [softwarenetz.de/zeiterfassung](https://www.softwarenetz.de/zeiterfassung.php) |
 | TimeMonkey | MonkeyDent GmbH | [monkeydent.de](http://monkeydent.de) |
 | clockin | clockin GmbH | [clockin.de](https://www.clockin.de/zeiterfassung-fuer-branchen/arztpraxen) |
 
