@@ -35,6 +35,10 @@ Die Studie von Saatjohann, Ising und Schinzel analysiert die Sicherheit der E-Ma
 
 `@praxis.tm.kim.telematik`
 
+## Interoperabilität
+
+Die [L-INA-Plattform](https://l-ina.gematik.de/) (Learning Interoperability) der gematik bietet eine Lernumgebung, um Wissen über Interoperabilität im Gesundheitssystem zu vermitteln. Sie ergänzt den Interoperabilitätsnavigator INA und unterstützt Nutzer:innen dabei, Entscheidungen im Kontext der Interoperabilität (IOP) zu treffen. Mit Videos, Factsheets und interaktiven Modulen – von „IOP in a Nutshell“ bis „EHDS“ – können Fachkräfte ihre Kompetenzen erweitern.
+
 ## Konnektoren
 
 [Konnektoren](https://fachportal.gematik.de/hersteller-anbieter/komponenten-dienste/konnektor) sind zentrale Hardware-Komponenten in der Telematikinfrastruktur des deutschen Gesundheitswesens, die eine sichere Vernetzung von Arztpraxen und anderen Einrichtungen mit digitalen Gesundheitsdiensten ermöglichen. Anbieter wie secunet Security Networks AG, Research Industrial Systems Engineering (RISE) und KoCo Connector GmbH bieten zugelassene Modelle wie den secunet konnektor, Rise Konnektor und die KoCoBox MED+ an, die regelmäßig aktualisiert und zertifiziert werden. Die Zulassungen, wie etwa für den secunet konnektor 2.0.0 bis 2.1.0 (gültig bis April 2027) oder die KoCoBox MED+ (bis August 2026), gewährleisten die Einhaltung strenger Sicherheits- und Interoperabilitätsstandards. Ältere Versionen, insbesondere von T-Systems und frühere RISE-Modelle, sind mittlerweile außer Dienst gestellt, was die Notwendigkeit kontinuierlicher technischer Weiterentwicklung unterstreicht.
