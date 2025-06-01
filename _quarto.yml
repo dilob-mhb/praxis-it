@@ -33,7 +33,6 @@ book:
     - index.qmd
     - einleitung.qmd
     - praxisverwaltung.qmd
-    - medizinisches-wissen.qmd
     - part: "Kommunikation"
       chapters:
       - telefonanlage.qmd
@@ -45,6 +44,24 @@ book:
       - videosprechstunde.qmd
       - telemedizin.qmd
       - wartezimmer.qmd
+    - part: "med. Fähigkeiten"
+      chapters:
+      - anamneseerhebung.qmd
+      - symptomchecker.qmd
+      - medizinisches-wissen.qmd
+      - wunddokumentation.qmd
+      - impfsoftware.qmd
+      - medikation.qmd
+      - ambulantes-operieren.qmd
+      - psychotherapie.qmd
+    - part: "Praxisverwaltung"
+      chapters:
+      - buchhaltung.qmd
+      - qualitaetsmanagement.qmd
+      - dienstplanung.qmd
+      - materialwirtschaft.qmd
+      - datenschutz.qmd
+      - it-sicherheit.qmd
     - part: "Fachdisziplinen"
       chapters:
       - augenheilkunde.qmd
@@ -62,15 +79,6 @@ book:
       - onkologie.qmd
       - hno.qmd
       - allergologie.qmd
-    - part: "med. Fähigkeiten"
-      chapters:
-      - anamneseerhebung.qmd
-      - symptomchecker.qmd
-      - wunddokumentation.qmd
-      - impfsoftware.qmd
-      - medikation.qmd
-      - ambulantes-operieren.qmd
-      - psychotherapie.qmd
     - part: "andere Sektoren"
       chapters:
       - zahnarzt.qmd
@@ -80,14 +88,6 @@ book:
       - krankenkassen.qmd
       - gesetzgebung.qmd
       - forschung.qmd
-    - part: "Verwaltung"
-      chapters:
-      - buchhaltung.qmd
-      - qualitaetsmanagement.qmd
-      - dienstplanung.qmd
-      - materialwirtschaft.qmd
-      - datenschutz.qmd
-      - it-sicherheit.qmd
     - diskurs.qmd
     - digitale-innovation.qmd
     - kuenstliche-intelligenz.qmd

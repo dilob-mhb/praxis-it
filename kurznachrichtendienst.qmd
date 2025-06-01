@@ -29,7 +29,11 @@ Die Kurznachrichtendienste zur Kommunikation zwischen PatientInnen und ÄrztInne
 
 3. **TI-Messenger**:
    - Ab Sommer 2025 wird der **TI-Messenger ePA** eine weitere Option sein, der für sichere und sektorenübergreifende Kommunikation zwischen Leistungserbringern und Patienten entwickelt wurde. [@gematik-ti-messenger]
-  
+
+## Kommunikationsplattformen
+
+Das Projekt [„Digitales Gesundheitsdorf Oberes Rodachtal (DIGI-ORT)“](https://www.scs.fraunhofer.de/de/referenzen/digi-ort.html) verbessert die medizinisch-pflegerische Versorgung in ländlichen Regionen durch Digitalisierung. Eine digitale Plattform vernetzt ambulante Pflegedienste, Hausärzte, Pflegebedürftige und deren Angehörige, um Abstimmungsprozesse zu vereinfachen und Gesundheits- sowie Pflegedaten effizient auszutauschen. Ergänzend fördert der Einsatz von technischen Assistenzsystemen, wie textilbasiertem Vitaldatenmonitoring, ein selbstbestimmtes Leben im eigenen Zuhause. Eine lokale Anlaufstelle informiert über technikunterstütztes Wohnen und koordiniert einen ehrenamtlichen Begleitdienst. Das 2018–2021 vom Bayerischen Staatsministerium für Gesundheit und Pflege geförderte Projekt wurde 2019 mit dem Sonderpreis „Stadt.Land.Digital“ für seinen innovativen Ansatz ausgezeichnet. [@ahrens2023digitales]
+
 ## Matrix Protokoll
 
 Das Matrix-Protokoll ist ein offenes Standardprotokoll für dezentrale, sichere Kommunikation im Internet, das sowohl für Chat- als auch für Voip-Kommunikation genutzt werden kann. In Deutschland hat die Telematikinfrastruktur (TI), die für die Digitalisierung des Gesundheitswesens verantwortlich ist, das Matrix-Protokoll zur Grundlage für den TI-Messenger gemacht. Der TI-Messenger ermöglicht eine sichere und interoperable Kommunikation zwischen verschiedenen Akteuren im Gesundheitswesen, wie Ärzten, Apotheken und Krankenkassen. Er basiert auf Matrix, um eine Ende-zu-Ende-Verschlüsselung zu gewährleisten und die Integration in bestehende Systeme zu erleichtern.
