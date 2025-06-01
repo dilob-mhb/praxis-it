@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -45,9 +65,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-abb45eac0308967937b9f4a188770b38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-3949cc9f2dc0a9df21dde18aac5c1a92.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-abb45eac0308967937b9f4a188770b38.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-89627c620c0a0dda856ff470caee852b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-107c6bcd2ec73a561d33c822cf88f354.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-89627c620c0a0dda856ff470caee852b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -350,11 +370,6 @@ cookieconsent.run({
   <a href="./praxisverwaltung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Praxisverwaltungssoftware</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./medizinisches-wissen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitales Wissensmanagement</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
@@ -414,12 +429,104 @@ cookieconsent.run({
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
- <span class="menu-text">Fachdisziplinen</span></a>
+ <span class="menu-text">med. Fähigkeiten</span></a>
           <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./anamneseerhebung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anamnese &amp; Dokumentation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./symptomchecker.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Symptomchecker</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./medizinisches-wissen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitales Wissensmanagement</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./wunddokumentation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Wunddokumentation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./impfsoftware.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Impfsoftware</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./medikation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Medikation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./psychotherapie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Psychotherapie</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+ <span class="menu-text">Praxisverwaltung</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./buchhaltung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Buchhaltung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./qualitaetsmanagement.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Qualitätsmanagement</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./dienstplanung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dienstplanung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./materialwirtschaft.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Materialwirtschaft</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./datenschutz.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Datenschutz</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./it-sicherheit.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">IT-Sicherheit</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
+ <span class="menu-text">Fachdisziplinen</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./augenheilkunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Augenheilkunde</span></a>
@@ -499,59 +606,13 @@ cookieconsent.run({
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
- <span class="menu-text">med. Fähigkeiten</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./anamneseerhebung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anamnese &amp; Dokumentation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./symptomchecker.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Symptomchecker</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./wunddokumentation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Wunddokumentation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./impfsoftware.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Impfsoftware</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./medikation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Medikation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./psychotherapie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Psychotherapie</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
  <span class="menu-text">andere Sektoren</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
@@ -585,47 +646,6 @@ cookieconsent.run({
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./forschung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Forschung</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
- <span class="menu-text">Verwaltung</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./buchhaltung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Buchhaltung</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./qualitaetsmanagement.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Qualitätsmanagement</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./dienstplanung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dienstplanung</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./materialwirtschaft.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Materialwirtschaft</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./datenschutz.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Datenschutz</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./it-sicherheit.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">IT-Sicherheit</span></a>
   </div>
 </li>
       </ul>
@@ -671,7 +691,14 @@ cookieconsent.run({
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhaltsverzeichnis</h2>
+   
+  <ul>
+  <li><a href="#industrie" id="toc-industrie" class="nav-link active" data-scroll-target="#industrie">Industrie</a></li>
+  <li><a href="#forschung" id="toc-forschung" class="nav-link" data-scroll-target="#forschung">Forschung</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/pflege.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
 <p>Projektpartner</p>
 <p><a href="https://www.dilob-mhb.de/"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/DiLoB-Logo-Transparent.png" class="img-fluid" width="100"></a></p>
@@ -710,6 +737,8 @@ cookieconsent.run({
 </header>
 
 
+<section id="industrie" class="level2">
+<h2 class="anchored" data-anchor-id="industrie">Industrie</h2>
 <p>Die <a href="https://nursit.de/nursit-home">nursIT Institute GmbH</a> aus Berlin bietet mit seiner KI-gestützten Software careIT eine innovative Lösung zur Automatisierung und Vereinfachung der Pflege- und Behandlungsdokumentation in Krankenhäusern. Über das Selbstversorgungs-Meta-Pflegeassessment (SeMPA) werden Risiken und Maßnahmen abgeleitet, während die hohe Interoperabilität durch HL7 FHIR eine nahtlose Integration in bestehende Systeme ermöglicht. Zusätzlich fördert nursIT mit Tools wie bedIT und planIT die Teamarbeit, Patientensicherheit und Effizienz in der Pflege.</p>
 <p>Die <a href="https://www.myneva.eu/de">myneva Group</a> bietet Pflegesoftwarelösungen. Mit Produkten wie myneva.care, myneva.connect und myneva.analytics optimiert sie Dokumentation, Kommunikation und datengestützte Entscheidungen. Die Software vereint Fachwissen und digitale Tools, um Abläufe zu vereinfachen und den Fokus auf die Versorgung der Menschen zu legen.</p>
 <p>Die <a href="https://sinfonie.de/">Sinfonie GmbH &amp; Co.&nbsp;KG</a> bietet eine flexible und umfassende Softwarelösung für soziale Einrichtungen wie Altenhilfe, Eingliederungshilfe sowie Kinder- und Jugendhilfe, die Prozesse wie Pflegeplanung, Dokumentation und Abrechnung optimiert. Mit über 25 Jahren Erfahrung entwickelt das Unternehmen individuell anpassbare digitale Tools, die sowohl stationär als auch mobil genutzt werden können, inklusive Apps und Spracherfassung.</p>
@@ -718,8 +747,18 @@ cookieconsent.run({
 <p>Die <a href="https://www.atacama-blooms.de/">atacama blooms GmbH</a> bietet mit „Nursing Knowledge Services“ (NKS) einen Wissensserver zur intelligenten Dokumentation und Entscheidungsunterstützung in der Krankenhauspflege sowie mit „Nursing Intelligence“ (NI) eine smarte Datenanalyse- und Beratungslösung für das Pflegemanagement. Mit „AVIDOC“ stellt sie einen digitalen Assistenten bereit, der Dokumente mittels KI automatisiert ausliest, strukturiert und Prozesse wie die Rechnungsverarbeitung optimiert. Diese Produkte nutzen Künstliche Intelligenz und Semantik, um Pflegeprozesse effizienter und einfacher zu gestalten.</p>
 <p>Die <a href="https://www.medifoxdan.de/">MEDIFOX DAN GmbH</a> mit Hauptsitz in Hildesheim ist ein führender Anbieter von Softwarelösungen für die Pflegebranche und unterstützt ambulante Dienste, stationäre Einrichtungen sowie therapeutische Praxen mit modularen, digitalen Tools zur Dokumentation, Planung und Verwaltung. Seit über 25 Jahren entwickelt das Unternehmen innovative Produkte wie MD Ambulant und MD Stationär, die Pflegekräfte entlasten und Prozesse effizienter gestalten. Als Teil der ResMed-Gruppe setzt MEDIFOX DAN auf Datensicherheit, Flexibilität und individuelle Kundenbetreuung, um die Digitalisierung im Gesundheitswesen voranzutreiben.</p>
 <p><a href="https://qualipep-gesundheitskompetenz.de/">QualiPEP</a> richtet sich an Pflegeeinrichtungen und zielt darauf ab, die Gesundheitskompetenz von Bewohnern und Beschäftigten zu fördern. Im Rahmen des Forschungsprojekts QualiPEP, das vom AOK-Bundesverband und dem Bundesministerium für Gesundheit zwischen 2017 und 2021 umgesetzt wurde, wurde ein digitaler Selbstbewertungsbogen entwickelt. Dieser Gesundheitskompetenz-Check hilft Einrichtungen, ihren aktuellen Stand zu bewerten und Potenziale zur Verbesserung zu erkennen. Ergänzend bietet die Seite Informationen und Handlungsempfehlungen, um Prävention, Gesundheitsförderung und betriebliche Gesundheitsmaßnahmen nachhaltig zu stärken. Ziel ist es, die Lebensqualität und Versorgung in der Pflege durch praxisnahe und wissenschaftlich fundierte Ansätze zu steigern.</p>
+</section>
+<section id="forschung" class="level2">
+<h2 class="anchored" data-anchor-id="forschung">Forschung</h2>
+<p>Das Impulspapier „Die digitale Dividende in der Pflege“ von Julia Bringmann und Michaela Evans-Borchers thematisiert die Herausforderungen und Potenziale der Digitalisierung in der Pflege. Es beleuchtet, warum digitale und KI-basierte Anwendungen oft nicht die erhoffte Entlastung für Pflegekräfte bringen, und schlägt Lösungen vor. Das Papier fordert evidenzbasierte Nachweise für den Nutzen digitaler Technologien, verbesserte Finanzierung und Akzeptanzförderung durch erfahrbare Mehrwerte. Es definiert vier Handlungsfelder: Schließen von Evidenzlücken, Kommunikation wirksamer Anwendungen, Förderung bewährter Technologien und Vermeidung von Fehlwirkungen. Vorschläge umfassen Metaanalysen, regionale Wissenstransfer-Netzwerke, gezielte Förderprogramme wie ein Langzeitpflegezukunftsgesetz und die Stärkung der Mitbestimmung, um eine „digitale Dividende“ zu realisieren, die Pflegekräfte entlastet und die Versorgungsqualität sichert. <span class="citation" data-cites="bringmanndigitale">(<a href="referenzen.html#ref-bringmanndigitale" role="doc-biblioref">Bringmann und Evans-Borchers, o.&nbsp;J.</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-bringmanndigitale" class="csl-entry" role="listitem">
+Bringmann, Julia, und Michaela Evans-Borchers. o.&nbsp;J. <span>„Die digitale Dividende in der Pflege“</span>.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1186,7 +1225,7 @@ cookieconsent.run({
     </div>   
     <div class="nav-footer-center">
 
-<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/pflege.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/pflege.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
