@@ -40,6 +40,7 @@ Diese Merkmale fördern Transparenz, Flexibilität und Effizienz, was zur Zufrie
 | Zeiterfassung | Softwarenetz | [softwarenetz.de/zeiterfassung](https://www.softwarenetz.de/zeiterfassung.php) |
 | TimeMonkey | MonkeyDent GmbH | [monkeydent.de](http://monkeydent.de) |
 | clockin | clockin GmbH | [clockin.de](https://www.clockin.de/zeiterfassung-fuer-branchen/arztpraxen) |
+| TiMaS | mess-elektronik-groß GmbH | [megzeit.de/timas-zeiterfassung](https://www.megzeit.de/timas-zeiterfassung) |
 
 : Übersicht Softwarelösungen Dienstplanung
 
