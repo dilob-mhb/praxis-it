@@ -79,7 +79,7 @@ book:
       - onkologie.qmd
       - hno.qmd
       - allergologie.qmd
-    - part: "andere Sektoren"
+    - part: "Angrenzende Sektoren"
       chapters:
       - zahnarzt.qmd
       - pflege.qmd
