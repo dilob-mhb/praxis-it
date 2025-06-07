@@ -392,6 +392,10 @@ Die Telematik-Roadmap von Mark Langguth ist eine Übersicht zur Einführung der 
 
 Die Kassenärztliche Bundesvereinigung (KBV) fordert in Ihrem Positionspapier ["digital und nah"](https://www.kbv.de/html/digital-und-nah.php) eine praxisnahe, ärztlich begleitete Digitalisierung der ambulanten Versorgung mit folgenden Schwerpunkten: Eine stabile, nutzerfreundliche Telematikinfrastruktur und moderne Praxisverwaltungssysteme sollen die Basis bilden. Digitale Verordnungen, Telemedizin, die elektronische Patientenakte (ePA) und KI-gestützte Tools sollen Prozesse effizienter gestalten, die Patientensicherheit erhöhen und die Versorgung bedarfsgerecht steuern. Anreize statt Sanktionen, ein Praxiszukunftsgesetz für Investitionen sowie eine flächendeckende Digitalisierung aller Gesundheitsbereiche sind essenziell. Die ärztliche Expertise muss frühzeitig eingebunden werden, um praxistaugliche Lösungen zu gewährleisten.
 
+* [Technische Universität Dresden Research Group Digital Health](https://tu-dresden.de/bu/wirtschaft/winf/digital-health)
+* [FACULTY OF LIFE SCIENCES: FOOD, NUTRITION AND HEALTHChair for Digital Health](https://www.digital-health.uni-bayreuth.de/en/index.html)
+* [Friedrich-Alexander-Universität Professur für Digital Health PDH](https://www.pdh.med.fau.de/)
+
 ## Zeitschriften & Verlage
 
 | Verlag/Zeitschrift                          | URL                                          |
