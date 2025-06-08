@@ -1,5 +1,11 @@
 # Radiologie
 
+## Image-Management-Systeme
+
+Die [easyRadiology AG](https://easyradiology.de/) bietet ein Image-Management-System, das Ärzten, Patienten und medizinischem Personal jederzeit und überall Zugriff auf klinische Bilder und Befunde ermöglicht. Mit nahtloser Integration, interoperablen Systemen und flexiblen Schnittstellen erlaubt easyRadiology eine vollständig digitale Patienten-Journey – von der Terminvereinbarung bis zur Entlassung.
+
+## Weitere Softwarelösungen
+
 | Name                | Link                                       |
 |---------------------|--------------------------------------------|
 | Raya Diagnostics    | [Raya Diagnostics](https://www.raya-diagnostics.com/) |
