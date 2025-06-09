@@ -64,6 +64,8 @@ Die Akzeptanz digitaler Technologien hängt stark von der Kommunikation und dem 
 
 Es gibt Schlüsselfaktoren, die den Erfolg solcher Implementierungen beeinflussen, darunter Führungsengagement, Anpassung der Arbeitsabläufe und Schulung des Personals. Erforderlich ist eine ganzheitliche Herangehensweise, die sowohl technische als auch menschliche Aspekte berücksichtigt, um die erfolgreiche Integration von Gesundheitstechnologien in Organisationen zu gewährleisten. [@Cresswell_2013]
 
+Die [Ideenkampagne ADRENALIN@UKSH](https://www.uksh.de/jahresberichte/2020+%7C+2021/Konzern+UKSH/UKSH+der+Zukunft/Ideenkampagne+ADRENALIN%40UKSH.html) startete 2021 am Universitätsklinikum Schleswig-Holstein mit dem Ziel, Mitarbeitende aktiv in die Zukunftsgestaltung einzubinden. Für ambulante Praxen ist dabei besonders relevant, dass der Erfolg digitaler Innovationen von einer offenen internen Kommunikation und dem Engagement des Teams abhängt. Über eine ganzheitliche Strategie, die technische Lösungen mit sozialen und organisatorischen Faktoren verbindet, lassen sich digitale Technologien in den Praxisalltag integrieren. [Hackathons](https://www.healthcare-hackathon.info/) bringen interdisziplinäre Teams zusammen, um komplexe Probleme des Gesundheitswesens kreativ zu lösen. Sie fördern den Wissenstransfer zwischen Forschung, Wirtschaft und Praxis, treiben technologische und organisatorische Innovationen voran und stärken durch Kooperationen.
+
 ### Digitalisierte Bereiche in der Arztpraxis
 
 ![Digitalisierung Ambulante Gesundheitsversorgung](assets/digitalisierung_plot.png)
