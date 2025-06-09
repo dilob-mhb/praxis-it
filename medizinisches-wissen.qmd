@@ -68,6 +68,8 @@ Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheits
 
 : Übersicht digitale Gesundheitsaufklärung 
 
+{{< video https://www.doccheck.com/de/detail/videos/5384-arzt-patienten-kommunikation-leicht-gemacht >}}
+
 ## Persönliche Wissenssammlung
 
 Die optimale Methode Wissen zu notieren, ob auf Papier oder elektronisch, bleibt ein vielschichtiges Thema mit unterschiedlichen Forschungsergebnissen. **Handschriftliche Notizen führen oft zu einer besseren kognitiven Verarbeitung**, da sie Zusammenfassungen und Umschreibungen erfordern, was ein tieferes Verständnis und eine verbesserte Erinnerungsfähigkeit fördert. [@SalameTubaNujhat2024] Im Gegensatz dazu bietet **die digitale Notizenerfassung Vorteile in Bezug auf Geschwindigkeit, Lesbarkeit, Organisation und Durchsuchbarkeit** und erlaubt die Integration von Multimedia-Elementen. Eine Metaanalyse zeigte jedoch, dass elektronische Methoden mit schlechteren Lernergebnissen korrelieren: Studierende, die digital schrieben, erzielten bis zu 25 % schlechtere Ergebnisse als diejenigen mit handschriftlichen Notizen. [@AllenLeFebvreLeFebvreBourhis2020]
