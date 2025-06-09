@@ -70,6 +70,8 @@ Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheits
 
 {{< video https://www.doccheck.com/de/detail/videos/5384-arzt-patienten-kommunikation-leicht-gemacht >}}
 
+Es gibt Nachweise, die die Wirksamkeit von [TheraKey](https://www.therakey.de/) hervorheben. Es ist ein digitales Therapiebegleitprogramm, das Patient:innen mit chronischen Erkrankungen bei der Aufklärung, dem Selbstmanagement und der Therapietreue unterstützt. Evaluationen zeigen, dass 78 % der Nutzer:innen nach dem Einsatz des Onlineportals besser mit ihrer Erkrankung umgehen können. In einer Studie mit 185 Menschen zeigte nach drei Monaten Verbesserungen bei Selbstmanagement, Wohlbefinden, Adhärenz und einer Reduktion krankheitsbezogener Belastung. 84 % der Befragten vertrauten den TheraKey-Inhalten mehr als anderen Onlinequellen. [@kulzer2022626;@red2017therakey;@red2013online]
+
 ## Persönliche Wissenssammlung
 
 Die optimale Methode Wissen zu notieren, ob auf Papier oder elektronisch, bleibt ein vielschichtiges Thema mit unterschiedlichen Forschungsergebnissen. **Handschriftliche Notizen führen oft zu einer besseren kognitiven Verarbeitung**, da sie Zusammenfassungen und Umschreibungen erfordern, was ein tieferes Verständnis und eine verbesserte Erinnerungsfähigkeit fördert. [@SalameTubaNujhat2024] Im Gegensatz dazu bietet **die digitale Notizenerfassung Vorteile in Bezug auf Geschwindigkeit, Lesbarkeit, Organisation und Durchsuchbarkeit** und erlaubt die Integration von Multimedia-Elementen. Eine Metaanalyse zeigte jedoch, dass elektronische Methoden mit schlechteren Lernergebnissen korrelieren: Studierende, die digital schrieben, erzielten bis zu 25 % schlechtere Ergebnisse als diejenigen mit handschriftlichen Notizen. [@AllenLeFebvreLeFebvreBourhis2020]
