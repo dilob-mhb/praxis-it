@@ -1,11 +1,5 @@
 # Digitalisierung der Krankenkassen
 
-## E-Rezept
-
-Die offizielle App [Das E-Rezept](https://www.das-e-rezept-fuer-deutschland.de/app) der gematik ermöglicht es Nutzern, elektronische Rezepte bequem auf ihrem Smartphone zu verwalten und einzulösen. Sie bietet Funktionen wie das Anzeigen von Rezeptinformationen, das Einlösen von Rezepten in Apotheken und das Bestellen von Medikamenten. Die App ist für alle gesetzlich Versicherten kostenfrei.
-
-Es gibt Softwarelösungen, die Ärzten zusätzliche Funktionen zur Verordnungsverwaltung bieten wie bspw. schnelle Rezepterstellung, intelligente Suchfunktionen, Medikationsplanerstellung und AMTS-Prüfungen (siehe [data4doc](https://data4doc.de/)). Einige Praxisverwaltungssysteme (PVS) haben ähnliche Zusatzfunktionen integriert, die eine nahtlose Zusammenarbeit und Datenübertragung ermöglichen. Die Software bietet außerdem aktuelle Medikamenteninformationen und ist über eine standardisierte Schnittstelle in bestehende PVS-Systeme integrierbar.
-
 ## ePA-Apps
 
 Die [ePA-Apps der Krankenkassen](https://www.gematik.de/versicherte/epa-app) in Deutschland bieten Versicherten die Möglichkeit, ihre elektronische Patientenakte (ePA) digital zu verwalten. Basierend auf der Information von der gematik gibt es folgende Punkte zu beachten:

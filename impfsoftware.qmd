@@ -76,6 +76,8 @@ Die Quellen diskutieren Reiseimpfungen im Kontext des digitalen Impfmanagement, 
 
 - **Kein spezifischer Fokus:** Es ist zu beachten, dass, obwohl Reiseimpfungen eine Funktion einiger der besprochenen Apps darstellen, der Hauptfokus der in den Quellen besprochenen Software auf der allgemeinen Impfmanagement liegt, insbesondere im Hinblick auf COVID-19.
 
+Die App ["Sicher Reisen"](https://www.auswaertiges-amt.de/de/reiseundsicherheit/app-sicher-reisen) des Auswärtigen Amts bietet umfassende Informationen für eine sichere Auslandsreise. Sie enthält aktuelle Reise- und Sicherheitshinweise, Einreisebestimmungen, medizinische Tipps sowie Kontakte zu deutschen Botschaften. Mit intuitiver Menüführung und einem frischen Design können Nutzer Länder favorisieren und erhalten Benachrichtigungen bei aktualisierten Hinweisen. Die kostenlose App ist für Android und iOS verfügbar
+
 ## Übersichtstabelle
 
 | Software                | URL                          | Hinweis                       |
