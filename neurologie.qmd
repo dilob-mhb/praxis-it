@@ -31,6 +31,8 @@ Die DMKG-App ist ein elektronischer Kopfschmerzkalender der Deutschen Migräne- 
 
 ## Forschung
 
+[BrainTrip](https://braintrip.net/) will mit NeuroAI basierend auf EEG-Hirnwellenanalyse zügige, kostengünstige und nicht-invasive neurologische Diagnostik in Arztpraxen bringen. Die KI-gestützte Technologie analysiert Gehirnwellen und erkennt Krankheiten wie Demenz und Depression.
+
 ### Teleneuropsychologie
 
 Teleneuropsychologie, die Fernanwendung neuropsychologischer Tests über Telefon oder Videokonferenz, erweitert den Zugang zu Gesundheitsdiensten für Patienten in abgelegenen Gebieten oder mit Mobilitätseinschränkungen. Die Übersichtsarbeit von „Remote Neuropsychological Assessment: Teleneuropsychology“ von Elif Yıldırım et al. untersucht die Ergebnisse von Studien zur Teleneuropsychologie und deren Grundprinzipien, einschließlich einer speziell für die Türkei entwickelten Leitlinie für teleneuropsychologische Assessments zu Hause. Studien zeigen, dass Tests zu Aufmerksamkeit, Gedächtnis, exekutiven Funktionen und Sprache, insbesondere verbal durchgeführte, zuverlässig remote angewendet werden können, wobei Faktoren wie Patientenauswahl, Testwahl und ethische Aspekte berücksichtigt werden müssen. Obwohl direkter Patientenkontakt in der klinischen Neuropsychologie essenziell bleibt, bietet die Teleneuropsychologie, wenn sie von geschulten Experten korrekt angewendet wird, eine gute Alternative zu persönlichen Evaluationsmethoden. [@yildirim2024remote]
