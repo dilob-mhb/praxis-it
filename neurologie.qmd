@@ -1,5 +1,9 @@
 # Neurologie & Psychiatrie
 
+## Digitale Präsenz
+
+[Ärzte im Netz](https://www.monks-aerzte-im-netz.de/fachrichtungen/fuer-neuro-psychiatrische-praxen/) ermöglichte eine digitale Präsenz für neurologische und psychiatrisch-psychotherapeutische Praxen. Mit Angeboten wie PraxisApps „Mein Psychiater“ und „Mein Neurologe“, zertifizierter Videosprechstunde und Online-Terminverwaltung. Die Lösungen sind in Zusammenarbeit mit Berufsverbänden der Neurologie und Psychiatrie entwickelt. ([neurologen-und-psychiater-im-netz.org](https://www.neurologen-und-psychiater-im-netz.org/))
+
 ## Digitales Kopfschmerztagebuch
 
 Die DMKG-App ist ein elektronischer Kopfschmerzkalender der Deutschen Migräne- und Kopfschmerzgesellschaft e.V. Nutzende können sich an Einträge erinnern lassen und eine übersichtliche Zusammenfassung in der App ansehen oder herunterladen. Sie unterstützt zudem die Kopfschmerzforschung in Deutschland als Teil des „Kopfschmerzregister“-Projekts, indem pseudonymisierte Daten für wissenschaftliche Auswertungen genutzt werden, um die Kopfschmerzversorgung langfristig zu verbessern. Die App ist kostenlos, werbefrei und sowohl für Android als auch iOS verfügbar. Weitere Infos gibt es unter [www.kopfschmerzregister.de](https://www.kopfschmerzregister.de).
