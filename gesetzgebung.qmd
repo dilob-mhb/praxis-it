@@ -59,3 +59,7 @@ Der Artikel „National eHealth strategies: a comparative study of nine OECD hea
 | **USA (Veterans Affairs)** | Optimierung der Versorgung für Veteranen durch digitale Tools und Datenzugänglichkeit. | VA’s Electronic Health Record Modernization (EHRM) mit Fokus auf eine einheitliche EHR-Plattform.       | Zentralisierte Kontrolle durch das VA Office of Information and Technology.                 |
 
 : Übersicht nationale eHealth Strategien
+
+## Kostensenkung durch Digitalisierung
+
+The study "Cost Minimization Analysis of Digital-first Healthcare Pathways in Primary Care" conducted a retrospective, registry-based analysis in Finland’s Harjun Terveys to compare costs of digital-first versus traditional primary care for acute conditions. Analyzing 637,923 encounters, 64,969 acute episodes were propensity score matched, revealing that digital pathways reduced mean episode costs by 22.7% (€170.74 vs. €220.91, P<.001) compared to traditional care. Cost savings ranged from 10.3% for respiratory infections to 52.5% for gastroenteritis, driven by lower encounter costs, reduced laboratory tests, and fewer imaging studies. Digital care generally required fewer follow-up visits, except for respiratory infections, which saw a slight increase. Sensitivity analyses confirmed the robustness of these findings, supporting digital-first models as a cost-effective approach for managing acute primary care conditions without compromising care continuity. [@dahlberg2025cost]
