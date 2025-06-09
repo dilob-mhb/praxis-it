@@ -44,7 +44,7 @@ book:
       - videosprechstunde.qmd
       - telemedizin.qmd
       - wartezimmer.qmd
-    - part: "med. Fähigkeiten"
+    - part: "Klinische Kompetenzen"
       chapters:
       - anamneseerhebung.qmd
       - symptomchecker.qmd
@@ -62,7 +62,7 @@ book:
       - materialwirtschaft.qmd
       - datenschutz.qmd
       - it-sicherheit.qmd
-    - part: "Fachdisziplinen"
+    - part: "Medizinische Fachgebiete"
       chapters:
       - augenheilkunde.qmd
       - dermatologie.qmd
@@ -79,7 +79,7 @@ book:
       - onkologie.qmd
       - hno.qmd
       - allergologie.qmd
-    - part: "andere Sektoren"
+    - part: "Gesundheitswesen"
       chapters:
       - zahnarzt.qmd
       - pflege.qmd

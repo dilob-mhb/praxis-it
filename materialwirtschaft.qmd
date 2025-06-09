@@ -1,5 +1,7 @@
 # Materialwirtschaft
 
+## Bestellsysteme
+
 | Produkt                    | URL                                                                            |
 |----------------------------|--------------------------------------------------------------------------------|
 | PUSH® Order Inhouse    | [hartmann.info/](https://www.hartmann.info/de-de/loesungen/l/de/kamp/push) |
@@ -12,3 +14,13 @@
 : Beispiele digitale Materialwirtschaft
 
 Die Praxisdienst-Apps, ["easyOrder"](https://www.praxisdienst.de/praxisdienst+apps/), zeigt wie digitale Hilfsmittel in der Materialwirtschaft in Arztpraxen nützlich sein können. Die easyOrder App ermöglicht es, vergangene Bestellungen als Basis für neue zu nutzen, Produktsuchen durchzuführen und durch Bestandsalarme rechtzeitig Nachschub zu ordern. Der Bestell-Assistent erleichtert das Scannen von EAN-Codes per Smartphone oder Zebra TC22 Scanner, um Artikel direkt in den digitalen Warenkorb zu übernehmen.
+
+## Kühlmonitoring
+
+Die DIN 58345 und DIN 13277 sind Normen, die Anforderungen an Medikamentenkühlschränke in Arztpraxen und anderen medizinischen Einrichtungen definieren. Die DIN 58345 legt fest, dass Kühlschränke für Arzneimittel eine konstante Temperatur zwischen +2 °C und +8 °C halten, mit optischen und akustischen Alarmen bei Temperaturabweichungen oder Stromausfall sowie abschließbaren Türen zum Schutz vor unbefugtem Zugriff ausgestattet sein müssen. Die im Mai 2022 eingeführte DIN 13277 löst die DIN 58345 ab und erweitert den Anwendungsbereich auf Labore und wissenschaftliche Einrichtungen, indem sie flexiblere Umgebungsparameter wie Luftfeuchtigkeit und CO2-Konzentration ermöglicht. Beide Normen gewährleisten eine sichere Lagerung temperaturempfindlicher Medikamente und Impfstoffe in Arztpraxen.
+
+| Produkt                    | URL                                                                            |
+|----------------------------|--------------------------------------------------------------------------------|
+| testo Saveris 1    | [testo.com](https://www.testo.com/de-DE/solutions/application-health-care) |
+
+: Beispiele Digitales Kühlmonitoring
