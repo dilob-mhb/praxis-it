@@ -215,3 +215,7 @@ Viele Krankenhäuser in Deutschland sind nicht gegen Cyberangriffe versichert, e
 | HDI         | [hdi.de](https://www.hdi.de/versicherungen/cyber-versicherung/cyber-versicherung-geschaeftskunden/) |
 
 : Beispiele Cyberversicherung
+
+## Internet of Things (IoT)
+
+Die Studie „How secure are your health devices—stopping wearables becoming a personal and national security risk?“ untersucht die Cybersicherheitsrisiken von vernetzten medizinischen Geräten (IoMT), insbesondere im Kontext globaler Lieferketten. Sie beleuchtet, wie die zunehmende Verbreitung von Wearables und Remote-Patientenüberwachung die Abhängigkeit von diesen Geräten und ihren Daten erhöht, während Schwachstellen in der Lieferkette, wie Backdoors oder Manipulationen, ernsthafte Risiken für Patienten und Gesundheitssysteme darstellen. Die Autoren diskutieren reale Vorfälle, wie die Schwachstelle CVE-2024-12248 in einem Patientenmonitor, und schlagen Maßnahmen wie Root-of-Trust-Technologien, Zero-Trust-Modelle und strengere Regulierungen (z. B. EU Cyber Resilience Act, US FD&C Act) vor, um die Sicherheit von IoMT-Geräten zu gewährleisten und gezielte Angriffe zu verhindern. [@ostermann2025secure]
