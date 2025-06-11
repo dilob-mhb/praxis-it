@@ -159,6 +159,8 @@ Private Forschungsorganisationen:
 * [inav-berlin.de](https://inav-berlin.de/leistungen/ditital-health/)
 * [agenon.de](https://www.agenon.de/leistungen/digitalisierung/)
 
+Die Studie „A systematic review of clinicians’ acceptance and use of clinical decision support systems over time“ von Nicki Newton et al., veröffentlicht in npj Digital Medicine (2025), untersucht die Faktoren, die die Akzeptanz und Nutzung von klinischen Entscheidungsunterstützungssystemen (CDS) in Krankenhäusern über die Zeit beeinflussen. Die systematische Überprüfung analysierte 67 Studien aus den Jahren 2007 bis 2024 und kategorisierte die Faktoren nach dem Zeitpunkt der Datenerhebung nach der CDS-Implementierung. Zu den durchgehend relevanten Faktoren zählen die Nützlichkeit des Systems und dessen Integration in bestehende Arbeitsabläufe. Wahrgenommene Ergebnisse waren im ersten Jahr besonders prominent, während individuelle Faktoren nach sechs Monaten an Bedeutung gewannen. Nach fünf Jahren wurden Strategien zur Umgehung von Systembeschränkungen berichtet. Die Ergebnisse bieten Leitlinien für die Entwicklung, Implementierung und langfristige Unterstützung von CDS-Systemen. [@newton2025systematic]
+
 ## Institutionalisierung
 
 In Deutschland haben sich mehrere Institute gebildet, die sich der digitalen Medizin widmen:
