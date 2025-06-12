@@ -17,6 +17,12 @@ KIM, abgekürzt für "Kommunikation im Medizinwesen", ist ein zentrales Element 
 
 : Übersicht Anbieter KIM Dienst
 
+### eArztbrief
+
+Der kv.connect-Arztbrief war eine frühere, weniger standardisierte Lösung, mit der Ärzte elektronische Arztbriefe über eine KV-Plattform versandten, ohne Anbindung an die Telematikinfrastruktur (TI). Das TI-eArztbrief-Modul ist hingegen ein System innerhalb der TI, das sichere, strukturierte und interoperable Arztbriefe über KIM ermöglicht. Es unterstützt einheitliche Formate wie FHIR und die Integration in die elektronische Patientenakte (ePA). kv.connect gilt als Übergangslösung, während der TI-eArztbrief die Zukunft der Digitalisierung im Gesundheitswesen darstellt.
+
+* [kv.digital/medizinische-kommunikation/kv-connect](https://www.kv.digital/medizinische-kommunikation/kv-connect.html)
+
 ### KIM Mail
 
 KIM-Mail nutzt eine spezialisierte Implementierung, die auf dem [KOMLE-Standard (KOMmunikationsLEitungsstandard)](https://gemspec.gematik.de/docs/gemSpec/gemSpec_CM_KOMLE/latest/) basiert. Dieser Standard ermöglicht die sichere Kommunikation über die Telematikinfrastruktur (TI) und verwendet dafür spezielle Protokolle und Verfahren, um die notwendige Sicherheit und Integrität der medizinischen Daten zu gewährleisten. Der KOMLE-Standard (KOMmunikationsLEitungsstandard) unterscheidet sich von herkömmlichen E-Mail-Protokollen wie SMTP, POP3 und IMAP. Sicherheit wird durch den Einsatz von Public Key Infrastrukturen (PKI) und TLS (Transport Layer Security) gewährleistet. KOMLE-Clientmodule (KOM-LE) sind darauf ausgelegt, nahtlos in die TI-Systeme zu integrieren und bieten spezifische Schnittstellen für die Kommunikation mit anderen TI-Diensten.
