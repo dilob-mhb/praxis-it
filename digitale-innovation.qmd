@@ -75,9 +75,15 @@ Digitale Innovationen können über direkte und indirekte Zugangswege in den ers
 
 : Übersicht Initiativen
 
+### Digimanagerin
+
 {{< video https://www.youtube.com/watch?v=dGgFFKb9tsE >}}
 
 Die Fortbildung „Digi-ManagerIn“ der KVWL qualifiziert nichtärztliches Praxispersonal in Westfalen-Lippe zu Digitalisierungsbeauftragten. Sie umfasst 205 Stunden und wird in Kooperation mit der Ärztekammer Westfalen-Lippe und der Universität Witten/Herdecke durchgeführt. Theoretische Module behandeln Datenschutz, Telematikinfrastruktur und digitale Kommunikation. Praktische Anwendungen finden in der digitalen Musterpraxis „dipraxis“ statt. Teilnehmende erstellen eine praxisindividuelle Digitalisierungsstrategie mit dem KVWL-Reifegradmodell. Praxen erhalten 5.000 Euro Aufwandsentschädigung für die Freistellung. Das Programm startete im April 2023 und wird ab 2025 zweimal jährlich angeboten. In Baden-Württemberg bietet die Landesärztekammer mit der MAK und dem Bosch Digital Innovation Hub ein Blended-Learning-Seminar „Digi-Managerin (Arztpraxis)“ an. Es richtet sich an medizinisches Fachpersonal, umfasst 40 Unterrichtseinheiten über fünf Tage in Stuttgart und kostet 298 Euro. Weitere Informationen gibt es unter www.aerztekammer-bw.de. Andere Bundesländer bieten derzeit keine vergleichbare Fortbildung mit diesem Titel an. Ähnliche Weiterbildungen zur Digitalisierung existieren jedoch deutschlandweit. [kv-innovationsscout.de/projekt/digi-managerin](https://kv-innovationsscout.de/projekt/digi-managerin) [aerztekammer-bw.de/digi-managerin](https://www.aerztekammer-bw.de/digi-managerin-3e6cf1a855ca6d7d) [kvwl.de/themen-a-z/digi-managerin](https://www.kvwl.de/themen-a-z/digi-managerin) [kvbawue.de/kvbw/aktuelles/news-artikel/neues-mak-seminar-digi-managerin](https://www.kvbawue.de/kvbw/aktuelles/news-artikel/neues-mak-seminar-digi-managerin)
+
+### Referenzpraxis
+
+Die Kassenärztliche Vereinigung Westfalen-Lippe (KVWL) präsentiert mit der [„dipraxis“](https://www.kvwl.de/dipraxis) eine Ausstellung zur Digitalisierung im Gesundheitswesen. In dieser Beispielpraxis können Vertragsärzte und -psychotherapeuten digitale Tools wie Online-Terminbuchungen, digitales Patientenmanagement und Telematikinfrastruktur-Anwendungen direkt testen und Fortbildungspunkte sammeln. Die KVWL bietet neutrale, herstellerunabhängige Beratung, zeigt auf Touchscreens Datenanalysen und teilt Erfahrungsberichte von Kollegen. Ähnlich unterstützt die KV Berlin mit der [„DEMO E-Health Showpraxis“](https://www.kvberlin.de/demo) Praxisteams durch interaktive Einblicke in digitale Lösungen, die Praxisabläufe optimieren, die Zusammenarbeit fördern und die Patientenversorgung verbessern. Termine für beide Showrooms sind online buchbar. Die KV Brandenburg fördert [digitale Referenzpraxen](https://www.kvbb.de/praxis/aktuelles/news-detail/meldung-default-e6619f01b1152ce8fb6089ffca47fb75) mit monatlich 1.000 Euro, um praxistaugliche Innovationen zu testen.
 
 ## Plattformen
 
