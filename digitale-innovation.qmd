@@ -75,6 +75,8 @@ Digitale Innovationen können über direkte und indirekte Zugangswege in den ers
 
 : Übersicht Initiativen
 
+{{< video https://www.youtube.com/watch?v=dGgFFKb9tsE >}}
+
 ## Plattformen
 
 [Medxsmart.de](https://medxsmart.de/) ist eine Vergleichsplattform, die speziell für digitale Tools in Arztpraxen entwickelt wurde. Sie bietet Ärztinnen und Ärzten die Möglichkeit, verschiedene Lösungen zu durchsuchen und zu vergleichen, um die Digitalisierung ihrer Praxis zu optimieren. 
