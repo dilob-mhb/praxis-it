@@ -85,6 +85,8 @@ Die optimale Methode Wissen zu notieren, ob auf Papier oder elektronisch, bleibt
 
 : Beispiele digitale Notizprogramme
 
+Die Patienten-Universität an der Medizinischen Hochschule Hannover fördert die Gesundheitskompetenz von Patient:innen und Interessierten durch kostenfreie Bildungsangebote. Sie bietet Expertenvorträge (vor Ort und im Livestream), Selbstmanagement-Kurse wie INSEA, digitale Gesundheitskurse (KundiG) und Gesundheitstipps. Themen reichen von modernen Medizintechnologien bis zu erblichen Erkrankungen. Organisiert wird das Programm unter der Leitung von Prof. Dr. Marie-Luise Dierks und Dr. Gabriele Seidel, in Kooperation mit Partnern wie BARMER und Selbsthilfegruppen. [patienten-universitaet.de](https://www.patienten-universitaet.de/)
+
 ## digitale Verwaltung der Fortbildungspunkte
 
 Die Website https://www.fobiapp.de/ ist die offizielle Plattform der FobiApp, einer Fortbildungsanwendung, die von der Landesärztekammer Hessen entwickelt wurde, um Ärztinnen und Ärzten in Deutschland die Verwaltung ihrer Fortbildungspunkte und -veranstaltungen zu erleichtern. Sie bietet Informationen zur Nutzung der App, die ab 2025 durch eine webbasierte Lösungen ersetzt wird.
