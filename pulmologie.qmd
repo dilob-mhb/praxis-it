@@ -24,6 +24,8 @@ Quelle: [atemwegsliga.de/pneumo-digital-apps](https://www.atemwegsliga.de/pneumo
 
 Die Webseite [rauchfrei-info.de](https://rauchfrei-info.de/) ist ein unabhängiges Informationsportal der Bundeszentrale für gesundheitliche Aufklärung (BZgA), das Rauchenden kostenfrei und seriös beim Ausstieg aus der Nikotinabhängigkeit unterstützt. Sie bietet umfassende Ressourcen wie das „rauchfrei Ausstiegsprogramm“, bei dem Nutzer über 21 Tage mit täglichen Tipps, E-Mails und einer Erfolgskurve begleitet werden, sowie ein Forum und Chat für den Austausch mit Gleichgesinnten und Experten. Zusätzlich gibt es praktische Tools wie einen Ersparnisrechner, Tests zur Tabakabhängigkeit und Motivation, sowie Informationen zu Gesundheitsrisiken und Unterstützungsangeboten wie der kostenlosen Telefonberatung (0800 8313131), um den Weg in ein rauchfreies Leben zu erleichtern.
 
+## Kinderpneumologie
+
 Die PARI Kinder App, vorgestellt auf https://www.pari.com/de/kinderecke/, ist eine kostenlose Anwendung für Kinder ab etwa vier Jahren, die spielerisch das Thema Inhalation und Atemwege vermittelt.
 
 ## Lungenfunktionsdiagnostik
