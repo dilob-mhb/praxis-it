@@ -63,6 +63,10 @@ Die Studie „Why Is Primary Care Different? Considerations for Machine Learning
 
 Der Artikel „Application of Artificial Intelligence in Community-Based Primary Health Care: Systematic Scoping Review and Critical Appraisal“ untersucht die Anwendung von Künstlicher Intelligenz (KI) in der Primärversorgung. Die systematische Übersichtsarbeit, veröffentlicht 2021, analysiert 90 Studien, die KI-Systeme in diesem Bereich getestet oder implementiert haben, und identifiziert häufig verwendete Methoden wie maschinelles Lernen (45 %), natürliche Sprachverarbeitung (27 %) und Expertensysteme (19 %). Die Ergebnisse zeigen Vorteile wie verbesserte Diagnose und Krankheitsmanagement, weisen jedoch auch auf Herausforderungen wie Datenvariabilität, ethische Bedenken und hohe Verzerrungsrisiken hin. Die Autoren betonen die Notwendigkeit weiterer Forschung, um die effektive Entwicklung und Implementierung von KI in der Primärversorgung zu fördern, insbesondere unter Berücksichtigung von Geschlecht, Alter und ethnischer Diversität. [@abbasgholizadeh2021application]
 
+### Bürokratieerleichterung
+
+Die Studie „Machine learning in general practice: scoping review of administrative task support and automation“ untersucht den Einsatz von maschinellem Lernen zur Unterstützung und Automatisierung administrativer Aufgaben in der Allgemeinmedizin. Die Autoren analysierten 12 Studien, die überwiegend Terminplanungsaufgaben mit überwachten Lernmethoden behandeln, jedoch mit geringer Beteiligung von Allgemeinmedizinern. Die Forschung zeigt ein hohes Potenzial für solche Methoden, ist aber durch fehlende open-source-Daten und eine Priorisierung diagnostischer Aufgaben begrenzt. Zukünftige Studien sollten open-source-Daten nutzen und die Beteiligung von Ärzten klar dokumentieren. [@sorensen2023machine]
+
 ### Arbeitsgruppen
 
 * Das [Schliep Lab](https://schlieplab.org/] an der Brandenburgischen Technischen Universität erforscht mit KI neue Medikamente, untersucht Genome und entwickelt Algorithmen für Sequenzierungsdaten.
