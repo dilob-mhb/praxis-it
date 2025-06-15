@@ -1,5 +1,9 @@
-# Forschungsdaten
+# Forschung
 
 ## Datenerfassung im Ambulanten Bereich
 
 Die Forschung durch Datensammlung im ambulanten Bereich wird durch Wearables und mobile Technologien verändert. Geräte wie Fitness-Tracker oder Smartwatches ermöglichen die kontinuierliche Erfassung von Gesundheitsdaten wie Herzfrequenz, Schlafqualität oder Aktivitätsniveaus in Echtzeit. Plattformen wie die [REDCap Mobile App](https://projectredcap.org/software/mobile-app/) unterstützen Forscher bei der Datenerfassung und -verwaltung direkt von Patienten, während [GoWrap](https://rti.gowrap.org/) die Integration und Analyse von Daten aus Wearables erleichtert.
+
+## Institutionentheorie
+
+Die Studie „Changing the conversation on evaluating digital transformation in healthcare: Insights from an institutional analysis“ untersucht, wie schwierig es ist, digitale Veränderungen im Gesundheitswesen, besonders in der ambulanten Versorgung, zu bewerten. Sie nutzt die Institutionentheorie, um zu zeigen, dass unterschiedliche Sichtweisen – von Leistungserbringern, Verwaltung und Forschenden – die Bewertung kompliziert machen. In der ambulanten Versorgung führen diese Unterschiede zu Konflikten, weil verschiedene Ziele und Begriffe verwendet werden. Die Autoren schlagen vor, dass Leistungserbringer, Verwaltung und Forschende besser zusammenarbeiten und eine gemeinsame Sprache nutzen, um die Bewertung zu verbessern. Sie führen den Begriff „Logik-Bootstrapping“ ein, der beschreibt, wie Beteiligte ihre Ziele und Methoden Schritt für Schritt anpassen, um die gemeinsam Probleme zu lösen. [@burton2020changing]
