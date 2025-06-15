@@ -107,6 +107,8 @@ Das [KV-Appradar](https://www.kvappradar.de/) ist ein Informationsportal des Zen
 
 Open-Source-Software ist in ambulanten Arztpraxen bisher wenig verbreitet, während sie in anderen Bereichen des Gesundheitswesens, insbesondere in Gesundheitsämtern, zunehmend an Bedeutung gewinnt. In Arztpraxen dominieren proprietäre Praxisverwaltungssysteme, da diese oft spezialisierte Funktionen für Abrechnung, Dokumentation und Telematikinfrastruktur bieten. Open-Source-Lösungen wie **OpenEMR** oder **Thera-Pi** existieren zwar, werden aber vergleichsweise selten genutzt, da viele Praxen auf zertifizierte, kommerzielle Software angewiesen sind und Wechselbarrieren hoch sind. Im Gegensatz dazu haben Gesundheitsämter in den letzten Jahren verstärkt auf Open Source gesetzt. Ein prominentes Beispiel ist **SORMAS**, das in vielen deutschen Gesundheitsämtern zur digitalen Kontaktnachverfolgung während der COVID-19-Pandemie eingesetzt wurde. Auch das Open-Source-Projekt **Agora** zeigt, dass öffentliche Stellen zunehmend auf offene, transparente Softwarelösungen setzen. 
 
+Der [medatixx-HealthHub](https://medatixx.de/healthhub) ist ein digitales Ökosystem, das Praxen und Gesundheitsdienstleister durch moderne FHIR-Standards nahtlos vernetzt. Es ermöglicht Softwareanbietern, ihre Lösungen sicher und standardisiert in die medatixx-Praxissoftware zu integrieren, während Praxen aus einem Marktplatz digitaler Anwendungen wählen können, um Prozesse effizienter zu gestalten. Die Plattform fördert Zusammenarbeit, verbessert Kommunikation und unterstützt die Digitalisierung im Gesundheitswesen, wobei Sicherheit durch einen Akkreditierungs- und Testprozess gewährleistet wird.
+
 ## Geschäftsmodelle
 
 Softwarehersteller im Bereich der ambulanten Medizin nutzen unterschiedliche Geschäftsmodelle. Sie unterscheiden sich in Kostenstrukturen und Innovationskraft. Es gibt Anbieter mit Lizenzmodell, bei dem Ärzte Anschaffungskosten zahlen, gefolgt von jährlichen Gebühren. Andere bieten Abonnements (SaaS), bei denen monatliche Gebühren für Cloud-basierte Lösungen anfallen – flexibel, aber mit fortlaufenden Kosten und Notwendigkeit eines von Internetzugang; die Innovationskraft ist hoch, da regelmäßige Updates den Wettbewerb antreiben. Wieder andere verkaufen Software als einmaligen Kauf mit optionalen Supportverträgen. Das Genossenschaftsmodell der [Duria eG](https://www.duria.de/) hebt sich davon ab: ÄrztInnen zahlen einmalig einen Genossenschaftsanteil und einen jährlichen Beitrag.
@@ -118,10 +120,6 @@ Gesundheits-Apps bilden die Mehrheit der verfügbaren Anwendungen und umfassen u
 Der [DiGA-Analyzer von fbeta](https://fbeta.de/diga-analyzer/) ist ein Analysetool, das Daten des DiGA-Verzeichnisses des BfArM strukturiert, visuell aufbereitet und im Verlauf einordnet. Er bietet interaktive Charts und Einblicke zu Markttrends, Evidenznarrativen und der Verzeichnis-Historie, um Marktlücken zu identifizieren und strategische Entscheidungen im Bereich Digitaler Gesundheitsanwendungen (DiGA) zu unterstützen. Die quartalsweise aktualisierten Daten basieren auf dem Bundesanzeiger und ermöglichen nutzerdefinierte Analysen für Markteinblicke.
 
 Die Studie von Shaheen E. Lakhan, veröffentlicht im Mai 2025 in Cureus, stellt den Composite Digital Therapeutic Index (cDTI) vor, ein Rahmenwerk zur Bewertung von verschreibungspflichtigen digitalen Therapeutika (PDTs). Der cDTI kombiniert vier Domänen – Wirksamkeit, Engagement, Evidenzqualität und Sicherheit – zu einem einzigen Score, um von der FDA zugelassene PDTs zu vergleichen. Der cDTI bietet ein transparentes, reproduzierbares Werkzeug für Stakeholder, mit Plänen zur Erweiterung um Real-World-Daten und weitere Domänen wie Gerechtigkeit und Kosteneffizienz. [@lakhan2025composite]
-
-## Evaluierung digitaler Gesundheits-Technologien
-
-Das "Evidence Standards Framework" (ESF) des National Institute for Health and Care Excellence (NICE) für digitale Gesundheits- und Pflege-Technologien (DHTs) wurde 2018 entwickelt stellt eine standardisierte Vorgehensweise für die klinische und wirtschaftliche Bewertung von DHTs durch Gesundheitssysteme bereit. Der Rahmen wurde mit einem agilen und iterativen Ansatz entwickelt, der eine Literaturrecherche, Expertenkonsultationen und Stakeholder-Feedback beinhaltete. [@Unsworth_2021]
 
 ## Gründungszentren
 
@@ -157,19 +155,6 @@ Beratungsunternehmen unterstützen bei der digitalen Transformation. Der Beratun
 ## Praxisgründung Simulator
 
 Praxisraum ist ein innovatives Planspiel, das angehende Ärztinnen und Ärzte spielerisch auf den Aufbau und die Organisation einer Vertragsarztpraxis vorbereitet. Unter [www.praxisraum.de](https://www.praxisraum.de/) können Nutzer ein Serious Game erleben, das durch Gamification-Elemente wie Avatar-Auswahl, praxisnahe Entscheidungen und Herausforderungen motiviert. Ziel ist es, Wissenslücken zu schließen und Berührungsängste abzubauen, indem realitätsnahe Daten in eine interaktive, motivierende Spielumgebung eingebettet werden.
-
-## Implementierungsforschung
-
-Implementierungsforschung untersucht, wie evidenzbasierte Praktiken, Interventionen oder Technologien effektiv in reale Systeme integriert werden können. Die Plattform [Implementome](https://gdhub.unige.ch/implementome/main), entwickelt vom Geneva Digital Health Hub (gdhub), ist eine Wissensdatenbank für digitale Gesundheit. Sie nutzt das Konzept der „Implementomics“, um multidimensionale Daten zu Projekten, Akteuren, Publikationen und Erfahrungen zu sammeln, zu organisieren und bereitzustellen. Ziel ist es, die Zusammenarbeit globaler Akteure zu fördern, evidenzbasierte Entscheidungen und die digitale Gesundheitstransformation zu unterstützen.
-
-Das [ICER-PHTI Assessment Framework for Digital Health Technologies](https://phti.org/how-we-assess/), entwickelt in Zusammenarbeit mit dem Institute for Clinical and Economic Review (ICER), bewertet digitale Gesundheitslösungen anhand von klinischer Wirksamkeit und wirtschaftlichem Einfluss. Es basiert auf den Prioritäten von Arbeitgebern, Krankenkassen und Gesundheitssystemen und unterstützt diese bei fundierten Entscheidungen über den Einsatz digitaler Technologien. Das Framework analysiert den Technologiekontext, die klinischen Vorteile, die Nutzererfahrung, die Sicherheit und Wirksamkeit (in drei Risikostufen: Selbstmanagement, diagnostische/prognostische und therapeutische Technologien), die Gesundheitsgerechtigkeit (Zugänglichkeit und Verteilung) sowie den wirtschaftlichen Einfluss durch Budgetanalysen. Es bietet Entwicklern und Investoren Leitlinien zur Evidenzgenerierung und fördert die Einführung hochwertiger, kosteneffizienter Technologien.
-
-Private Forschungsorganisationen:
-
-* [inav-berlin.de](https://inav-berlin.de/leistungen/ditital-health/)
-* [agenon.de](https://www.agenon.de/leistungen/digitalisierung/)
-
-Die Studie „A systematic review of clinicians’ acceptance and use of clinical decision support systems over time“ von Nicki Newton et al., veröffentlicht in npj Digital Medicine (2025), untersucht die Faktoren, die die Akzeptanz und Nutzung von klinischen Entscheidungsunterstützungssystemen (CDS) in Krankenhäusern über die Zeit beeinflussen. Die systematische Überprüfung analysierte 67 Studien aus den Jahren 2007 bis 2024 und kategorisierte die Faktoren nach dem Zeitpunkt der Datenerhebung nach der CDS-Implementierung. Zu den durchgehend relevanten Faktoren zählen die Nützlichkeit des Systems und dessen Integration in bestehende Arbeitsabläufe. Wahrgenommene Ergebnisse waren im ersten Jahr besonders prominent, während individuelle Faktoren nach sechs Monaten an Bedeutung gewannen. Nach fünf Jahren wurden Strategien zur Umgehung von Systembeschränkungen berichtet. Die Ergebnisse bieten Leitlinien für die Entwicklung, Implementierung und langfristige Unterstützung von CDS-Systemen. [@newton2025systematic]
 
 ## Institutionalisierung
 
