@@ -77,6 +77,14 @@ Der "CyberPraxMed"-Bericht des BSI [@CyberPraxMed2023] untersucht die IT-Sicherh
 - **§ 2 Absatz 9 BSI-Gesetz**: 
   - Klärt, dass Arztpraxen **nicht** zu kritischen Infrastrukturen zählen.
 
+- **§ 390 SGB V IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung**
+
+- **§ 391 SGB V IT-Sicherheit in Krankenhäusern**
+
+- **§ 392 SGB V IT-Sicherheit der gesetzlichen Krankenkassen**
+
+- **§ 393 SGB V Cloud-Einsatz im Gesundheitswesen; Verordnungsermächtigung**
+
 **Weitere gesetzliche Rahmenbedingungen:**
 
 - **BSI-Gesetz**: 
