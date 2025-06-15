@@ -77,6 +77,14 @@ Der "CyberPraxMed"-Bericht des BSI [@CyberPraxMed2023] untersucht die IT-Sicherh
 - **§ 2 Absatz 9 BSI-Gesetz**: 
   - Klärt, dass Arztpraxen **nicht** zu kritischen Infrastrukturen zählen.
 
+- **§ 390 SGB V IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung**
+
+- **§ 391 SGB V IT-Sicherheit in Krankenhäusern**
+
+- **§ 392 SGB V IT-Sicherheit der gesetzlichen Krankenkassen**
+
+- **§ 393 SGB V Cloud-Einsatz im Gesundheitswesen; Verordnungsermächtigung**
+
 **Weitere gesetzliche Rahmenbedingungen:**
 
 - **BSI-Gesetz**: 
@@ -215,3 +223,23 @@ Viele Krankenhäuser in Deutschland sind nicht gegen Cyberangriffe versichert, e
 | HDI         | [hdi.de](https://www.hdi.de/versicherungen/cyber-versicherung/cyber-versicherung-geschaeftskunden/) |
 
 : Beispiele Cyberversicherung
+
+## Internet of Things (IoT)
+
+Die Studie „How secure are your health devices—stopping wearables becoming a personal and national security risk?“ untersucht die Cybersicherheitsrisiken von vernetzten medizinischen Geräten (IoMT), insbesondere im Kontext globaler Lieferketten. Sie beleuchtet, wie die zunehmende Verbreitung von Wearables und Remote-Patientenüberwachung die Abhängigkeit von diesen Geräten und ihren Daten erhöht, während Schwachstellen in der Lieferkette, wie Backdoors oder Manipulationen, ernsthafte Risiken für Patienten und Gesundheitssysteme darstellen. Die Autoren diskutieren reale Vorfälle, wie die Schwachstelle CVE-2024-12248 in einem Patientenmonitor, und schlagen Maßnahmen wie Root-of-Trust-Technologien, Zero-Trust-Modelle und strengere Regulierungen (z. B. EU Cyber Resilience Act, US FD&C Act) vor, um die Sicherheit von IoMT-Geräten zu gewährleisten und gezielte Angriffe zu verhindern. [@ostermann2025secure]
+
+## Umstellung RSA zu ECC
+
+Die Telematikinfrastruktur (TI) wird bis Ende 2025 von RSA2048 auf das sicherere und effizientere ECC256-Verschlüsselungsverfahren umgestellt, wie vom BSI und der Bundesnetzagentur vorgegeben. Dies erfordert den Austausch von etwa 35.000 Konnektoren, zehntausenden Heilberufs- und Praxisausweisen sowie Gerätekarten, die nicht ECC-fähig sind. Die KBV kritisiert den engen Zeitrahmen und fordert eine Fristverlängerung, da Praxen ansonsten TI-Anwendungen wie eRezept oder eAU nicht mehr nutzen könnten. Die gematik hält am Zeitplan fest, erlaubt aber Ausnahmen für bestimmte Gerätekarten. Praxen werden von Anbietern proaktiv über notwendige Austausche informiert. [kbv.de/html/1150_74961.php](https://www.kbv.de/html/1150_74961.php)
+
+RSA (Rivest-Shamir-Adleman) und ECC (Elliptic Curve Cryptography) sind Verschlüsselungsverfahren, die sensible Daten in der Telematikinfrastruktur schützen. Bei RSA wird ein Schlüsselpaar aus öffentlichem und privatem Schlüssel erzeugt: Der öffentliche Schlüssel verschlüsselt die Daten, der private Schlüssel entschlüsselt sie. Es nutzt mathematische Operationen mit großen Primzahlen, was sicher, aber rechenintensiv ist. ECC basiert auf elliptischen Kurven und erreicht mit kürzeren Schlüsseln (z. B. 256 Bit) ein höheres Sicherheitsniveau bei geringerem Rechenaufwand. Beide Verfahren sichern z. B. elektronische Signaturen oder Datenübertragungen.
+
+## KRITIS & NIS2
+
+Im Gesundheitssektor gewährleisten KRITIS-Betreiber und Einrichtungen kritische Dienstleistungen wie stationäre medizinische Versorgung, Versorgung mit lebenserhaltenden Medizinprodukten, Arzneimitteln, Blut/Plasma sowie Laboratoriumsdiagnostik, die durch NIS2- und KRITIS-Cybersecurity-Pflichten geschützt werden müssen. Mit der NIS2-Umsetzung und dem KRITIS-Dachgesetz, die voraussichtlich 2025 in Kraft treten, erweitert sich die Regulierung, indem neue Einrichtungen, basierend auf Umsatz- und Mitarbeiterzahlen, sowie Betreiber kritischer Anlagen einbezogen werden. [openkritis.de](https://www.openkritis.de/)
+
+Die NIS-2-Richtlinie, seit dem 17. Oktober 2024 in nationales Recht umgesetzt, verschärft die Cybersecurity-Anforderungen für Unternehmen mit mindestens 50 Mitarbeitenden oder einem Jahresumsatz von über zehn Millionen Euro. Betroffene Unternehmen müssen ein umfassendes Risikomanagement etablieren, um sensible Patientendaten und kritische Systeme vor Cyberangriffen zu schützen. Dazu gehören Maßnahmen wie Datensicherung, Firewalls, Frühwarnsysteme, Need-to-Know-Zugriffsregelungen, Notfallpläne und regelmäßige Fortbildungen. Sicherheitsvorfälle müssen innerhalb von 24 Stunden an das BSI gemeldet werden. Die Geschäftsleitung ist verpflichtet, sich fortzubilden und haftet bei Verstößen. Ein strukturiertes Risikomanagement, einschließlich interner Regelungen, Vorfallsbewältigung und Kryptografie, ist essenziell, um Bedrohungen frühzeitig zu erkennen und zu minimieren.
+
+## Datenverlust
+
+Die Studie „Psychiatric electronic health records in the era of data breaches – What are the ramifications for patients, psychiatrists and healthcare systems?“ untersucht die Risiken von Datenlecks in elektronischen Patientenakten (EPA) im psychiatrischen Bereich. Sie analysiert Vorfälle wie die Datenlecks bei Medibank und Australian Clinical Labs, die zeigen, wie sensible Informationen, insbesondere zu psychischen Erkrankungen und Substanzkonsum, für Erpressung, Identitätsdiebstahl und Betrug missbraucht werden können. Die Autoren betonen die Notwendigkeit, nur minimale personenbezogene Daten in EPAs zu speichern, um Risiken zu reduzieren, und fordern eine stärkere gesetzliche Regulierung zum Schutz der Privatsphäre, ähnlich dem US-amerikanischen HIPAA. Abschließend wird empfohlen, Patienten und medizinisches Personal über die unvermeidbaren Risiken von Datenlecks aufzuklären und Unterstützungsmaßnahmen für Betroffene bereitzustellen. [@looi2024psychiatric]
