@@ -25,6 +25,8 @@ Mehrere Onlinedienstleister bieten digitale Lösungen zur Vereinfachung des Medi
 
 Digitale Medikationsanwendungen erhöhen die Therapieadhärenz um 7 % bis 40 % und werden von Nutzern als nützlich und einfach zu bedienen wahrgenommen, mit einer durchschnittlichen Zufriedenheit von 8,1 von 10. Sie bieten Funktionen wie Erinnerungen, Medikamenteninformationen und Gesundheitstipps. [@perez2019mobile]
 
+Die Idee des [„Pillen-Selfie“-Projekts](https://mqr.de/pillen-selfie/) der MQR (Medizinische Qualitätsgemeinschaft Rendsburg) eG zielt darauf ab, Ärzten eine Übersicht über die Medikamente ihrer Patienten zu ermöglichen, insbesondere bei Sprachbarrieren oder unklarer Medikamentenkenntnis. Patienten werden ermutigt, Verpackungen ihrer Medikamente – verschreibungspflichtige wie selbst gekaufte – sowie ihren Medikationsplan mit dem Smartphone zu fotografieren und diese „Pillen-Selfies“ beim Arztbesuch vorzuzeigen. Ein mehrsprachiger Flyer unterstützt die Umsetzung.
+
 ## Arzneimitteltherapiesicherheit (AMTS)
 
 | Produkt-URL                                     | Beschreibung                                                                                   |
