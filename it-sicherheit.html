@@ -65,9 +65,9 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-89627c620c0a0dda856ff470caee852b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-107c6bcd2ec73a561d33c822cf88f354.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-89627c620c0a0dda856ff470caee852b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a7ceda6cc1d9c29e068534daa6c52070.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-bf9c88ae9f2d750814f0b0ef3f33d9f4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-a7ceda6cc1d9c29e068534daa6c52070.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -711,6 +711,10 @@ cookieconsent.run({
   <li><a href="#richtiges-löschen" id="toc-richtiges-löschen" class="nav-link" data-scroll-target="#richtiges-löschen">Richtiges Löschen</a></li>
   <li><a href="#übersicht-it-grundschutz" id="toc-übersicht-it-grundschutz" class="nav-link" data-scroll-target="#übersicht-it-grundschutz">Übersicht IT Grundschutz</a></li>
   <li><a href="#cyberversicherung" id="toc-cyberversicherung" class="nav-link" data-scroll-target="#cyberversicherung">Cyberversicherung</a></li>
+  <li><a href="#internet-of-things-iot" id="toc-internet-of-things-iot" class="nav-link" data-scroll-target="#internet-of-things-iot">Internet of Things (IoT)</a></li>
+  <li><a href="#umstellung-rsa-zu-ecc" id="toc-umstellung-rsa-zu-ecc" class="nav-link" data-scroll-target="#umstellung-rsa-zu-ecc">Umstellung RSA zu ECC</a></li>
+  <li><a href="#kritis-nis2" id="toc-kritis-nis2" class="nav-link" data-scroll-target="#kritis-nis2">KRITIS &amp; NIS2</a></li>
+  <li><a href="#datenverlust" id="toc-datenverlust" class="nav-link" data-scroll-target="#datenverlust">Datenverlust</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/it-sicherheit.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -833,35 +837,39 @@ cookieconsent.run({
 <section id="gesetzgebung-bezüglich-it-sicherheit" class="level2">
 <h2 class="anchored" data-anchor-id="gesetzgebung-bezüglich-it-sicherheit">Gesetzgebung bezüglich IT-Sicherheit</h2>
 <ul>
-<li><strong>§ 75b SGB V</strong>:
+<li><p><strong>§ 75b SGB V</strong>:</p>
 <ul>
 <li>Verpflichtet Arztpraxen zur Implementierung von IT-Sicherheitsmaßnahmen, basierend auf dem Digitalen-Versorgungs-Gesetz (DVG) 2019.</li>
 <li><strong>KBV</strong> gibt verbindliche Richtlinien heraus, abhängig von Praxisgröße und Medizintechnik.</li>
 </ul></li>
-<li><strong>§ 203 StGB</strong>:
+<li><p><strong>§ 203 StGB</strong>:</p>
 <ul>
 <li>Regelt das <strong>ärztliche Schweigeprivileg</strong>, was den Schutz von Patientendaten priorisiert.</li>
 </ul></li>
-<li><strong>§ 32 DSGVO</strong>:
+<li><p><strong>§ 32 DSGVO</strong>:</p>
 <ul>
 <li>Verlangt technische und organisatorische Maßnahmen (TOMs) zur Sicherung von Daten.</li>
 </ul></li>
-<li><strong>§ 291a SGB V</strong>:
+<li><p><strong>§ 291a SGB V</strong>:</p>
 <ul>
 <li>Bezieht sich auf die Telematikinfrastruktur (TI) und die Rolle der <strong>gematik</strong> bei Datenschutz.</li>
 </ul></li>
-<li><strong>§ 3 Abs. 9 &amp; § 28 Abs. 6-9 BDSG</strong>:
+<li><p><strong>§ 3 Abs. 9 &amp; § 28 Abs. 6-9 BDSG</strong>:</p>
 <ul>
 <li>Allgemeine Datenschutzanforderungen.</li>
 </ul></li>
-<li><strong>§ 22 BDSG</strong>:
+<li><p><strong>§ 22 BDSG</strong>:</p>
 <ul>
 <li>Regelung zur Nutzung von Patientendaten, die auf die Behandlung beschränkt ist; zusätzliche Verwendung benötigt Zustimmung des Patienten.</li>
 </ul></li>
-<li><strong>§ 2 Absatz 9 BSI-Gesetz</strong>:
+<li><p><strong>§ 2 Absatz 9 BSI-Gesetz</strong>:</p>
 <ul>
 <li>Klärt, dass Arztpraxen <strong>nicht</strong> zu kritischen Infrastrukturen zählen.</li>
 </ul></li>
+<li><p><strong>§ 390 SGB V IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung</strong></p></li>
+<li><p><strong>§ 391 SGB V IT-Sicherheit in Krankenhäusern</strong></p></li>
+<li><p><strong>§ 392 SGB V IT-Sicherheit der gesetzlichen Krankenkassen</strong></p></li>
+<li><p><strong>§ 393 SGB V Cloud-Einsatz im Gesundheitswesen; Verordnungsermächtigung</strong></p></li>
 </ul>
 <p><strong>Weitere gesetzliche Rahmenbedingungen:</strong></p>
 <ul>
@@ -1331,6 +1339,24 @@ cookieconsent.run({
 </tr>
 </tbody>
 </table>
+</section>
+<section id="internet-of-things-iot" class="level2">
+<h2 class="anchored" data-anchor-id="internet-of-things-iot">Internet of Things (IoT)</h2>
+<p>Die Studie „How secure are your health devices—stopping wearables becoming a personal and national security risk?“ untersucht die Cybersicherheitsrisiken von vernetzten medizinischen Geräten (IoMT), insbesondere im Kontext globaler Lieferketten. Sie beleuchtet, wie die zunehmende Verbreitung von Wearables und Remote-Patientenüberwachung die Abhängigkeit von diesen Geräten und ihren Daten erhöht, während Schwachstellen in der Lieferkette, wie Backdoors oder Manipulationen, ernsthafte Risiken für Patienten und Gesundheitssysteme darstellen. Die Autoren diskutieren reale Vorfälle, wie die Schwachstelle CVE-2024-12248 in einem Patientenmonitor, und schlagen Maßnahmen wie Root-of-Trust-Technologien, Zero-Trust-Modelle und strengere Regulierungen (z. B. EU Cyber Resilience Act, US FD&amp;C Act) vor, um die Sicherheit von IoMT-Geräten zu gewährleisten und gezielte Angriffe zu verhindern. <span class="citation" data-cites="ostermann2025secure">(<a href="referenzen.html#ref-ostermann2025secure" role="doc-biblioref"><strong>ostermann2025secure?</strong></a>)</span></p>
+</section>
+<section id="umstellung-rsa-zu-ecc" class="level2">
+<h2 class="anchored" data-anchor-id="umstellung-rsa-zu-ecc">Umstellung RSA zu ECC</h2>
+<p>Die Telematikinfrastruktur (TI) wird bis Ende 2025 von RSA2048 auf das sicherere und effizientere ECC256-Verschlüsselungsverfahren umgestellt, wie vom BSI und der Bundesnetzagentur vorgegeben. Dies erfordert den Austausch von etwa 35.000 Konnektoren, zehntausenden Heilberufs- und Praxisausweisen sowie Gerätekarten, die nicht ECC-fähig sind. Die KBV kritisiert den engen Zeitrahmen und fordert eine Fristverlängerung, da Praxen ansonsten TI-Anwendungen wie eRezept oder eAU nicht mehr nutzen könnten. Die gematik hält am Zeitplan fest, erlaubt aber Ausnahmen für bestimmte Gerätekarten. Praxen werden von Anbietern proaktiv über notwendige Austausche informiert. <a href="https://www.kbv.de/html/1150_74961.php">kbv.de/html/1150_74961.php</a></p>
+<p>RSA (Rivest-Shamir-Adleman) und ECC (Elliptic Curve Cryptography) sind Verschlüsselungsverfahren, die sensible Daten in der Telematikinfrastruktur schützen. Bei RSA wird ein Schlüsselpaar aus öffentlichem und privatem Schlüssel erzeugt: Der öffentliche Schlüssel verschlüsselt die Daten, der private Schlüssel entschlüsselt sie. Es nutzt mathematische Operationen mit großen Primzahlen, was sicher, aber rechenintensiv ist. ECC basiert auf elliptischen Kurven und erreicht mit kürzeren Schlüsseln (z. B. 256 Bit) ein höheres Sicherheitsniveau bei geringerem Rechenaufwand. Beide Verfahren sichern z. B. elektronische Signaturen oder Datenübertragungen.</p>
+</section>
+<section id="kritis-nis2" class="level2">
+<h2 class="anchored" data-anchor-id="kritis-nis2">KRITIS &amp; NIS2</h2>
+<p>Im Gesundheitssektor gewährleisten KRITIS-Betreiber und Einrichtungen kritische Dienstleistungen wie stationäre medizinische Versorgung, Versorgung mit lebenserhaltenden Medizinprodukten, Arzneimitteln, Blut/Plasma sowie Laboratoriumsdiagnostik, die durch NIS2- und KRITIS-Cybersecurity-Pflichten geschützt werden müssen. Mit der NIS2-Umsetzung und dem KRITIS-Dachgesetz, die voraussichtlich 2025 in Kraft treten, erweitert sich die Regulierung, indem neue Einrichtungen, basierend auf Umsatz- und Mitarbeiterzahlen, sowie Betreiber kritischer Anlagen einbezogen werden. <a href="https://www.openkritis.de/">openkritis.de</a></p>
+<p>Die NIS-2-Richtlinie, seit dem 17. Oktober 2024 in nationales Recht umgesetzt, verschärft die Cybersecurity-Anforderungen für Unternehmen mit mindestens 50 Mitarbeitenden oder einem Jahresumsatz von über zehn Millionen Euro. Betroffene Unternehmen müssen ein umfassendes Risikomanagement etablieren, um sensible Patientendaten und kritische Systeme vor Cyberangriffen zu schützen. Dazu gehören Maßnahmen wie Datensicherung, Firewalls, Frühwarnsysteme, Need-to-Know-Zugriffsregelungen, Notfallpläne und regelmäßige Fortbildungen. Sicherheitsvorfälle müssen innerhalb von 24 Stunden an das BSI gemeldet werden. Die Geschäftsleitung ist verpflichtet, sich fortzubilden und haftet bei Verstößen. Ein strukturiertes Risikomanagement, einschließlich interner Regelungen, Vorfallsbewältigung und Kryptografie, ist essenziell, um Bedrohungen frühzeitig zu erkennen und zu minimieren.</p>
+</section>
+<section id="datenverlust" class="level2">
+<h2 class="anchored" data-anchor-id="datenverlust">Datenverlust</h2>
+<p>Die Studie „Psychiatric electronic health records in the era of data breaches – What are the ramifications for patients, psychiatrists and healthcare systems?“ untersucht die Risiken von Datenlecks in elektronischen Patientenakten (EPA) im psychiatrischen Bereich. Sie analysiert Vorfälle wie die Datenlecks bei Medibank und Australian Clinical Labs, die zeigen, wie sensible Informationen, insbesondere zu psychischen Erkrankungen und Substanzkonsum, für Erpressung, Identitätsdiebstahl und Betrug missbraucht werden können. Die Autoren betonen die Notwendigkeit, nur minimale personenbezogene Daten in EPAs zu speichern, um Risiken zu reduzieren, und fordern eine stärkere gesetzliche Regulierung zum Schutz der Privatsphäre, ähnlich dem US-amerikanischen HIPAA. Abschließend wird empfohlen, Patienten und medizinisches Personal über die unvermeidbaren Risiken von Datenlecks aufzuklären und Unterstützungsmaßnahmen für Betroffene bereitzustellen. <span class="citation" data-cites="looi2024psychiatric">(<a href="referenzen.html#ref-looi2024psychiatric" role="doc-biblioref">Looi u.&nbsp;a. 2024</a>)</span></p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
@@ -1343,13 +1369,16 @@ Kurz, Marisa. 2021. <span>„Cybersicherheit in Arztpraxen und Krankenh<span>ä<
 <div id="ref-lang2025cyberversicherung" class="csl-entry" role="listitem">
 Lang, Michael. 2025. <span>„Cyberversicherung: Hohe H<span>ü</span>rden f<span>ü</span>r Kliniken“</span>. <em>kma-Klinik Management aktuell</em> 30 (01): 63–65.
 </div>
+<div id="ref-looi2024psychiatric" class="csl-entry" role="listitem">
+Looi, Jeffrey CL, Richard CH Looi, Paul A Maguire, Steve Kisely, Tarun Bastiampillai, und Stephen Allison. 2024. <span>„Psychiatric electronic health records in the era of data breaches–What are the ramifications for patients, psychiatrists and healthcare systems?“</span> <em>Australasian Psychiatry</em> 32 (2): 121–24.
+</div>
 <div id="ref-CyberPraxMed2023" class="csl-entry" role="listitem">
 Sicherheit in der Informationstechnik, Bundesamt für. 2023. <span>„<span>Abschlussbericht Projekt CyberPraxMed – Sicherheit in Arztpraxen</span>“</span>. Bundesamt f<span>ü</span>r Sicherheit in der Informationstechnik. <a href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Projekte/CyberPraxMed/cyberpraxmed_abschlussbericht.pdf?__blob=publicationFile&amp;v=1">https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Projekte/CyberPraxMed/cyberpraxmed_abschlussbericht.pdf?__blob=publicationFile&amp;v=1</a>.
 </div>
 </div>
 </section>
 
-</main> <!-- /main -->
+<p><em>Hinweis: Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar.</em></p></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

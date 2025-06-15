@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -45,9 +65,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-89627c620c0a0dda856ff470caee852b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-107c6bcd2ec73a561d33c822cf88f354.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-89627c620c0a0dda856ff470caee852b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a7ceda6cc1d9c29e068534daa6c52070.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-bf9c88ae9f2d750814f0b0ef3f33d9f4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-a7ceda6cc1d9c29e068534daa6c52070.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -676,6 +696,15 @@ cookieconsent.run({
    
   <ul>
   <li><a href="#datenerfassung-im-ambulanten-bereich" id="toc-datenerfassung-im-ambulanten-bereich" class="nav-link active" data-scroll-target="#datenerfassung-im-ambulanten-bereich">Datenerfassung im Ambulanten Bereich</a></li>
+  <li><a href="#institutionentheorie" id="toc-institutionentheorie" class="nav-link" data-scroll-target="#institutionentheorie">Institutionentheorie</a></li>
+  <li><a href="#qualitative-daten" id="toc-qualitative-daten" class="nav-link" data-scroll-target="#qualitative-daten">Qualitative Daten</a></li>
+  <li><a href="#evaluierung-digitaler-gesundheits-technologien" id="toc-evaluierung-digitaler-gesundheits-technologien" class="nav-link" data-scroll-target="#evaluierung-digitaler-gesundheits-technologien">Evaluierung digitaler Gesundheits-Technologien</a></li>
+  <li><a href="#implementierungsforschung" id="toc-implementierungsforschung" class="nav-link" data-scroll-target="#implementierungsforschung">Implementierungsforschung</a>
+  <ul class="collapse">
+  <li><a href="#nass-framework" id="toc-nass-framework" class="nav-link" data-scroll-target="#nass-framework">NASS Framework</a></li>
+  <li><a href="#tam-utaut" id="toc-tam-utaut" class="nav-link" data-scroll-target="#tam-utaut">TAM &amp; UTAUT</a></li>
+  </ul></li>
+  <li><a href="#geschichte" id="toc-geschichte" class="nav-link" data-scroll-target="#geschichte">Geschichte</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/forschung.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -719,11 +748,76 @@ cookieconsent.run({
 <section id="datenerfassung-im-ambulanten-bereich" class="level2">
 <h2 class="anchored" data-anchor-id="datenerfassung-im-ambulanten-bereich">Datenerfassung im Ambulanten Bereich</h2>
 <p>Die Forschung durch Datensammlung im ambulanten Bereich wird durch Wearables und mobile Technologien verändert. Geräte wie Fitness-Tracker oder Smartwatches ermöglichen die kontinuierliche Erfassung von Gesundheitsdaten wie Herzfrequenz, Schlafqualität oder Aktivitätsniveaus in Echtzeit. Plattformen wie die <a href="https://projectredcap.org/software/mobile-app/">REDCap Mobile App</a> unterstützen Forscher bei der Datenerfassung und -verwaltung direkt von Patienten, während <a href="https://rti.gowrap.org/">GoWrap</a> die Integration und Analyse von Daten aus Wearables erleichtert.</p>
+</section>
+<section id="institutionentheorie" class="level2">
+<h2 class="anchored" data-anchor-id="institutionentheorie">Institutionentheorie</h2>
+<p>Die Studie „Changing the conversation on evaluating digital transformation in healthcare: Insights from an institutional analysis“ untersucht, wie schwierig es ist, digitale Veränderungen im Gesundheitswesen, besonders in der ambulanten Versorgung, zu bewerten. Sie nutzt die Institutionentheorie, um zu zeigen, dass unterschiedliche Sichtweisen – von Leistungserbringern, Verwaltung und Forschenden – die Bewertung kompliziert machen. In der ambulanten Versorgung führen diese Unterschiede zu Konflikten, weil verschiedene Ziele und Begriffe verwendet werden. Die Autoren schlagen vor, dass Leistungserbringer, Verwaltung und Forschende besser zusammenarbeiten und eine gemeinsame Sprache nutzen, um die Bewertung zu verbessern. Sie führen den Begriff „Logik-Bootstrapping“ ein, der beschreibt, wie Beteiligte ihre Ziele und Methoden Schritt für Schritt anpassen, um die gemeinsam Probleme zu lösen. <span class="citation" data-cites="burton2020changing">(<a href="referenzen.html#ref-burton2020changing" role="doc-biblioref">Burton-Jones u.&nbsp;a. 2020</a>)</span></p>
+</section>
+<section id="qualitative-daten" class="level2">
+<h2 class="anchored" data-anchor-id="qualitative-daten">Qualitative Daten</h2>
+<p>Die Studie „Semistructured interviewing in primary care research: a balance of relationship and rigour“ von Melissa DeJonckheere und Lisa M. Vaughn beschreibt die wesentlichen Fähigkeiten und Schritte für die Durchführung semistrukturierter Interviews in der Primärversorgungsforschung. Diese Methode ermöglicht es, offene, qualitative Daten zu sammeln, um Gedanken, Gefühle und Überzeugungen von Teilnehmenden zu einem bestimmten Thema tiefgehend zu erforschen. Die Autoren betonen die Notwendigkeit eines relationalen Ansatzes sowie praktischer Fertigkeiten wie der Entwicklung eines Interviewleitfadens, dem Aufbau von Vertrauen und der Analyse der Daten. Semistrukturierte Interviews sind besonders für Hausärzte geeignet, da sie auch mit begrenzten Ressourcen durchführbar sind und tiefe Einblicke in die Erfahrungen von Patienten und Anbietern ermöglichen. Die Studie bietet praktische Empfehlungen für jeden Schritt des Prozesses, um die Qualität der Forschung zu sichern. <span class="citation" data-cites="dejonckheere2019semistructured">(<a href="referenzen.html#ref-dejonckheere2019semistructured" role="doc-biblioref">DeJonckheere und Vaughn 2019</a>)</span></p>
+</section>
+<section id="evaluierung-digitaler-gesundheits-technologien" class="level2">
+<h2 class="anchored" data-anchor-id="evaluierung-digitaler-gesundheits-technologien">Evaluierung digitaler Gesundheits-Technologien</h2>
+<p>Das “Evidence Standards Framework” (ESF) des National Institute for Health and Care Excellence (NICE) für digitale Gesundheits- und Pflege-Technologien (DHTs) wurde 2018 entwickelt stellt eine standardisierte Vorgehensweise für die klinische und wirtschaftliche Bewertung von DHTs durch Gesundheitssysteme bereit. Der Rahmen wurde mit einem agilen und iterativen Ansatz entwickelt, der eine Literaturrecherche, Expertenkonsultationen und Stakeholder-Feedback beinhaltete. <span class="citation" data-cites="Unsworth_2021">(<a href="referenzen.html#ref-Unsworth_2021" role="doc-biblioref">Unsworth u.&nbsp;a. 2021</a>)</span></p>
+</section>
+<section id="implementierungsforschung" class="level2">
+<h2 class="anchored" data-anchor-id="implementierungsforschung">Implementierungsforschung</h2>
+<p>Implementierungsforschung untersucht, wie evidenzbasierte Praktiken, Interventionen oder Technologien effektiv in reale Systeme integriert werden können. Die Plattform <a href="https://gdhub.unige.ch/implementome/main">Implementome</a>, entwickelt vom Geneva Digital Health Hub (gdhub), ist eine Wissensdatenbank für digitale Gesundheit. Sie nutzt das Konzept der „Implementomics“, um multidimensionale Daten zu Projekten, Akteuren, Publikationen und Erfahrungen zu sammeln, zu organisieren und bereitzustellen. Ziel ist es, die Zusammenarbeit globaler Akteure zu fördern, evidenzbasierte Entscheidungen und die digitale Gesundheitstransformation zu unterstützen.</p>
+<p>Das <a href="https://phti.org/how-we-assess/">ICER-PHTI Assessment Framework for Digital Health Technologies</a>, entwickelt in Zusammenarbeit mit dem Institute for Clinical and Economic Review (ICER), bewertet digitale Gesundheitslösungen anhand von klinischer Wirksamkeit und wirtschaftlichem Einfluss. Es basiert auf den Prioritäten von Arbeitgebern, Krankenkassen und Gesundheitssystemen und unterstützt diese bei fundierten Entscheidungen über den Einsatz digitaler Technologien. Das Framework analysiert den Technologiekontext, die klinischen Vorteile, die Nutzererfahrung, die Sicherheit und Wirksamkeit (in drei Risikostufen: Selbstmanagement, diagnostische/prognostische und therapeutische Technologien), die Gesundheitsgerechtigkeit (Zugänglichkeit und Verteilung) sowie den wirtschaftlichen Einfluss durch Budgetanalysen. Es bietet Entwicklern und Investoren Leitlinien zur Evidenzgenerierung und fördert die Einführung hochwertiger, kosteneffizienter Technologien.</p>
+<p>Private Forschungsorganisationen:</p>
+<ul>
+<li><a href="https://inav-berlin.de/leistungen/ditital-health/">inav-berlin.de</a></li>
+<li><a href="https://www.agenon.de/leistungen/digitalisierung/">agenon.de</a></li>
+</ul>
+<p>Die Studie „A systematic review of clinicians’ acceptance and use of clinical decision support systems over time“ von Nicki Newton et al., veröffentlicht in npj Digital Medicine (2025), untersucht die Faktoren, die die Akzeptanz und Nutzung von klinischen Entscheidungsunterstützungssystemen (CDS) in Krankenhäusern über die Zeit beeinflussen. Die systematische Überprüfung analysierte 67 Studien aus den Jahren 2007 bis 2024 und kategorisierte die Faktoren nach dem Zeitpunkt der Datenerhebung nach der CDS-Implementierung. Zu den durchgehend relevanten Faktoren zählen die Nützlichkeit des Systems und dessen Integration in bestehende Arbeitsabläufe. Wahrgenommene Ergebnisse waren im ersten Jahr besonders prominent, während individuelle Faktoren nach sechs Monaten an Bedeutung gewannen. Nach fünf Jahren wurden Strategien zur Umgehung von Systembeschränkungen berichtet. Die Ergebnisse bieten Leitlinien für die Entwicklung, Implementierung und langfristige Unterstützung von CDS-Systemen. <span class="citation" data-cites="newton2025systematic">(<a href="referenzen.html#ref-newton2025systematic" role="doc-biblioref">Newton u.&nbsp;a. 2025</a>)</span></p>
+<p>Die Studie „eHealth initiatives; the relationship between project work and institutional practice“ von Line Lundvoll Warth und Kari Dyb untersucht die Implementierung von nationalen eHealth-Diensten in Norwegen, insbesondere des Kjernejournal (Summary Care Record) und elektronischer Rezepte (e-prescriptions), aus der Perspektive von Projektmanagern. Durch 22 semi-strukturierte Interviews in den Jahren 2016 und 2018 wird analysiert, wie die Arbeit der Projektmanager mit den institutionellen Praktiken in Gesundheitseinrichtungen zusammenhängt. Die Ergebnisse zeigen, dass die Implementierung als Teil der nationalen Strategie in enger Zusammenarbeit mit der Norwegischen Direktion für eHealth erfolgte, jedoch Spannungen zwischen den kurzfristigen Projektzielen und der langfristigen Nutzung der Tools durch Fachkräfte bestehen. Während e-prescriptions erfolgreich angenommen wurden, blieb die Nutzung des Kjernejournal hinter den Erwartungen zurück, was auf eine Diskrepanz zwischen Projektimplementierung und etablierten sozialen Praktiken hinweist. Die Studie betont die Notwendigkeit, die sozialen Aspekte institutioneller Praktiken bei der Implementierung zu berücksichtigen, um den Erfolg solcher Initiativen zu fördern. <span class="citation" data-cites="warth2019ehealth">(<a href="referenzen.html#ref-warth2019ehealth" role="doc-biblioref">Warth und Dyb 2019</a>)</span></p>
+<section id="nass-framework" class="level3">
+<h3 class="anchored" data-anchor-id="nass-framework">NASS Framework</h3>
+<p>Die Studie „Leveraging Implementation Science in Human-Centred Design for Digital Health“, veröffentlicht in den Proceedings der CHI Conference 2024, schlägt vor Implementierungswissenschaft in den menschzentrierten Designprozess für digitale Gesundheitsinterventionen zu integrieren. Sie kombiniert das Nonadoption, Abandonment, Scale-up, Spread, and Sustainability (NASSS)-Framework mit dem Double Diamond-Designprozess, um die Einführung und langfristige Nutzung evidenzbasierter digitaler Interventionen zu fördern. Anhand einer Fallstudie zur Neugestaltung einer Gesundheitsförderungsintervention, die das Risiko für alkoholbedingten Brustkrebs bei Frauen während routinemäßiger Mammographien reduzieren soll, wird die Anwendung dieses Ansatzes demonstriert. Die Studie hebt hervor, wie Implementierungswissenschaft die Designphasen strukturieren kann, um Komplexität zu reduzieren und die Skalierbarkeit sowie Nachhaltigkeit digitaler Gesundheitslösungen zu verbessern. Abschließend werden Reflexionen über die Herausforderungen und Chancen dieses interdisziplinären Ansatzes für zukünftige Forschung diskutiert. <span class="citation" data-cites="waddell2024leveraging">(<a href="referenzen.html#ref-waddell2024leveraging" role="doc-biblioref">Waddell u.&nbsp;a. 2024</a>)</span></p>
+</section>
+<section id="tam-utaut" class="level3">
+<h3 class="anchored" data-anchor-id="tam-utaut">TAM &amp; UTAUT</h3>
+<p>Das Technology Acceptance Model (TAM), entwickelt von Fred D. Davis (1989), erklärt die Akzeptanz von Informationstechnologien durch zwei zentrale Konstrukte: Perceived Usefulness (wahrgenommene Nützlichkeit), definiert als der Grad, in dem eine Person glaubt, dass die Nutzung eines Systems ihre Leistung steigert, und Perceived Ease of Use (wahrgenommene Benutzerfreundlichkeit), der Grad, in dem die Nutzung als mühelos wahrgenommen wird. TAM postuliert, dass diese Faktoren die Einstellung gegenüber der Technologie und damit die Nutzungsabsicht beeinflussen (Davis, 1989). Die Unified Theory of Acceptance and Use of Technology (UTAUT), entwickelt von Venkatesh et al.&nbsp;(2003), erweitert TAM, indem sie vier Hauptvariablen integriert: Performance Expectancy (ähnlich der wahrgenommenen Nützlichkeit), Effort Expectancy (ähnlich der Benutzerfreundlichkeit), Social Influence (sozialer Einfluss) und Facilitating Conditions (unterstützende Bedingungen). UTAUT fokussiert sich auf die kontinuierliche Nutzung und berücksichtigt zusätzliche Kontexte wie Vertrauen und Risiko, insbesondere in Bereichen wie eHealth. <span class="citation" data-cites="davis1989perceived arfi2021role">(<a href="referenzen.html#ref-davis1989perceived" role="doc-biblioref">Davis 1989</a>; <a href="referenzen.html#ref-arfi2021role" role="doc-biblioref">Arfi u.&nbsp;a. 2021</a>)</span></p>
+</section>
+</section>
+<section id="geschichte" class="level2">
+<h2 class="anchored" data-anchor-id="geschichte">Geschichte</h2>
+<p>Die Studie „Statutory health insurance in Germany: a health system shaped by 135 years of solidarity, self-governance, and competition“ beschreibt die Entwicklung des deutschen Gesundheitssystems seit Bismarcks Krankenversicherungsgesetz von 1883. Sie betont die Prinzipien der Solidarität und Selbstverwaltung, die zu einer universellen Gesundheitsversorgung mit umfassenden Leistungen führten. Seit 1993 fördern Reformen Wettbewerb und Marktorientierung, während die Solidarität gewahrt bleibt. Die Einrichtung des Gemeinsamen Bundesausschusses 2004 stärkte die Selbstverwaltung, sichert gute Zugangsmöglichkeiten und hohe Versorgungsqualität, führt jedoch zu einer Überprovision von Arzneimitteln und Krankenhausaufenthalten sowie Herausforderungen bei der Versorgungskontinuität. Das System ist weniger kostenwirksam als in einigen Nachbarländern, was Effizienzsteigerungen erforderlich macht. <span class="citation" data-cites="busse2017statutory">(<a href="referenzen.html#ref-busse2017statutory" role="doc-biblioref">Busse u.&nbsp;a. 2017</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-arfi2021role" class="csl-entry" role="listitem">
+Arfi, Wissal Ben, Imed Ben Nasr, Galina Kondrateva, und Lubica Hikkerova. 2021. <span>„The role of trust in intention to use the IoT in eHealth: Application of the modified UTAUT in a consumer context“</span>. <em>Technological Forecasting and Social Change</em> 167: 120688.
+</div>
+<div id="ref-burton2020changing" class="csl-entry" role="listitem">
+Burton-Jones, Andrew, Saeed Akhlaghpour, Stephen Ayre, Payal Barde, Andrew Staib, und Clair Sullivan. 2020. <span>„Changing the conversation on evaluating digital transformation in healthcare: Insights from an institutional analysis“</span>. <em>Information and Organization</em> 30 (1): 100255.
+</div>
+<div id="ref-busse2017statutory" class="csl-entry" role="listitem">
+Busse, Reinhard, Miriam Blümel, Franz Knieps, und Till Bärnighausen. 2017. <span>„Statutory health insurance in Germany: a health system shaped by 135 years of solidarity, self-governance, and competition“</span>. <em>The Lancet</em> 390 (10097): 882–97.
+</div>
+<div id="ref-davis1989perceived" class="csl-entry" role="listitem">
+Davis, Fred D. 1989. <span>„Perceived usefulness, perceived ease of use, and user acceptance of information technology“</span>. <em>MIS quarterly</em>, 319–40.
+</div>
+<div id="ref-dejonckheere2019semistructured" class="csl-entry" role="listitem">
+DeJonckheere, Melissa, und Lisa M Vaughn. 2019. <span>„Semistructured interviewing in primary care research: a balance of relationship and rigour“</span>. <em>Family medicine and community health</em> 7 (2): e000057.
+</div>
+<div id="ref-newton2025systematic" class="csl-entry" role="listitem">
+Newton, Nicki, Adeola Bamgboje-Ayodele, Rowena Forsyth, Amina Tariq, und Melissa T Baysari. 2025. <span>„A systematic review of clinicians’ acceptance and use of clinical decision support systems over time“</span>. <em>npj Digital Medicine</em> 8 (1): 1–17.
+</div>
+<div id="ref-Unsworth_2021" class="csl-entry" role="listitem">
+Unsworth, Harriet, Bernice Dillon, Lucie Collinson, Helen Powell, Mark Salmon, Tosin Oladapo, Lynda Ayiku, u.&nbsp;a. 2021. <span>„The NICE Evidence Standards Framework for digital health and care technologies – Developing and maintaining an innovative evidence framework with global impact:“</span> <em>null</em>. <a href="https://doi.org/10.1177/20552076211018617">https://doi.org/10.1177/20552076211018617</a>.
+</div>
+<div id="ref-waddell2024leveraging" class="csl-entry" role="listitem">
+Waddell, Alex, Joshua Paolo Seguin, Ling Wu, Peta Stragalinos, Joe Wherton, Jessica L Watterson, Christopher Owen Prawira, u.&nbsp;a. 2024. <span>„Leveraging Implementation Science in Human-Centred Design for Digital Health“</span>. In <em>Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems</em>, 1–17.
+</div>
+<div id="ref-warth2019ehealth" class="csl-entry" role="listitem">
+Warth, Line Lundvoll, und Kari Dyb. 2019. <span>„eHealth initiatives; the relationship between project work and institutional practice“</span>. <em>BMC Health Services Research</em> 19: 1–12.
+</div>
+</div>
 </section>
 
-</main> <!-- /main -->
+<p><em>Hinweis: Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar.</em></p></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -45,9 +65,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-89627c620c0a0dda856ff470caee852b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-107c6bcd2ec73a561d33c822cf88f354.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-89627c620c0a0dda856ff470caee852b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a7ceda6cc1d9c29e068534daa6c52070.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-bf9c88ae9f2d750814f0b0ef3f33d9f4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-a7ceda6cc1d9c29e068534daa6c52070.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -676,6 +696,7 @@ cookieconsent.run({
    
   <ul>
   <li><a href="#gesundheitsdaten" id="toc-gesundheitsdaten" class="nav-link active" data-scroll-target="#gesundheitsdaten">Gesundheitsdaten</a></li>
+  <li><a href="#digital-public-health" id="toc-digital-public-health" class="nav-link" data-scroll-target="#digital-public-health">Digital Public Health</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/oeffentliche-gesundheit.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -720,11 +741,20 @@ cookieconsent.run({
 <h2 class="anchored" data-anchor-id="gesundheitsdaten">Gesundheitsdaten</h2>
 <p>Das <a href="https://public.data.rki.de/#/site/public/views/ARE-Dashboard/Ueberblick">ARE-Dashboard des RKI</a> bietet eine Übersicht über akute respiratorische Erkrankungen in Deutschland, während der <a href="https://www.epicresearch.org/data-tracker">Data Tracker von Epic Research</a> aggregierte Gesundheitsdaten aus elektronischen Akten für Forschung und Entscheidungsfindung bereitstellt. Das <a href="https://www.cdc.gov/ncezid/dfwed/BEAM-dashboard.html">BEAM-Dashboard der CDC</a> visualisiert Daten zu bakteriellen, enterischen und Pilzkrankheiten, um Ausbrüche zu überwachen, und das <a href="https://www.cdc.gov/nrevss/php/dashboard/index.html">NREVSS-Dashboard der CDC</a> verfolgt wöchentlich Trends bei respiratorischen und enterischen Viren in den USA. Gemeinsam unterstützen diese Tools die öffentliche Gesundheit durch datengestützte Einblicke.</p>
 <p>Der Versorgungsatlas des Zentralinstituts für die kassenärztliche Versorgung (Zi) bietet auf <a href="https://www.versorgungsatlas.de/dashboard">versorgungsatlas.de/dashboard</a> ein interaktives Dashboard, das die Prävalenztrends von sechs chronischen Krankheiten (Asthma, COPD, Diabetes, Herzinsuffizienz, Hypertonie, KHK) in Deutschland von 2015 bis 2023 visualisiert. Basierend auf bundesweiten Abrechnungsdaten der vertragsärztlichen Versorgung zeigt es regionale Unterschiede, geschlechts- und altersspezifische Trends und wird jährlich aktualisiert. Nutzer können durch interaktive Karten, Tabellen und Diagramme die Daten flexibel analysieren, unterstützt durch kompakte Factsheets zum Download.</p>
+</section>
+<section id="digital-public-health" class="level2">
+<h2 class="anchored" data-anchor-id="digital-public-health">Digital Public Health</h2>
+<p>Die Studie „The dawn of digital public health in Europe: Implications for public health policy and practice“ untersucht die Bedeutung digitaler Gesundheitstechnologien in Europa, insbesondere während der COVID-19-Pandemie, und betont die Notwendigkeit effektiver Überwachungssysteme. Sie beleuchtet die rasante Entwicklung digitaler Public Health (DPH)-Strategien, die durch die Pandemie beschleunigt wurde, und hebt deren Potenzial zur Stärkung von Gesundheitssystemen, Förderung von Gesundheitsgerechtigkeit und Erreichung universeller Gesundheitsversorgung hervor. Die Autoren diskutieren Herausforderungen wie digitale Ungleichheiten, Interoperabilität und Datenschutz sowie die Notwendigkeit, die Bevölkerung, insbesondere Jugendliche, durch digitale Gesundheitskompetenz einzubinden. Abschließend fordern sie eine koordinierte, multidisziplinäre Strategie, unterstützt durch politische und technische Rahmenbedingungen, um DPH nachhaltig in die Gesundheitspolitik zu integrieren. <span class="citation" data-cites="wong2022dawn">(<a href="referenzen.html#ref-wong2022dawn" role="doc-biblioref">Wong u.&nbsp;a. 2022</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-wong2022dawn" class="csl-entry" role="listitem">
+Wong, Brian Li Han, Laura Maaß, Alice Vodden, Robin van Kessel, Sebastiano Sorbello, Stefan Buttigieg, und Anna Odone. 2022. <span>„The dawn of digital public health in Europe: Implications for public health policy and practice“</span>. <em>The Lancet Regional Health–Europe</em> 14.
+</div>
+</div>
 </section>
 
-</main> <!-- /main -->
+<p><em>Hinweis: Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar.</em></p></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
