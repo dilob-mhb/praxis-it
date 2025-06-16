@@ -42,6 +42,8 @@ Die Akzeptanz digitaler Technologien hängt stark von der Kommunikation und dem 
 
 Es gibt Schlüsselfaktoren, die den Erfolg solcher Implementierungen beeinflussen, darunter Führungsengagement, Anpassung der Arbeitsabläufe und Schulung des Personals. Erforderlich ist eine ganzheitliche Herangehensweise, die sowohl technische als auch menschliche Aspekte berücksichtigt, um die erfolgreiche Integration von Gesundheitstechnologien in Organisationen zu gewährleisten. [@Cresswell_2013]
 
+Die Studie „Barriers and facilitators to utilizing digital health technologies by healthcare professionals“ untersucht Hindernisse und Förderfaktoren für den Einsatz digitaler Gesundheitstechnologien durch Gesundheitsfachkräfte. Durch eine systematische Analyse von 108 Übersichtsarbeiten zeigt sie, dass Infrastruktur- und technische Probleme, psychologische Barrieren sowie Bedenken hinsichtlich erhöhten Arbeitsaufwands die Haupthindernisse darstellen. Fördernde Faktoren umfassen Trainingsprogramme, die Wahrnehmung der Technologieeffektivität und Anreize durch verschiedene Akteure. Die Ergebnisse betonen die Notwendigkeit, diese Hindernisse zu überwinden, um eine ganzheitliche Integration digitaler Technologien im Gesundheitswesen zu ermöglichen und die Qualität der Versorgung zu verbessern. [@borges2023barriers]
+
 ## Digitalisierte Bereiche in der Arztpraxis
 
 ![Digitalisierung Ambulante Gesundheitsversorgung](assets/digitalisierung_plot.png)
