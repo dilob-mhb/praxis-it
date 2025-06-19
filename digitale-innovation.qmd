@@ -6,9 +6,14 @@ In seinem JAMA Artikel „How AI Could Reshape Health Care—Rise in Direct-to-C
 
 Die Studie „A scoping review of ethical aspects of public-private partnerships in digital health“ von Marieke A. R. Bak et al. (npj Digital Medicine, 2025) analysiert ethische Herausforderungen von öffentlich-privaten Partnerschaften (PPPs) im Bereich digitaler Gesundheit anhand von 46 Studien aus PubMed, EMBASE und Web of Science. Drei Hauptthemen wurden identifiziert: Datenschutz und Einwilligung, Sicherstellung öffentlicher Vorteile und Zugang sowie gute Governance und Vertrauenswürdigkeit. Die Ergebnisse zeigen, dass PPPs Datenschutzbedenken, unklare Definitionen von „öffentlichem Nutzen“ und Machtungleichgewichte zwischen Partnern aufwerfen, wie beispielsweise in den kontroversen Fällen care.data, NHS/DeepMind und deCODE. Die Autoren empfehlen frühzeitige, kontextbezogene Ethikrichtlinien, transparente Governance und öffentliche Beteiligung, um verantwortungsvolle Innovation zu fördern, und fordern weitere Forschung zu tripartiten Partnerschaften und der „Ökonomisierung“ digitaler Gesundheit. [@bak2025scoping]
 
+## Geschäftsmodelle
+
+Softwarehersteller im Bereich der ambulanten Medizin nutzen unterschiedliche Geschäftsmodelle. Sie unterscheiden sich in Kostenstrukturen und Innovationskraft. Es gibt Anbieter mit Lizenzmodell, bei dem Ärzte Anschaffungskosten zahlen, gefolgt von jährlichen Gebühren. Andere bieten Abonnements (SaaS), bei denen monatliche Gebühren für Cloud-basierte Lösungen anfallen – flexibel, aber mit fortlaufenden Kosten und Notwendigkeit eines von Internetzugang; die Innovationskraft ist hoch, da regelmäßige Updates den Wettbewerb antreiben. Wieder andere verkaufen Software als einmaligen Kauf mit optionalen Supportverträgen. Das Genossenschaftsmodell der [Duria eG](https://www.duria.de/) hebt sich davon ab: ÄrztInnen zahlen einmalig einen Genossenschaftsanteil und einen jährlichen Beitrag.
+
 Digitale Innovationen können über direkte und indirekte Zugangswege in den ersten Gesundheitsmarkt integriert werden [@GerschDanelski2022].
 
-## Direkte Zugangswege (B2P/B2C-Lösungen)
+### Direkte Zugangswege (B2P/B2C-Lösungen)
+
 1. **Digitale Pflegeanwendungen (DiPA, §40a SGB XI)**:
    - Versorgung von Pflegebedürftigen mit digitalen Anwendungen, die deren Selbstständigkeit fördern.
    - Antragstellung erfolgt bei der Pflegekasse.
@@ -37,7 +42,8 @@ Digitale Innovationen können über direkte und indirekte Zugangswege in den ers
 7. **Besondere Versorgung (§140a SGB V)**:
    - Verträge zwischen Krankenkassen und Leistungserbringern, z. B. für sektorenübergreifende Lösungen.
 
-## Indirekte Zugangswege (B2B-Modelle)
+### Indirekte Zugangswege (B2B-Modelle)
+
 1. **Krankenhauszukunftsgesetz (KHZG)**:
    - Finanzierung von Digitalisierungsprojekten in Krankenhäusern (z. B. elektronische Patientenakten, IT-Sicherheit).
 
@@ -108,10 +114,6 @@ Das [KV-Appradar](https://www.kvappradar.de/) ist ein Informationsportal des Zen
 Open-Source-Software ist in ambulanten Arztpraxen bisher wenig verbreitet, während sie in anderen Bereichen des Gesundheitswesens, insbesondere in Gesundheitsämtern, zunehmend an Bedeutung gewinnt. In Arztpraxen dominieren proprietäre Praxisverwaltungssysteme, da diese oft spezialisierte Funktionen für Abrechnung, Dokumentation und Telematikinfrastruktur bieten. Open-Source-Lösungen wie **OpenEMR** oder **Thera-Pi** existieren zwar, werden aber vergleichsweise selten genutzt, da viele Praxen auf zertifizierte, kommerzielle Software angewiesen sind und Wechselbarrieren hoch sind. Im Gegensatz dazu haben Gesundheitsämter in den letzten Jahren verstärkt auf Open Source gesetzt. Ein prominentes Beispiel ist **SORMAS**, das in vielen deutschen Gesundheitsämtern zur digitalen Kontaktnachverfolgung während der COVID-19-Pandemie eingesetzt wurde. Auch das Open-Source-Projekt **Agora** zeigt, dass öffentliche Stellen zunehmend auf offene, transparente Softwarelösungen setzen. 
 
 Der [medatixx-HealthHub](https://medatixx.de/healthhub) ist ein digitales Ökosystem, das Praxen und Gesundheitsdienstleister durch moderne FHIR-Standards nahtlos vernetzt. Es ermöglicht Softwareanbietern, ihre Lösungen sicher und standardisiert in die medatixx-Praxissoftware zu integrieren, während Praxen aus einem Marktplatz digitaler Anwendungen wählen können, um Prozesse effizienter zu gestalten. Die Plattform fördert Zusammenarbeit, verbessert Kommunikation und unterstützt die Digitalisierung im Gesundheitswesen, wobei Sicherheit durch einen Akkreditierungs- und Testprozess gewährleistet wird.
-
-## Geschäftsmodelle
-
-Softwarehersteller im Bereich der ambulanten Medizin nutzen unterschiedliche Geschäftsmodelle. Sie unterscheiden sich in Kostenstrukturen und Innovationskraft. Es gibt Anbieter mit Lizenzmodell, bei dem Ärzte Anschaffungskosten zahlen, gefolgt von jährlichen Gebühren. Andere bieten Abonnements (SaaS), bei denen monatliche Gebühren für Cloud-basierte Lösungen anfallen – flexibel, aber mit fortlaufenden Kosten und Notwendigkeit eines von Internetzugang; die Innovationskraft ist hoch, da regelmäßige Updates den Wettbewerb antreiben. Wieder andere verkaufen Software als einmaligen Kauf mit optionalen Supportverträgen. Das Genossenschaftsmodell der [Duria eG](https://www.duria.de/) hebt sich davon ab: ÄrztInnen zahlen einmalig einen Genossenschaftsanteil und einen jährlichen Beitrag.
 
 ## Zertifizierung Digitaler Anwendungen
 
