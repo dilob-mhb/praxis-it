@@ -87,6 +87,6 @@ Das Projekt „Digitalisierungslots:innen in der Brandenburger Primärversorgung
 * [mhb-fontane.de/de/DiLoB](https://www.mhb-fontane.de/de/DiLoB)
 * [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/ministerium/ressortforschung/handlungsfelder/forschungsschwerpunkte/pilotvorhaben-zur-implementierung-und-verstetigung-von-digital-health-ansaetzen/dilob.html)
 
-## Hinweis
+## Produktneutralität
 
 Die aufgeführten Produkte dienen ausschließlich der Veranschaulichung und wurden unabhängig ausgewählt. Die Liste erhebt keinen Anspruch auf Vollständigkeit und stellt keine Empfehlung, Bewertung oder Werbung dar. Die Auswahl erfolgte nach den wissenschaftlichen Grundsätzen des DiLoB-Projektes und unter Berücksichtigung der geltenden Neutralitätsrichtlinien.
