@@ -1,5 +1,7 @@
 # Rheumatologie
 
+Das [Rhadar-Projekt](https://rhadar.de/de/) (RheumaDatenRheport GbR) ist ein Netzwerk zur Verbesserung der rheumatologischen Versorgung in Deutschland. Angesichts des Mangels an Rheumatologen vernetzt Rhadar Patienten schnell mit Fachärzten, um frühzeitige Diagnosen und Therapien zu ermöglichen. Durch digitale Tools wie RhePort und RheCORD unterstützt es Patienten bei der Eigenüberwachung und Ärzte bei der Behandlungsanpassung, während administrative Aufgaben minimiert werden, um den Fokus auf die Patientenversorgung zu legen.
+
 ## Software
 
 Software in der Rheumatologie zeichnet sich durch spezifische Funktionen wie Anamneseerhebung, Dokumentation von Krankheitsverläufen und Scoring-Systeme für die Bewertung von Krankheitsaktivität aus. 
