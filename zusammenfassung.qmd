@@ -54,8 +54,13 @@ gute digitale Werkzeuge identifizieren und Erkenntnisse kommunizieren, um eine e
 :::
 
 ::: {.callout-note}
-## Funktionen nutzen und Communitys einbinden
+## Funktionen nutzen und Communities einbinden
 Die vorhandenen Funktionen bestehender Software voll ausschöpfen und software-spezifische Communitys sowie Onlineforen nutzen, um Effizienz zu steigern und von bestehendem Wissen zu profitieren.
+:::
+
+::: {.callout-note}
+## Schriftliche asynchrone vor gesprochener synchroner Kommunikation
+Das richtige Kommunikationsmittel für den richtigen Zweck. Zeitkritische oder komplexe und schriftliche schwer zu transportierende Inhalte als gesprochene synchrone Kommunikation. Weniger dringliche Inhalte als geschriebene Kommunikation. Nur wenige Situationen sind zeitkritisch oder komplex. Schriftliche asynchrone Kommunikation bevorzugen, unterstützt durch technische Hilfsmittel wie Text-zu-Sprache, Rechtschreibkorrektur und Sprachmodelle, um Inhalte zu reflektieren, zu verfeinern und transparent zu dokumentieren. Barrieren für schriftliche asynchrone Kommunikation abbauen.
 :::
 
 ::: {.callout-note}
