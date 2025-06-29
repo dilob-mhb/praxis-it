@@ -243,3 +243,7 @@ Die NIS-2-Richtlinie, seit dem 17. Oktober 2024 in nationales Recht umgesetzt, v
 ## Datenverlust
 
 Die Studie „Psychiatric electronic health records in the era of data breaches – What are the ramifications for patients, psychiatrists and healthcare systems?“ untersucht die Risiken von Datenlecks in elektronischen Patientenakten (EPA) im psychiatrischen Bereich. Sie analysiert Vorfälle wie die Datenlecks bei Medibank und Australian Clinical Labs, die zeigen, wie sensible Informationen, insbesondere zu psychischen Erkrankungen und Substanzkonsum, für Erpressung, Identitätsdiebstahl und Betrug missbraucht werden können. Die Autoren betonen die Notwendigkeit, nur minimale personenbezogene Daten in EPAs zu speichern, um Risiken zu reduzieren, und fordern eine stärkere gesetzliche Regulierung zum Schutz der Privatsphäre, ähnlich dem US-amerikanischen HIPAA. Abschließend wird empfohlen, Patienten und medizinisches Personal über die unvermeidbaren Risiken von Datenlecks aufzuklären und Unterstützungsmaßnahmen für Betroffene bereitzustellen. [@looi2024psychiatric]
+
+## Identitätsdiebstahl
+
+Der [HPI Identity Leak Checker](https://sec.hpi.de/ilc/) des Hasso-Plattner-Instituts ermöglicht es, mit einer E-Mail-Adresse zu prüfen, ob persönliche Identitätsdaten wie Telefonnummer, Geburtsdatum oder Adresse durch Cyberangriffe im Internet veröffentlicht wurden.

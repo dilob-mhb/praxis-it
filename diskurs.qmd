@@ -36,6 +36,12 @@
 
 In seinem Artikel „Why Doctors Hate Their Computers“ vom 12. November 2018 im New Yorker beschreibt Atul Gawande die Frustration von Ärzten mit elektronischen Patientenakten, am Beispiel der Einführung des Epic-Systems bei Partners HealthCare, das mit 1,6 Milliarden Dollar die Arbeitsweise von 70.000 Mitarbeitern verändern sollte. Statt Effizienz zu bringen, hat die Digitalisierung die Arbeitsbelastung erhöht: Ärzte verbringen doppelt so viel Zeit mit Computertätigkeiten wie mit Patienten. Gawande schildert, wie die Systeme durch ihre Starrheit und bürokratischen Anforderungen die Arzt-Patient-Beziehung beeinträchtigen, während Lösungen wie Schreibassistenten oder KI-gestützte Diktierfunktionen zwar Zeit sparen, aber die Grundprobleme nicht lösen; er plädiert für anpassungsfähigere Technologien, die menschliche Verbindungen stärken statt schwächen. [@gawande2018why]
 
+Im Diskurs um die elektronische Patientenakte (ePA) für Kinder und Jugendliche, wie vom Berufsverband der Kinder- und Jugendärztinnen (BVKJ) geführt, zeigt sich eine Entwicklung von kritischer Warnung hin zu einer teilweisen Lösung. Anfang Januar 2025 wies der BVKJ auf Sicherheitslücken und Datenschutzprobleme der ePA hin, insbesondere für Minderjährige, und empfahl Eltern, die Nutzung sorgfältig abzuwägen oder sich dagegen zu entscheiden. Trotz eines Gesprächs mit Bundesgesundheitsminister Lauterbach blieben konkrete Lösungen aus, was zu Frustration führte. Am 17. April 2025 meldete der BVKJ eine Einigung mit dem Bundesgesundheitsministerium (BMG) und der Kassenärztlichen Bundesvereinigung (KBV). Neue Richtlinien gewähren Ärztinnen Handlungssicherheit, indem sie bei Kindeswohlgefährdung oder therapeutischen Gründen von der Befüllungspflicht der ePA für unter 15-Jährige befreit werden, und schützen vor Sanktionen bis Ende 2025. Der BVKJ begrüßt diese kindgerechte Lösung, bleibt aber wachsam hinsichtlich der vollständigen Umsetzung.
+
+* 07.01.2025 Pressemitteilung [Schwachstellen in der ePA: BVKJ fordert Datensicherheit für Kinder und Jugendliche](https://www.bvkj.de/politik-und-presse/pressemitteilung/schwachstellen-in-der-epa-bvkj-fordert-datensicherheit-fuer-kinder-und-jugendliche/)
+* 22.1.2025 Pressemitteilung [ePA bei Kindern und Jugendlichen - BVKJ sieht weiterhin große Probleme bei der Umsetzung der ePA für Kinder und Jugendliche. Nach initialem Gespräch mit Minister Lauterbach gibt es immer noch keine konkreten Änderungsvorschläge des BMG.](https://www.bvkj.de/politik-und-presse/pressemitteilung/epa-bei-kindern-und-jugendlichen-bvkj-sieht-weiterhin-grosse-probleme-bei-der-umsetzung-der-epa-fuer-kinder-und-jugendliche/)
+* 17.4.2025 Pressemitteilung [Erfreuliche Einigung: BMG und KBV schaffen rechtssichere Lösung zum Schutz des Kindeswohls in der ePA](https://www.bvkj.de/politik-und-presse/pressemitteilung/erfreuliche-einigung-bmg-und-kbv-schaffen-rechtssichere-loesung-zum-schutz-des-kindeswohls-in-der-epa/)
+
 #### Podcasts
 
 | index | title | date |
@@ -434,6 +440,91 @@ Die Kassenärztliche Bundesvereinigung (KBV) fordert in Ihrem Positionspapier ["
 | DigiKal | [eventsdev.buerofalk.de](https://eventsdev.buerofalk.de/) |
 
 : Tabelle Veranstaltungsverzeichnisse {#tbl-eventdirectories}
+
+## Anstehende Veranstaltungen
+
+```{python}
+#| echo: false
+#| output: asis
+
+from datetime import datetime
+
+print(f"Stand zum Zeitpunkt der letzten Aktualisierung ({datetime.now().strftime('%d.%m.%Y, %H:%M Uhr')}):\n")
+
+```
+
+::: {.callout-note}
+
+### [gematik.de/veranstaltungen](https://www.gematik.de/veranstaltungen)
+
+```{python}
+#| echo: false
+#| output: asis
+
+import feedparser
+
+feed_url = "https://www.gematik.de/veranstaltungen/events.rss.feed"
+feed = feedparser.parse(feed_url)
+
+for entry in feed.entries[:10]:
+    print(f"- [{entry.title}]({entry.link})")
+```
+
+:::
+
+::: {.callout-note}
+
+### [digitalversorgt.info/events](https://digitalversorgt.info/events/)
+
+```{python}
+#| echo: false
+#| output: asis
+
+feed_url = "https://fetchrss.com/feed/aGEABK8A-LZCaGD_7BmngywC.rss"
+feed = feedparser.parse(feed_url)
+
+for entry in feed.entries[:10]:
+    print(f"- [{entry.title}]({entry.link})")
+
+```
+
+:::
+
+::: {.callout-note}
+
+### [digital-health-events.de](https://digital-health-events.de/)
+
+```{python}
+#| echo: false
+#| output: asis
+
+feed_url ="https://fetchrss.com/feed/aGEABK8A-LZCaGEBMIpkMMoC.rss"
+feed = feedparser.parse(feed_url)
+
+for entry in feed.entries[:10]:
+    print(f"- [{entry.title}]({entry.link})")
+
+```
+
+:::
+
+::: {.callout-note}
+
+### [e-health-com.de/veranstaltungskalender](https://e-health-com.de/veranstaltungskalender/)
+
+```{python}
+#| echo: false
+#| output: asis
+
+feed_url ="https://fetchrss.com/feed/aGEABK8A-LZCaGEDQzLOmsSU.rss"
+feed = feedparser.parse(feed_url)
+
+for entry in feed.entries[:10]:
+    print(f"- [{entry.title}]({entry.link})")
+
+```
+
+:::
 
 ## Soziale Medien
 
