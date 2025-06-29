@@ -441,6 +441,91 @@ Die Kassenärztliche Bundesvereinigung (KBV) fordert in Ihrem Positionspapier ["
 
 : Tabelle Veranstaltungsverzeichnisse {#tbl-eventdirectories}
 
+## Anstehende Veranstaltungen
+
+```{python}
+#| echo: false
+#| output: asis
+
+from datetime import datetime
+
+print(f"Stand zum Zeitpunkt der letzten Aktualisierung ({datetime.now().strftime('%d.%m.%Y, %H:%M Uhr')}):\n")
+
+```
+
+::: {.callout-note}
+
+### [gematik.de/veranstaltungen](https://www.gematik.de/veranstaltungen)
+
+```{python}
+#| echo: false
+#| output: asis
+
+import feedparser
+
+feed_url = "https://www.gematik.de/veranstaltungen/events.rss.feed"
+feed = feedparser.parse(feed_url)
+
+for entry in feed.entries[:10]:
+    print(f"- [{entry.title}]({entry.link})")
+```
+
+:::
+
+::: {.callout-note}
+
+### [digitalversorgt.info/events](https://digitalversorgt.info/events/)
+
+```{python}
+#| echo: false
+#| output: asis
+
+feed_url = "https://fetchrss.com/feed/aGEABK8A-LZCaGD_7BmngywC.rss"
+feed = feedparser.parse(feed_url)
+
+for entry in feed.entries[:10]:
+    print(f"- [{entry.title}]({entry.link})")
+
+```
+
+:::
+
+::: {.callout-note}
+
+### [digital-health-events.de](https://digital-health-events.de/)
+
+```{python}
+#| echo: false
+#| output: asis
+
+feed_url ="https://fetchrss.com/feed/aGEABK8A-LZCaGEBMIpkMMoC.rss"
+feed = feedparser.parse(feed_url)
+
+for entry in feed.entries[:10]:
+    print(f"- [{entry.title}]({entry.link})")
+
+```
+
+:::
+
+::: {.callout-note}
+
+### [e-health-com.de/veranstaltungskalender](https://e-health-com.de/veranstaltungskalender/)
+
+```{python}
+#| echo: false
+#| output: asis
+
+feed_url ="https://fetchrss.com/feed/aGEABK8A-LZCaGEDQzLOmsSU.rss"
+feed = feedparser.parse(feed_url)
+
+for entry in feed.entries[:10]:
+    print(f"- [{entry.title}]({entry.link})")
+
+```
+
+:::
+
 ## Soziale Medien
 
 Eine chinesische Studie untersuchte, wie Ärzte den Kurznachrichtendienst WeChat (Social-Media-Plattform) nutzen um sich wissen anzueignen. Über 60 % der 292 befragten Ärzte suchen regelmäßig online nach Fachwissen, wobei ca. 20 % WeChat dafür nutzen, jedoch nur ca. 24% mit den Ergebnissen zufrieden sind. Täglichen nutzten mehr als 70 % der Ärzte mehr als 30 Minuten die Platform und fast 40 % der Teilnehmenden griffen mehr als 20 Mal pro Tag auf WeChat zu. Fast die Hälfte liest regelmäßig medizinische Artikel auf WeChat, vor allem über Freundeskreise (ca. 60 %) und öffentlichen Profilen (60 %), doch die Professionalität und Nützlichkeit der Inhalte werden als gering bewertet. Der bevorzugte Inhalt ist "Fachwissen von Kollegen" und die Nutzung der Erinnerungsfunktion, was auf den Wunsch nach vertrauenswürdiger, peer-basierter Information hinweist. [@https://doi.org/10.1155/2018/2329876]

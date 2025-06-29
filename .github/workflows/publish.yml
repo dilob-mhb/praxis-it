@@ -17,6 +17,8 @@
          uses: quarto-dev/quarto-actions/setup@v2
        - name: install tinytex
          run: quarto install tinytex
+       - name: install dependencies
+         run: pip install feedparser
        - name: Render and Publish
          uses: quarto-dev/quarto-actions/publish@v2
          with:
