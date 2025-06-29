@@ -141,3 +141,7 @@ Die [GesundheitsID der gematik](https://www.gematik.de/anwendungen/gesundheitsid
 ## Offener Quelltext
 
 Das GitHub-Repository [epa4all](https://github.com/med-united/epa4all) widmet sich dem Thema der elektronischen Patientenakte (ePA) und ist eine Initiative zur Förderung ihrer Nutzung und Weiterentwicklung zu sein. Es bietet Werkzeuge, Ressourcen und Informationen, um die Implementierung der ePA im medizinischen Bereich zu unterstützen. Durch Zusammenarbeit und Wissensaustausch zielt das Projekt darauf ab, digitale Gesundheitslösungen zugänglicher und effizienter zu gestalten. Es richtet sich sowohl an Fachleute im Gesundheitswesen als auch an Entwickler, die an innovativen Technologien für die Gesundheitsbranche interessiert sind.
+
+## Patientensicherheit
+
+Das Portal [Mehr Patientensicherheit](https://mehr-patientensicherheit.de/) wurde von den Ersatzkassen und dem Verband der Ersatzkassen e.V. (vdek) ins Leben gerufen, um die Patientensicherheit in Deutschland zu fördern. Es ermöglicht Patient:innen und Angehörigen, anonyme Berichte über positive oder kritische Erfahrungen im Gesundheitswesen einzureichen. Diese Berichte werden von Expert:innen analysiert, um aus Fehlern zu lernen und bewährte Lösungen zu verbreiten. Ziel ist es, die Gesundheitsversorgung zu verbessern, indem vermeidbare Fehler reduziert und erfolgreiche Ansätze gefördert werden. Das Portal bietet zudem Tipps für Versicherte und Fokusfälle, die typische oder außergewöhnliche Situationen im Gesundheitswesen beleuchten.

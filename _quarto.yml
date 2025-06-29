@@ -19,7 +19,9 @@ book:
     draft: true
     ---
   body-footer: |
-    *Hinweis: Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar.*
+    ::: {.callout-tip title="Hinweis"}
+    Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar.
+    :::
   margin-footer: |
     Projektpartner
 

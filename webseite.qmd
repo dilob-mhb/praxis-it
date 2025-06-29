@@ -101,3 +101,7 @@ Viele Anbieter bieten Lösungen, um ohne technische oder Programmierkenntnisse W
 | DOConline | [doc-online.de](https://www.doc-online.de/) |
 
 : Übersicht Webseitenanbieter 
+
+## Beispielwebseite
+
+[Google Sites](https://sites.google.com/) ist eine einfache Plattform, um kostenlose Websites zu erstellen, ohne dass technische Kenntnisse benötigt werden. Man kann schnell eine Website mit Infos wie Öffnungszeiten, Dienstleistungen oder Kontaktdaten machen – ähnlich wie in einem Textprogramm. Benötigt werden ein Google-Konto und Internet. Die kostenlose Version hat grundlegende Funktionen und eine Adresse wie z. B. [sites.google.com/view/die-praxis](https://sites.google.com/view/die-praxis) oder [sites.google.com/view/praxis-xy](https://sites.google.com/view/praxis-xy). Extras wie eine eigene Domain können Geld kosten. Eine Anleitung findet sich hier: [support.google.com/a/users/answer/9310491?hl=de](https://support.google.com/a/users/answer/9310491?hl=de)

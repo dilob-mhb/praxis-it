@@ -17,8 +17,8 @@
          uses: quarto-dev/quarto-actions/setup@v2
        - name: install tinytex
          run: quarto install tinytex
-       - name: Set QUARTO_PROFILE
-         run: echo "QUARTO_PROFILE=dilob" >> $GITHUB_ENV
+       - name: install dependencies
+         run: pip install jupyter feedparser
        - name: Render and Publish
          uses: quarto-dev/quarto-actions/publish@v2
          with:
