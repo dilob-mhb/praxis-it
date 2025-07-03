@@ -31,3 +31,7 @@ Der [Bundesverband Deutscher Privatkliniken (BDPK)](https://www.bdpk.de/themen/r
 ## Roboterassistenz
 
 [TEDIRO GmbH](https://tediro.com/), ein Tech-Startup aus Leipzig und Ilmenau, entwickelt den mobile Roboter THERY, der Patienten beim selbstgesteuerten Gangtraining mit Unterarmstützen unterstützt, indem Bewegungsabläufe mittels KI-gestützter Kameratechnologie analysiert und Korrekturvorschläge gegeben werden. Das cloudbasierte Therapie-Management-System ermöglicht personalisierte Trainingspläne und die Dokumentation von Fortschritten. TEDIRO kombiniert Expertise in Robotik, Softwareentwicklung und Physiotherapie, um die Mobilität von Patienten fördern.
+
+## Patientenedukation
+
+Die Webseite [intensivstation.jetzt](https://www.intensivstation.jetzt/) bietet Informationen rund um die Intensivstation für Patient*innen, Angehörige, Kinder und Expert*innen. Sie enthält Beiträge zu Themen wie Intensivstation-Arten, Hygiene, Intensivtagebuch und psychosozialen Folgen (z. B. Post-Intensive-Care-Syndrom). Für Kinder werden spezielle Unterstützungsangebote erklärt, während Expert*innen Tipps zur humaneren Gestaltung der Intensivstation und zur Implementierung der Webseite erhalten. Ein Glossar erläutert wichtige Begriffe, und aktuelle Beiträge, wie zu Kinderintensivmedizin oder Delir, bieten weiterführende Einblicke. Der Verein Intensivstation.jetzt, gefördert von Partnern wie ÖGIAIN und FASIM, steht hinter dem Projekt.
