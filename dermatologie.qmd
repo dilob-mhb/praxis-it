@@ -36,6 +36,10 @@ Digitale Hautanalyse-Tools unterscheiden sich in der Präzision der Analyse, der
 
 Die [ItchyMonsters-App](https://www.itchy-monsters.de/) unterstützt Kinder mit Neurodermitis spielerisch bei der täglichen Hautpflege. Durch Gamification und Augmented Reality motiviert die App Kinder dazu, regelmäßig einzucremen, während ein integriertes Hauttagebuch Eltern und Ärzt:innen hilft, den Therapieverlauf zu überwachen. Kostenlos und werbefrei bietet sie eine kindgerechte, stressfreie Lösung zur Verbesserung der Hautgesundheit.
 
+## Digitale Wissensplattformen
+
+[DermNetNZ](https://dermnetnz.org/) ist eine internationale Dermatologie-Websplattform mit Millionen jährlichen Lesern und mehr als 2500 Hautthemen sowie 25.000 klinischen Bildern. Sie bietet umfassende, leicht verständliche und von Dermatologen überprüfte Informationen zu Hauterkrankungen, und Behandlungen, darunter Themen wie Akne, Psoriasis und Hautkrebs. Es gibt weitere Funktionen wie Haut-Checker, Videos, einem Ressourcenzentrum und DermNet PRO für Fachkräfte.
+
 ## Forschung
 
 | Product                  | Company                  | URL                                                                 |
