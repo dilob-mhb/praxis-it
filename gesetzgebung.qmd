@@ -1,5 +1,7 @@
 # Gesetzgebung
 
+## Übersicht über zentrale Gesetzesvorhaben im Gesundheitswesen
+
 In Deutschland gibt es zahlreiche gesetzliche Regelungen, die die Gesundheitsversorgung und Nutzung digitaler Gesundheitsdienste betreffen:
 
 - **§ 11 Abs. 1 S. 1 Apothekengesetz (ApoG)**: [Link zum Gesetz](https://www.gesetze-im-internet.de/apog/__11.html)  
@@ -29,9 +31,7 @@ In Deutschland gibt es zahlreiche gesetzliche Regelungen, die die Gesundheitsver
 - **§ 332b SGB V**: [Link zum Gesetz](https://www.gesetze-im-internet.de/sgb_5/__332b.html)  
   Definiert Rahmenvereinbarungen, die Anforderungen an Praxisverwaltungssysteme (PVS) setzen, um eine sichere und effiziente Verwaltung von Patienteninformationen zu gewährleisten.
 
-Diese gesetzlichen Bestimmungen bilden die Grundlage für die Digitalisierung und den sicheren Datenfluss in der Gesundheitsversorgung
-
-# Übersicht über zentrale Gesetzesvorhaben im Gesundheitswesen
+Diese gesetzlichen Bestimmungen bilden die Grundlage für die Digitalisierung und den sicheren Datenfluss in der Gesundheitsversorgung.
 
 * [Bundesministerium für Gesundheit - E-Health-Gesetz](https://www.bundesgesundheitsministerium.de/themen/digitalisierung/e-health-gesetz.html)
 * [Bundesregierung - DigiG](https://www.bundesgesundheitsministerium.de/ministerium/gesetze-und-verordnungen/guv-20-lp/digig.html)
