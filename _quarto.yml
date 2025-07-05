@@ -20,7 +20,7 @@ book:
     ---
   body-footer: |
     ::: {.callout-tip title="Hinweis"}
-    Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar.
+    Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar. Anmerkungen können in der rechten Seitenleiste mit [Hypothes.is](https://web.hypothes.is/) sozialem Annotierungswerkzeug oder am unteren Ende einer Seite mit [GitHub Giscus Diskussionen](https://github.com/giscus/giscus) hinterlassen werden.
     :::
   margin-footer: |
     Projektpartner
