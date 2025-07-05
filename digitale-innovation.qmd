@@ -178,3 +178,7 @@ In Deutschland haben sich mehrere Institute gebildet, die sich der digitalen Med
 * [Institut für Digitale Medizin an der Goethe-Universität Frankfurt](https://aktuelles.uni-frankfurt.de/forschung/goethe-universitaet-gruendet-institut-fuer-digitale-medizin/)
 * [Innovationszentrum Digitale Medizin am Uniklinikum Aachen](https://www.ukaachen.de/kliniken-institute/innovationszentrum-digitale-medizin/ueber-uns)
 * [Institut für Digitalisierung in der Medizin am Uniklinikum Freiburg](https://www.uniklinik-freiburg.de/institut-fuer-digitalisierung-in-der-medizin.html)
+
+## Versorgungsmodelle
+
+Die Arbeit „Digital requirements for new primary care models“ untersucht die Veränderungen in der Primärversorgung aufgrund demografischer Entwicklungen, komplexer Patientenbedürfnisse und politisch-finanzieller Zwänge. Sie beleuchtet aufkommende Trends wie Integration, proaktive Versorgung und verbesserten Zugang zu Gesundheitsdiensten, die durch Technologien wie gemeinsame elektronische Patientenakten, Telemedizin und Patientenportale unterstützt werden. Sechs Fallstudien zeigen, wie innovative Organisationen diese Technologien nutzen, um neue Arbeitsweisen zu etablieren. Die Arbeit diskutiert zudem lokale und nationale Hindernisse, wie fehlende Interoperabilität und Finanzierungsprobleme, und schlägt priorisierte Technologien wie elektronische Gesundheitsakten und Telemedizin vor, um diese Herausforderungen zu überwinden. [@castle2016digital]
