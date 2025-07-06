@@ -640,6 +640,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./versorgsungsprozesse.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitale Versorgungsprozesse</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./gesetzgebung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gesetzgebung</span></a>
   </div>
 </li>
@@ -653,6 +658,11 @@ cookieconsent.run({
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./diskurs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Diskurs</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./patientinnen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">PatientInnen</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -700,7 +710,10 @@ cookieconsent.run({
   <ul class="collapse">
   <li><a href="#oregis" id="toc-oregis" class="nav-link" data-scroll-target="#oregis">oregis</a></li>
   </ul></li>
-  <li><a href="#künstliche-intelligenz" id="toc-künstliche-intelligenz" class="nav-link" data-scroll-target="#künstliche-intelligenz">Künstliche Intelligenz</a></li>
+  <li><a href="#künstliche-intelligenz" id="toc-künstliche-intelligenz" class="nav-link" data-scroll-target="#künstliche-intelligenz">Künstliche Intelligenz</a>
+  <ul class="collapse">
+  <li><a href="#digitale-versorgungsmodelle" id="toc-digitale-versorgungsmodelle" class="nav-link" data-scroll-target="#digitale-versorgungsmodelle">Digitale Versorgungsmodelle</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/augenheilkunde.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -831,9 +844,15 @@ cookieconsent.run({
 <h2 class="anchored" data-anchor-id="künstliche-intelligenz">Künstliche Intelligenz</h2>
 <p>Die Arbeit „VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence“ stellt ein KI-Bilderkennungsmodell vor, das mit 3,4 Millionen ophthalmologischen Bildern von 560.457 Personen aus 26 Ländern und Regionen trainiert wurde. VisionFM deckt ein breites Spektrum an Augenerkrankungen, Bildgebungsmodalitäten (z. B. Fundusfotografie, OCT, UBM) und Geräten ab und bietet durch selbstüberwachtes Lernen eine Grundlage für zahlreiche Anwendungen wie Krankheitsdiagnose, Segmentierung von Läsionen und Gefäßen, Verlaufsprognosen und die Vorhersage systemischer Biomarker. Es übertrifft in der Diagnose von 12 häufigen Augenerkrankungen sowohl junge als auch mittelerfahrene Ophthalmologen, zeigt starke Verallgemeinerungsfähigkeit auf neue Modalitäten und Geräte und nutzt synthetische Daten, um die Lernfähigkeit zu verbessern. Ziel ist es, globale ophthalmologische Herausforderungen effizienter und skalierbarer zu bewältigen, insbesondere in Regionen mit begrenztem Zugang zu Fachkräften, und die Entwicklung zukünftiger KI-Anwendungen im Augenheilkundebereich zu beschleunigen. <span class="citation" data-cites="qiu2023visionfm">(<a href="referenzen.html#ref-qiu2023visionfm" role="doc-biblioref">Qiu u.&nbsp;a. 2023</a>)</span></p>
 <p><a href="https://github.com/openmedlab/RETFound_MAE">RETFound</a> ist Grundlagenmodell für die Erkennung von Augenkrankheiten, entwickelt von Zhou et al.&nbsp;(2023). Es wurde mit selbstüberwachtem Lernen auf 1,6 Millionen unmarkierten Fundusbildern trainiert und nutzt einen Vision Transformer (ViT), um generalisierbare Merkmalsrepräsentationen zu erlernen. Im Gegensatz zu herkömmlichen KI-Modellen, die umfangreiche annotierte Daten für spezifische Aufgaben benötigen, ermöglicht RETFound eine schnelle Anpassung an verschiedene Anwendungen wie die Diagnose von diabetischer Retinopathie, Glaukom oder die Prognose systemischer Erkrankungen. Unter realen Bedingungen zeigte das RETFound Modell eine um über 15 % höhere Sensitivität und Spezifität im Vergleich zu kommerziellen Modellen und übertraf traditionelle CNN-Modelle in der Generalisierungsfähigkeit. Die Ergebnisse unterstreichen das Potenzial von RETFound, die Genauigkeit und Effizienz von Augenscreenings, insbesondere in ressourcenarmen Regionen, zu verbessern. <span class="citation" data-cites="zhou2023foundation">(<a href="referenzen.html#ref-zhou2023foundation" role="doc-biblioref">Zhou u.&nbsp;a. 2023</a>)</span></p>
+<section id="digitale-versorgungsmodelle" class="level3">
+<h3 class="anchored" data-anchor-id="digitale-versorgungsmodelle">Digitale Versorgungsmodelle</h3>
+<p>Die Studie „Digital health during COVID-19: lessons from operationalising new models of care in ophthalmology“ untersucht die Anwendung digitaler Gesundheitstechnologien in der Augenheilkunde während der COVID-19-Pandemie. Sie beschreibt, wie die Pandemie traditionelle patientenbezogene Versorgungsmodelle herausgefordert und den Einsatz digitaler Lösungen wie Telemedizin, KI-gestützte Entscheidungsunterstützung und Heimüberwachung beschleunigt hat. Neue Versorgungsmodelle wie das Hub-and-Spoke-Modell oder das Lighthouse-Modell wurden entwickelt, um den veränderten Anforderungen gerecht zu werden, indem sie die Effizienz steigern und physische Kontakte minimieren. Die Autoren betonen die Notwendigkeit einer kontinuierlichen Evaluation und Anpassung dieser Modelle, um eine nachhaltige Integration digitaler Technologien in die Gesundheitsversorgung zu gewährleisten, und diskutieren Herausforderungen wie Interoperabilität und Akzeptanz. Die gewonnenen Erkenntnisse sind auch für andere medizinische Fachbereiche relevant. <span class="citation" data-cites="gunasekeran2021digital">(<a href="referenzen.html#ref-gunasekeran2021digital" role="doc-biblioref">Gunasekeran u.&nbsp;a. 2021</a>)</span></p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-gunasekeran2021digital" class="csl-entry" role="listitem">
+Gunasekeran, Dinesh V, Yih-Chung Tham, Daniel SW Ting, Gavin SW Tan, und Tien Y Wong. 2021. <span>„Digital health during COVID-19: lessons from operationalising new models of care in ophthalmology“</span>. <em>The Lancet Digital Health</em> 3 (2): e124–34.
+</div>
 <div id="ref-qiu2023visionfm" class="csl-entry" role="listitem">
 Qiu, Jianing, Jian Wu, Hao Wei, Peilun Shi, Minqing Zhang, Yunyun Sun, Lin Li, u.&nbsp;a. 2023. <span>„Visionfm: a multi-modal multi-task vision foundation model for generalist ophthalmic artificial intelligence“</span>. <em>arXiv preprint arXiv:2310.04992</em>.
 </div>
@@ -844,6 +863,7 @@ Zhou, Yukun, Mark A Chia, Siegfried K Wagner, Murat S Ayhan, Dominic J Williamso
 Zimmermann, Julian Alexander, Christopher Dicke, Maren Arndt, Noel-Adrian Hollosi, Jens Julian Storp, und Nicole Eter. 2025. <span>„Das oregis-Dashboard: webbasiertes Benchmarking in der augenheilkundlichen Versorgungsforschung in Deutschland“</span>. <em>Klinische Monatsbl<span>ä</span>tter f<span>ü</span>r Augenheilkunde</em>.
 </div>
 </div>
+</section>
 </section>
 
 <div class="callout callout-style-default callout-tip callout-titled" title="Hinweis">
@@ -856,7 +876,7 @@ Hinweis
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar.</p>
+<p>Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar. Anmerkungen können in der rechten Seitenleiste mit <a href="https://web.hypothes.is/">Hypothes.is</a> sozialem Annotierungswerkzeug oder am unteren Ende einer Seite mit <a href="https://github.com/giscus/giscus">GitHub Giscus Diskussionen</a> hinterlassen werden.</p>
 </div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
