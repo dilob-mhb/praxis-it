@@ -147,6 +147,14 @@ Der Artikel „The Impact of Electronic Health Records on Workflow and Financial
 
 Der Artikel „New governance of the digital health agency: a way out of the joint decision trap to implement electronic health records in Germany?“ von Tugce Schmitt analysiert die Herausforderungen bei der Einführung der elektronischen Patientenakte (ePA) in Deutschland. Die Haupterkenntnisse zeigen, dass die Fragmentierung des deutschen Gesundheitssystems, geprägt durch Korporatismus und Selbstverwaltung, die Integration von Gesundheitsdaten behindert. Trotz politischer Bemühungen bleibt die ePA-Nutzung mit nur 1 % der gesetzlich Versicherten gering, was auf Widerstände der Ärzteschaft und komplexe Entscheidungsstrukturen zurückzuführen ist. Die Studie hebt hervor, dass die Governance von gematik, der nationalen Digitalagentur, von einer korporatistischen zu einer stärker staatlich gelenkten Struktur geändert wurde, um Fortschritte zu erzielen. Dennoch wird betont, dass eine erfolgreiche ePA-Implementierung eine Abkehr von der sektoralen Trennung hin zu einem patientenzentrierten, wertorientierten Gesundheitssystem erfordert, unterstützt durch selektive Verträge und stärkere Einbindung von Endnutzern. [@schmitt2024new;@schmitt2023implementing]
 
+### Ressourcen
+
+* [Gematik Themenseite ePA für Alle](https://www.gematik.de/anwendungen/epa-fuer-alle/praxen)
+* [Gematik Mitschnitte Praxen](https://www.gematik.de/anwendungen/epa-fuer-alle/mitschnitte-praxen)
+* [Gematik Downloadportal Praxen](https://www.gematik.de/anwendungen/epa-fuer-alle/downloadportal-praxen)
+* [Gematik Digitales Infopaket](https://www.gematik.de/anwendungen/epa-fuer-alle/download-infopaket)
+* [KBV Themenseite](https://www.kbv.de/html/epa.php)
+
 ## Effiziente Dateneingabe
 
 Die Arbeit „Making Keyboard Shortcuts Accessible: Keyboard Shortcuts for Healthcare Professionals in an Electronic Healthcare System“ von Julia Grentzelius untersucht die Nutzung von Tastaturkürzeln im klinischen Informationssystem [COSMIC](https://www.cambiogroup.com/our-solutions/cambio-cosmic/). Ziel der Studie war es, herauszufinden, welche Nutzergruppen am meisten von Tastaturkürzeln profitieren würden und wie sie diese effektiv erlernen können. Die Forschung ergab, dass insbesondere Pflegekräfte durch den Einsatz von Tastaturkürzeln erhebliche Zeitersparnisse erzielen könnten. Hauptprobleme waren mangelndes Bewusstsein und fehlende Visualisierung der Shortcuts. [@grentzelius2023making]
