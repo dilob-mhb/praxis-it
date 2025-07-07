@@ -149,6 +149,10 @@ Der Artikel „New governance of the digital health agency: a way out of the joi
 
 Die Studie „Measuring Electronic Health Record Use in Primary Care: A Scoping Review“ von Michael Z. Huang, Candace J. Gibson und Amanda L. Terry untersucht die aktuelle Literatur zur Messung der Nutzung elektronischer Patientenakten (EPA) in der Primärversorgung, mit einem Fokus auf den kanadischen Kontext. Durch eine systematische Literaturrecherche und Analyse von 37 Artikeln wurden verschiedene Ansätze zur Erfassung der EPA-Nutzung identifiziert, darunter die Messung individueller Funktionen und die Entwicklung umfassender Modelle zur Bewertung des Gesamtgrads der Nutzung. Die Studie hebt hervor, dass es an standardisierten Rahmenwerken mangelt, und betont die Notwendigkeit, einheitliche, mehrdimensionale Messmethoden zu entwickeln, um die Nutzung von EPA effektiv zu bewerten und deren Vorteile für die Patientenversorgung besser zu nutzen. [@huang2018measuring]
 
+### Auswirkung elektronischer Akten
+
+Die Studie „Impact of electronic medical record on physician practice in office settings: a systematic review“ untersucht die Auswirkungen elektronischer Patientenakten (EPA) auf die Arztpraxis. Sie analysiert 43 Studien aus den Jahren 2000 bis 2009 und verwendet den Clinical Adoption Framework, um die Ergebnisse zu strukturieren. Die Studie zeigt, dass 51,2 % der Studien und 45,9 % der Messungen positive Auswirkungen der EPA auf Bereiche wie präventive Versorgung, Arbeitspraktiken und Krankheitsmanagement belegen. Allerdings wiesen 18,6 % der Studien negative Effekte auf, insbesondere in der klinischen Dokumentation. Es wurden 48 Einflussfaktoren identifiziert, darunter robuste EPA-Funktionen, optimierte Arbeitsabläufe, realistische Erwartungen an die Implementierung und Patienteneinbindung, die für den Erfolg entscheidend sind. Die Ergebnisse betonen die Notwendigkeit, aus früheren Studien zu lernen, um die EPA-Einführung zu verbessern. [@lau2012impact]
+
 ### Ressourcen
 
 * [Gematik Themenseite ePA für Alle](https://www.gematik.de/anwendungen/epa-fuer-alle/praxen)
