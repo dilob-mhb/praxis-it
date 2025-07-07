@@ -86,6 +86,7 @@ book:
       - gastroenterologie.qmd
       - kinderheilkunde.qmd
       - onkologie.qmd
+      - urologie.qmd
       - hno.qmd
       - allergologie.qmd
     - part: "Gesundheitswesen"
