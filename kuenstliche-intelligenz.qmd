@@ -18,24 +18,32 @@ Der [KI-Campus](https://ki-campus.org/themen/medizin) bietet kostenlose Online-K
 
 [Kaggle Learn](https://www.kaggle.com/learn) bietet eine Sammlung kostenloser, interaktiver Kurse zum Erlernen von Datenwissenschaft und maschinellem Lernen. Diese Kurse sind so gestaltet, dass Sie praktische Fähigkeiten erwerben können, die Sie sofort anwenden können. Kaggle Learn ist ideal für Anfänger und Fortgeschrittene, um ihre Fähigkeiten in Bereichen wie Python, Pandas, und maschinellem Lernen zu verbessern.
 
+### Online Plattformen
+
+Kaggle-Datensätze und Kaggle-Wettbewerbe illustrieren den Einsatz künstlicher Intelligenz in der Medizin, indem sie Zugang zu Gesundheitsdaten und Herausforderungen bieten. Nutzende können [Datensätze](https://www.kaggle.com/datasets?tags=11111-Health) wie beispielsweise anonymisierte, fiktive Gesundheitsdaten oder medizinische Bilddaten herunterladen, um KI-Modelle für Diagnosen oder Therapieoptimierung zu trainieren. Parallel dazu fördern [Wettbewerbe](https://www.kaggle.com/competitions?tagIds=4202) die Entwicklung von Algorithmen und Modellen, etwa zur Vorhersage von Krankheitsverläufen oder zur Analyse von Gesundheitsrisiken, durch kollaborativen Wissenswettbewerb. Kaggle bietet eine Plattform, auf der KI-gestützte Lösungen getestet, verfeinert und auf medizinische Probleme angewendet werden können.
+
 ### Kostenpflichtige Angebote
 
 * [nuvio.health/ki-kompetenztraining](https://nuvio.health/ki-kompetenztraining/)
 * [futurehealth.academy](https://www.futurehealth.academy/)
 
+## Übersichtsplattform
+
+Die Website [Alles KI](https://alles-ki.com/de) bietet einen Überblick über KI-Anwendungen zum Einsatz im Alltag.
+
+## Datengetriebene Lösungen
+
+Die Dienstleistung von [Intrexx](https://www.intrexx.com/de/gesundheitswesen/) konzentriert sich auf die Bereitstellung einer Low-Code-Plattform, um Datenaustausch bestehender digitaler Systeme nahtlos zu ermöglichen. Intrexx ermöglicht die Erstellung von Datenanwendungen mit minimalem Programmieraufwand, indem es intuitive Tools wie den [Daten-Designer](https://www.intrexx.com/de/plattform/daten-builder/) für zentralisierte, datenschutzkonforme Datenverwaltung bereitstellt. Automatisierung wird durch vordefinierte [Workflows](https://www.intrexx.com/de/plattform/prozess-builder/) realisiert, wodurch Routineaufgaben effizienter und fehlerärmer werden. Der Intrexx [Applikations-Builder](https://www.intrexx.com/de/plattform/applikations-builder/) ermöglicht es Datenmodelle, Formulare und Workflows zu erstellen und an spezifische Anforderungen anzupassen. Es bedarf keine umfassenden IT-Kenntnisse, dank der Low-Code-Ansätze wie Drag-and-Drop und vorgefertigter Schnittstellen.
+
 ## Experimentelle Anwendungen
 
 [pillenfuchs.konsilado.de](https://pillenfuchs.konsilado.de/) ist ein experimentelles KI-gestütztes Forschungsprojekt, das darauf abzielt, Medikationspläne mithilfe eines großes Sprachmodells zu überprüfen. Es handelt sich explizit nicht um ein medizinisches Angebot von menschlichen Ärzten oder Apothekern, sondern um ein experimentelles Tool. Die KI analysiert Medikationspläne basierend auf eingegebenen Patientendaten wie Alter, Geschlecht, Nierenfunktion und einem hochgeladenen Bundesmedikationsplan (als PDF oder Text). Dabei werden potenzielle Arzneimittelwechselwirkungen, Empfehlungen und Quellen ausgegeben. Die Ergebnisse sind jedoch ohne Gewähr, können Fehler enthalten und stellen keine verbindlichen Handlungsempfehlungen dar. Es wird ausdrücklich betont, dass nur der behandelnde Arzt verlässliche medizinische Ratschläge geben kann.
 
-## KI-Agenten
+### KI-Agenten
 
 [dianoviCDS](https://www.dianovi.com/) unterstützt bei der Diagnose und Behandlung, indem es patientenspezifische Empfehlungen auf Basis von Symptomen, medizinischen Leitlinien und anonymisierten Patientendaten liefert. Die Plattform kombiniert Sprachmodelle mit klassischem maschinellem Lernen. Durch Integration in bestehende Informationssysteme optimiert dianoviCDS Arbeitsabläufe und unterstützt bei der Abrechnungsoptimierung. [hessian.ai/aisr-community/dianovi](https://hessian.ai/aisr-community/dianovi/)
 
 [IsareeAI](https://www.isaree.ai/) ist eine offene Plattform und ein Ökosystem für KI-Agenten, das die Transformation der Gesundheitsbranche durch künstliche Intelligenz vorantreiben will. Mit der edge-first KI-Assistentin Isa ermöglicht IsareeAI datenschutzsichere, lokale Verarbeitung klinischer Daten, Integration spezialisierter KI-Agenten und eine globale Marktplatzlösung für Gesundheitsanwendungen. Die Plattform reduziert laut Angaben administrativen Aufwand um 30 %, beschleunigt die Einführung von KI-Innovationen um das Zehnfache und gewährleistet 100 % Datensouveränität, während sie durch offene Systeme bis zu 40 % der IT-Kosten einspart.
-
-## Online Plattformen
-
-Kaggle-Datensätze und Kaggle-Wettbewerbe illustrieren den Einsatz künstlicher Intelligenz in der Medizin, indem sie Zugang zu Gesundheitsdaten und Herausforderungen bieten. Nutzende können [Datensätze](https://www.kaggle.com/datasets?tags=11111-Health) wie beispielsweise anonymisierte, fiktive Gesundheitsdaten oder medizinische Bilddaten herunterladen, um KI-Modelle für Diagnosen oder Therapieoptimierung zu trainieren. Parallel dazu fördern [Wettbewerbe](https://www.kaggle.com/competitions?tagIds=4202) die Entwicklung von Algorithmen und Modellen, etwa zur Vorhersage von Krankheitsverläufen oder zur Analyse von Gesundheitsrisiken, durch kollaborativen Wissenswettbewerb. Kaggle bietet eine Plattform, auf der KI-gestützte Lösungen getestet, verfeinert und auf medizinische Probleme angewendet werden können.
 
 ## Ethik
 
@@ -48,14 +56,6 @@ Die Studie „Expectations of healthcare AI and the role of trust: understanding
 Die Studie „Charting the future of patient care: A strategic leadership guide to harnessing the potential of artificial intelligence“ untersucht die transformative Rolle von Künstlicher Intelligenz (KI) im Gesundheitswesen. Sie beleuchtet 18 KI-basierte Anwendungen in den Bereichen klinische Entscheidungsfindung, Präzisionsmedizin, betriebliche Effizienz und prädiktive Analytik, illustriert durch ein Beispiel zur Rolle von KI in der öffentlichen Gesundheit während der frühen Phase der COVID-19-Pandemie. Die Studie adressiert ethische Herausforderungen wie Transparenz, Datenschutz, Bias, Einwilligung, Verantwortlichkeit und Haftung sowie die Notwendigkeit strategischer Maßnahmen zur Ausrichtung von KI an ethischen Prinzipien, rechtlichen Rahmenbedingungen und bestehenden IT-Systemen. Sie betont die Bedeutung einer informierten und strategischen Herangehensweise, um das Potenzial von KI zu nutzen und ihre Herausforderungen zu bewältigen. Zudem wird die Notwendigkeit neuer Kompetenzen wie technologischer Kompetenz, strategischer Weitsicht, Veränderungsmanagement und ethischer Entscheidungsfindung hervorgehoben, um KI effektiv im Gesundheitsmanagement einzusetzen. [@ennis2024charting]
 
 Die Studie „Global Health in the Age of AI: Charting a Course for Ethical Implementation and Societal Benefit“ untersucht die Herausforderungen und Möglichkeiten der KI-Integration im globalen Gesundheitswesen. Sie identifiziert Hindernisse wie ethische Unsicherheiten, Dateninfrastrukturprobleme und regulatorische Unklarheiten, die die Umsetzung von KI-Vorteilen behindern. Basierend auf dem Global Health in the Age of AI Symposium schlägt die Studie fünf Kernanforderungen für eine ethische KI-Implementierung vor: robuste Datenaustauschsysteme, epistemische Sicherheit mit Personalauthonomie, Schutz von Gesundheitswerten, validierte Ergebnisse mit Verantwortlichkeit und ökologische Nachhaltigkeit. Die Autoren betonen die Notwendigkeit koordinierter, sektorenübergreifender Maßnahmen, um KI als Kraft für globale Gesundheitsgerechtigkeit zu nutzen und technologischen Kolonialismus zu vermeiden. [@morley2025global]
-
-## Datengetriebene Lösungen
-
-Die Dienstleistung von [Intrexx](https://www.intrexx.com/de/gesundheitswesen/) konzentriert sich auf die Bereitstellung einer Low-Code-Plattform, um Datenaustausch bestehender digitaler Systeme nahtlos zu ermöglichen. Intrexx ermöglicht die Erstellung von Datenanwendungen mit minimalem Programmieraufwand, indem es intuitive Tools wie den [Daten-Designer](https://www.intrexx.com/de/plattform/daten-builder/) für zentralisierte, datenschutzkonforme Datenverwaltung bereitstellt. Automatisierung wird durch vordefinierte [Workflows](https://www.intrexx.com/de/plattform/prozess-builder/) realisiert, wodurch Routineaufgaben effizienter und fehlerärmer werden. Der Intrexx [Applikations-Builder](https://www.intrexx.com/de/plattform/applikations-builder/) ermöglicht es Datenmodelle, Formulare und Workflows zu erstellen und an spezifische Anforderungen anzupassen. Es bedarf keine umfassenden IT-Kenntnisse, dank der Low-Code-Ansätze wie Drag-and-Drop und vorgefertigter Schnittstellen.
-
-## Übersichtsplattform
-
-Die Website [Alles KI](https://alles-ki.com/de) bietet einen Überblick über KI-Anwendungen zum Einsatz im Alltag.
 
 ## Forschung
 
@@ -88,6 +88,8 @@ Das Forschungsprojekt [„Mobilität trifft Medizin: Gesundheitscheck im Auto“
 ### Haftungsfragen
 
 Die Studie „Randomized Study of the Impact of AI on Perceived Legal Liability for Radiologists“ untersucht, wie Künstliche Intelligenz (KI) die Wahrnehmung der Haftung von Radiologen bei fehlerhaften Diagnosen beeinflusst. US-amerikanische Erwachsene bewerteten Szenarien, in denen ein Radiologe eine Gehirnblutung oder Krebs übersah, wobei KI entweder mit der Diagnose des Radiologen übereinstimmte oder sie widersprach. Teilnehmer stuften die Haftung des Radiologen höher ein, wenn die KI die Anomalie erkannte (KI-Widerspruch), im Vergleich zu Fällen, in denen die KI ebenfalls versagte (KI-Übereinstimmung) oder keine KI genutzt wurde. Die Angabe von KI-Fehlerraten, wie eine 1%ige Falsch-Negativ-Rate oder 50%ige Falsch-Positiv-Rate, verringerte die wahrgenommene Haftung, insbesondere bei Gehirnblutungen. Diese Ergebnisse zeigen die Relevanz von KI für rechtliche Wahrnehmungen in der Radiologie und haben Bedeutung für Gerichtsverfahren. [@bernstein2025randomized]
+
+Die Studie „Understanding Liability Risk from Using Healthcare Artificial Intelligence Tools“ befasst sich mit der zentralen Frage der rechtlichen Haftung im Gesundheitswesen, wenn der Einsatz von KI-Tools zu Patientenschäden beiträgt. Sie analysiert die bisher spärlichen Fälle zu physischen Verletzungen, die durch KI oder Softwaresysteme verursacht wurden. Dabei identifiziert die Studie, dass Haftungsansprüche typischerweise auf Mängeln in Software zur Versorgungs- oder Ressourcenverwaltung, der Verwendung von Software durch Ärzte bei Entscheidungen oder Fehlfunktionen von Software in medizinischen Geräten basieren. Zudem stellt die Untersuchung einen Risikobewertungsrahmen zur Verfügung, der Gesundheitseinrichtungen dabei helfen soll, ihren Ansatz zur Implementierung und Überwachung von KI-Tools im Gesundheitswesen anzupassen, und bietet Empfehlungen zur Minimierung von Haftungsrisiken und zur Förderung einer sicheren Einführung von KI-Innovationen. [@mello2024understanding]
 
 ### Bürokratieerleichterung
 
