@@ -89,6 +89,8 @@
 
 ## Technologie
 
+Der Leitfaden „Implementation Know-How Brief: Telemedicine and Virtual Health Care Delivery“ soll Mitarbeitern der Weltbankgruppe und anderen Organisationen helfen, die an der Umsetzung von Digital-in-Health-Aktivitäten beteiligt sind. Er bietet Informationen und Anleitungen zu Schlüsselbegriffen und Arbeitsdefinitionen, verschiedenen Arten der Telemedizin sowie deren Bedeutung im Gesundheitssektor. Ziel ist es, Stakeholder über Bewertungsrichtlinien für die Telemedizin-Reife und die wichtigsten Schritte und Überlegungen bei der Implementierung von Telemedizin- und virtuellen Gesundheitsdiensten aufzuklären, und auch auf Herausforderungen und Fallstricke hinzuweisen. [@WorldBankTelemedicineBrief]
+
 ### Photoplethysmographie (PPG)
 
 Image Photoplethysmographie (iPPG) ist eine berührungslose Methode zur Messung von Herzfrequenz und Blutdruck, indem Lichtintensitätsänderungen im Gesicht mittels Webcam aufgezeichnet werden, wie in einer Studie von Trirongjitmoah et al. (Heliyon, 2024) beschrieben. Die Analyse von 100 Probanden zeigte eine starke Korrelation der iPPG-Herzfrequenz mit einem oszillometrischen Blutdruckmessgerät. Für die Blutdruckschätzung wurden 6-Sekunden-Segmente des iPPG-Signals mittels kontinuierlicher Wavelet-Transformation und einem kompakten Convolutional Neural Network (CNN) verarbeitet, mit Ergebnissen von Grad A für diastolischen und Grad B für systolischen Blutdruck nach den Kriterien der British Hypertension Society. Die Methode erfüllt auch die Standards der Association for the Advancement of Medical Instrumentation und bietet Potenzial für effiziente, nicht-invasiveScreenings, bleibt aber auf klare Signale unter kontrollierten Bedingungen angewiesen. [@trirongjitmoah2024assessing]
