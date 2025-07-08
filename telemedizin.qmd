@@ -39,32 +39,6 @@
   - **Analog Code 600 GOÄ**: Alarme mit externen Geräten: **€4,25/9,79/14,89** (pro Tag).
   - **Analog Code 60 GOÄ**: Konsultation und Dokumentation: **€6,99/16,09/24,48** (pro Arzt).
 
-## Studien zur Wirksamkeit von Telemedizin
-
-### Herzinsuffizienz-Telemonitoring
-
-- **TIM-HF2-Studie**: Zeigte, dass **telemedizinische Betreuung bei Herzinsuffizienz** positive Ergebnisse liefert, egal wie stark die Pumpfunktion des linken Ventrikels beeinträchtigt ist.
-- **Meta-Analyse von IN-TIME, ECOST, TRUST (TRUECOIN)**: Unterstützung für den Nutzen der täglichen Fernüberwachung von ICDs.
-- **IN-TIME-Studie**: Reduzierte **Mortalität um 60%** und Verschlechterung des Herzversagens um 30%.
-
-### Fernüberwachung implantierbarer Geräte
-
-- **TRUST-Studie**: Reduzierte **geplante persönliche Nachkontrollen um 60%**.
-- **COMPAS-Studie**: Verringerte **Krankenhauseinweisungen um 66%** bei Vorhofflimmern.
-- **ECOST-Studie**: Verringerte **Hospitalisierungen um 72%** bei unangemessenen ICD-Schocks.
-
-### DX-Technologie zur Arrhythmie-Erkennung
-
-- **MATRIX-Studie**: Verbesserte **Erkennung subklinischer Vorhofflimmern** durch DX-ICD-Systeme.
-- **THINGS-Register**: DX-Systeme erkennen **AT/AF fast viermal häufiger**.
-- **SENSE-Studie**: Vorteile der DX-ICD-Systeme bei der Erkennung von AHRE.
-
-### Telemonitoring bei COPD und Atemwegserkrankungen
-
-- **TELEMENTOR COPD-Studie**: Prüft die Reduktion von Rückfällen bei COPD-Patienten mit SaniQ.
-- **Studie während der Pandemie**: Zeigte Verbesserungen bei Asthma, COPD und SARS-CoV-2 Patienten.
-- **Mortalität und Kostenstudie (2016)**: Zeigte, dass digitale Überwachung die Mortalität bei COPD-Patienten halbiert.
-
 ## Übersichtstabelle
 
 |    | Software         | Anbieter                          | URL                |
@@ -113,7 +87,9 @@
 
 : Übersicht Telemedizinische Anbieter
 
-## Photoplethysmographie (PPG)
+## Technologie
+
+### Photoplethysmographie (PPG)
 
 Image Photoplethysmographie (iPPG) ist eine berührungslose Methode zur Messung von Herzfrequenz und Blutdruck, indem Lichtintensitätsänderungen im Gesicht mittels Webcam aufgezeichnet werden, wie in einer Studie von Trirongjitmoah et al. (Heliyon, 2024) beschrieben. Die Analyse von 100 Probanden zeigte eine starke Korrelation der iPPG-Herzfrequenz mit einem oszillometrischen Blutdruckmessgerät. Für die Blutdruckschätzung wurden 6-Sekunden-Segmente des iPPG-Signals mittels kontinuierlicher Wavelet-Transformation und einem kompakten Convolutional Neural Network (CNN) verarbeitet, mit Ergebnissen von Grad A für diastolischen und Grad B für systolischen Blutdruck nach den Kriterien der British Hypertension Society. Die Methode erfüllt auch die Standards der Association for the Advancement of Medical Instrumentation und bietet Potenzial für effiziente, nicht-invasiveScreenings, bleibt aber auf klare Signale unter kontrollierten Bedingungen angewiesen. [@trirongjitmoah2024assessing]
 
@@ -135,6 +111,34 @@ Das Innovationsfondsprojekt [Stay@Home – Treat@Home](https://www.sth-berlin.or
 Die Studie „Healthcare utilization in a cohort receiving chronic disease specialty care by video telemedicine compared to propensity-matched adults not using telemedicine“ untersucht die Nutzung von Telemedizin und deren Auswirkungen auf die Inanspruchnahme von Gesundheitsleistungen. Sie wurde im Alaska Tribal Health System durchgeführt und nutzte elektronische Gesundheitsdaten von Erwachsenen mit chronischen Erkrankungen, die zwischen Juli und Dezember 2021 Spezialistenbesuche hatten. Die Studie vergleicht Telemedizin-Nutzer mit einer propensity-score-ange passten Kontrollgruppe, die keine Telemedizin nutzte, und analysiert Krankenhausaufenthalte, ambulante Besuche und Notfallbesuche im Jahr 2022. Telemedizin-Nutzer waren etwas älter, hatten mehr chronische Erkrankungen und lebten in unterschiedlichen Regionen. Die Ergebnisse zeigen eine nicht-signifikante Erhöhung der Inanspruchnahme von Gesundheitsleistungen bei Telemedizin-Nutzern, was im Kontext von Patientenpräferenzen und potenziellen Vorteilen der Telemedizin betrachtet werden sollte. [@ferucci2025healthcare]
 
 Die Studie "Virtual urgent care in an integrated value based healthcare system" untersucht die telemedizinische Akutversorgung (VUC) im Rahmen des integrierten, wertorientierten Gesundheitssystems der Southern California Permanente Medical Group (SCPMG). Das Programm „Get Care Now“ (GCN) bietet rund um die Uhr telemedizinische Konsultationen und ergänzt die stationären Notfallambulanzen (UCC). Die Studie vergleicht Patientendemografien, Wartezeiten, Rückkehrquoten und Patientenzufriedenheit zwischen GCN und UCC. GCN-Nutzer, überwiegend weiblich und hispanisch, hatten kürzere Wartezeiten (21,19 Minuten weniger) und eine hohe Zufriedenheitsrate (Net Promoter Score von 87). Rückkehrquoten zum Notfall oder UCC waren vergleichbar, und GCN zeigte geringere Antibiotikaverschreibungen. Die Ergebnisse belegen, dass GCN die Notfallversorgung nachhaltig unterstützt und die Belastung stationärer Einrichtungen reduziert. [@nguyen2025virtual]
+
+### Herzinsuffizienz-Telemonitoring
+
+- **TIM-HF2-Studie**: Zeigte, dass **telemedizinische Betreuung bei Herzinsuffizienz** positive Ergebnisse liefert, egal wie stark die Pumpfunktion des linken Ventrikels beeinträchtigt ist.
+- **Meta-Analyse von IN-TIME, ECOST, TRUST (TRUECOIN)**: Unterstützung für den Nutzen der täglichen Fernüberwachung von ICDs.
+- **IN-TIME-Studie**: Reduzierte **Mortalität um 60%** und Verschlechterung des Herzversagens um 30%.
+
+### Fernüberwachung implantierbarer Geräte
+
+- **TRUST-Studie**: Reduzierte **geplante persönliche Nachkontrollen um 60%**.
+- **COMPAS-Studie**: Verringerte **Krankenhauseinweisungen um 66%** bei Vorhofflimmern.
+- **ECOST-Studie**: Verringerte **Hospitalisierungen um 72%** bei unangemessenen ICD-Schocks.
+
+### DX-Technologie zur Arrhythmie-Erkennung
+
+- **MATRIX-Studie**: Verbesserte **Erkennung subklinischer Vorhofflimmern** durch DX-ICD-Systeme.
+- **THINGS-Register**: DX-Systeme erkennen **AT/AF fast viermal häufiger**.
+- **SENSE-Studie**: Vorteile der DX-ICD-Systeme bei der Erkennung von AHRE.
+
+### Telemonitoring bei COPD und Atemwegserkrankungen
+
+- **TELEMENTOR COPD-Studie**: Prüft die Reduktion von Rückfällen bei COPD-Patienten mit SaniQ.
+- **Studie während der Pandemie**: Zeigte Verbesserungen bei Asthma, COPD und SARS-CoV-2 Patienten.
+- **Mortalität und Kostenstudie (2016)**: Zeigte, dass digitale Überwachung die Mortalität bei COPD-Patienten halbiert.
+
+### Telenotarzt
+
+Die Studie „Pilotprojekt „Telenotarzt Bayern“ Einstellungen und Arbeitszufriedenheit von rettungsdienstlichem Personal nach Einführung einer telemedizinischen Notarztkonsultation“ untersuchte die Auswirkungen der Einführung eines telemedizinischen Notarztsystems (Telenotarzt-Systems) auf die Arbeitsbelastung und Arbeitszufriedenheit des rettungsdienstlichen Personals. Das Projekt wurde initiiert, um auf Herausforderungen wie steigende Einsatzzahlen und Ärztemangel im Rettungsdienst zu reagieren und das arztfreie Intervall am Patienten zu verkürzen. Die Untersuchung basierte auf Online-Umfragen, die sowohl vor als auch nach der Pilotphase des Telenotarzt-Projekts durchgeführt wurden. Die Ergebnisse zeigten statistisch keine signifikanten Veränderungen der Arbeitszufriedenheit oder Arbeitsbelastung, ließen jedoch eine Tendenz zu einer Zunahme der Arbeitsbelastung und einer Abnahme der Arbeitszufriedenheit beim Rettungsdienstpersonal erkennen. Die wahrgenommene Qualität der Patientenversorgung blieb unverändert, während sich die Zusammenarbeit mit dem Telenotarzt verbesserte. [@schmerbeck2023pilotprojekt]
 
 ### Telemedizin in ländlichen Gebieten
 
