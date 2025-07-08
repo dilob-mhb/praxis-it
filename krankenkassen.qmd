@@ -1,5 +1,7 @@
 # Digitalisierung der Krankenkassen
 
+Der [BKK Kundenreport 2025](https://www.bkk-dachverband.de/publikationen/bkk-gesundheitsreport/bkk-kundenreport-2025) beleuchtet aus Sicht der Versicherten die Qualität, Erwartungen und Entwicklungsperspektiven der gesetzlichen Krankenversicherung – mit besonderem Fokus auf Digitalisierung in der ambulanten Versorgung. Zwar ist die allgemeine Zufriedenheit mit den Krankenkassen hoch, doch wünschen sich 73 % der Befragten eine aktivere Rolle ihrer Krankenkasse: weg vom reinen Bezahler hin zu einem digitalen „Kümmerer“ oder „Lotsen“, der Versorgung koordiniert und individuelle Unterstützung bietet. Digitale Anwendungen wie ePA, E-Rezept und DiGAs sind teils noch wenig bekannt, aber die Akzeptanz ist hoch. 61 % würden eine intensivere Datennutzung begrüßen, sofern damit eine bedarfsgerechtere Versorgung einhergeht. Gleichzeitig zeigt sich: Telemedizin, digitale Services und Qualitätstransparenz müssen ausgebaut und klarer kommuniziert werden, um das Potenzial der Digitalisierung für eine patientenzentrierte, wohnortnahe und integrierte Versorgung besser zu nutzen. Der Report unterstreicht den politischen Handlungsbedarf zur Schaffung rechtlicher und struktureller Grundlagen für eine zukunftsfähige ambulante Versorgung.
+
 ## ePA-Apps
 
 Die [ePA-Apps der Krankenkassen](https://www.gematik.de/versicherte/epa-app) in Deutschland bieten Versicherten die Möglichkeit, ihre elektronische Patientenakte (ePA) digital zu verwalten. Basierend auf der Information von der gematik gibt es folgende Punkte zu beachten:
