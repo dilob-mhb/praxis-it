@@ -2,6 +2,8 @@
 
 Das [Projektbüro Digitale Tools](https://www.p-dt.org/) (PDT) unterstützt den Öffentlichen Gesundheitsdienst (ÖGD) bei der Digitalisierung durch die Koordination eines unabhängigen Bewertungsverfahrens für digitale Lösungen wie Software, Apps, Fachanwendungen und Technologien. Ziel ist ein Empfehlungsverzeichnis für digitale Tools, die den Anforderungen des ÖGD entsprechen.
 
+Die [ÖGD News App](https://www.akademie-oegw.de/service/app-oegd-news) liefert Nachrichten aus dem Öffentlichen Gesundheitsdienst (ÖGD) direkt auf das Smartphone. Die kostenlose App für Android und iOS enthält Neuigkeiten aus Politik und Forschung, eine Presseschau sowie Termine. Seit Juli 2025 gibt es auch die Website oegdnews.de für den Zugriff über den Browser.
+
 ## Gesundheitsdaten
 
 Das [ARE-Dashboard des RKI](https://public.data.rki.de/#/site/public/views/ARE-Dashboard/Ueberblick) bietet eine Übersicht über akute respiratorische Erkrankungen in Deutschland, während der [Data Tracker von Epic Research](https://www.epicresearch.org/data-tracker) aggregierte Gesundheitsdaten aus elektronischen Akten für Forschung und Entscheidungsfindung bereitstellt. Das [BEAM-Dashboard der CDC](https://www.cdc.gov/ncezid/dfwed/BEAM-dashboard.html) visualisiert Daten zu bakteriellen, enterischen und Pilzkrankheiten, um Ausbrüche zu überwachen, und das [NREVSS-Dashboard der CDC](https://www.cdc.gov/nrevss/php/dashboard/index.html) verfolgt wöchentlich Trends bei respiratorischen und enterischen Viren in den USA. Gemeinsam unterstützen diese Tools die öffentliche Gesundheit durch datengestützte Einblicke.
