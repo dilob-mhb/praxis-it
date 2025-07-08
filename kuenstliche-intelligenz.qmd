@@ -18,6 +18,8 @@ Der [KI-Campus](https://ki-campus.org/themen/medizin) bietet kostenlose Online-K
 
 [Kaggle Learn](https://www.kaggle.com/learn) bietet eine Sammlung kostenloser, interaktiver Kurse zum Erlernen von Datenwissenschaft und maschinellem Lernen. Diese Kurse sind so gestaltet, dass Sie praktische Fähigkeiten erwerben können, die Sie sofort anwenden können. Kaggle Learn ist ideal für Anfänger und Fortgeschrittene, um ihre Fähigkeiten in Bereichen wie Python, Pandas, und maschinellem Lernen zu verbessern.
 
+Die [data.europa.eu Academy](https://data.europa.eu/en/academy) bietet kostenlose Online-Kurse zu offenen Daten, Datenvisualisierung und Datengovernance, die sich an Einsteiger und Fortgeschrittene richten, um deren Nutzung und Potenzial in der digitalen Ära zu fördern.
+
 ### Online Plattformen
 
 Kaggle-Datensätze und Kaggle-Wettbewerbe illustrieren den Einsatz künstlicher Intelligenz in der Medizin, indem sie Zugang zu Gesundheitsdaten und Herausforderungen bieten. Nutzende können [Datensätze](https://www.kaggle.com/datasets?tags=11111-Health) wie beispielsweise anonymisierte, fiktive Gesundheitsdaten oder medizinische Bilddaten herunterladen, um KI-Modelle für Diagnosen oder Therapieoptimierung zu trainieren. Parallel dazu fördern [Wettbewerbe](https://www.kaggle.com/competitions?tagIds=4202) die Entwicklung von Algorithmen und Modellen, etwa zur Vorhersage von Krankheitsverläufen oder zur Analyse von Gesundheitsrisiken, durch kollaborativen Wissenswettbewerb. Kaggle bietet eine Plattform, auf der KI-gestützte Lösungen getestet, verfeinert und auf medizinische Probleme angewendet werden können.
