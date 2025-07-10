@@ -4,7 +4,7 @@
 
 Der BVKJ fördert die Digitalisierung im Gesundheitswesen ([bvkj-service-gmbh.de/digitale-angebote](https://www.bvkj-service-gmbh.de/digitale-angebote)) durch Angebote wie die PraxisApp „Meine pädiatrische Praxis“, PädExpert® für telemedizinische Konsultationen, PädAssist® für digitales Langzeitmonitoring von Asthma oder Rheuma und PädHome für Online-Videosprechstunden. 
 
-Digitale Angebote sind in die Versorgung von Versicherten bestimmter Krankenkassen integriert beispielsweise über das Programm [clever-fuer-kids.de](https://www.clever-fuer-kids.de) oder [STARKE KIDS by BKK](www.bkk-familyplus.de/baby/digitalangebote).
+Digitale Angebote sind in die Versorgung von Versicherten bestimmter Krankenkassen integriert beispielsweise über das Programm [clever-fuer-kids.de](https://www.clever-fuer-kids.de) oder [STARKE KIDS by BKK](https://www.bkk-familyplus.de/baby/digitalangebote).
 
 ## Pädiatrische Anwendungen
 
