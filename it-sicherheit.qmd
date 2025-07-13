@@ -247,3 +247,12 @@ Die Studie „Psychiatric electronic health records in the era of data breaches 
 ## Identitätsdiebstahl
 
 Der [HPI Identity Leak Checker](https://sec.hpi.de/ilc/) des Hasso-Plattner-Instituts ermöglicht es, mit einer E-Mail-Adresse zu prüfen, ob persönliche Identitätsdaten wie Telefonnummer, Geburtsdatum oder Adresse durch Cyberangriffe im Internet veröffentlicht wurden.
+
+## Ressourcen
+
+* [Warn- und Informationsdienst CERT-Bund](https://wid.cert-bund.de/portal/wid/kurzinformationen)
+* [BSI Digitaler Ersthelfer Onlinekurs](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Cyber-Sicherheitsnetzwerk/Qualifizierung/Digitaler_Ersthelfer/Onlinekurs/Onlinekurs_node.html)
+* [BSI Melde- und Informationsportal](https://mip2.bsi.bund.de/de/)
+* [Cybersicherheitsnetzwerk Rollenspiele](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Cyber-Sicherheitsnetzwerk/Qualifizierung/Trainigskoffer/CSN_Rollenspiele/CSN_Rollenspiele_node.html)
+* [Cybersicherheitsnetzwerk Trainingsspiele](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Cyber-Sicherheitsnetzwerk/Qualifizierung/Trainigskoffer/CSN_Trainingsspiele/CSN_Trainingsspiele_node.html)
+* [Cybersicherheitsnetzwerk Mini-Games](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Cyber-Sicherheitsnetzwerk/Qualifizierung/Trainigskoffer/Mini-Games/Mini-Games_node.html)

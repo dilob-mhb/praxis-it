@@ -30,10 +30,15 @@ In der Studie von Sibley wurden die Erfahrungen des American College of Cardiolo
 | Winglet | Winglet Education GmbH | [winglet-community.com](https://winglet-community.com/) |
 | SYNLAB Fortbildungen     | SYNLAB Weiden GmbH       | [synlab.de](https://www.synlab.de/human/fuer-aerzte/service/fortbildungen) |
 | IMD Fortbildungen        | IMD Institut für medizinische Diagnostik | [imd-berlin.de](https://www.imd-berlin.de/fortbildungen) |
+| LeitMed | Vidal MMI Germany GmbH | [campus.leitmed.de](https://campus.leitmed.de/) |
 
-: Beispiele digitale Wissensplattformen
+: Beispiele digitaler Wissensplattformen
 
 [MEDIZIN TO GO](https://www.medizintogo.de/) bietet kostenfreie, live Online-Fortbildungen für medizinisches Fachpersonal ortsunabhängig. Die Plattform ermöglicht Registrierung, Teilnahme und Zertifizierung mit CME-Punkten durch die Ärztekammer. Als gemeinnütziges und spendenfinanziertes Projekt fördert MEDIZIN TO GO hochwertige Weiterbildung in Fachbereichen wie Gynäkologie (GYN TO GO), Wirbelsäulenchirurgie (SPINE TO GO), Orthopädie/Unfallchirurgie (OU TO GO), Notfallmedizin (NOW TO GO), Pädiatrie (PAED TO GO), Anästhesiologie (AINS TO GO), Neurochirurgie (NCH TO GO), Radiologie (RAD TO GO), Kardiologie (CARDIO TO GO) und Psychiatrie (PSYCH TO GO). Die Plattform erreicht wöchentlich über 1.500 Teilnehmer.
+
+## Qualität von Onlinegesundheitsinformationen
+
+Die Studie „Web-based online resources about adverse interactions or side effects associated with complementary and alternative medicine: a systematic review, summarization and quality assessment“ von Ng et al. (2020) untersucht webbasierte Online-Ressourcen, die Informationen zu möglichen Nebenwirkungen oder Wechselwirkungen von komplementärer und alternativer Medizin (CAM) bereitstellen. Ziel war es, diese Ressourcen für Kliniker zusammenzufassen und deren Qualität mit dem validierten DISCERN-Tool zu bewerten. Die Ergebnisse zeigen eine breite Qualitätsspanne, wobei Micromedex, Merck Manual und Drugs.com die höchsten DISCERN-Werte erzielten, während andere wie Drug Information und Caremark Drug Interactions niedrigere Punktzahlen erhielten. Besonders gut schnitten die Ressourcen bei der Beschreibung von Risiken und klaren Zielsetzungen ab, während Informationen zu Behandlungsalternativen und Auswirkungen auf die Lebensqualität oft mangelhaft waren. Die Studie bietet eine umfassende Liste evidenzbasierter, qualitativ hochwertiger CAM-Ressourcen für Kliniker, Forscher und Patienten. [@ng2020web]
 
 ## Gesetzliche Pflicht zur Fortbildung
 
@@ -57,6 +62,10 @@ Die EIV-Schnittstelle der Bundesärztekammer, erreichbar über [punkte.eiv-fobi.
 | Wittener Harntrakt-Nebenwirkungs-Score | Prof. Dr. Andreas Wiedemann | [harntrakt.de](https://www.harntrakt.de/) |
 
 : Beispiele digitale Wissenstools
+
+### Entscheidungsunterstützung
+
+Das systematische Review „A systematic review of clinicians’ acceptance and use of clinical decision support systems over time“ zielt darauf ab, die Faktoren zu identifizieren, die die frühe, mittelfristige und nachhaltige Akzeptanz und Nutzung von klinischen Entscheidungsunterstützungssystemen (Clinical Decision Support Systems, CDS) beeinflussen. Die Autoren analysierten 67 Studien, die zwischen 2007 und Januar 2024 veröffentlicht wurden, und synthetisierten die Faktoren basierend auf dem Zeitpunkt der Datenerhebung nach der CDS-Implementierung. Die Ergebnisse zeigen, dass Faktoren, die sich auf die CDS-Intervention (z.B. Nützlichkeit) und die innere Umgebung (z.B. Anpassung an Arbeitsabläufe) beziehen, über alle Zeiträume hinweg relevant waren. Wahrgenommene Ergebnisse wurden häufiger im ersten Nutzungsjahr festgestellt, während individuelle Faktoren nach den ersten 6 Monaten der Nutzung relevanter wurden. Interessanterweise wurden Strategien zur Umgehung von CDS-Einschränkungen erst fünf Jahre nach der Implementierung gemeldet. Diese Erkenntnisse unterstreichen, dass die Nutzung von CDS ein dynamischer Prozess ist, bei dem sich die Nutzerbedürfnisse im Laufe der Zeit entwickeln und ändern können. [@newton2025systematic]
 
 ## Für PatientInnen
 

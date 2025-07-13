@@ -1,5 +1,7 @@
 # Pflegesoftware
 
+Das [Kompetenzzentrum Digitalisierung und Pflege des GKV-Spitzenverbandes](https://www.kompetenzzentrum-pflege.digital/) unterstützt Pflegeeinrichtungen und -dienste durch gezielte, praxisnahe Informationen zur Digitalisierung, wie z. B. zur elektronischen Patientenakte (ePA) oder sprachgestützter Pflegedokumentation. Es bietet Beratungsangebote, Vernetzung und Ressourcen, um die Digitalisierung in der Langzeitpflege optimal zu nutzen. Interessierte können sich über einen Newsletter auf dem Laufenden halten.
+
 ## Industrie
 
 Die [nursIT Institute GmbH](https://nursit.de/nursit-home) aus Berlin bietet mit seiner KI-gestützten Software careIT eine innovative Lösung zur Automatisierung und Vereinfachung der Pflege- und Behandlungsdokumentation in Krankenhäusern. Über das Selbstversorgungs-Meta-Pflegeassessment (SeMPA) werden Risiken und Maßnahmen abgeleitet, während die hohe Interoperabilität durch HL7 FHIR eine nahtlose Integration in bestehende Systeme ermöglicht. Zusätzlich fördert nursIT mit Tools wie bedIT und planIT die Teamarbeit, Patientensicherheit und Effizienz in der Pflege.
