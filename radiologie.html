@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -45,9 +65,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a7ceda6cc1d9c29e068534daa6c52070.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-bf9c88ae9f2d750814f0b0ef3f33d9f4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-a7ceda6cc1d9c29e068534daa6c52070.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-278f6f62ef6865769245fb1fe104349d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-d3c17e1081e069af43022d66f46e27f3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-278f6f62ef6865769245fb1fe104349d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -524,6 +544,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./ernaehrung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Diätologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./gefaessmedizin.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Herz- &amp; Kreislaufmedizin</span></a>
   </div>
 </li>
@@ -570,6 +595,11 @@ cookieconsent.run({
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./onkologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Onkologie &amp; Hämatologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./urologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Urologie</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -687,6 +717,7 @@ cookieconsent.run({
   <ul>
   <li><a href="#image-management-systeme" id="toc-image-management-systeme" class="nav-link active" data-scroll-target="#image-management-systeme">Image-Management-Systeme</a></li>
   <li><a href="#weitere-softwarelösungen" id="toc-weitere-softwarelösungen" class="nav-link" data-scroll-target="#weitere-softwarelösungen">Weitere Softwarelösungen</a></li>
+  <li><a href="#forschung" id="toc-forschung" class="nav-link" data-scroll-target="#forschung">Forschung</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/radiologie.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -796,8 +827,21 @@ cookieconsent.run({
 </tr>
 </tbody>
 </table>
+</section>
+<section id="forschung" class="level2">
+<h2 class="anchored" data-anchor-id="forschung">Forschung</h2>
+<p>Die Studie „ChatGPT-4–Driven Liver Ultrasound Radiomics Analysis: Diagnostic Value and Drawbacks in a Comparative Study“ untersucht die Fähigkeit von ChatGPT-4, Leberultraschallbilder mittels Radiomics-Analyse zu bewerten und zwischen Fibrose, Steatose und normalem Lebergewebe zu unterscheiden. Sie vergleicht die Leistung von ChatGPT-4 mit konventioneller Bildanalysesoftware (IDL) anhand von 70 Ultraschallbildern aus einem präklinischen Lebererkrankungsmodell. ChatGPT-4 extrahierte neun Texturmerkmale, die signifikante Unterschiede zwischen den Leberzuständen zeigten (P&lt;.05), erreichte eine Genauigkeit von 76 % und eine Sensitivität von 83 %. Im Vergleich zu IDL war die Sensitivität etwas niedriger (0,83 vs.&nbsp;0,89), jedoch reduzierte ChatGPT-4 die Analysezeit um 40 %. Die Ergebnisse deuten auf ein hohes Potenzial von ChatGPT-4 für die automatisierte Bildanalyse hin, wobei Verbesserungen in der Reproduzierbarkeit und diagnostischen Genauigkeit erforderlich sind. <span class="citation" data-cites="sultan2025chatgpt">(<a href="referenzen.html#ref-sultan2025chatgpt" role="doc-biblioref">Sultan u.&nbsp;a. 2025</a>)</span></p>
+<p>Die Studie “Redefining Radiology: A Review of Artificial Intelligence Integration in Medical Imaging” bietet eine Übersicht über die Integration von Künstlicher Intelligenz (KI) in die Radiologie und deren transformative Auswirkungen auf die Gesundheitsversorgung. Sie verfolgt die Entwicklung der Radiologie von der Entdeckung der Röntgenstrahlen bis zur Anwendung von maschinellem Lernen (ML) und Deep Learning in der modernen medizinischen Bildanalyse. Der Schwerpunkt liegt auf den Anwendungen von KI in der Radiologie, wie Bildsegmentierung, computergestützter Diagnose, prädiktiver Analytik und Workflow-Optimierung. Darüber hinaus beleuchtet die Studie die Auswirkungen von KI auf diagnostische Prozesse, personalisierte Medizin und klinische Arbeitsabläufe und befasst sich auch mit den Herausforderungen, die mit der Integration von KI in die Radiologie verbunden sind, darunter Datenqualität, das „Black-Box“-Problem, infrastrukturelle und technische Komplexität sowie ethische Implikationen. <span class="citation" data-cites="najjar2023redefining">(<a href="referenzen.html#ref-najjar2023redefining" role="doc-biblioref">Najjar 2023</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-najjar2023redefining" class="csl-entry" role="listitem">
+Najjar, Reabal. 2023. <span>„Redefining radiology: a review of artificial intelligence integration in medical imaging“</span>. <em>Diagnostics</em> 13 (17): 2760.
+</div>
+<div id="ref-sultan2025chatgpt" class="csl-entry" role="listitem">
+Sultan, Laith R, Shyam Sunder B Venkatakrishna, Sudha A Anupindi, Savvas Andronikou, Michael R Acord, Hansel J Otero, Kassa Darge, Chandra M Sehgal, und John H Holmes. 2025. <span>„ChatGPT-4–Driven Liver Ultrasound Radiomics Analysis: Diagnostic Value and Drawbacks in a Comparative Study“</span>. <em>JMIR AI</em> 4: e68144.
+</div>
+</div>
 </section>
 
 <div class="callout callout-style-default callout-tip callout-titled" title="Hinweis">
