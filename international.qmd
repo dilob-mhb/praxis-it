@@ -42,6 +42,8 @@ Das Whitepaper ["The Future State of Health and Healthcare in 2035"](https://www
 
 Die Studie „Digital healthcare: the future“ untersucht, wie digitale Technologien wie Künstliche Intelligenz, mobile Anwendungen, Wearables und Telemedizin die medizinische Versorgung in England verändern. Die Autoren beschreiben Chancen für eine bessere und individuellere Patientenversorgung, weisen jedoch auch auf Herausforderungen wie Datenschutz, Integration der Daten, Überprüfung neuer Technologien sowie die Gefahr wachsender sozialer Ungleichheiten hin. Besonders betonen sie, dass der digitale Wandel aktiv durch Ärztinnen und Ärzte begleitet werden muss, um allen Patientinnen und Patienten zugutekommen zu können. [@butcher2022digital]
 
+Die Studie „Initial Lessons From the First National Demonstration Project on Practice Transformation to a Patient-Centered Medical Home“ untersucht die ersten Erkenntnisse aus dem ersten nationalen Demonstrationsprojekt zur Umgestaltung von Hausarztpraxen zu patientenzentrierten medizinischen Versorgungszentren (PCMH). Dabei wurden 36 familienmedizinische Praxen über zwei Jahre begleitet, um die Herausforderungen und Chancen der umfassenden Praxisveränderung zu analysieren. Die Studie zeigt, dass die Transformation weit mehr als inkrementelle Änderungen erfordert, sondern eine grundlegende Umgestaltung der Arbeitsabläufe, Teamarbeit und der ärztlichen Identität voraussetzt. Zudem werden technologische Hürden, die Gefahr von Erschöpfung durch schnellen Wandel sowie die Bedeutung lokaler Anpassungen betont. Abschließend gibt die Studie Empfehlungen für eine realistische, praxisnahe und unterstützende Umsetzung des PCMH-Konzepts. [@nutting2009initial]
+
 ## Veranstaltungen
 
 * [arcinnovation.org](https://arcinnovation.org/)
