@@ -44,6 +44,10 @@ Die Studie „Digital healthcare: the future“ untersucht, wie digitale Technol
 
 Die Studie „Initial Lessons From the First National Demonstration Project on Practice Transformation to a Patient-Centered Medical Home“ untersucht die ersten Erkenntnisse aus dem ersten nationalen Demonstrationsprojekt zur Umgestaltung von Hausarztpraxen zu patientenzentrierten medizinischen Versorgungszentren (PCMH). Dabei wurden 36 familienmedizinische Praxen über zwei Jahre begleitet, um die Herausforderungen und Chancen der umfassenden Praxisveränderung zu analysieren. Die Studie zeigt, dass die Transformation weit mehr als inkrementelle Änderungen erfordert, sondern eine grundlegende Umgestaltung der Arbeitsabläufe, Teamarbeit und der ärztlichen Identität voraussetzt. Zudem werden technologische Hürden, die Gefahr von Erschöpfung durch schnellen Wandel sowie die Bedeutung lokaler Anpassungen betont. Abschließend gibt die Studie Empfehlungen für eine realistische, praxisnahe und unterstützende Umsetzung des PCMH-Konzepts. [@nutting2009initial]
 
+## Vereinigte Staaten von Amerika (USA)
+
+Die Studie mit dem Titel „Adoption of artificial intelligence in healthcare: survey of health system priorities, successes, and challenges“ untersucht die Verbreitung und Erfolgsfaktoren von Künstlicher Intelligenz (KI) in US-Gesundheitssystemen im Zeitalter der generativen KI. Dabei zeigt sich, dass insbesondere das Tool „Ambient Notes“ zur automatisierten klinischen Dokumentation großflächig eingeführt wurde und als erfolgreich bewertet wird. Andere Anwendungsbereiche wie Bildgebung und Risikostratifizierung sind ebenfalls verbreitet, erreichen aber nur mäßige Erfolge. Als zentrale Hindernisse für die KI-Adoption werden vor allem die Unreife der Technologien, finanzielle Bedenken und regulatorische Unsicherheiten genannt. Die Studie betont die Notwendigkeit gemeinsamer Strategien und regelmäßiger Evaluationen, um den Einsatz von KI im Gesundheitswesen sicher und effektiv zu gestalten. [@poon2025adoption]
+
 ## Veranstaltungen
 
 * [arcinnovation.org](https://arcinnovation.org/)
