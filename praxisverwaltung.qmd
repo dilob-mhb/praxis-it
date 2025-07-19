@@ -183,6 +183,10 @@ Tastenkürzel können die Effizienz von Ärzten bei der Nutzung medizinischer So
 * [T2med Tastaturkürzel](https://hilfe.t2med.de/navigation/Shortcuts/)
 * [CGM Albis Tastaturkürzel](https://www.hcs-ct.de/ueber-uns/aktuelles/detail/tastaturbelegungen-in-cgm-albis)
 
+## Integration von Sprachmodellen in elektronischen Patientenakten
+
+Der Artikel „Implementation of Large Language Models in Electronic Health Records“ beschreibt die Integration von großen Sprachmodellen (LLMs) in das elektronische Krankenaktensystem eines Universitätskrankenhauses. Ziel war es, den dokumentationsbedingten Mehraufwand für Ärztinnen und Ärzte zu reduzieren, indem ein sicherer, datenschutzkonformer Chatbot direkt im EHR-System eingesetzt wurde. In einer einmonatigen Pilotstudie mit 28 Ärzten aus neun Fachrichtungen wurde eine tägliche Nutzung von 64% erreicht, wobei vor allem Funktionen zur Zusammenfassung von Patientendaten und zur gezielten Informationssuche genutzt wurden. Die Studie zeigt die technische Machbarkeit und Akzeptanz eines LLM-gestützten Assistenzsystems im klinischen Alltag, hebt jedoch auch die Bedeutung von Sicherheit, Datenschutz und Nutzerfeedback hervor. [@Griot2025-rq]
+
 ## Gesundheitsinformationssysteme
 
 Das Buch Health Information Systems: Technological and Management Perspectives von Alfred Winter, Elske Ammenwerth, Reinhold Haux, Michael Marschollek, Bianca Steiner und Franziska Jahn bietet eine umfassende Einführung in die Technologien und Managementansätze von Gesundheitsinformationssystemen. In dieser überarbeiteten Open-Access-Ausgabe von 2023 wird detailliert beschrieben, wie diese Systeme in verschiedenen Kontexten – von der Prävention über die Behandlung akuter und chronischer Krankheiten bis hin zur medizinischen Forschung – aufgebaut, verwaltet und deren Qualität bewertet werden kann. [@winter2023health]
