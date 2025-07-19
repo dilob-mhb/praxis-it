@@ -29,6 +29,8 @@ Die Webseite [cholesterin-neu-verstehen.de](https://www.cholesterin-neu-verstehe
 |  1 | actensio                  | mementor DE GmbH                  | [actens.io](https://actens.io/) |
 |  2 | Hypertonie.App   | Hypertension Care UG              | [www.hypertonie.app](https://www.hypertonie.app/) |
 
+Die Studie „Machbarkeit und Wirksamkeit eines ringförmigen Blutdruckmessgeräts im Vergleich zu einem 24-Stunden-Ambulanzblutdruckmonitor“ untersucht die Genauigkeit des ringförmigen, manschettenlosen Geräts CART-I Plus im Vergleich zum herkömmlichen 24-Stunden-Blutdruckmonitor (ABPM). Dabei trugen 33 Teilnehmer beide Geräte gleichzeitig am selben Arm. Die Ergebnisse zeigten, dass das CART-I Plus verlässliche Blutdruckwerte liefert, die eng mit denen des ABPM übereinstimmen, insbesondere bei Messungen über den Tag und die Nacht hinweg. Das Gerät basiert auf Photoplethysmographie und bietet kontinuierliche und komfortable Blutdrucküberwachung. [@Lee2024-kc]
+
 ## Kardiologie
 
 Die Pocket-Leitlinien Anwendungen der [Deutschen Gesellschaft für Kardiologie](https://leitlinien.dgk.org/pocketleitlinie/app/) und der [European Society of Cardiology](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Guidelines-derivative-products/ESC-Mobile-Pocket-Guidelines) machen kardiologische Leitlinien auf digitalen Endgeräten zugänglich und verfügbar.
