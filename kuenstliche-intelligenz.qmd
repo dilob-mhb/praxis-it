@@ -8,6 +8,8 @@ Der Artikel "Ten Ways Artificial Intelligence Will Transform Primary Care" aus d
 
 Die Trendstudie [„Künstliche Intelligenz in der ambulanten Versorgung: Trends, Chancen und Potenziale für das deutsche Gesundheitswesen“](https://www.gesundheitsstadt-berlin.de/aktivitaeten/veroeffentlichungen#c574) untersucht die Rolle von KI im Gesundheitswesen. Sie zeigt, dass ein Drittel der Ärzt:innen bereits KI nutzt, insbesondere in Bildgebung, Diagnostik und Dokumentation, während zwei Drittel ein hohes Zukunftspotenzial sehen. KI entlastet vor allem administrative Aufgaben, verbessert Prävention und ermöglicht personalisierte Medizin. Haftungsrisiken und Kontrollverlust sind jedoch zentrale Vorbehalte. Die Studie betont die Notwendigkeit europäischer Gesundheitsdaten, strenger Datenschutzstandards und umfassender Fortbildung, um KI verantwortungsvoll einzusetzen und den Fachkräftemangel zu mildern.
 
+Die Studie mit dem Titel „General practitioners’ opinions of generative artificial intelligence in the UK: An online survey“ untersucht, wie britische Hausärztinnen und Hausärzte den Einsatz von generativer Künstlicher Intelligenz (KI) im klinischen Alltag bewerten. In einer landesweiten Online-Befragung von 1005 GPs im Januar 2025 zeigte sich, dass die Mehrheit Vorteile bei Dokumentation, Informationssammlung und Effizienz erwartet, jedoch große Skepsis hinsichtlich Empathie, Datenschutz und Chancengleichheit besteht. Lediglich wenige Ärztinnen und Ärzte wurden bislang von Arbeitgebern zur Nutzung von KI ermutigt oder speziell geschult, und der Wunsch nach klaren Leitlinien und gezielter Fortbildung ist weit verbreitet. [@kharko2025general]
+
 ## Lernmaterialien
 
 ### Kostenfreie Angebote
