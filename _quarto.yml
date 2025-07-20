@@ -76,6 +76,7 @@ book:
       - dermatologie.qmd
       - diabetologie.qmd
       - ernaehrung.qmd
+      - nephrologie.qmd
       - gefaessmedizin.qmd
       - rheumatologie.qmd
       - orthopaedie.qmd
@@ -86,6 +87,7 @@ book:
       - gastroenterologie.qmd
       - kinderheilkunde.qmd
       - onkologie.qmd
+      - frauenheilkunde.qmd
       - urologie.qmd
       - hno.qmd
       - allergologie.qmd

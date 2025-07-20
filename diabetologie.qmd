@@ -14,6 +14,10 @@ Die Studie von Kim et al. (2025), veröffentlicht in npj Digital Medicine, unter
 
 Das Positionspapier „Telemedizin in der Behandlung von Menschen mit Diabetes mellitus“ beschreibt Telemedizin als effektive Lösung zur Fernbetreuung von Patient:innen mit Diabetes, die Warte- und Anfahrtszeiten reduziert. Es betont, dass nicht alle Patient:innen dafür geeignet sind und bestimmte Voraussetzungen, wie technische Kompetenz und geeignete Hardware, erfüllt sein müssen. Besonders profitieren können Personen mit Typ-1-Diabetes, Typ-2-Diabetes mit Sensorunterstützung, Gestationsdiabetes oder solche, die AID-Systeme und Insulinpumpen nutzen. Studien zeigen eine HbA1c-Reduktion und verbesserte Zielbereichszeiten, doch die Therapieadhärenz kann nachlassen. Telemedizin erweitert das Behandlungsspektrum, erfordert jedoch regelmäßige persönliche Kontakte und sorgfältige Datensicherheit. [@resl2025positionspapier]
 
+### Nicht-invasive Blutzuckermessung
+
+Das [DMT Pocket von DiaMonTech](https://www.diamontech.de/loesungen/d-pocket) ist ein tragbares, nicht-invasives Blutzuckermessgerät, das die Messung schmerzfrei und ohne Fingerstechen ermöglicht. Es nutzt eine innovative photothermische Technologie, um den Blutzuckerwert innerhalb von wenigen Sekunden durch die Haut zu bestimmen. Das Gerät ist klein, handlich und soll in Zukunft auch in Smartwatches integriert werden, um die Diabetesversorgung deutlich zu erleichtern und den Alltag der Nutzer komfortabler zu gestalten.
+
 ## Softwarelösungen
 
 | Software                  | Anbieter                                   | URL                                          | Anmerkungen                                                                                     |
