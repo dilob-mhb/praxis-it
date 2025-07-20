@@ -29,6 +29,8 @@ Software in der Rheumatologie zeichnet sich durch spezifische Funktionen wie Ana
 
 Das [Digital Rheumatology Network](https://digitalrheumatology.org/) vernetzt eine Reihe von Digitalisierungsinitiativen. Zu den Aktivitäten gehören der jährliche „Digital Rheumatology Day“, ein hybrides Event, das Experten aus Medizin, Forschung, Pharma, MedTech und Gesundheits-IT zusammenbringt, um neue digitale Praktiken wie digitale Therapeutika, Biomarker, künstliche Intelligenz und virtuelle Realität zu diskutieren. Die Plattform bietet zudem Webinare und Podcasts, die Themen wie digitale Versorgungspfade und Fernüberwachung fokussieren, sowie einen Blog mit aktuellen Entwicklungen. Der „Digital Rheumatology Research Award“ zeichnet innovative Forschungsarbeiten aus, etwa zur Nutzung von Smartphone-Apps für Patientenberichte oder KI in der Diagnostik.
 
+Der Artikel „Five years of the Digital Rheumatology Network: insights and future directions“ beschreibt die Entwicklung und Erfolge des Digital Rheumatology Network (DRN) in den letzten fünf Jahren. DRN hat sich als bedeutende Plattform etabliert, die digitale Innovationen in der Rheumatologie fördert und Fachleute aus Medizin, Technologie und Patienten zusammenbringt. Thematisch liegt der Fokus auf künstlicher Intelligenz, Fernüberwachung, digitalen Therapien und der Verbesserung elektronischer Patientenakten. Trotz großer Fortschritte bestehen noch Herausforderungen wie mangelnde Dateninteroperabilität und begrenzte digitale Kompetenz. Zukünftig will DRN die digitale Transformation begleiten, die Zusammenarbeit stärken und die digitale Bildung weiter ausbauen. [@chan2025five]
+
 ### Umfrage der Kommission Digitale Rheumatologie 2020
 
 Die [Kommission "Digitale Rheumatologie"](https://dgrh.de/Start/DGRh/Die-Gesellschaft/Kommissionen-Amtszeit-2023-2025/Kommission-Digitale-Rheumatologie.html)
@@ -61,6 +63,8 @@ Quelle: [@knitza2020ziele]
 ## DiGAs in der Rheumatologie
 
 Eine Studie von [@Albrecht2025] zeigt, dass digitale Gesundheitsanwendungen (DiGAs) eine Ergänzung zur Behandlung rheumatischer Erkrankungen darstellen, insbesondere bei der Symptomkontrolle von Rückenschmerzen und Gewichtsmanagement. Von 191 Patient:innen nutzten 66 % die DiGAs wöchentlich, 51 % berichteten von einer Symptomverbesserung, wobei Anwendungen wie Kaia Rückenschmerzen und Somnio besonders effektiv waren. Trotz hoher Benutzerfreundlichkeit bleibt die Abschlussrate niedrig (15 %), was auf die Notwendigkeit zusätzlicher Patientenschulungen und Unterstützungsangebote hinweist. Für Rheumatolog:innen bieten DiGAs eine Möglichkeit, Patienten über digitale Mittel individuell zu unterstützen und die Versorgung zu ergänzen.
+
+Die Studie „Digital empowerment on hold: DiGA adoption gaps−a German national cross-sectional patient survey study“ untersucht die Nutzung und Akzeptanz digitaler Gesundheitsanwendungen (DiGAs) bei Patienten mit rheumatischen Erkrankungen in Deutschland. Obwohl über 80% der Befragten mindestens eine passende Begleiterkrankung hatten und rund 70% grundsätzlich bereit waren, DiGAs zu nutzen, zeigten nur etwa 13% tatsächlich eine Nutzung. Die Ergebnisse verdeutlichen eine große Diskrepanz zwischen dem Interesse der Patienten und der tatsächlichen Anwendung, was vor allem an fehlenden Empfehlungen von Ärzt:innen und begrenzten rheumatologiespezifischen DiGAs liegt. Um die digitale Selbstverwaltung in der Rheumatologie besser zu unterstützen, sind gezielte Maßnahmen zur Aufklärung und Integration von DiGAs in die Versorgung notwendig. [@Kremer2025-os]
 
 ## Patientenermächtigung
 
