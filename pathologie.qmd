@@ -1,0 +1,7 @@
+# Pathologie
+
+## Forschung
+
+### Künstliche Intelligenz
+
+Die Studie mit dem Titel „Incidental Prompt Injections on Vision–Language Models in Real-Life Histopathology“ untersucht, wie sogenannte Vision–Language-Modelle (VLMs) auf handschriftliche Labels und Wasserzeichen auf histopathologischen Bildern reagieren. Die Forscher fanden heraus, dass diese Modelle sehr anfällig für sogenannte „Prompt Injection“-Effekte sind: Genaue Labels führten zu nahezu perfekten Diagnosen, während irreführende oder fehlerhafte Beschriftungen die Modelle zu Fehlentscheidungen verleiteten. Diese Schwachstelle besteht unabhängig von gezielten Angriffen und lässt sich auch durch Prompt Engineering nicht beheben. Damit stellt die unbeabsichtigte Beeinflussung durch sichtbare Beschriftungen ein erhebliches Risiko für die diagnostische Sicherheit beim Einsatz von KI in der Medizin dar. [@doi:10.1056/AIcs2500078]
