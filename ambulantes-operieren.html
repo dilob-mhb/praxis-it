@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -554,6 +574,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./geriatrie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Geriatrie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./neurologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a>
   </div>
 </li>
@@ -701,7 +726,15 @@ cookieconsent.run({
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhaltsverzeichnis</h2>
+   
+  <ul>
+  <li><a href="#übersicht" id="toc-übersicht" class="nav-link active" data-scroll-target="#übersicht">Übersicht</a></li>
+  <li><a href="#softwarelösungen" id="toc-softwarelösungen" class="nav-link" data-scroll-target="#softwarelösungen">Softwarelösungen</a></li>
+  <li><a href="#forschung" id="toc-forschung" class="nav-link" data-scroll-target="#forschung">Forschung</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/ambulantes-operieren.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
 <p>Projektpartner</p>
 <p><a href="https://www.dilob-mhb.de/"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/DiLoB-Logo-Transparent.png" class="img-fluid" width="100"></a></p>
@@ -740,6 +773,8 @@ cookieconsent.run({
 </header>
 
 
+<section id="übersicht" class="level2">
+<h2 class="anchored" data-anchor-id="übersicht">Übersicht</h2>
 <p>Die Softwarelösungen für das ambulante Operieren unterstützen verschiedene Aspekte des operativen Managements, von der Planung und Dokumentation bis hin zur Optimierung und Integration.</p>
 <p><strong>OP-Management und Planung:</strong></p>
 <ul>
@@ -757,6 +792,9 @@ cookieconsent.run({
 <ul>
 <li>Viele dieser Softwarelösungen sind darauf ausgelegt, mit anderen Systemen im Krankenhaus oder in der Praxis zu interagieren, wie z.B. Krankenhausinformationssystemen (KIS), um eine nahtlose Datenübertragung und eine ganzheitliche Betrachtung der Patientenversorgung zu gewährleisten.</li>
 </ul>
+</section>
+<section id="softwarelösungen" class="level2">
+<h2 class="anchored" data-anchor-id="softwarelösungen">Softwarelösungen</h2>
 <table class="caption-top table">
 <caption>Übersicht der Softwarelösungen für die OP-Management- und Sterilgutverwaltung</caption>
 <thead>
@@ -839,8 +877,18 @@ cookieconsent.run({
 </tr>
 </tbody>
 </table>
+</section>
+<section id="forschung" class="level2">
+<h2 class="anchored" data-anchor-id="forschung">Forschung</h2>
+<p>Die Studie „Impact of digital surgery scheduling systems on the quality of preoperative care: a systematic review protocol“ untersucht, wie digitale Systeme zur OP-Planung die Qualität der präoperativen Versorgung verbessern können. Dabei werden Aspekte wie Patientenzufriedenheit, Sicherheit, Effektivität, Effizienz, Termintreue und Gleichberechtigung analysiert. Ziel ist es, durch eine systematische Auswertung vorhandener Studien praktische Erkenntnisse für Krankenhäuser zu gewinnen, um OP-Abläufe zu optimieren und die Patientenversorgung zu verbessern. <span class="citation" data-cites="lammila2025impact">(<a href="referenzen.html#ref-lammila2025impact" role="doc-biblioref">Lammila-Escalera u.&nbsp;a. 2025</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-lammila2025impact" class="csl-entry" role="listitem">
+Lammila-Escalera, Elena, Gabriele Kerr, Geva Greenfield, Benedict Hayhoe, Natalie Brewer, Grazia Antonacci, Azeem Majeed, und Ana Luisa Neves. 2025. <span>„Impact of digital surgery scheduling systems on the quality of preoperative care: a systematic review protocol“</span>. <em>BMJ open</em> 15 (7): e102034.
+</div>
+</div>
+</section>
 
 <div class="callout callout-style-default callout-tip callout-titled" title="Hinweis">
 <div class="callout-header d-flex align-content-center">
@@ -1319,7 +1367,7 @@ Hinweis
     </div>   
     <div class="nav-footer-center">
 
-<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/ambulantes-operieren.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/ambulantes-operieren.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
