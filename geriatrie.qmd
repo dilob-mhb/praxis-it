@@ -1,0 +1,7 @@
+# Geriatrie
+
+## Forschung
+
+### Ambient Assisted Living (AAL)
+
+Die Studie „Lessons Learned From the Integration of Ambient Assisted Living Technologies in Older Adults’ Care: Longitudinal Mixed Methods Study“ untersucht den Einsatz von Ambient Assisted Living (AAL)-Technologien bei älteren Menschen in Singapur. Die Forschungsarbeit zeigt, dass durch das System Ubismart insbesondere das psychische Wohlbefinden und die Teilnahme an Freizeit- und sozialen Aktivitäten der älteren Erwachsenen verbessert wurden. Die Technologie vermittelt ein Gefühl von Sicherheit und Geborgenheit, kann jedoch paradoxerweise bei einigen Nutzern zu einer Verringerung persönlicher sozialer Kontakte führen. Die nachhaltige Integration solcher Technologien erfordert daher eine Balance zwischen technologischer Unterstützung und der Förderung sozialer Bindungen. [@info:doi/10.2196/57989]

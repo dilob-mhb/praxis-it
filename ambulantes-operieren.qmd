@@ -1,5 +1,7 @@
 # Ambulantes Operieren
 
+## Übersicht
+
 Die Softwarelösungen für das ambulante Operieren unterstützen verschiedene Aspekte des operativen Managements, von der Planung und Dokumentation bis hin zur Optimierung und Integration. 
 
 **OP-Management und Planung:**
@@ -17,6 +19,8 @@ Die Softwarelösungen für das ambulante Operieren unterstützen verschiedene As
 **Integration und Interoperabilität:**
 
 - Viele dieser Softwarelösungen sind darauf ausgelegt, mit anderen Systemen im Krankenhaus oder in der Praxis zu interagieren, wie z.B. Krankenhausinformationssystemen (KIS), um eine nahtlose Datenübertragung und eine ganzheitliche Betrachtung der Patientenversorgung zu gewährleisten.
+
+## Softwarelösungen
 
 | **Software**             | **Hersteller**          | **URL**                                                    |
 |---------------------------|-------------------------|------------------------------------------------------------|
@@ -36,3 +40,8 @@ Die Softwarelösungen für das ambulante Operieren unterstützen verschiedene As
 | B. Braun Organize | B. Braun SE | [bbraun.de](https://www.bbraun.de/de/produkte-und-loesungen/loesungen/ambulantes-operieren/it-fuer-warenwirtschaft.html) |
 
 : Übersicht der Softwarelösungen für die OP-Management- und Sterilgutverwaltung
+
+## Forschung
+
+Die Studie „Impact of digital surgery scheduling systems on the quality of preoperative care: a systematic review protocol“ untersucht, wie digitale Systeme zur OP-Planung die Qualität der präoperativen Versorgung verbessern können. Dabei werden Aspekte wie Patientenzufriedenheit, Sicherheit, Effektivität, Effizienz, Termintreue und Gleichberechtigung analysiert. Ziel ist es, durch eine systematische Auswertung vorhandener Studien praktische Erkenntnisse für Krankenhäuser zu gewinnen, um OP-Abläufe zu optimieren und die Patientenversorgung zu verbessern. [@lammila2025impact]
+

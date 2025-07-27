@@ -38,6 +38,7 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 | 18  | privadis          | MCC Medical CareCapital GmbH      | [privadis.de](https://www.privadis.de/)                     |
 | 19  | Simba n³          | Simba n³ GmbH                     | [nhochdrei.de](https://www.nhochdrei.de/branchen-und-bereiche/gesundheitswesen/uebersicht/) |
 | 20  | Honorarfuchs      | Honorarfuchs GmbH                 | [honorarfuchs.de](https://honorarfuchs.de/)                 |
+| 21 | EBM-Plus | Conclusys Holding GmbH | [ebm-plus.de](https://ebm-plus.de/) |
 
 : Übersicht Softwarelösungen Buchhaltung
 
@@ -50,6 +51,8 @@ Die Buchhaltungssoftwareprodukte teilen mehrere gemeinsame Merkmale, die sich au
 | 10 | Starke-DMS | Starke + Reichert GmbH & Co. KG | [starke-dms.de](https://www.starke-dms.de/) |
 
 : Übersicht Softwarelösungen Dokumentenmanagement
+
+Der [EBM- und GOÄ-Spicker](https://www.hausaerztlichepraxis.digital/spicker) listet Leistungsziffern kompakt auf, um die Abrechnung zu vereinfachen. Die Spicker ist eine manuelle, kostenfreie Orientierungshilfe. Im Gegensatz zu den statischen EBM- und GOÄ-Spickern bieten Abrechnungsoptimierungssoftwarelösungen automatisierte Analysen, Echtzeitprüfungen und Optimierungsvorschläge, um Abrechnungsfehler zu vermeiden. Software spart Zeit durch Integration in Praxisverwaltungssysteme, ist jedoch kostenpflichtig und erfordert technische Einrichtung, während Spicker eine kostengünstige, aber arbeitsintensivere manuelle Lösung darstellen.
 
 ## Bezahlsysteme
 
