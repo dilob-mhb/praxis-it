@@ -63,6 +63,8 @@ Digitale Innovationen können über direkte und indirekte Zugangswege in den ers
 
 ![Entwicklungsprozess Grafik](assets/pako_eNp1UstOwzAQ_BXLZxD3HpD6pq2QgHKqw8HEm8Rqso7sNQiq_g2fwY0fw3GaplA1h1U8OzPe9e6Op0YBH_Dcyrpgz5MEWfiGYqEAMNOoPObMo2Irg59QEyC963RbBvil5Y7EvUyLV2m3oMk58koDRsmDNWToowY8UMdieiYfs-vrWzYRCySwCOzRy1LTzxe5rUGypizhwJyKJ8h9K.png)
 
+Die Studie mit dem Titel „A Human-Centered Approach for a Student Mental Health and Well-Being Mobile App: Protocol for Development, Implementation, and Evaluation“ beschreibt die Entwicklung und Evaluation einer mobilen App namens Willo, die die psychische Gesundheit und das Wohlbefinden von Studierenden an der Universität verbessern soll. Dabei wurde ein nutzerzentrierter Ansatz gewählt, bei dem Studierende aktiv in den gesamten Prozess eingebunden wurden. Ziel der App ist es, die Nutzung von campusinternen Unterstützungsangeboten zu fördern und durch die Integration mit elektronischen Gesundheitsakten eine bessere Koordination der Versorgung zu ermöglichen. Die Studie umfasst eine umfassende Evaluation mittels Umfragen, App-Nutzungsanalysen sowie qualitativen Interviews und Fokusgruppen, um Wirksamkeit, Akzeptanz und Nachhaltigkeit der App zu prüfen. [@Gholami2025]
+
 ## Beispiele
 
 | Forschungsprojekt | URL |
