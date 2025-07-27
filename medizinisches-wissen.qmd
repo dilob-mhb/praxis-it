@@ -69,26 +69,6 @@ Das systematische Review „A systematic review of clinicians’ acceptance and 
 
 Der Artikel „Towards physician-centered oversight of conversational diagnostic AI“ stellt ein neues Konzept vor, bei dem KI-gestützte Diagnosesysteme wie g-AMIE zwar eigenständig Patientengespräche führen und medizinische Fallzusammenfassungen erstellen, aber keine individuellen Diagnosen oder Behandlungsempfehlungen direkt an Patienten geben dürfen. Stattdessen werden diese Vorschläge von erfahrenen Hausärzten in einer spezialisierten Oberfläche überprüft und freigegeben, wodurch die Verantwortung immer beim Arzt bleibt. In einer simulierten Studie zeigte dieses System eine höhere Qualität bei der Fallaufnahme und -dokumentation sowie effizientere Abläufe im Vergleich zu menschlichen Kontrollgruppen. [@vedadi2025physiciancenteredoversightconversationaldiagnostic]
 
-## PatientInnenkommunikation
-
-Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheitsinformationen für Patientinnen. Sie bieten Gesundheitsinformationen in einer leicht verständlichen Form, die es Patientinnen ermöglicht, komplexe medizinische Konzepte zu begreifen, ohne dass sie Fachwissen voraussetzen.
-
-| Product                  | Company                  | URL                                                                 |
-|--------------------------|--------------------------|---------------------------------------------------------------------|
-| Was hab ich              | Was hab’ ich? gemeinnützige GmbH | [washabich.de](https://washabich.de/)                               |
-| Gesund.bund.de           | Bundesministerium für Gesundheit | [gesund.bund.de](https://gesund.bund.de/)                           |
-| Simply Onno   | Simply Onno   | [simply-onno.com](https://www.simply-onno.com/) |
-
-: Übersicht digitale Gesundheitsaufklärung 
-
-Es gibt Nachweise, die die Wirksamkeit von [TheraKey](https://www.therakey.de/) hervorheben. Es ist ein digitales Therapiebegleitprogramm, das Patient:innen mit chronischen Erkrankungen bei der Aufklärung, dem Selbstmanagement und der Therapietreue unterstützt. Evaluationen zeigen, dass 78 % der Nutzer:innen nach dem Einsatz des Onlineportals besser mit ihrer Erkrankung umgehen können. In einer Studie mit 185 Menschen zeigte nach drei Monaten Verbesserungen bei Selbstmanagement, Wohlbefinden, Adhärenz und einer Reduktion krankheitsbezogener Belastung. 84 % der Befragten vertrauten den TheraKey-Inhalten mehr als anderen Onlinequellen. [@kulzer2022626;@red2017therakey;@red2013online]
-
-Die Studie „AI-generated patient-friendly discharge summaries to empower patients“ untersucht, ob durch KI erstellte, patientenfreundliche Entlassungszusammenfassungen das Verständnis von Patienten für ihre Erkrankung verbessern können. In einer Untersuchung mit 20 Patientinnen und Patienten in einem Tertiärkrankenhaus berichteten 90% von einem besseren Verständnis nach dem Lesen der KI-generierten Zusammenfassung. Besonders ältere Patienten zeigten großes Interesse an solchen Zusammenfassungen für zukünftige Krankenhausaufenthalte. Die Ergebnisse zeigen, dass KI-gestützte Texte die Patientenkommunikation deutlich verbessern können, wenngleich weitere große Studien zur Absicherung der Ergebnisse nötig sind. [@reuter2025ai]
-
-[DocToRead](https://www.doctoread.com/) ist eine kostenpflichtige App, die medizinische Dokumente in leicht verständliche Alltagssprache übersetzt. Sie hilft Nutzern dabei, medizinische Befunde, Arztbriefe oder Laborberichte schnell und sicher zu verstehen.
-
-Die DTB Gesellschaft für digitale Therapiebegleitung mbH bietet mit dem [Tino DTB](https://tino-dtb.de/) ein digitales Medizinprodukt zur Unterstützung von Krebspatienten in der Tumortherapie. Die App ermöglicht eine direkte Verbindung zwischen Patienten und Praxisteam, indem sie Medikationspläne, Einnahmeerinnerungen und qualitätsgesicherte Therapieinformationen bereitstellt. Patienten können ihren Gesundheitszustand und Vitalwerte dokumentieren, während Ärzte in Echtzeit den Therapieverlauf überwachen und Korrelationen zwischen Einnahme, Nebenwirkungen und Vitalwerten analysieren können. Der Tino DTB, der als „App auf Rezept“ verordnet werden kann.
-
 ## Persönliche Wissenssammlung
 
 Die optimale Methode Wissen zu notieren, ob auf Papier oder elektronisch, bleibt ein vielschichtiges Thema mit unterschiedlichen Forschungsergebnissen. **Handschriftliche Notizen führen oft zu einer besseren kognitiven Verarbeitung**, da sie Zusammenfassungen und Umschreibungen erfordern, was ein tieferes Verständnis und eine verbesserte Erinnerungsfähigkeit fördert. [@SalameTubaNujhat2024] Im Gegensatz dazu bietet **die digitale Notizenerfassung Vorteile in Bezug auf Geschwindigkeit, Lesbarkeit, Organisation und Durchsuchbarkeit** und erlaubt die Integration von Multimedia-Elementen. Eine Metaanalyse zeigte jedoch, dass elektronische Methoden mit schlechteren Lernergebnissen korrelieren: Studierende, die digital schrieben, erzielten bis zu 25 % schlechtere Ergebnisse als diejenigen mit handschriftlichen Notizen. [@AllenLeFebvreLeFebvreBourhis2020]
@@ -104,7 +84,7 @@ Die optimale Methode Wissen zu notieren, ob auf Papier oder elektronisch, bleibt
 
 Die Patienten-Universität an der Medizinischen Hochschule Hannover fördert die Gesundheitskompetenz von Patient:innen und Interessierten durch kostenfreie Bildungsangebote. Sie bietet Expertenvorträge (vor Ort und im Livestream), Selbstmanagement-Kurse wie INSEA, digitale Gesundheitskurse (KundiG) und Gesundheitstipps. Themen reichen von modernen Medizintechnologien bis zu erblichen Erkrankungen. Organisiert wird das Programm unter der Leitung von Prof. Dr. Marie-Luise Dierks und Dr. Gabriele Seidel, in Kooperation mit Partnern wie BARMER und Selbsthilfegruppen. [patienten-universitaet.de](https://www.patienten-universitaet.de/)
 
-## digitale Verwaltung der Fortbildungspunkte
+## Digitale Verwaltung der Fortbildungspunkte
 
 Die Website https://www.fobiapp.de/ ist die offizielle Plattform der FobiApp, einer Fortbildungsanwendung, die von der Landesärztekammer Hessen entwickelt wurde, um Ärztinnen und Ärzten in Deutschland die Verwaltung ihrer Fortbildungspunkte und -veranstaltungen zu erleichtern. Sie bietet Informationen zur Nutzung der App, die ab 2025 durch eine webbasierte Lösungen ersetzt wird.
 
