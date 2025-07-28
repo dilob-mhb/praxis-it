@@ -405,7 +405,7 @@ Die Kassenärztliche Bundesvereinigung (KBV) fordert in Ihrem Positionspapier ["
 
 ## Digitale Verbandsarbeit
 
-Die MarburgerBund App bietet Mitgliedern des Marburger Bundes einen digitalen Zugang zu aktuellen News, der Marburger Bund Zeitung als ePaper, Mitgliederdatenverwaltung, direkter Kontakt zu Landesverbänden sowie hilfreiche Merkblätter und Dokumente für den beruflichen Alltag. Entwickelt für Ärzte, ermöglicht die App effiziente, nutzerfreundliche Interaktion mit dem Verband.
+Die [MarburgerBund App](https://www.marburger-bund.de/marburgerbund-app) soll Mitgliedern des Marburger Bundes einen digitalen Zugang zu aktuellen News, der Marburger Bund Zeitung als ePaper, Mitgliederdatenverwaltung, direkter Kontakt zu Landesverbänden sowie hilfreiche Merkblätter und Dokumente für den beruflichen Alltag bieten. Die App soll eine effiziente, nutzerfreundliche Interaktion mit dem Verband ermöglichen.
 
 ## Zeitschriften & Verlage
 
