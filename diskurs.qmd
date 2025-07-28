@@ -393,6 +393,7 @@ Die Telematik-Roadmap von Mark Langguth ist eine Übersicht zur Einführung der 
 | LOINC                     | [loinc.org](https://loinc.org/)             |
 | SNOMED International      | [snomed.org](https://www.snomed.org/)       |
 | Digitalversorgt           | [digitalversorgt.de](https://digitalversorgt.de/) |
+| BDA Kommission Digitalisierung | [bda.de/expertengruppen-referate/kommissionen/kommission-digitalisierung](https://www.bda.de/expertengruppen-referate/kommissionen/kommission-digitalisierung.html) |
 
 : Tabelle Organisationen Digitale Medizin
 
@@ -401,6 +402,10 @@ Die Kassenärztliche Bundesvereinigung (KBV) fordert in Ihrem Positionspapier ["
 * [Technische Universität Dresden Research Group Digital Health](https://tu-dresden.de/bu/wirtschaft/winf/digital-health)
 * [FACULTY OF LIFE SCIENCES: FOOD, NUTRITION AND HEALTHChair for Digital Health](https://www.digital-health.uni-bayreuth.de/en/index.html)
 * [Friedrich-Alexander-Universität Professur für Digital Health PDH](https://www.pdh.med.fau.de/)
+
+## Digitale Verbandsarbeit
+
+Die MarburgerBund App bietet Mitgliedern des Marburger Bundes einen digitalen Zugang zu aktuellen News, der Marburger Bund Zeitung als ePaper, Mitgliederdatenverwaltung, direkter Kontakt zu Landesverbänden sowie hilfreiche Merkblätter und Dokumente für den beruflichen Alltag. Entwickelt für Ärzte, ermöglicht die App effiziente, nutzerfreundliche Interaktion mit dem Verband.
 
 ## Zeitschriften & Verlage
 
