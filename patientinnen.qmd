@@ -1,5 +1,9 @@
 # PatientInnen
 
+## PatientInnengenerierte Gesundheitsdaten (PGHD)
+
+Die Studie „Consumer Data is Key to Artificial Intelligence Value: Welcome to the Health Care Future“ zeigt, dass der größte Nutzen von Künstlicher Intelligenz (KI) im Gesundheitswesen nur dann erreicht werden kann, wenn Patientinnen und Patienten ihre Gesundheitsdaten selbst verwalten und aggregieren. Durch technische Standards wie FHIR, gesetzliche Vorgaben der 21st Century Cures Act und die wachsende Bedeutung patienteneigener Daten – insbesondere in seltenen Erkrankungen – entsteht ein neues Modell, bei dem der Mensch als zentraler Verwalter seiner „Longitudinal Health Records“ agiert. Die Studie betont, dass KI-basierte Analysen und eine verbesserte medizinische Versorgung nur möglich sind, wenn umfassende, vollständige und aktuelle Gesundheitsdaten direkt von den Patienten bereitgestellt werden. [@info:doi/10.2196/68261]
+
 ## Digitale Gesundheitsaufklärung
 
 Plattformen wie washabich.de und gesund.bund.de bieten verlässliche Gesundheitsinformationen für Patientinnen. Sie bieten Gesundheitsinformationen in einer leicht verständlichen Form, die es Patientinnen ermöglicht, komplexe medizinische Konzepte zu begreifen, ohne dass sie Fachwissen voraussetzen.
