@@ -41,7 +41,7 @@ book:
     - index.qmd
     - einleitung.qmd
     - praxisverwaltung.qmd
-    - part: "Kommunikation"
+    - part: kommunikation.qmd
       chapters:
       - telefonanlage.qmd
       - telefonassistenz.qmd
