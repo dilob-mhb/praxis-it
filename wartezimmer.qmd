@@ -14,3 +14,15 @@ Warteraummanagement kann durch Technologien wie Selbstanmeldesysteme, Patientena
 | 8 | WifiMedia4Patients | BerLinux Solutions GmbH | [www.wifimedia4patients.de](https://www.wifimedia4patients.de/) |
 
 : Übersicht Softwareanwendungen im Wartezimmer
+
+## Feedback
+
+Digitale Feedback-Methoden in Wartezimmern von Arztpraxen ermöglichen die kontrollierte Sammlung von Lob und Kritik, um die Qualität kontinuierlich zu verbessern. Anstelle unkontrollierter Online-Bewertungen bieten Tools wie Tablets oder Smartphones mit Open-Source-Lösungen eine anonyme und einfache Möglichkeit, direktes Feedback vor Ort zu hinterlassen. Cloudbasierte Feedback-Anwendungen haben jedoch Einschränkungen, etwa Kosten, Laufzeit oder Datenschutzbedenken. Lokale Installationen von Open-Source-Lösungen auf Geräten im Wartezimmer bieten eine kostengünstige, datenschutzfreundliche Alternative, die flexibel anpassbar ist und keine Registrierung erfordert.
+
+| Name          | URL                                      |
+|---------------|------------------------------------------|
+| bittefeedback | [github.com/eBildungslabor/bittefeedback](https://github.com/eBildungslabor/bittefeedback) |
+| clearflask    | [github.com/clearflask/clearflask](https://github.com/clearflask/clearflask) |
+| astuto        | [github.com/astuto/astuto](https://github.com/astuto/astuto)         |
+
+: Übersicht Open-source Feedbackanwendungen
