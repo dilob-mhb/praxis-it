@@ -29,6 +29,7 @@
 - **docsdigital**: Bietet Podcasts, die praktische digitale Tools für Ärzte und Gesundheitsexperten vorstellen und Anleitungen zum Einsatz und zur Implementierung verschiedener Technologien in der Praxis geben.
 - **up-podcast**: Fokussiert auf Themen, die für Therapie und Praxis relevant sind, oft in Bezug auf die Telematikinfrastruktur.
 - **Visionäre der Gesundheit**: Bietet Einblicke in verschiedene Perspektiven und Innovationen im Bereich der digitalen Gesundheit.
+- **XtraTracks**, organisiert von der GMDS AG MoCoMed, präsentiert eine Vortragsreihe zu Themen wie Telemedizin (2025), Mobile Biosignalverarbeitung (2024) und Facetten der Selbstvermessung (2023), die die neuesten Entwicklungen in der digitalen Gesundheit beleuchtet.
 
 ## Diskursthemen
 
