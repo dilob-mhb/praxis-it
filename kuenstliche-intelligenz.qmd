@@ -123,9 +123,11 @@ Die Studie „Machine learning in general practice: scoping review of administra
 
 ### Arbeitsgruppen
 
-* Das [Schliep Lab](https://schlieplab.org/] an der Brandenburgischen Technischen Universität erforscht mit KI neue Medikamente, untersucht Genome und entwickelt Algorithmen für Sequenzierungsdaten.
+* Das [Schliep Lab](https://schlieplab.org/9 an der Brandenburgischen Technischen Universität erforscht mit KI neue Medikamente, untersucht Genome und entwickelt Algorithmen für Sequenzierungsdaten.
 * Das [van der Schaar Lab](https://www.vanderschaar-lab.com/) an der Universität Cambridge entwickelt KI- und maschinelle Lernmethoden für die Medizin.
 * Das [Digital Health Cluster](https://hpi.de/digital-health-cluster/home.html) des HPI forscht mit neuen Technologien an innovativen Lösungen, um die Gesundheit und das Wohlbefinden von Menschen und Gemeinschaften zu verbessern.
+
+Das [Medical Machine Learning Lab](https://mmll.uni-muenster.de/) (MMLL) an der Universität Münster entwickelt Machine-Learning-Lösungen für die Medizin. Am Institut für Translationale Psychiatrie ansässig, konzentriert sich das Lab auf die Verbesserung personalisierter Patientenversorgung durch Techniken wie Deep Learning, kausale Inferenz und Zeitreihenanalyse. Es bietet Software-Infrastruktur wie PHOTONAI, um klinische Forschung zu optimieren. Zudem gewährleistet der Medical AI Quality Assessment and Compliance Hub die Qualität und Konformität medizinischer KI-Anwendungen.
 
 ### Akzeptanz Künstlicher Intelligenz
 
