@@ -3,3 +3,21 @@
 Die [Deutsche Krankenhaus TrustCenter und Informationsverarbeitung GmbH (DKTIG)](https://dktig.de/) mit Sitz in Leipzig ist ein Partner der Krankenhäuser für Datensicherheit, Datenkommunikation und Dateninformation, getragen von den 16 Landeskrankenhausgesellschaften und der Deutschen Krankenhausgesellschaft. Seit ihrer Gründung 1996 stellt sie Zertifikate für den sicheren Datenaustausch gemäß § 301 SGB V bereit und unterstützt den Zugang zur Telematikinfrastruktur. Zusätzlich betreibt die DKTIG das Deutsche Krankenhaus Verzeichnis und bietet Lösungen wie Software für Nachhaltigkeitsberichte an.
 
 Das deutsche SCIPHOX-Projekt sollte die Kommunikation zwischen Krankenhausinformationssystemen und Arztpraxen mittels XML standardisieren, insbesondere für Entlassungs- und Überweisungsbriefe. Dafür wurde die Clinical Document Architecture (CDA) von HL7 als Grundlage gewählt, angepasst an nationale Anforderungen wie Versicherungsdaten, um die Lücke zwischen den bisherigen Protokollen HL7 und „*DT“ zu schließen. Das Projekt, gestartet im Jahr 2000, übersetzte und erweiterte den CDA-Standard, um eine nahtlose elektronische Datenübertragung im deutschen Gesundheitswesen zu ermöglichen. [@HEITMANN2003195]
+
+## Arzt- & Klinikverzeichnis
+
+Ein Klinik- und Ärzteverzeichnis ist eine Ressource, um passende medizinische Einrichtungen und Fachärzte zu finden. Dabei gibt es sowohl krankheitsbezogene Verzeichnisse, die spezialisierte Kliniken für bestimmte Erkrankungen auflisten, als auch allgemeine Verzeichnisse, die einen Überblick über Krankenhäuser und Kliniken verschiedenster Fachrichtungen bieten. Solche Verzeichnisse erleichtern die Suche nach qualifizierter medizinischer Versorgung und ermöglichen eine gezielte Auswahl nach Qualitätsstandards, Standort oder Fachgebiet.
+
+| Kategorie                   | Link                                                                                  |
+|----------------------------|---------------------------------------------------------------------------------------|
+| Krankheitsbezogene Verzeichnisse | [DMSG Kliniken und Praxen](https://www.dmsg.de/service/kliniken-und-praxen)         |
+|                            | [DGPR Qualitätsstandard Kliniken](https://www.dgpr.de/kliniken/qualitaetsstandard-kliniken) |
+|                            | [DGPPR Klinikverzeichnis](https://www.dgppr.de/index.php/klinikverzeichnis-dgppr-sp-582380048/) |
+|                            | [DRV Reha Kliniken](https://www.drv-reha.de/kliniken)                                |
+|                            | [Müttergenesungswerk Klinikverzeichnis](https://www.muettergenesungswerk.de/mgw-verbund/klinikverzeichnis) |
+| Allgemeine Verzeichnisse    | [BetterDoc](https://betterdoc.org/)                                                  |
+|                            | [AOK Krankenhaus in der Nähe](https://www.aok.de/pk/krankenhaus-in-der-naehe/)        |
+|                            | [Klinikführer TK](https://klinikfuehrer.tk.de/)                                      |
+|                            | [Deutsches Krankenhausverzeichnis](https://www.deutsches-krankenhaus-verzeichnis.de/app/suche) |
+|                            | [Bundes Klinik Atlas](https://bundes-klinik-atlas.de/)                               |
+|                            | [Klinikradar](https://klinikradar.de/)                                               |
