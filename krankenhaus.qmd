@@ -21,3 +21,5 @@ Ein Klinik- und Ärzteverzeichnis ist eine Ressource, um passende medizinische E
 |                            | [Deutsches Krankenhausverzeichnis](https://www.deutsches-krankenhaus-verzeichnis.de/app/suche) |
 |                            | [Bundes Klinik Atlas](https://bundes-klinik-atlas.de/)                               |
 |                            | [Klinikradar](https://klinikradar.de/)                                               |
+
+: Tabelle Klinikverzeichnisse
