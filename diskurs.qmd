@@ -29,6 +29,7 @@
 - **docsdigital**: Bietet Podcasts, die praktische digitale Tools für Ärzte und Gesundheitsexperten vorstellen und Anleitungen zum Einsatz und zur Implementierung verschiedener Technologien in der Praxis geben.
 - **up-podcast**: Fokussiert auf Themen, die für Therapie und Praxis relevant sind, oft in Bezug auf die Telematikinfrastruktur.
 - **Visionäre der Gesundheit**: Bietet Einblicke in verschiedene Perspektiven und Innovationen im Bereich der digitalen Gesundheit.
+- **XtraTracks**, organisiert von der GMDS AG MoCoMed, präsentiert eine Vortragsreihe zu Themen wie Telemedizin (2025), Mobile Biosignalverarbeitung (2024) und Facetten der Selbstvermessung (2023), die die neuesten Entwicklungen in der digitalen Gesundheit beleuchtet.
 
 ## Diskursthemen
 
@@ -402,6 +403,8 @@ Die Kassenärztliche Bundesvereinigung (KBV) fordert in Ihrem Positionspapier ["
 * [Technische Universität Dresden Research Group Digital Health](https://tu-dresden.de/bu/wirtschaft/winf/digital-health)
 * [FACULTY OF LIFE SCIENCES: FOOD, NUTRITION AND HEALTHChair for Digital Health](https://www.digital-health.uni-bayreuth.de/en/index.html)
 * [Friedrich-Alexander-Universität Professur für Digital Health PDH](https://www.pdh.med.fau.de/)
+
+Die Website [digital-bw.de](https://www.digital-bw.de) des Ministeriums für Soziales, Gesundheit und Integration Baden-Württemberg präsentiert die Digitalisierung in Medizin und Pflege mit Fokus auf bessere Behandlungsqualität, mehr Flexibilität und neue Heilungschancen. Sie informiert über die elektronische Patientenakte (ePA), Förderaufrufe und personalisierte Medizin. Ein Angebotsatlas und ein Film zeigen konkrete Projekte und Vorteile.
 
 ## Digitale Verbandsarbeit
 

@@ -77,6 +77,8 @@ Der [ArztAvatar](https://arztavatar.de/) ist ein Werkzeug für Ärzte, das auf k
 
 ## Ambient Scribe
 
+[Heidi Health](https://www.heidihealth.com/de-de) bietet eine KI-gestützte Plattform zur automatischen Erstellung medizinischer Notizen, die Ärzt:innen Zeit spart und den Fokus auf die Patientenversorgung legt. Die Lösung unterstützt mehrsprachige Dokumentation, benutzerdefinierte Vorlagen und sichere Datenverarbeitung gemäß DSGVO und ISO 27001. [Tandem Health](https://www.tandemhealth.ai/de/product) entwickelt ein KI-basiertes Betriebssystem für klinische Arbeitsabläufe, das sich nahtlos in PVS/KIS integriert und automatische Dokumentenerstellung sowie ICD-10-Codierung ermöglicht. Beide Lösungen zielen darauf ab, administrative Aufgaben zu reduzieren und die Effizienz in der medizinischen Praxis zu steigern.
+
 ### Auswirkungen
 
 Gordon D. Schiff beschreibt in „AI-Driven Clinical Documentation — Driving Out the Chitchat?“ die persönliche Erfahrung mit dem Einsatz von Künstlicher Intelligenz (KI) in der klinischen Dokumentation. Er beleuchtet, wie KI-basierte Tools wie Spracherkennung und automatische Notizgenerierung die Effizienz in der medizinischen Dokumentation steigern können, indem sie redundante oder irrelevante Informationen („Chitchat“) reduzieren. Gleichzeitig warnt Schiff vor potenziellen Risiken, wie dem Verlust wichtiger klinischer Nuancen oder der Überautomatisierung, die die Arzt-Patient-Interaktion beeinträchtigen könnte. Der Artikel fordert einen ausgewogenen Ansatz, um die Vorteile von KI zu nutzen, ohne die Qualität der Patientenversorgung zu gefährden. [@schiff2025ai]
