@@ -404,6 +404,8 @@ Die Kassenärztliche Bundesvereinigung (KBV) fordert in Ihrem Positionspapier ["
 * [FACULTY OF LIFE SCIENCES: FOOD, NUTRITION AND HEALTHChair for Digital Health](https://www.digital-health.uni-bayreuth.de/en/index.html)
 * [Friedrich-Alexander-Universität Professur für Digital Health PDH](https://www.pdh.med.fau.de/)
 
+Die Website [digital-bw.de](https://www.digital-bw.de) des Ministeriums für Soziales, Gesundheit und Integration Baden-Württemberg präsentiert die Digitalisierung in Medizin und Pflege mit Fokus auf bessere Behandlungsqualität, mehr Flexibilität und neue Heilungschancen. Sie informiert über die elektronische Patientenakte (ePA), Förderaufrufe und personalisierte Medizin. Ein Angebotsatlas und ein Film zeigen konkrete Projekte und Vorteile.
+
 ## Digitale Verbandsarbeit
 
 Die [MarburgerBund App](https://www.marburger-bund.de/marburgerbund-app) soll Mitgliedern des Marburger Bundes einen digitalen Zugang zu aktuellen News, der Marburger Bund Zeitung als ePaper, Mitgliederdatenverwaltung, direkter Kontakt zu Landesverbänden sowie hilfreiche Merkblätter und Dokumente für den beruflichen Alltag bieten. Die App soll eine effiziente, nutzerfreundliche Interaktion mit dem Verband ermöglichen.
