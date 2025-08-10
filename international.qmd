@@ -50,8 +50,8 @@ Der Artikel „A mixed methods formative evaluation of the United Kingdom Nation
 
 Der Bericht [The NHS at a Crossroads: The App That Can Transform Britain’s Health](https://institute.global/insights/public-services/the-nhs-at-a-crossroads-the-app-that-can-transform-britains-health) beschreibt, wie die [NHS App](https://www.nhsapp.service.nhs.uk/login) das britische Gesundheitssystem grundlegend modernisieren kann. Sie hebt hervor, dass die App nicht nur digitale Services bereitstellt, sondern eine zentrale Rolle bei der Umgestaltung von Patientenversorgung und klinischen Wegen spielen kann. Mit über 40 Millionen Downloads ermöglicht die App den Zugang zu GP-Daten, Bestellungen von Rezepten und Terminmanagement. Der Bericht betont, dass eine stärkere politische Priorisierung, gezielte Investitionen und eine Integration in nationale Behandlungsprozesse notwendig sind, damit die NHS App ihr volles Potenzial entfalten kann.
 
-::: {.callout-info title="Handy-App als Zentrales Mittel im Gesundheitssystem"}
-Kann eine Handy-App zentrales Informationsmittel im Gesundheitssystem sein? Gibt es in Deutschland ähnliche Ansätze wie die NHS App? Welche bestehenden Apps in Deutschland kommen einem zentralen Informationsmittel gleich ([116117.app](https://116117.app/))? Welche Funktionen müsste eine Handy-App beinhalten um als zentrales Bindeglied für Patienten im Gesundheitssystem Wirkung zu entfalten?
+::: {.callout-info title="Handy-App als zentrales Mittel im Gesundheitssystem"}
+Kann eine Handy-App ein zentrales Informationsmittel im Gesundheitssystem sein? Gibt es in Deutschland ähnliche Ansätze wie die NHS-App? Welche bestehenden Apps in Deutschland kommen einem zentralen Informationsmittel nahe ([116117.app](https://116117.app/))? Welche Funktionen müsste eine Handy-App haben, um als zentrales Bindeglied für Patienten im Gesundheitssystem effektiv zu sein?
 :::
 
 ### Vereinigte Staaten von Amerika (USA)
