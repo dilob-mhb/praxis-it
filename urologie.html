@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.7.33">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -40,14 +60,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-278f6f62ef6865769245fb1fe104349d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-d3c17e1081e069af43022d66f46e27f3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-278f6f62ef6865769245fb1fe104349d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5a6adef0ca66b5cbc1a9bbaff91768b6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-3ff64f9b18d1e2feb48679bb10d306e9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-5a6adef0ca66b5cbc1a9bbaff91768b6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -645,6 +665,11 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./kassenaerztliche-vereinigung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kassenärztliche Vereinigung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./versorgungsprozesse.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitale Versorgungsprozesse</span></a>
   </div>
 </li>
@@ -711,6 +736,7 @@ cookieconsent.run({
    
   <ul>
   <li><a href="#digitale-wissensplattform" id="toc-digitale-wissensplattform" class="nav-link active" data-scroll-target="#digitale-wissensplattform">Digitale Wissensplattform</a></li>
+  <li><a href="#künstliche-intelligenz" id="toc-künstliche-intelligenz" class="nav-link" data-scroll-target="#künstliche-intelligenz">Künstliche Intelligenz</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/urologie.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
@@ -754,8 +780,17 @@ cookieconsent.run({
 <section id="digitale-wissensplattform" class="level2">
 <h2 class="anchored" data-anchor-id="digitale-wissensplattform">Digitale Wissensplattform</h2>
 <p><a href="https://www.uro-tube.de/">Urotube</a> ist die Plattform für urologische Fortbildung, initiiert von der DGU-Akademie. Sie bietet Urologinnen und Urologen CME-zertifizierte Inhalte wie Live-Webinare, On-Demand-Webinare, Podcasts und die urotube.tv-Videoplattform. Mit Themen wie Prostatakarzinom, Nierenzellkarzinom, Harninkontinenz und Urolithiasis. Zusätzlich bietet die DGU-Mediathek peer-reviewed Videos und das Kongressarchiv kostenfreie Vorträge vergangener DGU-Kongresse.</p>
+</section>
+<section id="künstliche-intelligenz" class="level2">
+<h2 class="anchored" data-anchor-id="künstliche-intelligenz">Künstliche Intelligenz</h2>
+<p>Die Studie „LLM-Mediated Data Extraction from Patient Records after Radical Prostatectomy“, veröffentlicht in NEJM AI im Mai 2025, untersucht den Einsatz von großen Sprachmodellen (LLMs) zur automatisierten Datenerfassung aus pathologischen Befunden nach radikaler Prostatektomie. Mithilfe des NIH Integrated Data Analysis Platform Text Extraction Program (NTEP), basierend auf GPT‑4, wurden Daten aus 369 Patientenakten mit insgesamt 4797 klinischen Variablen extrahiert und mit einer manuell kuratierten Referenz verglichen. Das Modell erreichte eine beeindruckende Genauigkeit von 99,8%, mit nur minimalen Abweichungen bei einzelnen Variablen wie der Gesamtzahl der Lymphknoten oder dem Prostatagewicht. Die Ergebnisse zeigen, dass LLMs eine zuverlässige und effiziente Ergänzung zur manuellen Datenerfassung darstellen und erhebliches Potenzial für die Forschung und klinische Dokumentation bieten. <span class="citation" data-cites="azar2025llm">(<a href="referenzen.html#ref-azar2025llm" role="doc-biblioref">Azar u.&nbsp;a. 2025</a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-azar2025llm" class="csl-entry" role="listitem">
+Azar, William S, Dylan M Junkin, Charles Hesswani, Christopher R Koller, Sahil H Parikh, Kyle C Schuppe, Nicholas Williams, u.&nbsp;a. 2025. <span>„LLM-mediated data extraction from patient records after radical prostatectomy“</span>. <em>NEJM AI</em> 2 (6): AIcs2400943.
+</div>
+</div>
 </section>
 
 <div class="callout callout-style-default callout-tip callout-titled" title="Hinweis">
