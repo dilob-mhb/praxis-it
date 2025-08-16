@@ -449,6 +449,12 @@ Die [MarburgerBund App](https://www.marburger-bund.de/marburgerbund-app) soll Mi
 
 : Tabelle Veranstaltungsverzeichnisse {#tbl-eventdirectories}
 
+Hier ist der gewünschte Absatz im Markdown-Format, inklusive des Links an der passenden Stelle:
+
+„[Health Technology at an Inflection Point: Key Insights from the PHTI Summit](https://phti.org/key-insights-from-the-2025-phti-summit/)“ war das zentrale Thema des zweiten PHTI Summits, der am 5. Juni 2025 in New York stattfand. Die Veranstaltung brachte Expertinnen und Experten aus dem Gesundheitswesen, der Wirtschaft sowie der Patientenvertretung zusammen, um aktuelle Entwicklungen in der digitalen Gesundheitsversorgung zu diskutieren. Im Fokus standen unter anderem die zunehmende Nachfrageseite von Arbeitgebern, die stärkere Evidenz für den tatsächlichen Nutzen digitaler Gesundheitslösungen verlangen, der Übergang zu ergebnisorientierten Vertragsmodellen sowie der rasante, aber noch uneinheitlich bewertete Einsatz von Künstlicher Intelligenz im Gesundheitswesen. Der Summit betonte die Notwendigkeit belastbarer Daten, um den tatsächlichen klinischen und wirtschaftlichen Mehrwert technischer Innovationen nachzuweisen.
+
+[1] https://phti.org/key-insights-from-the-2025-phti-summit/
+
 ## Anstehende Veranstaltungen
 
 ```{python}
