@@ -10,6 +10,8 @@ Die Trendstudie [„Künstliche Intelligenz in der ambulanten Versorgung: Trends
 
 Die Studie mit dem Titel „General practitioners’ opinions of generative artificial intelligence in the UK: An online survey“ untersucht, wie britische Hausärztinnen und Hausärzte den Einsatz von generativer Künstlicher Intelligenz (KI) im klinischen Alltag bewerten. In einer landesweiten Online-Befragung von 1005 GPs im Januar 2025 zeigte sich, dass die Mehrheit Vorteile bei Dokumentation, Informationssammlung und Effizienz erwartet, jedoch große Skepsis hinsichtlich Empathie, Datenschutz und Chancengleichheit besteht. Lediglich wenige Ärztinnen und Ärzte wurden bislang von Arbeitgebern zur Nutzung von KI ermutigt oder speziell geschult, und der Wunsch nach klaren Leitlinien und gezielter Fortbildung ist weit verbreitet. [@kharko2025general]
 
+Das Editorial „The Generalist–Specialist Paradox of Medical AI“ beschreibt, dass Künstliche Intelligenz im medizinischen Bereich vor allem in spezialisierten, klar definierten Aufgaben – zum Beispiel bei der Auswertung von EEGs oder radiologischen Bildern – bereits Expert*innen-Niveau erreichen kann. Im Gegensatz dazu zeigt sich, dass KI beim flexiblen, ganzheitlichen Arbeiten, wie es von Generalisten in der Klinik gefordert wird, noch deutlich hinter menschlichen Fähigkeiten zurückbleibt. Diese Diskrepanz hat wichtige Folgen für die zukünftige Entwicklung, medizinische Ausbildung und praktische Anwendung von KI im Gesundheitswesen. [@doi:10.1056/AIe2500529]
+
 ## Lernmaterialien
 
 ### Kostenfreie Angebote
