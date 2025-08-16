@@ -29,6 +29,7 @@
 - **docsdigital**: Bietet Podcasts, die praktische digitale Tools für Ärzte und Gesundheitsexperten vorstellen und Anleitungen zum Einsatz und zur Implementierung verschiedener Technologien in der Praxis geben.
 - **up-podcast**: Fokussiert auf Themen, die für Therapie und Praxis relevant sind, oft in Bezug auf die Telematikinfrastruktur.
 - **Visionäre der Gesundheit**: Bietet Einblicke in verschiedene Perspektiven und Innovationen im Bereich der digitalen Gesundheit.
+- **XtraTracks**, organisiert von der GMDS AG MoCoMed, präsentiert eine Vortragsreihe zu Themen wie Telemedizin (2025), Mobile Biosignalverarbeitung (2024) und Facetten der Selbstvermessung (2023), die die neuesten Entwicklungen in der digitalen Gesundheit beleuchtet.
 
 ## Diskursthemen
 
@@ -403,6 +404,8 @@ Die Kassenärztliche Bundesvereinigung (KBV) fordert in Ihrem Positionspapier ["
 * [FACULTY OF LIFE SCIENCES: FOOD, NUTRITION AND HEALTHChair for Digital Health](https://www.digital-health.uni-bayreuth.de/en/index.html)
 * [Friedrich-Alexander-Universität Professur für Digital Health PDH](https://www.pdh.med.fau.de/)
 
+Die Website [digital-bw.de](https://www.digital-bw.de) des Ministeriums für Soziales, Gesundheit und Integration Baden-Württemberg präsentiert die Digitalisierung in Medizin und Pflege mit Fokus auf bessere Behandlungsqualität, mehr Flexibilität und neue Heilungschancen. Sie informiert über die elektronische Patientenakte (ePA), Förderaufrufe und personalisierte Medizin. Ein Angebotsatlas und ein Film zeigen konkrete Projekte und Vorteile.
+
 ## Digitale Verbandsarbeit
 
 Die [MarburgerBund App](https://www.marburger-bund.de/marburgerbund-app) soll Mitgliedern des Marburger Bundes einen digitalen Zugang zu aktuellen News, der Marburger Bund Zeitung als ePaper, Mitgliederdatenverwaltung, direkter Kontakt zu Landesverbänden sowie hilfreiche Merkblätter und Dokumente für den beruflichen Alltag bieten. Die App soll eine effiziente, nutzerfreundliche Interaktion mit dem Verband ermöglichen.
@@ -445,6 +448,12 @@ Die [MarburgerBund App](https://www.marburger-bund.de/marburgerbund-app) soll Mi
 | DigiKal | [eventsdev.buerofalk.de](https://eventsdev.buerofalk.de/) |
 
 : Tabelle Veranstaltungsverzeichnisse {#tbl-eventdirectories}
+
+Hier ist der gewünschte Absatz im Markdown-Format, inklusive des Links an der passenden Stelle:
+
+„[Health Technology at an Inflection Point: Key Insights from the PHTI Summit](https://phti.org/key-insights-from-the-2025-phti-summit/)“ war das zentrale Thema des zweiten PHTI Summits, der am 5. Juni 2025 in New York stattfand. Die Veranstaltung brachte Expertinnen und Experten aus dem Gesundheitswesen, der Wirtschaft sowie der Patientenvertretung zusammen, um aktuelle Entwicklungen in der digitalen Gesundheitsversorgung zu diskutieren. Im Fokus standen unter anderem die zunehmende Nachfrageseite von Arbeitgebern, die stärkere Evidenz für den tatsächlichen Nutzen digitaler Gesundheitslösungen verlangen, der Übergang zu ergebnisorientierten Vertragsmodellen sowie der rasante, aber noch uneinheitlich bewertete Einsatz von Künstlicher Intelligenz im Gesundheitswesen. Der Summit betonte die Notwendigkeit belastbarer Daten, um den tatsächlichen klinischen und wirtschaftlichen Mehrwert technischer Innovationen nachzuweisen.
+
+[1] https://phti.org/key-insights-from-the-2025-phti-summit/
 
 ## Anstehende Veranstaltungen
 
