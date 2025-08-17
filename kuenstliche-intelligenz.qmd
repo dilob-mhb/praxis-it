@@ -14,6 +14,8 @@ Das Editorial „The Generalist–Specialist Paradox of Medical AI“ beschreibt
 
 Die Studie mit dem Titel „Revolutionizing healthcare: the role of artificial intelligence in clinical practice“ beleuchtet, wie künstliche Intelligenz (KI) das Gesundheitswesen grundlegend verändert. Sie zeigt auf, dass KI bei der Diagnose von Krankheiten, der Entwicklung personalisierter Behandlungspläne und in der Entscheidungsfindung von Ärzten eine wichtige Rolle spielt. Dabei verbessert KI die Genauigkeit, verkürzt Behandlungszeiten, senkt Kosten und reduziert Fehler. Die Studie betont auch Herausforderungen wie Datenschutz, Vorurteile in den Daten und die Notwendigkeit menschlicher Expertise, um den Einsatz von KI verantwortungsvoll zu gestalten. Insgesamt hebt sie hervor, dass KI Ärztinnen und Ärzte unterstützt, aber nicht ersetzt. [@Alowais2023Revolutionizing]
 
+Die Studie mit dem Titel „Predicting the Future — Big Data, Machine Learning, and Clinical Medicine“ von Ziad Obermeyer und Ezekiel J Emanuel zeigt, wie maschinelles Lernen und Big Data die klinische Medizin revolutionieren können. Die Autoren erklären, dass Algorithmen, die aus sehr großen und komplexen Datensätzen lernen, Prognosen, Diagnose und Bildinterpretation verbessern und dabei teilweise besser als menschliche Experten werden können. Gleichzeitig weisen sie darauf hin, dass maschinelles Lernen zwar sehr leistungsfähig in der Vorhersage ist, aber keine Ursache-Wirkungs-Beziehungen herstellt. Die Anwendungsmöglichkeiten umfassen verbesserte Prognosemodelle, automatisierte Analyse von medizinischen Bildern und genauere Diagnosen, mit einem bedeutenden Potenzial für eine verbesserte Patientenversorgung in den nächsten Jahren. [@Obermeyer2016]
+
 ## Lernmaterialien
 
 ### Kostenfreie Angebote
