@@ -6,9 +6,15 @@ Die Studie mit dem Titel "Patients' perspectives on digital health tools" (2023)
 
 Die Studie „Consumer Data is Key to Artificial Intelligence Value: Welcome to the Health Care Future“ zeigt, dass der größte Nutzen von Künstlicher Intelligenz (KI) im Gesundheitswesen nur dann erreicht werden kann, wenn Patientinnen und Patienten ihre Gesundheitsdaten selbst verwalten und aggregieren. Durch technische Standards wie FHIR, gesetzliche Vorgaben der 21st Century Cures Act und die wachsende Bedeutung patienteneigener Daten – insbesondere in seltenen Erkrankungen – entsteht ein neues Modell, bei dem der Mensch als zentraler Verwalter seiner „Longitudinal Health Records“ agiert. Die Studie betont, dass KI-basierte Analysen und eine verbesserte medizinische Versorgung nur möglich sind, wenn umfassende, vollständige und aktuelle Gesundheitsdaten direkt von den Patienten bereitgestellt werden. [@info:doi/10.2196/68261]
 
-## Patientenverfügung
+## Digitale Verwaltungsvorgänge
+
+### Patientenverfügung
 
 Der [Malteser Online-Assistent Patientenverfügung](https://onlineassistent.malteser.de/) ist ein webbasiertes Hilfsangebot zur Erstellung einer individuellen Patientenverfügung. Nutzerinnen und Nutzer werden Schritt für Schritt durch die Inhalte geführt und erhalten begleitende Erläuterungen zu medizinischen, ethischen und rechtlichen Fragestellungen. Textbausteine, Videos und Freitextfelder unterstützen bei der Formulierung eigener Wünsche. Nach Abschluss kann die Patientenverfügung ausgedruckt und unterschrieben werden.
+
+### Organspende
+
+Das digitale Organspende-Register in Deutschland ermöglicht es Bürgerinnen und Bürgern ab 16 Jahren, ihre Entscheidung zur Organ- und Gewebespende rechtlich verbindlich und kostenfrei online zu dokumentieren. Die Registrierung erfolgt über die Webseite [organspende-register.de](https://organspende-register.de) unter Nutzung der Online-Ausweisfunktion des Personalausweises (eID) zur sicheren Identifikation. Nach Eingabe der persönlichen Daten kann die Entscheidung für oder gegen eine Spende abgegeben, geändert oder widerrufen werden. Das Register wird vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) betrieben und stellt sicher, dass die Erklärung im Ernstfall für berechtigte medizinische Einrichtungen abrufbar ist.
 
 ## Digitale Gesundheitsaufklärung
 
