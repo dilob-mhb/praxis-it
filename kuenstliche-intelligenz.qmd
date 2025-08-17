@@ -12,6 +12,8 @@ Die Studie mit dem Titel „General practitioners’ opinions of generative arti
 
 Das Editorial „The Generalist–Specialist Paradox of Medical AI“ beschreibt, dass Künstliche Intelligenz im medizinischen Bereich vor allem in spezialisierten, klar definierten Aufgaben – zum Beispiel bei der Auswertung von EEGs oder radiologischen Bildern – bereits Expert*innen-Niveau erreichen kann. Im Gegensatz dazu zeigt sich, dass KI beim flexiblen, ganzheitlichen Arbeiten, wie es von Generalisten in der Klinik gefordert wird, noch deutlich hinter menschlichen Fähigkeiten zurückbleibt. Diese Diskrepanz hat wichtige Folgen für die zukünftige Entwicklung, medizinische Ausbildung und praktische Anwendung von KI im Gesundheitswesen. [@doi:10.1056/AIe2500529]
 
+Die Studie mit dem Titel „Revolutionizing healthcare: the role of artificial intelligence in clinical practice“ beleuchtet, wie künstliche Intelligenz (KI) das Gesundheitswesen grundlegend verändert. Sie zeigt auf, dass KI bei der Diagnose von Krankheiten, der Entwicklung personalisierter Behandlungspläne und in der Entscheidungsfindung von Ärzten eine wichtige Rolle spielt. Dabei verbessert KI die Genauigkeit, verkürzt Behandlungszeiten, senkt Kosten und reduziert Fehler. Die Studie betont auch Herausforderungen wie Datenschutz, Vorurteile in den Daten und die Notwendigkeit menschlicher Expertise, um den Einsatz von KI verantwortungsvoll zu gestalten. Insgesamt hebt sie hervor, dass KI Ärztinnen und Ärzte unterstützt, aber nicht ersetzt. [@Alowais2023Revolutionizing]
+
 ## Lernmaterialien
 
 ### Kostenfreie Angebote
