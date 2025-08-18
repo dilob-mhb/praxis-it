@@ -207,6 +207,12 @@ Icinga ist ein Open-Source-Tool zur Überwachung von IT-Infrastrukturen, das Net
 
 ModSecurity ist eine Open-Source-Web Application Firewall (WAF), die Webanwendungen vor Angriffen wie SQL-Injection oder Cross-Site-Scripting schützt. Sie lässt sich in Webserver wie Apache, Nginx oder IIS integrieren und bietet flexible Regelsets zur Erkennung und Blockierung von Bedrohungen in Echtzeit. Als leistungsstarkes Sicherheits-Tool wird sie oft mit zusätzlichen Regelwerken wie dem OWASP Core Rule Set erweitert.
 
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7361050252998516737?collapsed=1" height="567" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
+```
+
 ## Cyberversicherung
 
 Viele Arztpraxen und Krankenhäuser in Deutschland sind unzureichend gegen Cyberangriffe geschützt, obwohl die Folgen schwerwiegend sein können, wie Datenklau, Erpressung oder Manipulation medizinischer Geräte. Beispielsweise verursachte ein Hackerangriff 2016 am Lukaskrankenhaus Neuss einen Schaden von etwa einer Million Euro. Umfragen zeigen, dass zwei Drittel der Krankenhäuser bereits betroffen waren und niedergelassene Ärzte das Risiko unterschätzen, da sie sensible Patientendaten besitzen und technisch oft angreifbar sind. Ransomware-Angriffe, die Systeme blockieren oder Daten stehlen, sind besonders häufig, wobei Schäden auch ohne Lösegeldzahlung hoch sind. Schwachstellen entstehen durch einfache Passwörter, fehlende Updates und ungeschultes Personal, das oft Ziel von Social-Engineering-Techniken wird. Medizinische Geräte sind aufgrund strenger Sicherheitsstandards und permanenter Internetverbindung besonders anfällig. Empfohlene Schutzmaßnahmen umfassen regelmäßige Updates, starke Passwörter, Schulungen und Sicherungskopien. [@kurz2021cybersicherheit]

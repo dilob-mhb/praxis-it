@@ -39,7 +39,11 @@ Die [Arbeitsgruppe Telemonitoring](https://herzmedizin.de/fuer-aerzte-und-fachpe
 
 Die [Sektion eCardiology](https://dgk.org/ueber-uns/staendige-ausschuesse/ecardiology/) der DGK bündelt die Digital Health-Aktivitäten der Gesellschaft. Sie widmet sich der fortschreitenden Digitalisierung der Kardiologie, die durch Algorithmen und Big Data die Versorgung von Herz-Kreislaufpatienten effizienter und qualitativer gestaltet. Fünf Teil-Ausschüsse befassen sich mit Themen wie transsektorale Zusammenarbeit, Mobile Health und Precision Digital Health.
 
+myon.coach ist eine digitale Plattform zur Unterstützung und Überwachung von Herz-Kreislauf-Patienten, die den Austausch zwischen Patient:innen und medizinischem Fachpersonal erleichtert. Über die [myoncare App](https://myon.coach/) oder Web-App können Gesundheitsdaten wie Blutdruckwerte, Medikamenteneinnahmen und Nachrichten sicher übermittelt werden. Ärzt:innen erhalten Benachrichtigungen, können den Gesundheitsstatus in Echtzeit überwachen und Therapiepläne individuell anpassen. Ziel ist es, die Therapieadhärenz zu verbessern, Komplikationen früh zu erkennen und Patient:innen zu mehr Selbstmanagement zu befähigen.
+
 ## Forschung
+
+Das [Cardiovascular Data Science Lab](https://www.cards-lab.org/) (CarDS) an der Yale University treibt Innovationen in der kardiovaskulären Versorgung durch angewandte Datenwissenschaft und KI voran u.a. in der Entwicklung von Tools wie AI-Echo, AI-ECG und CarDSPlus.
 
 ### Bluthochdruck
 
@@ -64,6 +68,10 @@ Die Studie "Evaluation of a large language model to simplify discharge summaries
 ### Kardiale Bildgebung
 
 Die Studie „CT coronary angiography with HeartFlow®: a user’s perspective“ untersucht die Rolle der Computertomographie-Koronarangiographie (CTCA) in Kombination mit der HeartFlow®-Technologie zur Beurteilung von koronaren Herzerkrankungen. Seit der Aktualisierung der NICE-Richtlinie (CG95) im November 2016 ist CTCA die bevorzugte Erstuntersuchung bei Verdacht auf Angina pectoris, da sie eine hohe Sensitivität (89 %) beim Ausschluss obstruktiver Koronararterienerkrankungen (CAD) bietet, jedoch mit einer niedrigeren positiven prädiktiven Wert von 48 %. HeartFlow® nutzt fortschrittliche computergestützte Strömungsdynamik, um die fraktionelle Flussreserve (FFRCT) aus CTCA-Daten zu berechnen, was die funktionelle Bedeutung von Stenosen präzise bestimmen kann. Studien wie PLATFORM und ADVANCE zeigen, dass CTCA mit FFRCT zu vergleichbaren klinischen Ergebnissen führt wie herkömmliche Tests, bei potenziellen Kosteneinsparungen von mindestens 9,1 Millionen Pfund bis 2022 im NHS. [@brady2019ct]
+
+### Echokardiographie
+
+Der Artikel „Complete AI-Enabled Echocardiography Interpretation With Multitask Deep Learning“ stellt PanEcho vor, ein KI-System zur automatisierten Echokardiogramm-Auswertung. Es nutzt tiefes Lernen, um 39 diagnostische Aufgaben präzise zu bewältigen. PanEcho erreicht eine mediane AUC von 0,91 für Klassifikationsaufgaben und einen normalisierten MAE von 0,13 für Schätzungen. Das System ist vielseitig einsetzbar, sowohl in Echokardiographie-Laboren als auch in der Point-of-Care-Diagnostik. Es wurde international validiert und ist open-source verfügbar. PanEcho könnte die kardiovaskuläre Diagnostik effizienter und zugänglicher machen. [@holste2025panecho]
 
 ### Forschungsplattformen
 
