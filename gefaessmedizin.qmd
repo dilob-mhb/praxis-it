@@ -43,6 +43,8 @@ myon.coach ist eine digitale Plattform zur Unterstützung und Überwachung von H
 
 ## Forschung
 
+Das [Cardiovascular Data Science Lab](https://www.cards-lab.org/) (CarDS) an der Yale University treibt Innovationen in der kardiovaskulären Versorgung durch angewandte Datenwissenschaft und KI voran u.a. in der Entwicklung von Tools wie AI-Echo, AI-ECG und CarDSPlus.
+
 ### Bluthochdruck
 
 Der Artikel "Benefits and Barriers to mHealth in Hypertension Care: Qualitative Study With German Health Care Professionals" untersucht die Perspektiven von Gesundheitsfachkräften (HCPs) – Allgemeinmedizinern, Kardiologen und Pflegekräften – hinsichtlich der Vorteile und Hindernisse bei der Integration von mobilen Gesundheitsanwendungen (mHealth-Apps) in die routine mäßige Behandlung von Hypertonie. Durch qualitative, halbstrukturierte Interviews zwischen Oktober 2022 und März 2023 wurden drei Hauptthemen identifiziert: mHealth-Apps können die Patientensicherheit durch kontinuierliche Überwachung erhöhen, die Autonomie der Patienten fördern und die medizinische Versorgung durch Echtzeitdaten unterstützen. Dennoch wurden Barrieren wie Datenmanagement, Kommunikationsprobleme und Systemhandling hervorgehoben, die strukturelle und prozedurale Anpassungen erfordern. Die Studie betont, dass eine erfolgreiche Nutzung digitaler Tools die Überwindung von Hindernissen wie Interoperabilitätsproblemen, unklaren Kostenerstattungsrichtlinien und Informationsbedarf erfordert, während die Einbindung der Nutzer und verständliche Informationen entscheidend für die Akzeptanz und Verbreitung von mHealth-Apps in der Hypertoniebehandlung sind. [@info:doi/10.2196/52544]
