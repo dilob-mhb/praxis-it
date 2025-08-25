@@ -256,6 +256,7 @@ Studienangebote im Bereich Digital Health und Medizininformatik in Deutschland:
 - [Uni Leipzig - Medizinische Informatik](https://www.uni-leipzig.de/studium/studienangebot/medizinische-informatik)
 - [HS Kempten - Medizininformatik B.Sc.](https://www.hs-kempten.de/studiengaenge/medizininformatik-bsc)
 - [HS Niederrhein - Medizinische Informatik Bachelor](https://www.hs-niederrhein.de/studium/studienangebot/bachelor/medizinische-informatik)
+- [Apollon Hochschule - Digitalisierungslotse](https://www.apollon-hochschule.de/weiterbildung/management/digitalisierungslotse/)
 
 ## Versorgungsmodelle
 
