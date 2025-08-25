@@ -120,6 +120,8 @@ Diese Apps können von den jeweiligen Krankenkassen heruntergeladen werden und b
 
 Quelle: [gematik.de/versicherte/epa-app](https://www.gematik.de/versicherte/epa-app)
 
+Die Website **[digital.kompetent](https://digitalkompetent.digitalmitreden.de/#)** bietet einen Einstieg in die digitale Gesundheitswelt. Sie informiert über die Patientenreise, die elektronische Patientenakte und telemedizinische Angebote. Zudem stellt sie digitale Services wie „Meine digitale DAK“ und Förderungsmaßnahmen für Gesundheit und Pflege vor. Datenschutz und Datensicherheit werden ebenso behandelt wie Angebote für Eltern und Kinder.
+
 ### Installationszahlen ePA Apps Google Play Store
 
 ![ePA Apps Google Play Store Installationszahlen](assets/epa_app_installations.png)
