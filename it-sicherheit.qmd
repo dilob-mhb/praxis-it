@@ -254,6 +254,8 @@ Die Studie „Psychiatric electronic health records in the era of data breaches 
 
 Der [HPI Identity Leak Checker](https://sec.hpi.de/ilc/) des Hasso-Plattner-Instituts ermöglicht es, mit einer E-Mail-Adresse zu prüfen, ob persönliche Identitätsdaten wie Telefonnummer, Geburtsdatum oder Adresse durch Cyberangriffe im Internet veröffentlicht wurden.
 
+Der [Leak Checker der Universität Bonn](https://leakchecker.uni-bonn.de/de/index) überprüft, ob persönliche Daten wie E-Mail-Adressen oder Passwörter gestohlen wurden. Nutzer können ihre E-Mail-Adresse eingeben, erhalten die Ergebnisse per E-Mail und werden aufgefordert, ihre Passwörter zu ändern, um ihre Daten zu schützen. Betrieben wird der Dienst von der AG IT-Security des Instituts für Informatik 4 an der Universität Bonn.
+
 ## Ressourcen
 
 * [Warn- und Informationsdienst CERT-Bund](https://wid.cert-bund.de/portal/wid/kurzinformationen)
@@ -266,3 +268,4 @@ Der [HPI Identity Leak Checker](https://sec.hpi.de/ilc/) des Hasso-Plattner-Inst
 ## Forschung
 
 Die Studie mit dem Titel „Reconciling security and care in digital medicine“ untersucht, wie sich Sicherheitsanforderungen und Fürsorgepraktiken in der digitalen Medizin besser miteinander vereinbaren lassen. Die Autor:innen argumentieren, dass Endnutzer:innen – wie Pflegepersonal und Patient:innen – nicht als bloße Schwachstelle betrachtet werden sollten, sondern als aktive Mitgestalter:innen sicherer Gesundheitssysteme. Anhand zweier Fallstudien aus Schweden und Großbritannien zeigen sie, dass alltägliche Arbeitsabläufe oft von strikten Sicherheitsprotokollen abweichen, um eine gute Versorgung zu ermöglichen. Die Studie empfiehlt, Sicherheit von Anfang an gemeinsam mit den Endnutzer:innen zu gestalten, um praxistaugliche, menschzentrierte Lösungen zu entwickeln. [@carboni2025reconciling]
+
