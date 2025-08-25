@@ -235,6 +235,28 @@ In Deutschland haben sich mehrere Institute gebildet, die sich der digitalen Med
 * [Innovationszentrum Digitale Medizin am Uniklinikum Aachen](https://www.ukaachen.de/kliniken-institute/innovationszentrum-digitale-medizin/ueber-uns)
 * [Institut für Digitalisierung in der Medizin am Uniklinikum Freiburg](https://www.uniklinik-freiburg.de/institut-fuer-digitalisierung-in-der-medizin.html)
 
+Studienangebote im Bereich Digital Health und Medizininformatik in Deutschland:
+
+- [Hochschule Stralsund - Digital Health Technology](https://www.hochschule-stralsund.de/host/fakultaeten/elektrotechnik-und-informatik/studienangebot/digital-health-technology/)
+- [HPI - Digital Health M.Sc.](https://hpi.de/studium/digital-health-msc/)
+- [IB Hochschule - Bachelor Digital Health](https://www.ib-hochschule.de/bachelor-studiengaenge/ausbildungs-und-berufsbegleitend/digital-health/)
+- [IB Hochschule - Master Digital Health](https://www.ib-hochschule.de/master/berufsbegleitend/digital-health/)
+- [HNU - Digital Healthcare Management M.A.](https://www.hnu.de/studium/studiengaenge/masterstudiengaenge/digital-healthcare-management-ma)
+- [Uni Potsdam - Digital Health](https://www.uni-potsdam.de/de/studium/studienangebot/master/digital-health)
+- [TH Nürnberg - Digital Health Analytics M.Sc.](https://www.th-nuernberg.de/fakultaeten/soh/studium/digital-health-analytics-m-sc/)
+- [Medical School Hamburg - Digital Health Management](https://www.medicalschool-hamburg.de/master/digital-health-management/)
+- [TH Brandenburg - Medizininformatik Bachelor](https://informatik.th-brandenburg.de/studium/bachelorstudiengaenge/medizininformatik/)
+- [FH Dortmund - Medizinische Informatik](https://www.fh-dortmund.de/studium/studienangebot/studiengangverzeichnis/medizinische-informatik/index.php)
+- [Uni Augsburg - Medizininformatik Bachelor](https://www.uni-augsburg.de/de/fakultaeten/mnt/informatik/studium/lehrangebot/bachelor/medizininformatik/)
+- [BHT Berlin - Medizininformatik](https://www.bht-berlin.de/medi)
+- [HS Mannheim - Medizininformatik](https://www.hs-mannheim.de/imb.html)
+- [HS Heilbronn - Medizinische Informatik](https://www.hs-heilbronn.de/studium/studienangebot/bachelor/medizinische-informatik)
+- [Uni Heidelberg - Medizinische Informatik Bachelor](https://www.uni-heidelberg.de/studium/studienangebot/bachelor-medizinische-informatik)
+- [Uni Lübeck - Medizinische Informatik](https://www.uni-luebeck.de/studium/studienangebot/informatik/medizinische-informatik.html)
+- [Uni Leipzig - Medizinische Informatik](https://www.uni-leipzig.de/studium/studienangebot/medizinische-informatik)
+- [HS Kempten - Medizininformatik B.Sc.](https://www.hs-kempten.de/studiengaenge/medizininformatik-bsc)
+- [HS Niederrhein - Medizinische Informatik Bachelor](https://www.hs-niederrhein.de/studium/studienangebot/bachelor/medizinische-informatik)
+
 ## Versorgungsmodelle
 
 Die Arbeit „Digital requirements for new primary care models“ untersucht die Veränderungen in der Primärversorgung aufgrund demografischer Entwicklungen, komplexer Patientenbedürfnisse und politisch-finanzieller Zwänge. Sie beleuchtet aufkommende Trends wie Integration, proaktive Versorgung und verbesserten Zugang zu Gesundheitsdiensten, die durch Technologien wie gemeinsame elektronische Patientenakten, Telemedizin und Patientenportale unterstützt werden. Sechs Fallstudien zeigen, wie innovative Organisationen diese Technologien nutzen, um neue Arbeitsweisen zu etablieren. Die Arbeit diskutiert zudem lokale und nationale Hindernisse, wie fehlende Interoperabilität und Finanzierungsprobleme, und schlägt priorisierte Technologien wie elektronische Gesundheitsakten und Telemedizin vor, um diese Herausforderungen zu überwinden. [@castle2016digital]
