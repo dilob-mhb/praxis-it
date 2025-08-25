@@ -235,6 +235,10 @@ In Deutschland haben sich mehrere Institute gebildet, die sich der digitalen Med
 * [Innovationszentrum Digitale Medizin am Uniklinikum Aachen](https://www.ukaachen.de/kliniken-institute/innovationszentrum-digitale-medizin/ueber-uns)
 * [Institut für Digitalisierung in der Medizin am Uniklinikum Freiburg](https://www.uniklinik-freiburg.de/institut-fuer-digitalisierung-in-der-medizin.html)
 
+Das [Kompetenzzentrum für Telemedizin und E-Health Hessen](https://www.ehealth-zentrum.de/) (KTE Hessen) fördert die Digitalisierung im deutschen Gesundheitswesen durch individuelle und praxisorientierte Unterstützung. Es bietet Dienstleistungen wie fachliche Beratung, Fortbildungen, Netzwerkveranstaltungen und Begleitung von Forschungsprojekten an. Zudem stellt es regelmäßig aktualisierte Informationen über Digi-Infos bereit und unterstützt bei Themen wie Datenschutz und Datensicherheit. Über Newsletter und Social-Media-Kanäle wie X/Twitter informiert das Zentrum über aktuelle Entwicklungen und Veranstaltungen, darunter der E-Health-Salon 2025.
+
+[TI – Pop-Up Store Würzburg](https://awesome-technologies.de/ti-popupstore-wuerzburg) erläutert die Telematikinfrastruktur (TI) praxisnah. Im Pop-Up Store können Besucher:innen digitale Gesundheitsanwendungen wie die elektronische Patientenakte (ePA) oder den TI-Messenger interaktiv erleben. Es gibt Beratung, Veranstaltungen für Fachleute und Bürger:innen sowie Vor-Ort-Hilfe zur TI.
+
 Studienangebote im Bereich Digital Health und Medizininformatik in Deutschland:
 
 - [Hochschule Stralsund - Digital Health Technology](https://www.hochschule-stralsund.de/host/fakultaeten/elektrotechnik-und-informatik/studienangebot/digital-health-technology/)
