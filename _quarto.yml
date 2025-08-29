@@ -72,6 +72,7 @@ book:
       - it-sicherheit.qmd
     - part: "Medizinische Fachgebiete"
       chapters:
+      - allgemeinmedizin.qmd
       - augenheilkunde.qmd
       - dermatologie.qmd
       - diabetologie.qmd
