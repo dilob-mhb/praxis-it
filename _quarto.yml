@@ -38,7 +38,11 @@ book:
     border: true
     background: light
   chapters:
-    - index.qmd
+    - part: index.qmd
+      chapters:
+      - digitale-reife.qmd
+      - digitale-kompetenz.qmd
+      - digitale-trennung.qmd
     - einleitung.qmd
     - praxisverwaltung.qmd
     - part: kommunikation.qmd
