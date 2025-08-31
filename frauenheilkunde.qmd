@@ -1,3 +1,7 @@
 # Frauenheilkunde
 
+## Forschung
+
 Die Studie „How digital health affects the patient-physician relationship: An empirical-ethics study into the perspectives and experiences in obstetric care“ untersucht die Auswirkungen digitaler Gesundheitstechnologien auf die Arzt-Patienten-Beziehung in der Geburtshilfe. Durch qualitative Interviews mit 25 Teilnehmenden (14 Gesundheitsfachkräfte und 11 Patientinnen) zeigt die Studie, dass digitale Überwachung Patientinnen hilft, ihre Gesundheit besser zu verstehen und gemeinsame Entscheidungsfindung fördert. Dennoch bleibt die klinische Entscheidungsfindung bei Fachkräften, die digitale Daten entweder als objektive Grundlage oder als interpretationsbedürftig ansehen. Die Studie betont die Notwendigkeit, Standardisierung und Kontextualisierung auszubalancieren, und formuliert sechs ethische Empfehlungen für den Einsatz digitaler Technologien in der klinischen Praxis. [@jongsma2021digital]
+
+[RI-SPHERES](https://www.wihri.org/ri-spheres) ist ein Forschungsprogramm in Rhode Island, das darauf abzielt, die Risiken von postpartaler Hypertonie zu reduzieren. Es bietet ein technologiegestütztes Blutdrucküberwachungsprogramm, bei dem Teilnehmerinnen einen Bluetooth-fähigen Blutdruckmessgerät und eine App zur Selbstüberwachung, Aufklärung und Unterstützung nutzen. Pflegekräfte unterstützen kontinuierlich, vermitteln soziale Dienstleistungen und fördern die Anbindung an die Primärversorgung. Ziel ist es, durch Zusammenarbeit mit Hausärzten die langfristigen kardiovaskulären Risiken bei postpartalen Patientinnen zu senken.
