@@ -1,0 +1,1448 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.34">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Digitale Kompetenz – Praxis-IT</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./digitale-trennung.html" rel="next">
+<link href="./digitale-reife.html" rel="prev">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-befe23ebd2f54d8af2c8a89d1a1611f1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-967f0c52896bdf6fa5d4950b2b45a273.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-6beaa27af54c79ea52280c58e49f6011.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-967f0c52896bdf6fa5d4950b2b45a273.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Keine Treffer",
+    "search-matching-documents-text": "Treffer",
+    "search-copy-link-title": "Link in die Suche kopieren",
+    "search-hide-matches-text": "Zusätzliche Treffer verbergen",
+    "search-more-match-text": "weitere Treffer in diesem Dokument",
+    "search-more-matches-text": "weitere Treffer in diesem Dokument",
+    "search-clear-button-title": "Zurücksetzen",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Abbrechen",
+    "search-submit-button-title": "Abschicken",
+    "search-label": "Suchen"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-W0VVGPQSBH"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-W0VVGPQSBH', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  ,
+"language":"de"
+  });
+});
+</script> 
+  
+<script type="application/json" class="js-hypothesis-config">
+{
+  "theme": "classic",
+  "openSidebar": false,
+  "showHighlights": "whenSidebarOpen"
+}
+</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
+<!-- <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('consent', 'default', {
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'ad_storage': 'denied',
+      'analytics_storage': 'denied',
+      'wait_for_update': 500,
+    });
+    gtag('js', new Date());
+    gtag('config', 'G-THQ4G1SE9W');
+    </script> -->
+<meta name="quarto:status" content="draft">
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top"><div id="quarto-draft-alert" class="alert alert-warning"><i class="bi bi-pencil-square"></i>Entwurf</div>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Vorwort</a></li><li class="breadcrumb-item"><a href="./digitale-kompetenz.html"><span class="chapter-title">Digitale Kompetenz</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Suchen" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Praxis-IT</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://github.com/dilob-mhb/praxis-it" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="./Praxis-IT.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Dunkelmodus umschalten"><i class="bi"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Suchen"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Vorwort</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./digitale-reife.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitale Reife</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./digitale-kompetenz.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Digitale Kompetenz</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./digitale-trennung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitale Trennung</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./einleitung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Einleitung</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./praxisverwaltung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Praxisverwaltungssoftware</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./kommunikation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Kommunikation</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./telefonanlage.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Telefonanlage</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./telefonassistenz.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Telefonassistenz</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./webseite.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Onlinepräsenz</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./kimdienst.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Telematikinfrastruktur</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./kurznachrichtendienst.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kurznachrichtendienst</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./terminbuchung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Terminbuchung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./videosprechstunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Videosprechstunde</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./telemedizin.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Telemedizin</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./wartezimmer.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Wartezimmer</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+ <span class="menu-text">Klinische Kompetenzen</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./anamneseerhebung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anamnese &amp; Dokumentation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./symptomchecker.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Symptomchecker</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./medizinisches-wissen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitales Wissensmanagement</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./wunddokumentation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Wunddokumentation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./impfsoftware.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Impfsoftware</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./medikation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Medikation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ambulantes-operieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ambulantes Operieren</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./psychotherapie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Psychotherapie</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
+ <span class="menu-text">Praxisverwaltung</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./buchhaltung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Buchhaltung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./qualitaetsmanagement.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Qualitätsmanagement</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./dienstplanung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dienstplanung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./materialwirtschaft.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Materialwirtschaft</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./datenschutz.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Datenschutz</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./it-sicherheit.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">IT-Sicherheit</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
+ <span class="menu-text">Medizinische Fachgebiete</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./allgemeinmedizin.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Allgemeinmedizin</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./augenheilkunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Augenheilkunde</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./dermatologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dermatologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./diabetologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Diabetologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ernaehrung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Diätologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./nephrologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Nierenheilkunde</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./gefaessmedizin.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Herz- &amp; Kreislaufmedizin</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./rheumatologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Rheumatologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./orthopaedie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Orthopädie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./rehabilitation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Rehabilitation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./geriatrie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Geriatrie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./neurologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neurologie &amp; Psychiatrie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./radiologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Radiologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./pulmologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pulmologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./gastroenterologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gastroenterologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./kinderheilkunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kinderheilkunde</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./onkologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Onkologie &amp; Hämatologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./frauenheilkunde.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Frauenheilkunde</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./urologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Urologie</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./hno.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hals-Nasen-Ohren-Heilkunde</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./allergologie.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Allergologie</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false">
+ <span class="menu-text">Gesundheitswesen</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./zahnarzt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zahnärztliche Praxis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./pflege.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pflegesoftware</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./krankenhaus.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Stationäre Versorgung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./oeffentliche-gesundheit.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Öffentliches Gesundheitswesen</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./krankenkassen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitalisierung der Krankenkassen</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./kassenaerztliche-vereinigung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kassenärztliche Vereinigung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./versorgungsprozesse.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitale Versorgungsprozesse</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./gesetzgebung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gesetzgebung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./forschung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Forschung</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./diskurs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Diskurs</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./patientinnen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">PatientInnen</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./digitale-innovation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digitale Innovation</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./kuenstliche-intelligenz.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Künstliche Intelligenz</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ethik.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ethik</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./international.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">International</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./zusammenfassung.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Zusammenfassung</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./referenzen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Referenzen</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhaltsverzeichnis</h2>
+   
+  <ul>
+  <li><a href="#ausbildung-für-das-digitale-gesundheitssystem" id="toc-ausbildung-für-das-digitale-gesundheitssystem" class="nav-link active" data-scroll-target="#ausbildung-für-das-digitale-gesundheitssystem">Ausbildung für das digitale Gesundheitssystem</a></li>
+  <li><a href="#digitale-fähigkeiten" id="toc-digitale-fähigkeiten" class="nav-link" data-scroll-target="#digitale-fähigkeiten">Digitale Fähigkeiten</a>
+  <ul class="collapse">
+  <li><a href="#digitale-gesundheitskompetenz" id="toc-digitale-gesundheitskompetenz" class="nav-link" data-scroll-target="#digitale-gesundheitskompetenz">Digitale Gesundheitskompetenz</a></li>
+  <li><a href="#digitale-kompetenz-messen" id="toc-digitale-kompetenz-messen" class="nav-link" data-scroll-target="#digitale-kompetenz-messen">Digitale Kompetenz messen</a></li>
+  <li><a href="#digitale-kompetenzen-für-leistungserbringende" id="toc-digitale-kompetenzen-für-leistungserbringende" class="nav-link" data-scroll-target="#digitale-kompetenzen-für-leistungserbringende">Digitale Kompetenzen für Leistungserbringende</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/digitale-kompetenz.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
+    <div class="quarto-margin-footer"><div class="margin-footer-item">
+<p>Projektpartner</p>
+<p><a href="https://www.dilob-mhb.de/"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/DiLoB-Logo-Transparent.png" class="img-fluid" width="100"></a></p>
+<p><a href="https://www.mhb-fontane.de/de/DiLoB"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/logo-mhb.png" class="img-fluid" width="100"></a></p>
+<p><a href="https://informatik.th-brandenburg.de/forschung-und-kooperation/schwerpunkte-und-themen/medizininformatik-und-e-health/"><img src="https://fotos.verwaltungsportal.de/seitengenerator/407f55ff710519029305c290b37aa683252916/logo-technische-hochschule.png" class="img-fluid" width="100"></a></p>
+</div></div></div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-W0VVGPQSBH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  
+  gtag('config', 'G-W0VVGPQSBH');
+</script>
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Vorwort</a></li><li class="breadcrumb-item"><a href="./digitale-kompetenz.html"><span class="chapter-title">Digitale Kompetenz</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Digitale Kompetenz</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Die digitale Transformation im Gesundheitswesen erfordert von Gesundheitsberufen nicht nur MINT-Kompetenzen wie IT-Literacy und Datenmanagement, sondern auch spezifische Fähigkeiten wie digitale Kommunikation, ethisch-rechtliche Kenntnisse, patientenzentrierte Technologienutzung und sichere Integration digitaler Lösungen in die Versorgung, wie in den Studien „A Digitally Competent Health Workforce“ und „Healthcare Professionals’ Competence in Digitalisation“ beschrieben. Zusätzlich sind Kenntnisse in elektronischen Gesundheitsakten, Telemedizin, KI und Datenschutz sowie soziale und adaptive Kompetenzen essenziell, wie in „The Digital Health Competencies in Medical Education Framework“ und „Enhancing Digital Readiness and Capability in Healthcare“ betont. Die Anforderungen sind breiter und domänenspezifischer als reine MINT-Fähigkeiten, wie „Understanding the Gap“ und „Digital Health Competencies Among Health Care Professionals“ zeigen. [<span class="citation" data-cites="nazeha2020digitally">Nazeha u.&nbsp;a. (<a href="referenzen.html#ref-nazeha2020digitally" role="doc-biblioref">2020</a>)</span>;<span class="citation" data-cites="konttila2019healthcare">Konttila u.&nbsp;a. (<a href="referenzen.html#ref-konttila2019healthcare" role="doc-biblioref">2019</a>)</span>;<span class="citation" data-cites="car2025digital">J. Car u.&nbsp;a. (<a href="referenzen.html#ref-car2025digital" role="doc-biblioref">2025</a>)</span>;sumner2025understanding;<span class="citation" data-cites="longhini2022digital">Longhini, Rossettini, und Palese (<a href="referenzen.html#ref-longhini2022digital" role="doc-biblioref">2022</a>)</span>;<span class="citation" data-cites="alotaibi2025enhancing">Alotaibi, Wilson, und Traynor (<a href="referenzen.html#ref-alotaibi2025enhancing" role="doc-biblioref">2025</a>)</span>]</p>
+<section id="ausbildung-für-das-digitale-gesundheitssystem" class="level2">
+<h2 class="anchored" data-anchor-id="ausbildung-für-das-digitale-gesundheitssystem">Ausbildung für das digitale Gesundheitssystem</h2>
+<p>In einer Studie stellen Car et al.&nbsp;das DECODE-Framework vor, ein international konsensbasiertes Modell für digitale Gesundheitskompetenzen in der medizinischen Ausbildung. Aufgrund der schnellen Digitalisierung im Gesundheitswesen und eines Mangels an entsprechender Ausbildung wurde ein strukturiertes Kompetenzmodell entwickelt. In einer Delphi-Studie mit 211 Experten aus 79 Ländern wurden vier Hauptbereiche identifiziert: Professionalität in der digitalen Gesundheit, Patienten- und Bevölkerungsbezogene digitale Gesundheit, Gesundheitsinformationssysteme und Gesundheitsdatenwissenschaft. Diese umfassen 19 Kompetenzen mit insgesamt 33 obligatorischen und 145 fakultativen Lernzielen. Das Framework soll medizinischen Fakultäten helfen, digitale Gesundheit systematisch in ihre Lehrpläne zu integrieren, um zukünftige Ärzte besser auf technologische Entwicklungen vorzubereiten. <span class="citation" data-cites="10.1001/jamanetworkopen.2024.53131">(<a href="referenzen.html#ref-10.1001/jamanetworkopen.2024.53131" role="doc-biblioref">Josip Car u.&nbsp;a. 2025</a>)</span></p>
+<p>In einem ergänzenden Kommentar werden die Unsicherheiten in der digitalen Transformation der medizinischen Ausbildung, insbesondere im Kontext von Künstlicher Intelligenz (KI) und digitalen Gesundheitstechnologien diskutiert. Das internationale DECODE-Rahmenwerk definiert Kompetenzen und zahlreiche Lernziele, um Medizinstudenten auf zukünftige digitale Herausforderungen vorzubereiten. Neben technischen Fähigkeiten betont der Artikel die Notwendigkeit, Patienten als Mitgestalter ihrer eigenen Versorgung einzubinden. Wichtige Themen sind die Bewertung und Nutzung digitaler Werkzeuge, der Umgang mit Bias in Algorithmen und die ethische Verantwortung im Einsatz von KI. Zudem wird empfohlen, Studierende praxisnah mit Fallstudien und Simulationen auf die datengetriebene Patientenkommunikation vorzubereiten, um eine informierte und vertrauensvolle Arzt-Patient-Beziehung zu fördern. <span class="citation" data-cites="10.1001/jamanetworkopen.2024.53095">(<a href="referenzen.html#ref-10.1001/jamanetworkopen.2024.53095" role="doc-biblioref">Liebovitz 2025</a>)</span></p>
+<p>Das Projekt „Neue Gesundheitsberufe für das digitale Zeitalter“ der Stiftung Münch, veröffentlicht im Februar 2020, schlägt vor, die Ausbildung im Gesundheitswesen angesichts der digitalen Transformation und demografischer Herausforderungen grundlegend zu reformieren. Die Reformkommission plädiert für die Einführung dreier neuer Berufe: Fachkraft für digitale Gesundheit, Prozessmanager für digitale Gesundheit und Systemarchitekt für digitale Gesundheit. Diese Berufe sollen durch spezifische Kompetenzen und innovative Curricula die Versorgung verbessern, digitale Technologien wie KI und Telemedizin integrieren und die interprofessionelle Zusammenarbeit fördern. Ziel ist es, die Qualität der Gesundheitsversorgung zu steigern, insbesondere für chronisch Kranke, und die Berufsbilder an die Anforderungen eines digitalisierten Gesundheitssystems anzupassen. <span class="citation" data-cites="kuhn2020neue">(<a href="referenzen.html#ref-kuhn2020neue" role="doc-biblioref">Kuhn u.&nbsp;a. 2020</a>)</span></p>
+<p>Die Masterarbeit “Erfassung und Förderung digitaler Kompetenzen von Hochschullehrenden der Humanmedizin” untersucht die digitalen Kompetenzen von Hochschullehrenden der Humanmedizin in Deutschland mittels einer Mixed-Methods-Studie, basierend auf dem „Digital Competence Framework for Educators“ (DigCompEdu) und dem „Nationalen Kompetenzbasierten Lernzielkatalog Medizin“ (NKLM). Eine Online-Umfrage mit 432 Lehrenden und sechs Experteninterviews zeigen, dass die digitalen Kompetenzen der Lehrenden ein breites Spektrum abdecken, wobei sie ihre lehr- und medizinspezifischen Kompetenzen auf mittlerem Niveau einschätzen, während Experten diese als schwach bis mittel bewerten. Zur Förderung werden praxisnahe, fachspezifische Qualifizierungsmaßnahmen und institutionelle Unterstützung empfohlen, um digitale Technologien effektiv in die Lehre zu integrieren. <span class="citation" data-cites="korner2024erfassung">(<a href="referenzen.html#ref-korner2024erfassung" role="doc-biblioref">Körner 2024</a>)</span></p>
+<p>Die Studie „Organizational e-Health Readiness: How to Prepare the Primary Healthcare Providers’ Services for Digital Transformation“ untersucht die organisatorische Bereitschaft polnischer Grundversorgungseinrichtungen für die digitale Transformation. Sie entwickelt und bewertet ein Modell der organisatorischen E-Health-Bereitschaft (OeHR) mit fünf Dimensionen – strategisch, kompetenzbezogen, kulturell, strukturell und technologisch – basierend auf einer Literaturübersicht, einer Umfrage unter 371 Managern und der PLS-SEM-Methode. Die Ergebnisse zeigen, dass das Modell für reife Organisationen geeignet ist, die auf patienten- und mitarbeiterorientierte Digitalisierung und kontinuierliche Pflegeprozesse fokussiert sind, während in Krisenzeiten wie der COVID-19-Pandemie ein vereinfachtes Modell die Bereitschaft besser abbildet. <span class="citation" data-cites="kruszynska2022organizational">(<a href="referenzen.html#ref-kruszynska2022organizational" role="doc-biblioref">Kruszyńska-Fischbach u.&nbsp;a. 2022</a>)</span></p>
+<p>Der Wissenstransfer digitaler Fähigkeiten in Arztpraxen gelingt am besten durch multimodale, interaktive Lernmethoden wie Präsenzschulungen, E-Learning, Blended-Learning, Fallstudien, Simulationen und Peer-Learning. Peer-Ansätze wie Peer-Assisted Learning fördern Motivation, Selbstvertrauen und Praxistransfer. Lotsen und Navigatoren spielen eine zentrale Rolle, indem sie Lernprozesse moderieren, digitale Tools an Praxisbedürfnisse anpassen und als Bindeglied zwischen Technologie und Teams agieren. Ein Mix aus bottom-up- und top-down-Ansätzen steigert die Akzeptanz und Nachhaltigkeit, wobei individuelle Lernbedarfe und informelle Netzwerke die Effektivität erhöhen. [<span class="citation" data-cites="Kulju2024">Kulju u.&nbsp;a. (<a href="referenzen.html#ref-Kulju2024" role="doc-biblioref">2024</a>)</span>;<span class="citation" data-cites="Navarro2022">Navarro Martínez, Igual García, und Traver Salcedo (<a href="referenzen.html#ref-Navarro2022" role="doc-biblioref">2022</a>)</span>;<span class="citation" data-cites="Vijayan2025">Vijayan u.&nbsp;a. (<a href="referenzen.html#ref-Vijayan2025" role="doc-biblioref">2025</a>)</span>;<span class="citation" data-cites="Chan2021">Chan, Botelho, und Wong (<a href="referenzen.html#ref-Chan2021" role="doc-biblioref">2021</a>)</span>;<span class="citation" data-cites="Grol2001">Grol (<a href="referenzen.html#ref-Grol2001" role="doc-biblioref">2001</a>)</span>;<span class="citation" data-cites="car2025digital">J. Car u.&nbsp;a. (<a href="referenzen.html#ref-car2025digital" role="doc-biblioref">2025</a>)</span>;<span class="citation" data-cites="Alon2024">Alon u.&nbsp;a. (<a href="referenzen.html#ref-Alon2024" role="doc-biblioref">2024</a>)</span>;<span class="citation" data-cites="Cresswell2021">Cresswell u.&nbsp;a. (<a href="referenzen.html#ref-Cresswell2021" role="doc-biblioref">2021</a>)</span>;@]</p>
+</section>
+<section id="digitale-fähigkeiten" class="level2">
+<h2 class="anchored" data-anchor-id="digitale-fähigkeiten">Digitale Fähigkeiten</h2>
+<p>Die <a href="https://digid.jff.de/">Initiative Digitales Deutschland</a> erforscht, welche Kompetenzen für die Teilhabe an der digitalen Transformation erforderlich sind. Durch eine Datenbank, den Kompass und qualitative Studien werden Medien- und Digitalkompetenzen der Bevölkerung analysiert. Die Initiative betont die Bedeutung lebenslangen Lernens, technischer Fähigkeiten, kritischen Denkens und sozialer Verantwortung. Forschungsergebnisse zu verschiedenen Altersgruppen werden bereitgestellt. Ziel ist es, Erkenntnisse für Bildung, Politik und Verwaltung zu liefern.</p>
+<section id="digitale-gesundheitskompetenz" class="level3">
+<h3 class="anchored" data-anchor-id="digitale-gesundheitskompetenz">Digitale Gesundheitskompetenz</h3>
+<p>Die digitale Gesundheitskompetenz (DGK) ist definiert als die Fähigkeit, mit digitalen Gesundheitsinformationen umzugehen, um Gesundheit und Wohlbefinden zu fördern. Zwei repräsentative Studien, HLS-GER 2 und eine Untersuchung vom AOK Bundesverband, zeigen, dass trotz unterschiedlicher Methoden ein großer Teil der Bevölkerung eine geringe DGK aufweist. Diese Kompetenz ist eng mit Bildungsniveau, Sozialstatus, finanzieller Deprivation und Alter verbunden, was auf einen sozialen Gradienten hinweist. Während der COVID-19-Pandemie gab es Hinweise auf eine Verbesserung der DGK, doch bleibt Unsicherheit über die Nachhaltigkeit dieser Entwicklung. Der Artikel betont die Notwendigkeit eines besseren rechtlichen Rahmens, finanzieller Ressourcen und einer solideren Datenbasis zur Förderung der DGK, um soziale Ungleichheiten zu verringern und die digitale Transformation im Gesundheitswesen zu unterstützen. <span class="citation" data-cites="dratva2024digitale">(<a href="referenzen.html#ref-dratva2024digitale" role="doc-biblioref">Dratva, Schaeffer, und Zeeb 2024</a>)</span></p>
+<p>Eine bundesweite Umfrage im Oktober 2020 mit 1014 Teilnehmern zeigte, dass eine Mehrheit (88,56%) glaubt, dass Digitalisierung zukünftig die Gesundheitsversorgung beeinflussen wird, jedoch nur 57,10% aktuell solche Technologien für Gesundheitszwecke nutzen. Über die Hälfte der Befragten (52,47%) erlebten ungenaue Informationen zur COVID-19-Pandemie online, obwohl 78,01% sich sicher fühlten, Fehlinformationen zu erkennen. Der Gebrauch digitaler Technologien zur Förderung körperlicher Aktivität war niedrig (21,70%). Trotz hoher wahrgenommener eHealth Kompetenz war nur 43,10% der Teilnehmer sicher, Gesundheitsentscheidungen basierend auf Online-Informationen zu treffen. Soziodemographische Faktoren wie höheres Einkommen, jüngeres Alter und höhere Bildung korrelierten mit mehr Nutzung digitaler Gesundheitstechnologien. <span class="citation" data-cites="info:doi/10.2196/32951">(<a href="referenzen.html#ref-info:doi/10.2196/32951" role="doc-biblioref">De Santis u.&nbsp;a. 2021</a>)</span></p>
+<p>Eine Studie untersuchte die eHealth-Kompetenz und die Nutzung von Internet- und eHealth-Diensten in der deutschen Gemeinde Dingelstädt im ländlichen Thüringen. Mit 488 Rückmeldungen zeigte sich, dass 76,4% der Bevölkerung zukünftig digitale Medien für Gesundheitszwecke nutzen möchten. Es gab keine signifikante Alterskorrelation mit der Nutzung eHealth-Dienste, jedoch zeigte sich, dass niedrige Bildungsniveaus mit einem geringeren Verständnis und Vertrauen in digitale Gesundheitsinformationen verbunden waren. Die Mehrheit der Teilnehmer verwendet täglich das Internet. Trotzdem fühlen sich viele unsicher, Gesundheitsentscheidungen basierend auf Online-Informationen zu treffen, was auf eine Lücke zwischen digitalen Fähigkeiten und Vertrauen hinweist. Die Studie betont die Notwendigkeit, Bürger mit ausreichenden digitalen Fertigkeiten auszustatten, um von der Digitalisierung des Gesundheitswesens zu profitieren. <span class="citation" data-cites="cramer2023ehealth">(<a href="referenzen.html#ref-cramer2023ehealth" role="doc-biblioref">Cramer u.&nbsp;a. 2023</a>)</span></p>
+<p>Der Zusammenhang zwischen soziodemografischen Faktoren, digitaler Gesundheitskompetenz und der Nutzung von Wearables für Gesundheitsförderung und Krankheitsprävention in Deutschland wurde mittels einer landesweiten Querschnittsumfrage im November 2022 untersucht. Unter den 932 Teilnehmern nutzten 24% Wearables zur Gesundheitsüberwachung, wobei die Nutzung bei älteren, niedrigerem Bildungstatus, in kleineren Haushalten, mit niedrigerem Einkommen und in kleineren Städten oder neuen Bundesländern geringer war. Ein deutlicher generationsbedingter Unterschied wurde festgestellt, wobei jüngere Erwachsene (18-40 Jahre) eine höhere Nutzung aufwiesen, unabhängig von ihrer digitalen Gesundheitskompetenz. Bei älteren Erwachsenen war jedoch eine höhere digitale Gesundheitskompetenz mit einer höheren Wahrscheinlichkeit der Nutzung von Wearables verbunden. Die digitale Gesundheitskompetenz wurde mit dem eHealth Literacy Scale (eHEALS) gemessen und zeigte, dass sie die Beziehung zwischen Alter und Wearable-Nutzung teilweise abbildet. Diese Ergebnisse weisen auf soziodemografische Disparitäten hin und betonen die Notwendigkeit, digitale Gesundheitskompetenz zu fördern, um die Nutzung von Gesundheitstechnologien zu erleichtern und eine gerechtere Gesundheitsversorgung zu gewährleisten. <span class="citation" data-cites="pan2024sociodemographics">(<a href="referenzen.html#ref-pan2024sociodemographics" role="doc-biblioref">Pan u.&nbsp;a. 2024</a>)</span></p>
+<p>Der Artikel „Förderung digitaler Gesundheitskompetenz in benachteiligten Lebenslagen durch Community-orientierte Ansätze“ beschreibt die Ergebnisse eines Workshops auf der 58. Jahrestagung der DGSMP. Ziel war es, Herausforderungen und Potenziale der Förderung digitaler Gesundheitskompetenz (DiGeKo) bei benachteiligten Gruppen zu identifizieren. Durch interaktive Methoden wie Perspektivwechsel und Zukunftswerkstatt wurden spezifische Bedürfnisse von Menschen mit geistiger Behinderung, älteren Menschen/Pflegebedürftigen und Schüler:innen erarbeitet. Die Ergebnisse betonen die Notwendigkeit zielgruppengerechter, Community-orientierter Ansätze, um DiGeKo effektiv zu fördern, und fordern weitere Forschung sowie die Integration digitaler und präsentischer Angebote. <span class="citation" data-cites="wrona2025forderung">(<a href="referenzen.html#ref-wrona2025forderung" role="doc-biblioref">Wrona u.&nbsp;a. 2025</a>)</span></p>
+<p>Die Studie „Determinants of Digital Health Literacy: International Cross-Sectional Study“ untersucht die digitale Gesundheitskompetenz in Großbritannien, Schweden, Italien und Deutschland. Die Ergebnisse zeigen, dass die digitale Gesundheitskompetenz (gemessen mit der eHEALS-Skala, Mittelwert 29,2) je nach Alter, Gesundheitsstatus und Wohnsitzland variiert. Personen im Alter von 25–44 Jahren weisen höhere Kompetenz auf, während Personen über 55 Jahre niedrigere Werte zeigen. Ein besserer Gesundheitsstatus korreliert mit höherer digitaler Gesundheitskompetenz. Teilnehmer aus Großbritannien und Schweden haben höhere Werte als die aus Deutschland, während kein Unterschied zu Italien besteht. Geschlecht und Ethnizität hatten keinen signifikanten Einfluss. Gezielte Bildungsprogramme für ältere und gesundheitlich beeinträchtigte Personen sowie zugängliche digitale Gesundheitslösungen sind notwendig, um Gesundheitsungleichheiten zu verringern. <span class="citation" data-cites="info:doi/10.2196/66631">(<a href="referenzen.html#ref-info:doi/10.2196/66631" role="doc-biblioref">Qiu u.&nbsp;a. 2025</a>)</span></p>
+</section>
+<section id="digitale-kompetenz-messen" class="level3">
+<h3 class="anchored" data-anchor-id="digitale-kompetenz-messen">Digitale Kompetenz messen</h3>
+<p>Der Artikel “Development of the Digital Health Literacy Instrument: Measuring a Broad Spectrum of Health 1.0 and Health 2.0 Skills” beschreibt die Entwicklung des Digital Health Literacy Instrument (DHLI), das sowohl Health 1.0- als auch Health 2.0-Kompetenzen misst, einschließlich operativer Fähigkeiten, Navigation, Informationssuche, Bewertung von Zuverlässigkeit und Relevanz, Hinzufügen eigener Inhalte und Schutz der Privatsphäre. In einer Stichprobe der niederländischen Bevölkerung (N=200) zeigte die Selbsteinschätzungsskala (21 Items) gute Reliabilität (Cronbachs Alpha = .87) und Validität, während die sieben performancebasierten Items einzeln interpretiert werden sollten, da sie kein einheitliches Konstrukt bildeten. Das Instrument korrelierte wie erwartet mit Alter, Bildung, Internetnutzung, Gesundheitsstatus und anderen Gesundheitskompetenz-Skalen, wobei die Ergebnisse auf die Notwendigkeit weiterer Forschung in anderen Sprachen und Populationen hinweisen. <span class="citation" data-cites="van2017development">(<a href="referenzen.html#ref-van2017development" role="doc-biblioref">Van Der Vaart und Drossaert 2017</a>)</span></p>
+<p>Die Studie „eHEALS: The eHealth Literacy Scale“ von Cameron D. Norman und Harvey A. Skinner entwickelte ein 8-Item-Instrument zur Messung der eHealth-Literacy, also der Fähigkeit, elektronische Gesundheitsinformationen zu finden, zu bewerten und anzuwenden. Ziel war es, die psychometrischen Eigenschaften des eHEALS in einer Jugendpopulation zu evaluieren, die aufgrund ihrer Vertrautheit mit Technologie als Testgruppe diente. Die Studie mit 664 Teilnehmern im Alter von 13 bis 21 Jahren zeigte eine hohe interne Konsistenz (α = .88) und moderate Test-Retest-Reliabilität (r = .40 bis .68) über sechs Monate. Eine Hauptkomponentenanalyse ergab eine einheitliche Faktorstruktur, die 56 % der Varianz erklärte. Das eHEALS erweist sich als vielversprechendes Werkzeug zur Beurteilung der eHealth-Kompetenzen, insbesondere in klinischen Kontexten, wobei weitere Forschung für andere Populationen und den Zusammenhang mit Gesundheitsoutcomes nötig ist. <span class="citation" data-cites="norman2006eheals">(<a href="referenzen.html#ref-norman2006eheals" role="doc-biblioref">Norman und Skinner 2006</a>)</span></p>
+<p>Die Studie „Assessing Competencies Needed to Engage With Digital Health Services: Development of the eHealth Literacy Assessment Toolkit“ hatte das Ziel, ein validiertes Toolkit (eHLA) zur Einschätzung der E-Health-Literacy zu entwickeln und zu testen. Hierzu wurden von 2011 bis 2015 sieben Instrumente aus den Bereichen Gesundheits- und Digitalkompetenz entwickelt oder adaptiert und in einer Stichprobe von 475 Personen validiert. Das eHLA beinhaltet vier gesundheitsbezogene und drei digitalitätsbezogene Kurzskalen, mit denen individuelle Kompetenzen und Fertigkeiten hinsichtlich digitaler und gesundheitlicher Themen zuverlässig erfasst werden können. Die Instrumente wurden anhand psychometrischer Analysen bezüglich Reliabilität und Validität optimiert und eignen sich besonders für Screening-Zwecke in eHealth-Projekten. <span class="citation" data-cites="karnoe2018assessing">(<a href="referenzen.html#ref-karnoe2018assessing" role="doc-biblioref">Karnoe u.&nbsp;a. 2018</a>)</span></p>
+</section>
+<section id="digitale-kompetenzen-für-leistungserbringende" class="level3">
+<h3 class="anchored" data-anchor-id="digitale-kompetenzen-für-leistungserbringende">Digitale Kompetenzen für Leistungserbringende</h3>
+<p>Die <a href="https://www.gmds.de/aktivitaeten/fachbereichsuebergreifend/lzk-curricula/">Webseite der GMDS</a> (Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie) beschreibt die Arbeit mehrerer Arbeitsgruppen zur Entwicklung von Lernziel- und Kompetenzkatalogen (LZK) für Biometrie, Epidemiologie und Medizinische Informatik. Diese umfassen Kataloge für Medizinische Biometrie (2021), Epidemiologie (2019), Medizinische Informatik (2020) sowie Bachelor-Studiengänge in (Bio-)Medizinischer Informatik (2021, aktualisiert 2025) und Pflegeinformatik (2017). Die AGs kooperieren mit dem SMITH Joint Expertise Center for Teaching (SMITH-JET) und entwickeln das webbasierte Tool HI-LONa, das alle genannten Kataloge integriert und Funktionen zur Kommentierung und Überarbeitung bietet. HI-LONa, der Health Informatics Learning Objective Navigator, ist ein Online-Tool zur Unterstützung des Lernens in der biomedizinischen und Gesundheitsinformatik. Es bietet Kataloge mit Lernzielen, Modulbeschreibungen und administrative Funktionen für Studienprogramme.</p>
+<p>Der Universitätslehrgang <a href="http://www.umit-tirol.at/him">Health Information Management</a> an der UMIT TIROL vermittelt fundierte Kenntnisse in der Informations- und IT-Verwaltung im Gesundheitswesen. Die Studieninhalte umfassen unter anderem Projektmanagement, IT-gestütztes Prozessmanagement, Informationssysteme und deren Management, elektronische Gesundheitsakten, semantische Interoperabilität, Datenschutz und IT-Sicherheit sowie den Einsatz von Künstlicher Intelligenz im Gesundheitswesen. Zusätzlich werden Themen wie Softwarequalität, Zertifizierung und rechtliche Grundlagen von Medizinsoftware sowie evidenzbasierte Medizinische Informatik behandelt. Das Studium befähigt dazu, komplexe Informationssysteme im Gesundheitswesen zu analysieren, zu gestalten und zu evaluieren sowie innovative digitale Gesundheitslösungen zu entwickeln.</p>
+<p>Das <a href="https://www.bundesaerztekammer.de/fileadmin/user_upload/BAEK/Themen/Aus-Fort-Weiterbildung/Fortbildung/BAEK-Curricula/BAEK-Curriculum_Digitalisierung_in_der_Gesundheitsversorgung.pdf">BÄK-Curriculum „Digitalisierung in der Gesundheitsversorgung“</a> (2. Auflage, 23.09.2022) der Bundesärztekammer vermittelt Ärzten Kompetenzen im Umgang mit digitalen Gesundheitsanwendungen. Es umfasst ein 8-stündiges Basismodul zur Nutzung von eHealth-Anwendungen wie Telematikinfrastruktur, Telemedizin und medizinischen Apps sowie ein 16-stündiges Aufbaumodul zu Interoperabilität, Datenschutz, Wissensmanagement und ethischen Aspekten. Ziel ist es, Ärzte auf die digitale Transformation im Gesundheitswesen vorzubereiten, um Prozesse, Kommunikation und Patientenversorgung zu optimieren. Die Fortbildung richtet sich an ambulant und stationär tätige Ärzte und kann in Präsenz- oder Blended-Learning-Formaten absolviert werden.</p>
+<p>Die Studie „On the Effective Dissemination and Use of Learning Objectives Catalogs for Health Information Curricula Development“ von Oliver J. Bott et al.&nbsp;untersucht die Herausforderungen und gibt Empfehlungen zur Förderung der Verbreitung und Nutzung kompetenzbasierter Lernzielkataloge (CLO) in den Gesundheitsdaten- und Informationswissenschaften in Deutschland. Während CLO in der Medizin weit verbreitet sind, ist ihre konsistente Anwendung in Disziplinen wie Epidemiologie, Biometrie, Medizinischer Informatik und Pflegeinformatik noch nicht etabliert. Durch einen öffentlichen Online-Workshop im Rahmen der GMDS-Jahreskonferenz 2022 wurden Hindernisse wie unklare Kompetenzdefinitionen, begrenzte Ressourcen und mangelnde Akzeptanz identifiziert. Die Studie empfiehlt strukturierte, klar definierte Lernziele, Unterstützung durch wissenschaftliche Fachgesellschaften, Bereitstellung von Schulungen und Tools sowie die Förderung der Akzeptanz durch Best-Practice-Beispiele, um die curriculare Entwicklung zu verbessern. <span class="citation" data-cites="bott2023effective">(<a href="referenzen.html#ref-bott2023effective" role="doc-biblioref">Bott u.&nbsp;a. 2023</a>)</span></p>
+<p>Die Studie „Digital health competencies for primary healthcare professionals: A scoping review“ von Geronimo Jimenez et al.&nbsp;(2020) untersucht, welche digitalen Gesundheitskompetenzen für Fachkräfte in der Primärversorgung erforderlich sind. Grundlage ist eine Scoping-Review-Analyse von 28 wissenschaftlichen Arbeiten, die überwiegend vor 2005 veröffentlicht wurden und sich vor allem auf Hausärzte, Allgemeinmediziner und Medizinstudierende in westlichen Industrieländern konzentrieren. Identifiziert wurden 17 Kompetenzbereiche, die unter anderem IT- und medizinische Informatikkenntnisse, grundlegende Computer- und Informationskompetenz sowie die optimale Nutzung elektronischer Patientenakten umfassen. Die Autoren betonen den Bedarf an einer aktuellen, einheitlichen und praxisrelevanten Definition solcher Kompetenzen, die in Aus- und Weiterbildung integriert werden sollte, um die Einführung digitaler Gesundheitstechnologien in der Primärversorgung zu fördern. <span class="citation" data-cites="jimenez2020digital">(<a href="referenzen.html#ref-jimenez2020digital" role="doc-biblioref">Jimenez u.&nbsp;a. 2020</a>)</span></p>
+<p>Die Studie „Referential Competencies in Digital Health: A Necessity for the Digital Transformation of Future Clinical Professionals“ beschreibt die Entwicklung eines Referenzmodells für digitale Gesundheitskompetenzen, das insbesondere klinische Fachkräfte bei der digitalen Transformation unterstützen soll. Grundlage des Modells ist eine qualitative Methodik mit Literaturrecherche und Fokusgruppen, aus der 103 Kompetenzen in neun Domänen für vier Nutzergruppen – Entscheidungsträger, IT-Fachkräfte, Kliniker und Patienten – abgeleitet wurden. Für klinische Anwender werden 28 Kernkompetenzen vorgestellt, die Bereiche wie Veränderungsmanagement, Prozessgestaltung, Interoperabilität, Innovation, klinische Entscheidungsunterstützung, Sekundärnutzung von Gesundheitsdaten, Telemedizin sowie ethisch-rechtliche Aspekte abdecken. Ziel des Modells ist es, Ausbildungsprogramme, Reifegradbewertungen und Personalentwicklung im Gesundheitswesen, insbesondere in Lateinamerika, an lokale und regionale Anforderungen anzupassen und so eine sichere, effiziente und patientenzentrierte Nutzung digitaler Gesundheitstechnologien zu fördern. <span class="citation" data-cites="gutierrez2025referential">(<a href="referenzen.html#ref-gutierrez2025referential" role="doc-biblioref">Gutiérrez, Torres, Molina, Corvalán, u.&nbsp;a. 2025</a>)</span></p>
+<p>Die Studie mit dem Titel „Healthcare professionals’ competence in digitalisation: A systematic review“ untersucht die Kompetenzen von medizinischen Fachkräften im Bereich der Digitalisierung im Gesundheitswesen. Die systematische Übersichtsarbeit fasst Erkenntnisse aus 12 Studien zusammen und identifiziert Schlüsselkompetenzen wie technisches Wissen, digitale Fertigkeiten für die Patientenversorgung, soziale und kommunikative Fähigkeiten sowie ethische Aspekte. Die Autorinnen und Autoren betonen die Bedeutung von Motivation, Bereitschaft und Unterstützung im beruflichen Umfeld für die erfolgreiche Integration digitaler Technologien. Empfehlungen umfassen die Förderung digitaler Kompetenzen durch gezielte Schulungen sowie die Bereitstellung angemessener Ressourcen und Rahmenbedingungen am Arbeitsplatz. Ziel ist es, sowohl die Patientensicherheit als auch die Qualität der Versorgung durch digitale Anwendungen zu verbessern. Die Studie wurde im Journal of Clinical Nursing veröffentlicht und basiert auf Forschungen aus verschiedenen Ländern. <span class="citation" data-cites="konttila2019healthcare">(<a href="referenzen.html#ref-konttila2019healthcare" role="doc-biblioref">Konttila u.&nbsp;a. 2019</a>)</span></p>
+<p>Die Studie mit dem Titel „Understanding the gap: a balanced multi-perspective approach to defining essential digital health competencies for medical graduates“ untersucht die grundlegenden digitalen Gesundheitskompetenzen, die Medizinstudierende für eine sichere und effektive Praxis in einer zunehmend digitalisierten Gesundheitsumgebung benötigen. Dabei werden aus den Perspektiven von Studierenden, Lehrenden und Experten im digitalen Gesundheitsbereich vier zentrale Kompetenzbereiche identifiziert: 1. Verständnis des lokalen digitalen Gesundheitssystems, 2. sichere und ethische Informationsverwaltung, 3. praktische Fertigkeiten im Umgang mit digitalen Gesundheitswerkzeugen und 4. wissenschaftliches Arbeiten und evidenzbasierte Praxis. Die Studie unterstreicht die Notwendigkeit, diese Kompetenzen zielgerichtet und kontextbezogen in die medizinische Ausbildung zu integrieren, wobei unterschiedliche Vorerfahrungen und Fähigkeiten der Studierenden berücksichtigt werden sollen. Ziel ist es, die medizinischen Absolventen bestmöglich auf den digitalen Wandel im Gesundheitswesen vorzubereiten. <span class="citation" data-cites="sumner2025understanding">(<a href="referenzen.html#ref-sumner2025understanding" role="doc-biblioref">Sumner u.&nbsp;a. 2025</a>)</span></p>
+<p>Die Studie mit dem Titel „Digital Health Competencies Among Health Care Professionals: Systematic Review“ fasst systematisch die digitalen Gesundheitskompetenzen zusammen, die bei Gesundheitsfachkräften bis September 2021 untersucht wurden. Ziel war es, die bisher erforschten Kompetenzen sowie die verwendeten Messinstrumente zu erfassen. Die systematische Übersichtsarbeit basiert auf 26 Studien, überwiegend quantitativen Querschnittsuntersuchungen, deren methodische Qualität meist moderat bis gering war. Es wurden vier Hauptkategorien von digitalen Gesundheitskompetenzen identifiziert: selbst eingeschätzte Kompetenzen, psychologische und emotionale Aspekte im Umgang mit digitalen Technologien, die Nutzung der Technologien sowie deren Wissen. Die Ergebnisse sollen helfen, Ausbildungskonzepte gezielt weiterzuentwickeln und Forschungslücken in diesem Bereich aufzuzeigen. <span class="citation" data-cites="longhini2022digital">(<a href="referenzen.html#ref-longhini2022digital" role="doc-biblioref">Longhini, Rossettini, und Palese 2022</a>)</span></p>
+<p>Die Studie „Digital Health Competencies: Core to Effective Health Sector Leadership“ untersucht die zentralen digitalen Gesundheitskompetenzen, die Führungskräfte im Gesundheitswesen (Healthcare Decision-Makers, HDMs) benötigen, um digitale Transformationsprozesse erfolgreich zu gestalten. Grundlage ist die zweite Version des vom chilenischen National Center for Health Information Systems entwickelten Kompetenzmodells, das auf einer umfassenden Literaturrecherche und Fokusgruppen mit 61 Fachpersonen basiert. Das Modell definiert insgesamt 103 Kompetenzen in neun Domänen, von denen 32 speziell auf Entscheidungsträger zugeschnitten sind, darunter Themen wie Digitalisierungsmanagement, Prozessarchitektur, Interoperabilität, Innovation, Telemedizin, Sekundärnutzung von Gesundheitsdaten sowie ethische, rechtliche und Governance-Aspekte. Ziel ist es, Ausbildungsprogramme, Reifegradanalysen und organisatorische Strategien zu unterstützen, um informierte Entscheidungen, bessere Patientenergebnisse und eine nachhaltige digitale Transformation im Gesundheitswesen zu fördern. <span class="citation" data-cites="gutierrez2025digital">(<a href="referenzen.html#ref-gutierrez2025digital" role="doc-biblioref">Gutiérrez, Torres, Molina, und Härtel 2025</a>)</span></p>
+<p>Die Studie „Enhancing Digital Readiness and Capability in Healthcare: A Systematic Review of Interventions, Barriers, and Facilitators“ untersucht systematisch, wie die digitale Bereitschaft und Kompetenz von Gesundheitsfachkräften verbessert werden kann. Ziel war es, Interventionsansätze zu bestimmen und die wichtigsten Hindernisse sowie fördernden Faktoren im digitalen Transformationsprozess zu identifizieren. Als methodischer Rahmen diente das UTAUT-Modell (Unified Theory of Acceptance and Use of Technology), um die Einflussfaktoren für die Akzeptanz digitaler Technologien zu analysieren. Die Auswertung von 21 Studien ergab, dass insbesondere ausreichende Schulungen, organisatorische Unterstützung und benutzerfreundliche Systeme die digitale Kompetenz fördern, während mangelnde Infrastruktur, unzureichende Trainings und komplexe Anwendungen als Hürden gelten. Soziale Einflüsse und gemeinsame Entscheidungsfindung spielen ebenfalls eine bedeutsame Rolle für die erfolgreiche Adaption digitaler Technologien im Gesundheitswesen. <span class="citation" data-cites="alotaibi2025enhancing">(<a href="referenzen.html#ref-alotaibi2025enhancing" role="doc-biblioref">Alotaibi, Wilson, und Traynor 2025</a>)</span></p>
+<p>Der Titel der Studie lautet „Telehealth Competencies in Medical Education: New Frontiers in Faculty Development and Learner Assessments“. Die Arbeit analysiert die Auswirkungen der raschen Ausweitung von Telemedizin, insbesondere im Zuge der COVID-19-Pandemie, auf die medizinische Ausbildung und die notwendigen Kompetenzen von Lehrenden und Lernenden. Im Mittelpunkt stehen die von der Association of American Medical Colleges (AAMC) und der Accreditation Council for Graduate Medical Education (ACGME) entwickelten Kompetenzbereiche, die unter anderem Kommunikation, Datenerhebung und Patientensicherheit im digitalen Gesundheitswesen umfassen. Die Studie beschreibt zudem Strategien zur Integration dieser Kompetenzen in die medizinische Lehre und stellt Instrumente für die direkte und strukturierte Beobachtung zur Beurteilung von Telemedizin-Fähigkeiten vor. <span class="citation" data-cites="noronha2022telehealth">(<a href="referenzen.html#ref-noronha2022telehealth" role="doc-biblioref">Noronha u.&nbsp;a. 2022</a>)</span></p>
+<p>Die Studie „Digital health competencies for primary healthcare professionals: A scoping review“ von Geronimo Jimenez et al.&nbsp;(2020) untersucht, welche digitalen Gesundheitskompetenzen für Fachkräfte in der Primärversorgung erforderlich sind. Grundlage ist eine Scoping-Review-Analyse von 28 wissenschaftlichen Arbeiten, die überwiegend vor 2005 veröffentlicht wurden und sich vor allem auf Hausärzte, Allgemeinmediziner und Medizinstudierende in westlichen Industrieländern konzentrieren. Identifiziert wurden 17 Kompetenzbereiche, die unter anderem IT- und medizinische Informatikkenntnisse, grundlegende Computer- und Informationskompetenz sowie die optimale Nutzung elektronischer Patientenakten umfassen. Die Autoren betonen den Bedarf an einer aktuellen, einheitlichen und praxisrelevanten Definition solcher Kompetenzen, die in Aus- und Weiterbildung integriert werden sollte, um die Einführung digitaler Gesundheitstechnologien in der Primärversorgung zu fördern. <span class="citation" data-cites="jimenez2020digital">(<a href="referenzen.html#ref-jimenez2020digital" role="doc-biblioref">Jimenez u.&nbsp;a. 2020</a>)</span></p>
+<p>Die Studie „Referential Competencies in Digital Health: A Necessity for the Digital Transformation of Future Clinical Professionals“ beschreibt die Entwicklung eines Referenzmodells für digitale Gesundheitskompetenzen, das insbesondere klinische Fachkräfte bei der digitalen Transformation unterstützen soll. Grundlage des Modells ist eine qualitative Methodik mit Literaturrecherche und Fokusgruppen, aus der 103 Kompetenzen in neun Domänen für vier Nutzergruppen – Entscheidungsträger, IT-Fachkräfte, Kliniker und Patienten – abgeleitet wurden. Für klinische Anwender werden 28 Kernkompetenzen vorgestellt, die Bereiche wie Veränderungsmanagement, Prozessgestaltung, Interoperabilität, Innovation, klinische Entscheidungsunterstützung, Sekundärnutzung von Gesundheitsdaten, Telemedizin sowie ethisch-rechtliche Aspekte abdecken. Ziel des Modells ist es, Ausbildungsprogramme, Reifegradbewertungen und Personalentwicklung im Gesundheitswesen, insbesondere in Lateinamerika, an lokale und regionale Anforderungen anzupassen und so eine sichere, effiziente und patientenzentrierte Nutzung digitaler Gesundheitstechnologien zu fördern. <span class="citation" data-cites="gutierrez2025referential">(<a href="referenzen.html#ref-gutierrez2025referential" role="doc-biblioref">Gutiérrez, Torres, Molina, Corvalán, u.&nbsp;a. 2025</a>)</span></p>
+<p>Das Paper „Educating the Healthcare Workforce to Support Digital Transformation“ beschreibt die Notwendigkeit, die Gesundheitsberufe durch gezielte Bildungsprogramme auf die digitale Transformation vorzubereiten. Es betont die Bedeutung vielfältiger Schulungsangebote, die sowohl Anfänger als auch Experten ansprechen, die digitale Lösungen einführen. Digitale Kompetenzen sollen früh in die Ausbildung integriert werden, gestützt durch Kompetenzrahmen, die Regulierungsbehörden und Bildungsanbieter leiten. Die Autoren beschreiben die Entwicklung solcher Rahmen und innovativer Bildungsprogramme an der Universität Manchester, darunter ein Massive Online Open Course (MOOC) und ein Weiterbildungsprogramm für Englands Topol Digital Fellows. Diese Initiativen zielen darauf ab, die digitale Gesundheitslandschaft nachhaltig zu stärken. <span class="citation" data-cites="davies2022educating">(<a href="referenzen.html#ref-davies2022educating" role="doc-biblioref">Davies u.&nbsp;a. 2022</a>)</span></p>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-Alon2024" class="csl-entry" role="listitem">
+Alon, N., S. Perret, A. Cohen, u.&nbsp;a. 2024. <span>„Digital Navigator Training to Increase Access to Mental Health Care in Community-Based Organizations“</span>. <em>Psychiatric Services (Washington, D.C.)</em> 75 (6): 608–11. <a href="https://doi.org/10.1176/appi.ps.20230391">https://doi.org/10.1176/appi.ps.20230391</a>.
+</div>
+<div id="ref-alotaibi2025enhancing" class="csl-entry" role="listitem">
+Alotaibi, Norah, Christine Brown Wilson, und Marian Traynor. 2025. <span>„Enhancing digital readiness and capability in healthcare: a systematic review of interventions, barriers, and facilitators“</span>. <em>BMC health services research</em> 25 (1): 500.
+</div>
+<div id="ref-bott2023effective" class="csl-entry" role="listitem">
+Bott, Oliver J, Ursula Berger, Nicole Egbert, Carolin Herrmann, Birgit Schneider, Björn Sellemann, Cord Spreckelsen, Brigitte Strahwald, Julian Varghese, und Alfred Winter. 2023. <span>„On the Effective Dissemination and Use of Learning Objectives Catalogs for Health Information Curricula Development“</span>. In <em>Caring is Sharing–Exploiting the Value in Data for Health and Innovation</em>, 438–42. IOS Press.
+</div>
+<div id="ref-car2025digital" class="csl-entry" role="listitem">
+Car, J, QC Ong, T Erlikh Fox, u.&nbsp;a. 2025. <span>„The Digital Health Competencies in Medical Education Framework: An International Consensus Statement Based on a Delphi Study“</span>. <em>JAMA Network Open</em> 8 (1): e2453131. <a href="https://doi.org/10.1001/jamanetworkopen.2024.53131">https://doi.org/10.1001/jamanetworkopen.2024.53131</a>.
+</div>
+<div id="ref-10.1001/jamanetworkopen.2024.53131" class="csl-entry" role="listitem">
+Car, Josip, Qi Chwen Ong, Tatiana Erlikh Fox, Daniel Leightley, Sandra J. Kemp, Igor Švab, Kelvin K. F. Tsoi, u.&nbsp;a. 2025. <span>„The Digital Health Competencies in Medical Education Framework: An International Consensus Statement Based on a Delphi Study“</span>. <em>JAMA Network Open</em> 8 (1): e2453131–31. <a href="https://doi.org/10.1001/jamanetworkopen.2024.53131">https://doi.org/10.1001/jamanetworkopen.2024.53131</a>.
+</div>
+<div id="ref-Chan2021" class="csl-entry" role="listitem">
+Chan, E., M. G. Botelho, und G. T. C. Wong. 2021. <span>„A Flipped Classroom, Same-Level Peer-Assisted Learning Approach to Clinical Skill Teaching for Medical Students“</span>. <em>PloS One</em> 16 (10): e0258926. <a href="https://doi.org/10.1371/journal.pone.0258926">https://doi.org/10.1371/journal.pone.0258926</a>.
+</div>
+<div id="ref-cramer2023ehealth" class="csl-entry" role="listitem">
+Cramer, Alin, Christian Keinki, Franz Saur, Stefanie Walter, und Jutta Hübner. 2023. <span>„Ehealth literacy, internet and eHealth service usage: a survey among a German municipality“</span>. <em>Journal of Public Health</em>, 1–12.
+</div>
+<div id="ref-Cresswell2021" class="csl-entry" role="listitem">
+Cresswell, K., A. Sheikh, B. D. Franklin, u.&nbsp;a. 2021. <span>„Interorganizational Knowledge Sharing to Establish Digital Health Learning Ecosystems: Qualitative Evaluation of a National Digital Health Transformation Program in England“</span>. <em>Journal of Medical Internet Research</em> 23 (8): e23372. <a href="https://doi.org/10.2196/23372">https://doi.org/10.2196/23372</a>.
+</div>
+<div id="ref-davies2022educating" class="csl-entry" role="listitem">
+Davies, Angela C, Alan Davies, Hatim Abdulhussein, Frances Hooley, Iliada Eleftheriou, Lamiece Hassan, Paul A Bromiley, Philip Couch, Catherine Wasiuk, und Andy Brass. 2022. <span>„Educating the healthcare workforce to support digital transformation“</span>. In <em>MEDINFO 2021: One World, One Health–Global Partnership for Digital Innovation</em>, 934–36. IOS Press.
+</div>
+<div id="ref-info:doi/10.2196/32951" class="csl-entry" role="listitem">
+De Santis, Karina Karolina, Tina Jahnel, Elida Sina, Julian Wienert, und Hajo Zeeb. 2021. <span>„Digitization and Health in Germany: Cross-sectional Nationwide Survey“</span>. <em>JMIR Public Health Surveill</em> 7 (11): e32951. <a href="https://doi.org/10.2196/32951">https://doi.org/10.2196/32951</a>.
+</div>
+<div id="ref-dratva2024digitale" class="csl-entry" role="listitem">
+Dratva, Julia, Doris Schaeffer, und Hajo Zeeb. 2024. <span>„Digitale Gesundheitskompetenz der Bev<span>ö</span>lkerung in Deutschland: Aktueller Stand, Konzepte und Herausforderungen“</span>. <em>Bundesgesundheitsblatt-Gesundheitsforschung-Gesundheitsschutz</em> 67 (3): 277–84.
+</div>
+<div id="ref-Grol2001" class="csl-entry" role="listitem">
+Grol, R. 2001. <span>„Improving the Quality of Medical Care: Building Bridges Among Professional Pride, Payer Profit, and Patient Satisfaction“</span>. <em>JAMA</em> 286 (20): 2578–85. <a href="https://doi.org/10.1001/jama.286.20.2578">https://doi.org/10.1001/jama.286.20.2578</a>.
+</div>
+<div id="ref-gutierrez2025referential" class="csl-entry" role="listitem">
+Gutiérrez, Sandra, Viviana Torres, Ma Macarena Molina, Francisca Corvalán, Fabiola Garcı́a, und Steffen Härtel. 2025. <span>„Referential Competencies in Digital Health: A Necessity for the Digital Transformation of Future Clinical Professionals“</span>. <em>Studies in health technology and informatics</em> 329: 1407–11.
+</div>
+<div id="ref-gutierrez2025digital" class="csl-entry" role="listitem">
+Gutiérrez, Sandra, Viviana Torres, Ma Macarena Molina, und Steffen Härtel. 2025. <span>„Digital Health Competencies: Core to Effective Health Sector Leadership“</span>. In <em>Global Healthcare Transformation in the Era of Artificial Intelligence and Informatics</em>, 560–64. IOS Press.
+</div>
+<div id="ref-jimenez2020digital" class="csl-entry" role="listitem">
+Jimenez, Geronimo, Pier Spinazze, David Matchar, Gerald Koh Choon Huat, Rianne MJJ van der Kleij, Niels H Chavannes, und Josip Car. 2020. <span>„Digital health competencies for primary healthcare professionals: a scoping review“</span>. <em>International journal of medical informatics</em> 143: 104260.
+</div>
+<div id="ref-karnoe2018assessing" class="csl-entry" role="listitem">
+Karnoe, Astrid, Dorthe Furstrand, Karl Bang Christensen, Ole Norgaard, und Lars Kayser. 2018. <span>„Assessing competencies needed to engage with digital health services: development of the eHealth literacy assessment toolkit“</span>. <em>Journal of medical Internet research</em> 20 (5): e178.
+</div>
+<div id="ref-konttila2019healthcare" class="csl-entry" role="listitem">
+Konttila, Jenni, Heidi Siira, Helvi Kyngäs, Minna Lahtinen, Satu Elo, Maria Kääriäinen, Pirjo Kaakinen, u.&nbsp;a. 2019. <span>„Healthcare professionals’ competence in digitalisation: A systematic review“</span>. <em>Journal of clinical nursing</em> 28 (5-6): 745–61.
+</div>
+<div id="ref-korner2024erfassung" class="csl-entry" role="listitem">
+Körner, Jasmin. 2024. <span>„Erfassung und F<span>ö</span>rderung digitaler Kompetenzen von Hochschullehrenden der Humanmedizin“</span>.
+</div>
+<div id="ref-kruszynska2022organizational" class="csl-entry" role="listitem">
+Kruszyńska-Fischbach, Agnieszka, Sylwia Sysko-Romańczuk, Tomasz M Napiórkowski, Anna Napiórkowska, und Dariusz Kozakiewicz. 2022. <span>„Organizational e-health readiness: How to prepare the primary healthcare providers’ services for digital transformation“</span>. <em>International Journal of Environmental Research and Public Health</em> 19 (7): 3973.
+</div>
+<div id="ref-kuhn2020neue" class="csl-entry" role="listitem">
+Kuhn, Sebastian, Franz Bartmann, Bernadette Klapper, und Uwe Schwenk. 2020. <em>Neue Gesundheitsberufe für das digitale Zeitalter</em>. Stiftung Münch. <a href="https://www.stiftung-muench.org/wp-content/uploads/2020/05/NB_Final.pdf">https://www.stiftung-muench.org/wp-content/uploads/2020/05/NB_Final.pdf</a>.
+</div>
+<div id="ref-Kulju2024" class="csl-entry" role="listitem">
+Kulju, E., E. Jarva, A. Oikarinen, u.&nbsp;a. 2024. <span>„Educational Interventions and Their Effects on Healthcare Professionals’ Digital Competence Development: A Systematic Review“</span>. <em>International Journal of Medical Informatics</em> 185: 105396. <a href="https://doi.org/10.1016/j.ijmedinf.2024.105396">https://doi.org/10.1016/j.ijmedinf.2024.105396</a>.
+</div>
+<div id="ref-10.1001/jamanetworkopen.2024.53095" class="csl-entry" role="listitem">
+Liebovitz, David M. 2025. <span>„Navigating Uncertainty in Digital Health Education“</span>. <em>JAMA Network Open</em> 8 (1): e2453095–95. <a href="https://doi.org/10.1001/jamanetworkopen.2024.53095">https://doi.org/10.1001/jamanetworkopen.2024.53095</a>.
+</div>
+<div id="ref-longhini2022digital" class="csl-entry" role="listitem">
+Longhini, Jessica, Giacomo Rossettini, und Alvisa Palese. 2022. <span>„Digital health competencies among health care professionals: systematic review“</span>. <em>Journal of medical Internet research</em> 24 (8): e36414.
+</div>
+<div id="ref-Navarro2022" class="csl-entry" role="listitem">
+Navarro Martínez, O., J. Igual García, und V. Traver Salcedo. 2022. <span>„Transferring Healthcare Professional’s Digital Competencies to the Workplace and Patients: A Pilot Study“</span>. <em>International Journal of Environmental Research and Public Health</em> 19 (20): 13187. <a href="https://doi.org/10.3390/ijerph192013187">https://doi.org/10.3390/ijerph192013187</a>.
+</div>
+<div id="ref-nazeha2020digitally" class="csl-entry" role="listitem">
+Nazeha, N, D Pavagadhi, BM Kyaw, u.&nbsp;a. 2020. <span>„A Digitally Competent Health Workforce: Scoping Review of Educational Frameworks“</span>. <em>Journal of Medical Internet Research</em> 22 (11): e22706. <a href="https://doi.org/10.2196/22706">https://doi.org/10.2196/22706</a>.
+</div>
+<div id="ref-norman2006eheals" class="csl-entry" role="listitem">
+Norman, Cameron D, und Harvey A Skinner. 2006. <span>„eHEALS: the eHealth literacy scale“</span>. <em>Journal of medical Internet research</em> 8 (4): e507.
+</div>
+<div id="ref-noronha2022telehealth" class="csl-entry" role="listitem">
+Noronha, Craig, Margaret C Lo, Tanya Nikiforova, Danielle Jones, Deepa Rani Nandiwada, Tiffany I Leung, Janeen E Smith, Wei Wei Lee, und Society of General Internal Medicine (SGIM) Education Committee. 2022. <span>„Telehealth competencies in medical education: new frontiers in faculty development and learner assessments“</span>. <em>Journal of general internal medicine</em> 37 (12): 3168–73.
+</div>
+<div id="ref-pan2024sociodemographics" class="csl-entry" role="listitem">
+Pan, Chen-Chia, Karina Karolina De Santis, Saskia Muellmann, Stephanie Hoffmann, Jacob Spallek, Nuria Pedros Barnils, Wolfgang Ahrens, Hajo Zeeb, und Benjamin Schüz. 2024. <span>„Sociodemographics and Digital Health Literacy in Using Wearables for Health Promotion and Disease Prevention: Cross-Sectional Nationwide Survey in Germany“</span>. <em>Journal of Prevention</em>, 1–21.
+</div>
+<div id="ref-info:doi/10.2196/66631" class="csl-entry" role="listitem">
+Qiu, Connor S, Tetiana Lunova, Geva Greenfield, Gabriele Kerr, Ömrüm Ergüven, Thomas Beaney, Benedict Hayhoe, Erik Mayer, Azeem Majeed, und Ana Luisa Neves. 2025. <span>„Determinants of Digital Health Literacy: International Cross-Sectional Study“</span>. <em>J Med Internet Res</em> 27 (Juni): e66631. <a href="https://doi.org/10.2196/66631">https://doi.org/10.2196/66631</a>.
+</div>
+<div id="ref-sumner2025understanding" class="csl-entry" role="listitem">
+Sumner, Brett, Rachelle Martin, Tehmina Gladman, Tim J Wilkinson, und Rebecca Grainger. 2025. <span>„Understanding the gap: a balanced multi-perspective approach to defining essential digital health competencies for medical graduates“</span>. <em>BMC medical education</em> 25 (1): 682.
+</div>
+<div id="ref-van2017development" class="csl-entry" role="listitem">
+Van Der Vaart, Rosalie, und Constance Drossaert. 2017. <span>„Development of the digital health literacy instrument: measuring a broad spectrum of health 1.0 and health 2.0 skills“</span>. <em>Journal of medical Internet research</em> 19 (1): e27.
+</div>
+<div id="ref-Vijayan2025" class="csl-entry" role="listitem">
+Vijayan, S. T., J. J. Kattuparambil, P. T. Mani, R. Chirukandath, und M. Antony. 2025. <span>„Juxtaposing Pedagogical Paradigms: The Efficacy of Peer-Assisted Learning (PAL) Versus Faculty-Assisted Learning (FAL) in the Refinement of Surgical Proficiency“</span>. <em>BMC Medical Education</em> 25 (1): 290. <a href="https://doi.org/10.1186/s12909-025-06827-2">https://doi.org/10.1186/s12909-025-06827-2</a>.
+</div>
+<div id="ref-wrona2025forderung" class="csl-entry" role="listitem">
+Wrona, Kamil J, Joanna Albrecht, Tessa Schulenkorf, und Dirk Bruland. 2025. <span>„F<span>ö</span>rderung digitaler Gesundheitskompetenz in benachteiligten Lebenslagen durch Community-orientierte Ans<span>ä</span>tze: Ergebnisse eines Workshops“</span>. <em>Pr<span>ä</span>vention und Gesundheitsf<span>ö</span>rderung</em>, 1–7.
+</div>
+</div>
+</section>
+</section>
+
+<div class="callout callout-style-default callout-tip callout-titled" title="Hinweis">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Hinweis
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Der Text erhebt keinen Anspruch auf Vollständigkeit oder Korrektheit und stellt keine Rechtsberatung dar. Anmerkungen können in der rechten Seitenleiste mit <a href="https://web.hypothes.is/">Hypothes.is</a> sozialem Annotierungswerkzeug oder am unteren Ende einer Seite mit <a href="https://github.com/giscus/giscus">GitHub Giscus Diskussionen</a> hinterlassen werden.</p>
+</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Kopiert");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Kopiert");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<input type="hidden" id="giscus-base-theme" value="light">
+<input type="hidden" id="giscus-alt-theme" value="dark">
+<script>
+  function loadGiscus() {
+    // Function to get the theme based on body class
+    const getTheme = () => {
+      let baseTheme = document.getElementById('giscus-base-theme').value;
+      let altTheme = document.getElementById('giscus-alt-theme').value;
+      if (authorPrefersDark) {
+          [baseTheme, altTheme] = [altTheme, baseTheme];
+      }
+      return document.body.classList.contains('quarto-dark') ? altTheme : baseTheme;
+    };
+    const script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.dataset.repo = "dilob-mhb/praxis-it";
+    script.dataset.repoId = "R_kgDONyeBYw";
+    script.dataset.category = "General";
+    script.dataset.categoryId = "DIC_kwDONyeBY84CnOKJ";
+    script.dataset.mapping = "title";
+    script.dataset.reactionsEnabled = "1";
+    script.dataset.emitMetadata = "0";
+    script.dataset.inputPosition = "top";
+    script.dataset.theme = getTheme();
+    script.dataset.lang = "en";
+    script.crossOrigin = "anonymous";
+    // Append the script to the desired div instead of at the end of the body
+    document.getElementById("quarto-content").appendChild(script);
+  }
+  loadGiscus();
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./digitale-reife.html" class="pagination-link" aria-label="Digitale Reife">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Digitale Reife</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./digitale-trennung.html" class="pagination-link" aria-label="Digitale Trennung">
+        <span class="nav-page-text"><span class="chapter-title">Digitale Trennung</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dilob-mhb/praxis-it/edit/main/digitale-kompetenz.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/dilob-mhb/praxis-it/issues" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
