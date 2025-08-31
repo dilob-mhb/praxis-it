@@ -85,6 +85,8 @@ Die Studie „Challenges and conditions for successfully implementing and adopti
 
 ## eRezept
 
+Das E-Rezept, Teil der Digitalstrategie für das deutsche Gesundheitswesen, ersetzt den bisherigen Papierprozess und steigert Effizienz sowie Zugänglichkeit. Häufig besteht die Annahme, das Rezept sei auf der Gesundheitskarte gespeichert. Das Wissen über einen E-Rezeptserver, elektronische Übertragung und Authentifizerungsprozesse sind oft nicht bekannt. Dies führt zu Missverständnissen, falschen Annahmen und Rückfragen, Frust und Mehrarbeit für Praxen, Apotheken und Patienten. Die Einführung des E-Rezepts ist ein Lernprozess für Millionen Menschen in Deutschland.
+
 Die offizielle App [Das E-Rezept](https://www.das-e-rezept-fuer-deutschland.de/app) der gematik ermöglicht es Nutzern, elektronische Rezepte bequem auf ihrem Smartphone zu verwalten und einzulösen. Sie bietet Funktionen wie das Anzeigen von Rezeptinformationen, das Einlösen von Rezepten in Apotheken und das Bestellen von Medikamenten. Die App ist für alle gesetzlich Versicherten kostenfrei.
 
 Es gibt Softwarelösungen, die Ärzten zusätzliche Funktionen zur Verordnungsverwaltung bieten wie bspw. schnelle Rezepterstellung, intelligente Suchfunktionen, Medikationsplanerstellung und AMTS-Prüfungen (siehe [data4doc](https://data4doc.de/)). Einige Praxisverwaltungssysteme (PVS) haben ähnliche Zusatzfunktionen integriert, die eine nahtlose Zusammenarbeit und Datenübertragung ermöglichen. Die Software bietet außerdem aktuelle Medikamenteninformationen und ist über eine standardisierte Schnittstelle in bestehende PVS-Systeme integrierbar.
