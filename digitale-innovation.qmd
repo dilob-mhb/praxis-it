@@ -151,11 +151,17 @@ Startup-Inkubatoren und -Acceleratoren für digitale Gesundheitsunternehmen unte
 
 Die [Ideenkampagne ADRENALIN@UKSH](https://www.uksh.de/jahresberichte/2020+%7C+2021/Konzern+UKSH/UKSH+der+Zukunft/Ideenkampagne+ADRENALIN%40UKSH.html) startete 2021 am Universitätsklinikum Schleswig-Holstein mit dem Ziel, Mitarbeitende aktiv in die Zukunftsgestaltung einzubinden. Für ambulante Praxen ist dabei besonders relevant, dass der Erfolg digitaler Innovationen von einer offenen internen Kommunikation und dem Engagement des Teams abhängt. Über eine ganzheitliche Strategie, die technische Lösungen mit sozialen und organisatorischen Faktoren verbindet, lassen sich digitale Technologien in den Praxisalltag integrieren. [Hackathons](https://www.healthcare-hackathon.info/) bringen interdisziplinäre Teams zusammen, um komplexe Probleme des Gesundheitswesens kreativ zu lösen. Sie fördern den Wissenstransfer zwischen Forschung, Wirtschaft und Praxis, treiben technologische und organisatorische Innovationen voran und stärken durch Kooperationen.
 
-## Historie der medizinischen Transformation
+## Transformation in der Medizin
+
+### Historie der medizinischen Transformation
 
 Die Entwicklung der Medizin lässt sich in Etappen parallel zu den industriellen Revolutionen gliedern. Medizin 1.0, beeinflusst durch die erste industrielle Revolution, fokussierte auf öffentliche Gesundheit und Hygiene, wie in „History of Medicine: The Metamorphosis of Scientific Medicine in the Ever-Present Past“ beschrieben [@Cruse1999]. Medizin 2.0, ermöglicht durch die zweite industrielle Revolution, brachte Krankenhäuser, Spezialisierung und verbesserte Ausbildung. [@Chen2019] Die dritte industrielle Revolution führte zu Medizin 3.0 mit elektronischen Gesundheitsakten und bildgebender Diagnostik [@Cruse1999;@Chen2019]. Aktuell prägt Medizin 4.0, verknüpft mit der vierten industriellen Revolution, die Gesundheitsversorgung durch KI in Diagnostik und Therapie, Telemedizin, personalisierte Medizin, robotergestützte Chirurgie und Wearables, wie in „Internet of Medical Things and Healthcare 4.0“ und weiteren Studien erläutert. [@Osama2023;@AlJaroodi2020;@Awad2021;@Alowais2023;@Singhal2025] Diese Phase erfordert neue Kompetenzen und stellt Anforderungen an Datenschutz und Interdisziplinarität. Diskussionen über Healthcare 5.0, die stärkere Mensch-Technik-Interaktion adressiert, sind in „Healthcare 4.0: Recent Advancements and Futuristic Research Directions“ skizziert. [@Gupta2023;@Popov2022]
 
-## Technologische Disruption
+### Veränderte Berufsbilder
+
+Die Studie „Digitalization in Healthcare: Today and in the Future“ zeigt, dass die Digitalisierung und Industrie 4.0 im Gesundheitswesen nur begrenzt Berufe ersetzen können, vor allem administrative und repetitive Tätigkeiten wie Terminmanagement, Abrechnung oder einfache Diagnostik [@stachwitz2023]. Pflege- und ärztliche Tätigkeiten mit Patientenkontakt und komplexer Entscheidungsfindung bleiben kaum substituierbar, werden jedoch durch digitale Tools wie Telemedizin oder KI-gestützte Entscheidungsunterstützung ergänzt [@stachwitz2023;@osama2023;@aljaroodi2020]. Neue Berufsbilder wie Data Scientist, KI-Spezialist oder Telemedizin-Koordinator entstehen, während bestehende Berufe neue Kompetenzen in Datenmanagement und interdisziplinärer Zusammenarbeit erfordern [@barbazzeni2022]. Die Entwicklung dieser Berufsbilder hängt von der Digitalisierungsgeschwindigkeit und regulatorischen Rahmenbedingungen ab. [@barbazzeni2022;@jose2022;@gupta2023;@lhotska2020;@popov2022]
+
+### Technologische Disruption
 
 Die Studie "Voice as a Biomarker in Health-Tech: Mapping the Evolving Landscape of Voice Biomarkers in the Start-Up World" von Emily G. Evangelista und Kollegen untersucht die wachsende Rolle von Stimmbiomarkern in der Gesundheitstechnologie. Dies könnte andere, bisherige Diagnoseverfahren teilweise obsolet machen. Der Markt für Stimmbiomarker wurde 2021 mit 1,9 Milliarden US-Dollar bewertet und soll bis 2028 auf über 5,1 Milliarden US-Dollar ansteigen, mit einer jährlichen Wachstumsrate von 15,15 %. Ziel der Studie war es, die aktuelle Landschaft von Start-ups zu kartieren, die Stimme als Gesundheitsbiomarker nutzen. Dafür wurden umfassende Recherchen über Internetquellen, soziale Medien und Literaturdatenbanken durchgeführt. Insgesamt wurden 27 Start-ups identifiziert, die KI einsetzen, um Stimmbiomarker zu entwickeln; 24 davon sammelten Investitionen in Höhe von über 178 Millionen US-Dollar und veröffentlichten gemeinsam 194 Publikationen, von denen 66 % peer-reviewed sind. [@evangelista2024voice]
 
@@ -173,7 +179,7 @@ Die Studie „Managing operational resilience during the implementation of digit
 
 Die Studie „The paradoxical effects of digital artefacts on innovation practices“ von Raffaele Fabio Ciriello, Alexander Richter und Gerhard Schwabe untersucht die Rolle digitaler Artefakte in Innovationsprozessen anhand einer qualitativen Feldstudie in einem Softwareunternehmen. Sie analysiert insbesondere die Nutzung von PowerPoint und identifiziert drei Paradoxien: Freiheit und Gefangenschaft, Klarheit und Mehrdeutigkeit sowie Knappheit und Überfluss. Durch eine dialektische Synthese dieser Paradoxien wird eine Theorie zu den widersprüchlichen Effekten digitaler Artefakte entwickelt. Die Studie bietet theoretische Erkenntnisse zu Affordanzen und praktische Implikationen für den Umgang mit digitalen Innovationswerkzeugen. [@ciriello2019paradoxical]
 
-## Veränderungsmanagement
+### Veränderungsmanagement
 
 Die Studie „Diffusion of Innovations in Service Organizations: Systematic Review and Recommendations“ von Trisha Greenhalgh et al. untersucht, wie Innovationen in der Gesundheitsdienstleistung verbreitet und nachhaltig implementiert werden können. Sie bietet eine systematische Literaturübersicht, die ein evidenzbasiertes Modell zur Verbreitung von Innovationen in Gesundheitsorganisationen entwickelt, Wissenslücken identifiziert und eine robuste Methodik für systematische Reviews vorschlägt. Die Studie unterscheidet zwischen passiver Diffusion, aktiver Dissemination, Implementierung und Nachhaltigkeit und betont die Bedeutung von Innovationsattributen, sozialen Netzwerken, organisationalem Kontext und der Interaktion zwischen Innovation, Adoptern und Umfeld. Empirische Erkenntnisse zeigen, dass relative Vorteile, Kompatibilität, geringe Komplexität, Erprobbarkeit und Beobachtbarkeit die Adoption fördern, während organisatorische Faktoren wie absorptive Kapazität und empfänglicher Kontext entscheidend für die Assimilation sind. Die Autoren fordern theoriegeleitete, prozessorientierte und multidisziplinäre Forschung, um die komplexen Dynamiken der Innovationsverbreitung besser zu verstehen. [@greenhalgh2004diffusion]
 
@@ -185,7 +191,7 @@ Das Systems Engineering Initiative for Patient Safety (SEIPS)-Rahmenwerk ist ein
 
 Offene Innovation wird in der Primärversorgung genutzt, unterscheidet sich jedoch in ihrer Struktur von anderen Bereichen wie Arzneimittelforschung. Sie zeigt sich in Mitarbeiter-getriebener Innovation, kollaborativen Forschungsallianzen und organisatorischen Neuerungen, die Mitarbeitende, Patienten und externe Partner einbeziehen. [@Samuelson2024;@Avby2019] Multi-professionelle Gesundheitszentren fördern Innovationen durch Einbindung von Endnutzern und Spezialisten, [@Vandeventer2024] während kollaborative Rahmenwerke, z. B. mit akademischen Partnern, Ungleichheiten und digitale Transformation angehen. [@Kern2023;@Rushlow2024] Nationale Initiativen wie der deutsche Innovationsfonds unterstützen innovative Versorgungsmodelle. [@Wangler2022] Offene Innovation ist in der Primärversorgung weniger formalisiert, aber essenziell für die Weiterentwicklung der Versorgung.
 
-## Beratung
+### Beratung
 
 Beratungsunternehmen unterstützen bei der digitalen Transformation. Der Beratungsprozess beginnt mit einer Analyse der Bedürfnisse der Arztpraxis, gefolgt von einer individuellen Beratung und dem Vorschlag maßgeschneiderter digitaler Lösungen. Nach der Planung und Umsetzung, einschließlich Installation und Schulung, bieten die Anbieter fortlaufenden Support, um eine effiziente Nutzung sicherzustellen, während Datenschutz stets gewährleistet wird.
 
@@ -208,7 +214,7 @@ Beratungsunternehmen unterstützen bei der digitalen Transformation. Der Beratun
 </div>
 ```
 
-## Digitale Transformation
+### Digitale Transformation
 
 Die Studie „A structured taxonomy for effective digital transformation project implementation: Development, validation, and practical insights“ entwickelt und validiert eine Taxonomie, die Organisationen bei der Gestaltung ihrer Implementierungsstrategien für digitale Transformationsprojekte unterstützt. Durch eine Kombination aus einer Scoping-Literaturübersicht, einer geschlossenen Kartensortiertechnik mit Expertenfeedback aus Deutschland und einer Fallstudienanalyse wurde die Taxonomie in drei Iterationen erstellt. Sie bietet eine strukturierte Zusammenstellung von Implementierungsstrategien mit standardisierter Terminologie, die Entscheidungsfindung und Lernen aus früheren Projekten erleichtert. Praktische Fallbeispiele innerhalb der Taxonomie geben Organisationen konkrete Anleitungen zur Anwendung bei der Durchführung digitaler Transformationsprojekte. [@tarannum2025structured]
 
