@@ -14,6 +14,8 @@ Die Studie „Organizational e-Health Readiness: How to Prepare the Primary Heal
 
 ## Digitale Fähigkeiten
 
+Die [Initiative Digitales Deutschland](https://digid.jff.de/) erforscht, welche Kompetenzen für die Teilhabe an der digitalen Transformation erforderlich sind. Durch eine Datenbank, den Kompass und qualitative Studien werden Medien- und Digitalkompetenzen der Bevölkerung analysiert. Die Initiative betont die Bedeutung lebenslangen Lernens, technischer Fähigkeiten, kritischen Denkens und sozialer Verantwortung. Forschungsergebnisse zu verschiedenen Altersgruppen werden bereitgestellt. Ziel ist es, Erkenntnisse für Bildung, Politik und Verwaltung zu liefern.
+
 ### Digitale Gesundheitskompetenz
 
 Die digitale Gesundheitskompetenz (DGK) ist definiert als die Fähigkeit, mit digitalen Gesundheitsinformationen umzugehen, um Gesundheit und Wohlbefinden zu fördern. Zwei repräsentative Studien, HLS-GER 2 und eine Untersuchung vom AOK Bundesverband, zeigen, dass trotz unterschiedlicher Methoden ein großer Teil der Bevölkerung eine geringe DGK aufweist. Diese Kompetenz ist eng mit Bildungsniveau, Sozialstatus, finanzieller Deprivation und Alter verbunden, was auf einen sozialen Gradienten hinweist. Während der COVID-19-Pandemie gab es Hinweise auf eine Verbesserung der DGK, doch bleibt Unsicherheit über die Nachhaltigkeit dieser Entwicklung. Der Artikel betont die Notwendigkeit eines besseren rechtlichen Rahmens, finanzieller Ressourcen und einer solideren Datenbasis zur Förderung der DGK, um soziale Ungleichheiten zu verringern und die digitale Transformation im Gesundheitswesen zu unterstützen. [@dratva2024digitale]
