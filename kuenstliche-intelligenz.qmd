@@ -18,6 +18,30 @@ Die Studie mit dem Titel „Predicting the Future — Big Data, Machine Learning
 
 Die Studie mit dem Titel „Artificial intelligence (AI) in health and medicine“ gibt einen umfassenden Überblick über die Fortschritte, Herausforderungen und Chancen künstlicher Intelligenz im medizinischen Bereich. Sie fasst wichtige Entwicklungen der letzten Jahre zusammen, insbesondere bei der Anwendung von Deep Learning in der medizinischen Bildanalyse wie Radiologie, Pathologie und Ophthalmologie. Zudem beleuchtet die Studie neuartige Forschungsrichtungen, darunter die Nutzung nicht-bildgebender Datenquellen sowie Kooperationen zwischen Mensch und KI, die in der klinischen Praxis vielversprechend sind. Abschließend werden zentrale technische und ethische Herausforderungen diskutiert, wie etwa Datenqualität, Vertrauen in KI-Systeme, regulatorische Fragen sowie der Umgang mit Verzerrungen und Fairness in der medizinischen KI. Die Studie betont, dass trotz großer Fortschritte die medizinische KI noch in einer frühen Phase der praktischen Umsetzung ist und weitere Forschung sowie sorgfältige Regulierung notwendig sind. [@Rajpurkar2022AI]
 
+## Beispielanwendungen
+
+| Name                | Link                              |
+|---------------------|-----------------------------------|
+| Tali AI             | [tali.ai](https://tali.ai/) |
+| Dougall GPT         | [dougallgpt.com](https://dougallgpt.com/) |
+| S10 AI              | [s10.ai](https://s10.ai/) |
+| Abridge             | [fireflies.ai](https://fireflies.ai/l/ai-for-clinical-notes) |
+| Scribeberry         | [scribeberry.com](https://scribeberry.com/) |
+| Speke               | [scribeamerica.com](https://www.scribeamerica.com/speke/) |
+| Tortus              | [tortus.ai](https://tortus.ai/) |
+| Nabla/Nabla Copilot | [nabla.com](https://www.nabla.com/) |
+| Bot MD              | [botmd.io](https://www.botmd.io/) |
+| Doximity/DocsGPT    | [doximity.com](https://www.doximity.com/doximity-gpt-info) |
+| Nuance DAX          | [microsoft.com](https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot) |
+| Suki AI             | [suki.ai](https://www.suki.ai/) |
+| Med-PaLM            | [sites.research.google](https://sites.research.google/med-palm/) |
+| DermGPT             | [dermgpt.com](https://www.dermgpt.com/) |
+| Ferma               | [ferma.ai](https://www.ferma.ai/) |
+| NoteMD              | [notemd.ai](https://www.notemd.ai/) |
+| Freed               | [getfreed.ai](https://www.getfreed.ai/) |
+
+: Beispielanwendungen International
+
 ## Lernmaterialien
 
 ### Kostenfreie Angebote
