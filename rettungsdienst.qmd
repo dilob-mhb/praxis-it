@@ -1,0 +1,16 @@
+# Rettungsdienst
+
+## Digitale Wissensplattformen
+
+Die rettungsdienstlichen Plattformen, die sich der Free Open Access Medical Education (FOAMed) widmen, bieten wertvolle Ressourcen für Notfallmediziner, Sanitäter und Pflegekräfte durch Podcasts, Blogs, Leitlinien und interaktive Inhalte. 
+
+* [Die Zwei in Reflexstreifen](https://die-zwei-in-reflexstreifen.blog/) ist ein Podcast aus NRW, der Themen wie i.v.-Zugänge und CRM-Leitsätze praxisnah beleuchtet. 
+* [FOAM – Live e.V.](https://foam-live.de/) organisiert kostenlose Vorträge zu Themen wie Reanimationsleitlinien 2025 und Palliativmedizin. 
+* [News Papers](https://news-papers.eu/) fasst aktuelle Publikationen zu Kindernotfällen und Blutungsmanagement zusammen. 
+* [Schlag´s nach!](https://schlagsnach.de/) stellt ein kompaktes Nachschlagewerk mit Medikamenten-Factsheets und Kinderdosierungen zur Verfügung. 
+* [FOAMio](https://foamio.org/) kompaktisiert Leitlinien wie zu Pelvisfrakturen und bietet Fortbildungstipps. 
+* [dasFOAM Think Tank](https://dasfoam.de/) diskutiert evidenzbasierte Ansätze zu Themen wie Hypertonie und Haftung. 
+* [pin-up-docs](https://pin-up-docs.de/) liefert Podcasts zu Regionalanästhesie und Intensivmedizin. 
+* [Nerdfallmedizin](https://nerdfallmedizin.de/) archiviert Videos und Fälle, ergänzt durch 
+* [Notfallguru](https://www.notfallguru.de) mit Leitsymptomen und Checklisten. 
+* [Die Rettungsaffen](https://dierettungsaffen.com/) beleuchtet rechtliche Aspekte wie Beweislastumkehr in Podcasts und Handouts.

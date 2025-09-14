@@ -42,6 +42,10 @@ Die Studie mit dem Titel „Developing an online health literacy curriculum for 
 
 Die Studie mit dem Titel „New technologies, new disparities: The intersection of electronic health and digital health literacy“ von Benjamin Smith und Jared W. Magnani untersucht den Zusammenhang zwischen neuen digitalen Gesundheitstechnologien, insbesondere im Bereich der mobilen Gesundheitsdienste (mHealth), und den bestehenden Ungleichheiten in der digitalen Gesundheitskompetenz. Die Autoren zeigen auf, dass digitale Gesundheitsangebote vor allem für Bevölkerungsgruppen mit eingeschränkter Gesundheits- und Lesekompetenz zusätzliche Herausforderungen darstellen. Besonders ältere Menschen, sozial benachteiligte Gruppen und Minderheiten sind von begrenztem Zugang und Nutzungsmöglichkeiten betroffen. Im Fokus steht die digitale Gesundheitskompetenz als notwendige Zusatzfähigkeit zur allgemeinen Gesundheitskompetenz, um digitale Angebote effektiv nutzen zu können. Die Studie schlägt eine 18-Punkte-Strategie („Digital Universal Precautions“) vor, mit der Gesundheitseinrichtungen den Zugang zu digitalen Gesundheitsdiensten für alle Patienten verbessern sollen. Damit soll der Problematik entgegengewirkt werden, dass digitale Gesundheitsanwendungen bestehende gesundheitliche Ungleichheiten verstärken könnten. [@smith2019new]
 
+## Patientenmeinung
+
+Die Studie „BCN Deutschland-Puls“ (2025) untersucht das Vertrauen der Bevölkerung in Gesundheitssystem, Politik und zentrale Gesundheitsthemen. Besonders hervor tritt die ambivalente Haltung zur Digitalisierung: 88 % kennen die elektronische Patientenakte (ePA), 65 % haben bereits ein E-Rezept genutzt. Während viele Befragte Vorteile in Vereinfachung und Vorsorge sehen, äußern 30 % Datenschutzbedenken zur ePA und 19 % zum E-Rezept. Damit zeigt die Studie, dass digitale Lösungen zwar breite Bekanntheit und Nutzung erfahren, Vertrauen und Akzeptanz jedoch nicht uneingeschränkt vorhanden sind. [@BCNDeutschlandPuls2025]
+
 ## Forschung
 
 ### ePatient

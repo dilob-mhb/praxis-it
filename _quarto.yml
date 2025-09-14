@@ -97,6 +97,7 @@ book:
       - urologie.qmd
       - hno.qmd
       - allergologie.qmd
+      - rettungsdienst.qmd
     - part: "Gesundheitswesen"
       chapters:
       - zahnarzt.qmd

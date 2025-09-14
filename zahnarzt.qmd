@@ -91,3 +91,9 @@ Quelle: [@KZBV_EDV_Statistik]
 : Übersicht zahnärztliche Dokumentationswerkzeuge
 
 [PraxiPal](https://www.praxipal.com/) ist ein in 2024 gegründetes Berliner Startup, das eine KI-gestützte virtuelle Rezeptionistin für Arztpraxen anbietet. Die Lösung automatisiert Telefonanrufe, entlastet das Praxispersonal und verbessert die Erreichbarkeit für Patienten.
+
+## Forschung
+
+### Künstliche Intelligenz
+
+Das Modell [DentaInstruct-1.2B](https://huggingface.co/yasserrmd/DentaInstruct-1.2B) ist ein feinabgestimmtes, instruktionsfolgendes Sprachmodell, das speziell für Anfragen im zahnmedizinischen Bereich entwickelt wurde. Es basiert auf dem Basis-Modell [LiquidAI/LFM2-1.2B](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models) und wurde mit der Unsloth-Bibliothek optimiert, um effiziente Leistung auf Geräten wie Google Colab T4 zu gewährleisten. Die Schulung erfolgte auf einem gefilterten Unterdatensatz des [miriad/miriad-4.4M-Datensatzes](https://huggingface.co/datasets/miriad/miriad-4.4M), der sich auf die Spezialisierung Dental & Oral Medicine konzentriert und klinisch fokussierte Fragen und Antworten umfasst. Im Benchmark-Test zeigte das Modell exzellente Handhabung zahnmedizinischer Terminologie in Bereichen wie Endodontie, Parodontologie, Prothetik und Oralchirurgie, mit klaren, kontextbezogenen und professionellen Antworten, wenngleich vereinzelte Halluzinationen in seltenen Fällen auftraten. Es eignet sich ideal für bildende Q&A-Anwendungen für Zahnmedizinstudenten, konversationelle Chatbots zu Mundgesundheit und Forschung zu domain-spezifischem Instruction-Tuning, darf jedoch nicht für diagnostische oder therapeutische Zwecke in der Klinik verwendet werden, da der Trainingsdatensatz nicht von medizinischen Experten überprüft wurde.
